@@ -1,0 +1,1 @@
+O God the Lord, the strength of my salvation, thou hast covered my head in the day of battle.

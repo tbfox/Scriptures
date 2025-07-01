@@ -1,0 +1,1 @@
+The Lord God hath opened mine ear, and I was not rebellious, neither turned away back.
