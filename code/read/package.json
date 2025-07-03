@@ -1,13 +1,14 @@
 {
-  "name": "read",
-  "private": true,
-  "scripts": {
-    "start": "bun read.ts"
-  },
-  "devDependencies": {
-    "@types/bun": "latest"
-  },
-  "peerDependencies": {
-    "typescript": "^5"
-  }
+    "name": "read",
+    "private": true,
+    "scripts": {
+        "start": "bun read.ts",
+        "test": "bun test"
+    },
+    "devDependencies": {
+        "@types/bun": "latest"
+    },
+    "peerDependencies": {
+        "typescript": "^5"
+    }
 }

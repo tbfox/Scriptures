@@ -1,16 +1,27 @@
+import { readFileSync } from "fs";
+
 export type OutputState = {
-    num: number;
+    verseText: string;
+};
+
+const getScripture = () => {
+    return readFileSync(
+        Bun.env.ROOT_DIR + "works/bom/1_nephi/2/15.txt",
+        "utf-8"
+    );
 };
 
 export class State {
-    private num: number = 0;
+    private str: string = "start";
     inc = () => {
-        this.num++;
+        this.str = getScripture();
     };
     dec = () => {
-        this.num--;
+        this.str = "minus";
     };
     getState = (): OutputState => {
-        return { num: this.num };
+        return {
+            verseText: this.str,
+        };
     };
 }
