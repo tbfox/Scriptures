@@ -1,27 +1,50 @@
 import { readFileSync } from "fs";
+import { getVerseMetadata } from "./getVerseMetadata";
+import type { ReferenceStruct } from "../types/ReferenceStruct";
 
 export type OutputState = {
     verseText: string;
 };
 
-const getScripture = () => {
-    return readFileSync(
-        Bun.env.ROOT_DIR + "works/bom/1_nephi/2/15.txt",
-        "utf-8"
-    );
+const getScripture = (path: string) => {
+    return readFileSync(Bun.env.ROOT_DIR + path, "utf-8");
+};
+// "works/bom/alma/32/25.txt";
+const mkPath = ({ book, chapter, verse }: ReferenceStruct) => {
+    return `works/bom/${book}/${chapter}/${verse}.txt`;
 };
 
 export class State {
-    private str: string = "start";
+    private ref: ReferenceStruct = {
+        book: "alma",
+        chapter: 1,
+        verse: 5,
+    };
+    private content: string;
+    constructor() {
+        this.content = getScripture(mkPath(this.ref));
+    }
     inc = () => {
-        this.str = getScripture();
+        this.ref.verse += 1;
+        const { verses } = getVerseMetadata(mkPath(this.ref));
+        if (this.ref.verse > verses) {
+            this.ref.verse = 1;
+            this.ref.chapter += 1;
+        }
+        this.content = getScripture(mkPath(this.ref));
     };
     dec = () => {
-        this.str = "minus";
+        this.ref.verse -= 1;
+        if (this.ref.verse == 0) {
+            this.ref.chapter -= 1;
+            const { verses } = getVerseMetadata(mkPath(this.ref));
+            this.ref.verse = verses;
+        }
+        this.content = getScripture(mkPath(this.ref));
     };
     getState = (): OutputState => {
         return {
-            verseText: this.str,
+            verseText: `${this.ref.book} ${this.ref.chapter}:${this.ref.verse} ${this.content}`,
         };
     };
 }

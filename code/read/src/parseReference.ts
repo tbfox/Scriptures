@@ -1,4 +1,4 @@
-type ReferenceStruct = { book: string; chapter: number; verse: number };
+import type { ReferenceStruct } from "../types/ReferenceStruct";
 
 export function parseReference(reference: string): ReferenceStruct {
     const regex = /^(?:(\d+)\s+)?([A-Za-z.& ]+)\s+(\d+):(\d+)$/;
