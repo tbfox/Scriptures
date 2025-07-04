@@ -1,6 +1,7 @@
 import { readFileSync } from "fs";
 import { getVerseMetadata } from "./getVerseMetadata";
 import { getNextBook, getPrevBook } from "./Books";
+import type { ReferenceStruct } from "../types/ReferenceStruct";
 
 type VerseData = {
     work: string;
@@ -16,14 +17,14 @@ export class StandardNavigator {
     private chapter: number;
     private verse: number;
 
-    constructor(work: string, book: string, chapter: number, verse: number) {
+    constructor(work: string, ref: ReferenceStruct) {
         this.work = work;
-        this.book = book;
-        this.chapter = chapter;
-        this.verse = verse;
+        this.book = ref.book;
+        this.chapter = ref.chapter;
+        this.verse = ref.verse;
     }
 
-    getNextVerse() {
+    nextVerse() {
         this.verse += 1;
         const { verses, chapters } = getVerseMetadata(this.getPath());
         if (this.verse > verses) {
@@ -35,7 +36,7 @@ export class StandardNavigator {
             }
         }
     }
-    getPrevVerse() {
+    prevVerse() {
         this.verse -= 1;
         if (this.verse === 0) {
             this.chapter -= 1;
@@ -66,5 +67,3 @@ export class StandardNavigator {
         return readFileSync(Bun.env.ROOT_DIR + this.getPath(), "utf-8");
     };
 }
-
-// "works/bom/alma/32/25.txt";

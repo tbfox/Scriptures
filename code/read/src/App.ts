@@ -6,7 +6,7 @@ import { Terminal } from "./Terminal";
 export class App {
     private term = new Terminal();
     private renderer = new Renderer();
-    private state = new State();
+    private state = new State("bom", { book: "1_nephi", chapter: 1, verse: 1 });
     constructor() {
         this.renderer.draw(this.state.getState());
     }
