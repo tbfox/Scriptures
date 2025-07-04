@@ -1,7 +1,7 @@
 import type { OutputState } from "./State";
 
 export class Renderer {
-    draw({ verseText }: OutputState) {
+    draw({ verseText, error }: OutputState) {
         clearScreen();
         const terminalWidth: number = process.stdout.columns || 80; // Default to 80 if not available
         const terminalHeight: number = process.stdout.rows || 24; // Default to 24 if not available
@@ -13,7 +13,11 @@ export class Renderer {
 
         // Move cursor to the calculated position and write the number
         // \x1b[{row};{col}H moves the cursor to the specified row and column
-        process.stdout.write(`\x1b[${row};${col}H${verseText}`);
+        let screenText = verseText;
+        if (error !== null) {
+            screenText = `ERROR: ${error}\n\n\n${verseText}`;
+        }
+        process.stdout.write(`\x1b[${row};${col}H${screenText}`);
     }
 }
 

@@ -1,9 +1,11 @@
 import { readFileSync } from "fs";
 import { getVerseMetadata } from "./getVerseMetadata";
 import type { ReferenceStruct } from "../types/ReferenceStruct";
+import { getPrevBook } from "./Books";
 
 export type OutputState = {
     verseText: string;
+    error: string | null;
 };
 
 const getScripture = (path: string) => {
@@ -21,6 +23,7 @@ export class State {
         verse: 5,
     };
     private content: string;
+    private error: string | null = null;
     constructor() {
         this.content = getScripture(mkPath(this.ref));
     }
@@ -35,8 +38,16 @@ export class State {
     };
     dec = () => {
         this.ref.verse -= 1;
-        if (this.ref.verse == 0) {
+        if (this.ref.verse === 0) {
             this.ref.chapter -= 1;
+            if (this.ref.chapter === 0) {
+                const prevBook = getPrevBook(this.ref.book);
+                const { chapters } = getVerseMetadata(
+                    mkPath({ book: prevBook, chapter: 1, verse: 1 })
+                );
+                this.ref.book = prevBook;
+                this.ref.chapter = chapters;
+            }
             const { verses } = getVerseMetadata(mkPath(this.ref));
             this.ref.verse = verses;
         }
@@ -45,6 +56,7 @@ export class State {
     getState = (): OutputState => {
         return {
             verseText: `${this.ref.book} ${this.ref.chapter}:${this.ref.verse} ${this.content}`,
+            error: this.error,
         };
     };
 }
