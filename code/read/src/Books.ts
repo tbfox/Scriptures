@@ -1,17 +1,7 @@
 import { readFileSync } from "fs";
 
-type WorkMetadata = {
-    order: string[];
-};
-
-const getMetaData = (): WorkMetadata => {
-    return JSON.parse(
-        readFileSync(Bun.env.ROOT_DIR + `works/bom/.metadata`, "utf-8")
-    );
-};
-
 export function getPrevBook(book: string): string {
-    const orderArr = getMetaData().order;
+    const orderArr = getOrder();
     const i = orderArr.indexOf(book) - 1;
     const metadata = orderArr[i];
     if (metadata === undefined)
@@ -20,10 +10,18 @@ export function getPrevBook(book: string): string {
 }
 
 export function getNextBook(book: string) {
-    const orderArr = getMetaData().order;
+    const orderArr = getOrder();
     const i = orderArr.indexOf(book) + 1;
     const metadata = orderArr[i];
     if (metadata === undefined)
         throw Error(`Could not get the book after '${book}'.`);
     return metadata;
 }
+
+const getOrder = (): string[] => {
+    return (
+        JSON.parse(
+            readFileSync(Bun.env.ROOT_DIR + `works/bom/.metadata`, "utf-8")
+        ) as { order: string[] }
+    ).order;
+};
