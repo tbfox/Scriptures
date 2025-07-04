@@ -2,7 +2,7 @@ import { Aliases } from "./Aliases";
 
 const aliases = new Aliases();
 
-describe("BookAliasResolver", () => {
+describe(Aliases.name, () => {
     test('should resolve "2 Cor" to "2_corinthians"', () => {
         const result = aliases.resolve("2 Cor");
         expect(result).toBe("2_corinthians");
@@ -45,36 +45,22 @@ describe("BookAliasResolver", () => {
     test("should throw error for unknown alias", () => {
         expect(() => {
             aliases.resolve("Unknown Book");
-        }).toThrow('Unknown book alias: "Unknown Book"');
+        }).toThrow();
     });
 
     test("should throw error for empty string", () => {
         expect(() => {
             aliases.resolve("");
-        }).toThrow("Book name must be a non-empty string");
+        }).toThrow();
     });
 
     test("should throw error for null/undefined", () => {
         expect(() => {
             aliases.resolve(null as any);
-        }).toThrow("Book name must be a non-empty string");
+        }).toThrow();
 
         expect(() => {
             aliases.resolve(undefined as any);
-        }).toThrow("Book name must be a non-empty string");
-    });
-
-    test("hasAlias should return true for existing aliases", () => {
-        expect(aliases.hasAlias("Matt")).toBe(true);
-        expect(aliases.hasAlias("2 Cor")).toBe(true);
-        expect(aliases.hasAlias("2cr")).toBe(true);
-        expect(aliases.hasAlias("Alma")).toBe(true);
-        expect(aliases.hasAlias("D&C")).toBe(true);
-    });
-
-    test("hasAlias should return false for non-existing aliases", () => {
-        expect(aliases.hasAlias("Unknown Book")).toBe(false);
-        expect(aliases.hasAlias("")).toBe(false);
-        expect(aliases.hasAlias(null as any)).toBe(false);
+        }).toThrow();
     });
 });

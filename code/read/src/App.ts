@@ -1,8 +1,8 @@
 import type { ReferenceStruct } from "../types/ReferenceStruct";
-import { Input } from "./Input";
-import { Renderer } from "./Renderer";
+import { Input } from "./term/Input";
+import { Renderer } from "./term/Renderer";
 import { State } from "./State";
-import { Terminal } from "./Terminal";
+import { Terminal } from "./term/Terminal";
 
 export class App {
     private term = new Terminal();

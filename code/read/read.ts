@@ -1,27 +1,17 @@
 import { App } from "./src/App";
-import { parseArgs } from "util";
-import { parseReference } from "./src/parseReference";
 import { Aliases } from "./src/Aliases";
-
-const { values } = parseArgs({
-    args: Bun.argv,
-    options: {
-        ref: {
-            type: "string",
-        },
-    },
-    strict: true,
-    allowPositionals: true,
-});
+import { commandArgs } from "./src/commandArgs";
 
 function main() {
     if (!process.stdin.isTTY) {
         console.error("This program requires an interactive terminal (TTY).");
         process.exit(1);
     }
-    const ref = parseReference(values.ref || "");
-    const al = new Aliases();
-    ref.book = al.resolve(ref.book);
+
+    const aliases = new Aliases();
+    const { ref } = commandArgs();
+
+    ref.book = aliases.resolve(ref.book);
 
     const app = new App(ref);
 
