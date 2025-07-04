@@ -15,8 +15,13 @@ export class State {
     constructor(source: string, ref: ReferenceStruct) {
         this.nav = new StandardNavigator(source, ref);
     }
-    addBookMark() {
-        this.bookmarks.push(this.nav.getState().ref);
+    toggleBookMark() {
+        const ref = this.nav.getState().ref;
+        if (this.bookmarks.includes(ref)) {
+            this.bookmarks = this.bookmarks.filter((b) => b !== ref);
+        } else {
+            this.bookmarks.push(ref);
+        }
     }
     inc = () => this.nav.nextVerse();
     dec = () => this.nav.prevVerse();

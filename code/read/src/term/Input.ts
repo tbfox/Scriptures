@@ -3,7 +3,7 @@ export class Input {
     constructor(chunk: Buffer) {
         this.key = chunk.toString();
     }
-    isSetBookMark = () => this.key === "m";
+    isBookMark = () => this.key === "m";
     isNext = () => this.key === "\x1b[C" || this.key === "l";
     isPrev = () => this.key === "\x1b[D" || this.key === "h";
     shouldQuit = () => this.key === "\x03" || this.key === "q";
