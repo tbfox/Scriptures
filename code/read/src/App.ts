@@ -1,3 +1,4 @@
+import type { ReferenceStruct } from "../types/ReferenceStruct";
 import { Input } from "./Input";
 import { Renderer } from "./Renderer";
 import { State } from "./State";
@@ -6,8 +7,9 @@ import { Terminal } from "./Terminal";
 export class App {
     private term = new Terminal();
     private renderer = new Renderer();
-    private state = new State("bom", { book: "1_nephi", chapter: 1, verse: 1 });
-    constructor() {
+    private state: State;
+    constructor(ref: ReferenceStruct) {
+        this.state = new State("bom", ref);
         this.renderer.draw(this.state.getState());
     }
     private onStdin = (chunk: Buffer) => {

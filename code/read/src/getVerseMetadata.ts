@@ -6,16 +6,7 @@ interface VerseMetadata {
     verses: number;
 }
 
-/**
- * Extracts metadata about a scripture verse file, including the total number
- * of chapters in the book and verses in the current chapter.
- *
- * @param filePath - Path like "works/bom/ether/7/10.txt"
- * @returns Object with chapters and verses counts
- * @throws Error if the path is invalid or file system access fails
- */
 export function getVerseMetadata(filePath: string): VerseMetadata {
-    // Parse the file path to extract components
     const pathParts = filePath.split("/").filter((part) => part.length > 0);
 
     if (pathParts.length < 4) {
@@ -36,12 +27,10 @@ export function getVerseMetadata(filePath: string): VerseMetadata {
         throw new Error(`Expected path to start with 'works', got: ${works}`);
     }
 
-    // Build absolute paths
     const worksPath = join(import.meta.dirname, "..", "..", "..", "works");
     const bookPath = join(worksPath, collection, book);
     const chapterPath = join(bookPath, chapter);
 
-    // Count chapters in the book (exclude non-numeric directories like "heading")
     let chaptersCount = 0;
     try {
         const bookContents = readdirSync(bookPath);
