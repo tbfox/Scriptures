@@ -23,12 +23,19 @@ export class Renderer {
         style.bg(235);
         style.fg(208);
         style.fg(43);
-        write(verseRef);
+
+        write(this.capitalize(verseRef.replace("_", " ")));
         style.rmBg();
         style.rmFg();
     }
     renderVerseText(text: string) {
         const renderer = new VerseRenderer(text);
         renderer.renderVerse();
+    }
+    private capitalize(s: string) {
+        return s
+            .split(" ")
+            .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+            .join(" ");
     }
 }
