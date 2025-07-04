@@ -2,6 +2,7 @@ import type { ReferenceStruct } from "../types/ReferenceStruct";
 import { StandardNavigator } from "./StandardNavigator";
 
 export type OutputState = {
+    verseReference: string;
     verseText: string;
     error: string | null;
 };
@@ -20,8 +21,10 @@ export class State {
     };
     getState = (): OutputState => {
         const { book, chapter, verse, text } = this.nav.getState();
+        const ref = `${book} ${chapter}:${verse}`;
         return {
-            verseText: `${book} ${chapter}:${verse} ${text}`,
+            verseReference: ref,
+            verseText: `${text}`,
             error: this.error,
         };
     };
