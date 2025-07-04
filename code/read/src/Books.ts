@@ -15,8 +15,15 @@ export function getPrevBook(book: string): string {
     const i = orderArr.indexOf(book) - 1;
     const metadata = orderArr[i];
     if (metadata === undefined)
-        throw Error(`Could not get the book previous to ${book}.`);
+        throw Error(`Could not get the book previous to '${book}'.`);
     return metadata;
 }
 
-export function getNext() {}
+export function getNextBook(book: string) {
+    const orderArr = getMetaData().order;
+    const i = orderArr.indexOf(book) + 1;
+    const metadata = orderArr[i];
+    if (metadata === undefined)
+        throw Error(`Could not get the book after '${book}'.`);
+    return metadata;
+}

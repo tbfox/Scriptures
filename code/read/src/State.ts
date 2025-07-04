@@ -1,7 +1,7 @@
 import { readFileSync } from "fs";
 import { getVerseMetadata } from "./getVerseMetadata";
 import type { ReferenceStruct } from "../types/ReferenceStruct";
-import { getPrevBook } from "./Books";
+import { getNextBook, getPrevBook } from "./Books";
 
 export type OutputState = {
     verseText: string;
@@ -29,10 +29,14 @@ export class State {
     }
     inc = () => {
         this.ref.verse += 1;
-        const { verses } = getVerseMetadata(mkPath(this.ref));
+        const { verses, chapters } = getVerseMetadata(mkPath(this.ref));
         if (this.ref.verse > verses) {
             this.ref.verse = 1;
             this.ref.chapter += 1;
+            if (this.ref.chapter > chapters) {
+                this.ref.book = getNextBook(this.ref.book);
+                this.ref.chapter = 1;
+            }
         }
         this.content = getScripture(mkPath(this.ref));
     };
