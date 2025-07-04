@@ -13,18 +13,24 @@ const screen = new Screen();
 const style = new Style();
 
 export class Renderer {
-    draw({ verseReference, verseText, error }: OutputState) {
+    draw({ verseReference, verseText, isBookMarked }: OutputState) {
         screen.erase();
         cursor.home();
         this.renderReference(verseReference);
+        if (isBookMarked) this.renderIsMarked();
         this.renderVerseText(verseText);
     }
     renderReference(verseRef: string) {
         style.bg(235);
-        style.fg(208);
         style.fg(43);
-
         write(this.capitalize(verseRef.replace("_", " ")));
+        style.rmBg();
+        style.rmFg();
+    }
+    renderIsMarked() {
+        style.bg(235);
+        style.fg(208);
+        write(" BM");
         style.rmBg();
         style.rmFg();
     }

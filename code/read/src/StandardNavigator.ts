@@ -9,6 +9,7 @@ type VerseData = {
     chapter: number;
     verse: number;
     text: string;
+    ref: string;
 };
 
 export class StandardNavigator {
@@ -58,6 +59,7 @@ export class StandardNavigator {
             chapter: this.chapter,
             verse: this.verse,
             text: this.getScripture(),
+            ref: `${this.book} ${this.chapter}:${this.verse}`,
         };
     }
     private getPath() {

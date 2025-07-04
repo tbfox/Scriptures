@@ -17,6 +17,7 @@ export class App {
 
         if (input.isNext()) this.state.inc();
         else if (input.isPrev()) this.state.dec();
+        else if (input.isSetBookMark()) this.state.addBookMark();
         else if (input.shouldQuit()) this.term.quit();
 
         this.renderer.draw(this.state.getState());
