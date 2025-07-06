@@ -1,11 +1,12 @@
 import type { ReferenceStruct } from "../types/ReferenceStruct";
 
 export function parseReference(reference: string): ReferenceStruct {
+    if (reference === "") throw `Invalid Reference: Found empty reference.`;
     const regex = /^(?:(\d+)\s*)?([A-Za-z.& ]+)\s+(\d+):(\d+)$/;
     const match = reference.trim().match(regex);
 
     if (!match) {
-        throw `Invalid Reference: '${reference}" is an invalid format.`;
+        throw `Invalid Reference: "${reference}" is an invalid format.`;
     }
     const [, leadingNumber, bookNameRaw, chapterStr, verseStr] = match;
     if (bookNameRaw === undefined) throw "Invalid Reference: book is undefined";

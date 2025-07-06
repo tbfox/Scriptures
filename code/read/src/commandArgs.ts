@@ -12,6 +12,9 @@ export function commandArgs() {
         strict: true,
         allowPositionals: true,
     });
-    if (values.ref === null) return { ref: parseReference("1ne 1:1") };
-    return { ref: parseReference(values.ref || "") };
+    const ref = values.ref;
+    if (ref === null || ref === undefined)
+        return { ref: parseReference("1 nephi 1:1") };
+
+    return { ref: parseReference(ref) };
 }
