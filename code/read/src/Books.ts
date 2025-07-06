@@ -1,7 +1,7 @@
 import { readFileSync } from "fs";
 
-export function getPrevBook(book: string): string {
-    const orderArr = getOrder();
+export function getPrevBook(work: string, book: string): string {
+    const orderArr = getOrder(work);
     const i = orderArr.indexOf(book) - 1;
     const metadata = orderArr[i];
     if (metadata === undefined)
@@ -9,8 +9,8 @@ export function getPrevBook(book: string): string {
     return metadata;
 }
 
-export function getNextBook(book: string) {
-    const orderArr = getOrder();
+export function getNextBook(work: string, book: string) {
+    const orderArr = getOrder(work);
     const i = orderArr.indexOf(book) + 1;
     const metadata = orderArr[i];
     if (metadata === undefined)
@@ -18,10 +18,10 @@ export function getNextBook(book: string) {
     return metadata;
 }
 
-const getOrder = (): string[] => {
+export const getOrder = (work: string): string[] => {
     return (
         JSON.parse(
-            readFileSync(Bun.env.ROOT_DIR + `works/bom/.metadata`, "utf-8")
+            readFileSync(Bun.env.ROOT_DIR + `works/${work}/.metadata`, "utf-8")
         ) as { order: string[] }
     ).order;
 };

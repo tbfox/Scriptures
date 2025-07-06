@@ -23,6 +23,7 @@ export class StandardNavigator {
         this.book = ref.book;
         this.chapter = ref.chapter;
         this.verse = ref.verse;
+        const data = getVerseMetadata(this.getPath());
     }
 
     nextVerse() {
@@ -32,7 +33,7 @@ export class StandardNavigator {
             this.verse = 1;
             this.chapter += 1;
             if (this.chapter > chapters) {
-                this.book = getNextBook(this.book);
+                this.book = getNextBook(this.work, this.book);
                 this.chapter = 1;
             }
         }
@@ -42,7 +43,7 @@ export class StandardNavigator {
         if (this.verse === 0) {
             this.chapter -= 1;
             if (this.chapter === 0) {
-                this.book = getPrevBook(this.book);
+                this.book = getPrevBook(this.work, this.book);
                 this.chapter = 1;
                 this.verse = 1;
                 const { chapters } = getVerseMetadata(this.getPath());

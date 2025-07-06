@@ -11,13 +11,13 @@ export function getVerseMetadata(filePath: string): VerseMetadata {
 
     if (pathParts.length < 4) {
         throw new Error(
-            `Invalid file path format. Expected: works/[collection]/[book]/[chapter]/[verse].txt, got: ${filePath}`
+            `Invalid file path format. Expected: works/[work]/[book]/[chapter]/[verse].txt, got: ${filePath}`
         );
     }
 
-    const [works, collection, book, chapter] = pathParts;
+    const [works, work, book, chapter] = pathParts;
 
-    if (!works || !collection || !book || !chapter) {
+    if (!works || !work || !book || !chapter) {
         throw new Error(
             `Invalid file path format. Missing required components in: ${filePath}`
         );
@@ -28,7 +28,7 @@ export function getVerseMetadata(filePath: string): VerseMetadata {
     }
 
     const worksPath = join(import.meta.dirname, "..", "..", "..", "works");
-    const bookPath = join(worksPath, collection, book);
+    const bookPath = join(worksPath, work, book);
     const chapterPath = join(bookPath, chapter);
 
     let chaptersCount = 0;
@@ -68,12 +68,6 @@ export function getVerseMetadata(filePath: string): VerseMetadata {
     };
 }
 
-/**
- * Checks if a verse file exists at the given path
- *
- * @param filePath - Path like "works/bom/ether/7/10.txt"
- * @returns true if the file exists, false otherwise
- */
 export function verseExists(filePath: string): boolean {
     try {
         const fullPath = join(import.meta.dirname, "..", "..", "..", filePath);

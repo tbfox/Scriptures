@@ -9,7 +9,7 @@ export class App {
     private renderer = new Renderer();
     private state: State;
     constructor(ref: ReferenceStruct) {
-        this.state = new State("bom", ref);
+        this.state = new State(ref);
         this.renderer.draw(this.state.getState());
     }
     private onStdin = (chunk: Buffer) => {
