@@ -1,4 +1,4 @@
-import { getOrder } from "./Books";
+import { getOrder } from "../Books";
 
 const bom = getOrder("bom");
 const nt = getOrder("nt");

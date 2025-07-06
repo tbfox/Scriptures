@@ -1,5 +1,5 @@
 import { App } from "./src/App";
-import { Aliases } from "./src/Aliases";
+import { Aliases } from "./src/aliasing/Aliases";
 import { commandArgs } from "./src/commandArgs";
 
 function main() {

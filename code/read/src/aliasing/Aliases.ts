@@ -29,6 +29,7 @@ class CachedAliases {
                 "..",
                 "..",
                 "..",
+                "..",
                 "config",
                 "bookAliases.config.json"
             );

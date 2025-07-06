@@ -1,5 +1,5 @@
 import { parseArgs } from "util";
-import { parseReference } from "./parseReference";
+import { parseReference } from "./aliasing/parseReference";
 
 export function commandArgs() {
     const { values } = parseArgs({

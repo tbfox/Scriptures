@@ -1,8 +1,8 @@
 import type { ReferenceStruct } from "../types/ReferenceStruct";
-import { determineSource } from "./detremineSource";
-import { DncNavigator } from "./DncNavigator";
-import type { ResourceNavigator } from "./ResourceNavigator";
-import { StandardNavigator } from "./StandardNavigator";
+import { determineSource } from "./file-queries/determineSource";
+import { DncNavigator } from "./navigators/DncNavigator";
+import type { ResourceNavigator } from "../types/ResourceNavigator";
+import { StandardNavigator } from "./navigators/StandardNavigator";
 
 export type OutputState = {
     verseReference: string;

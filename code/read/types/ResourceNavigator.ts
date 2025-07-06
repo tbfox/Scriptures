@@ -1,4 +1,4 @@
-import type { VerseData } from "../types/VerseData";
+import type { VerseData } from "./VerseData";
 
 export interface ResourceNavigator {
     nextVerse: () => void;

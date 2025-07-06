@@ -27,7 +27,14 @@ export function getVerseMetadata(filePath: string): VerseMetadata {
         throw new Error(`Expected path to start with 'works', got: ${works}`);
     }
 
-    const worksPath = join(import.meta.dirname, "..", "..", "..", "works");
+    const worksPath = join(
+        import.meta.dirname,
+        "..",
+        "..",
+        "..",
+        "..",
+        "works"
+    );
     const bookPath = join(worksPath, work, book);
     const chapterPath = join(bookPath, chapter);
 
@@ -93,7 +100,14 @@ export function getDncMetadata(filePath: string): VerseMetadata {
         throw new Error(`Expected work to be 'dnc', got: ${work}`);
     }
 
-    const worksPath = join(import.meta.dirname, "..", "..", "..", "works");
+    const worksPath = join(
+        import.meta.dirname,
+        "..",
+        "..",
+        "..",
+        "..",
+        "works"
+    );
     const dncPath = join(worksPath, "dnc");
     const sectionPath = join(dncPath, section);
 
@@ -137,7 +151,14 @@ export function getDncMetadata(filePath: string): VerseMetadata {
 
 export function verseExists(filePath: string): boolean {
     try {
-        const fullPath = join(import.meta.dirname, "..", "..", "..", filePath);
+        const fullPath = join(
+            import.meta.dirname,
+            "..",
+            "..",
+            "..",
+            "..",
+            filePath
+        );
         return statSync(fullPath).isFile();
     } catch {
         return false;

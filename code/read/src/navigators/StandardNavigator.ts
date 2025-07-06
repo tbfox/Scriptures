@@ -1,9 +1,9 @@
 import { readFileSync } from "fs";
-import { getVerseMetadata } from "./getVerseMetadata";
-import { getNextBook, getPrevBook } from "./Books";
-import type { ReferenceStruct } from "../types/ReferenceStruct";
-import type { VerseData } from "../types/VerseData";
-import type { ResourceNavigator } from "./ResourceNavigator";
+import type { ResourceNavigator } from "../../types/ResourceNavigator";
+import type { ReferenceStruct } from "../../types/ReferenceStruct";
+import { getVerseMetadata } from "../file-queries/getVerseMetadata";
+import { getNextBook, getPrevBook } from "../Books";
+import type { VerseData } from "../../types/VerseData";
 
 export class StandardNavigator implements ResourceNavigator {
     private work: string;
