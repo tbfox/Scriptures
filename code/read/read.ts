@@ -10,13 +10,13 @@ function main() {
 
     const aliases = new Aliases();
     const { ref } = commandArgs();
-    console.log(ref);
+
     ref.book = aliases.resolve(ref.book);
 
-    // const app = new App(ref);
+    const app = new App(ref);
 
-    // process.stdin.on("data", app.stdInDataHandler());
-    // process.stdout.on("resize", app.resizeHandler());
+    process.stdin.on("data", app.stdInDataHandler());
+    process.stdout.on("resize", app.resizeHandler());
 }
 
 main();

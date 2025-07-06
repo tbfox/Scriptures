@@ -17,7 +17,6 @@ export class Terminal {
             process.stdin.pause(); // Stop listening for input
         }
         process.stdout.write("\x1b[?25h"); // Show cursor
-        console.log("\nExiting CLI Number Manipulator. Goodbye!");
         process.exit(); // Exit the process
     }
 }
