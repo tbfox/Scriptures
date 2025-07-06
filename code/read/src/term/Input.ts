@@ -1,11 +1,25 @@
+import type { Mode } from "../../types/Mode";
+
 export class Input {
     private key: string;
-    constructor(chunk: Buffer) {
+    private mode: Mode;
+    constructor(chunk: Buffer, mode: Mode) {
+        this.mode = mode;
         this.key = chunk.toString();
     }
-    isBookMark = () => this.key === "m";
-    isSave = () => this.key === "s";
-    isNext = () => this.key === "\x1b[C" || this.key === "l";
-    isPrev = () => this.key === "\x1b[D" || this.key === "h";
-    shouldQuit = () => this.key === "\x03" || this.key === "q";
+    isActionKey = () => this.match(["\r", "\n"]);
+    isEnterInsertMode = () => this.is("i");
+    isExitKey = () => this.is("\x1b");
+
+    isHardQuit = () => this.is("\x03");
+    isSoftQuit = () => this.is("q");
+
+    isBookMark = () => this.is("m");
+    isSave = () => this.is("s");
+
+    isNext = () => this.match(["\x1b[C", "l"]);
+    isPrev = () => this.match(["\x1b[D", "h"]);
+
+    private is = (key: string) => this.key === key;
+    private match = (keys: string[]) => keys.includes(this.key);
 }

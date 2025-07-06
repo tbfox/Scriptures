@@ -13,13 +13,32 @@ const screen = new Screen();
 const style = new Style();
 
 export class Renderer {
-    draw({ verseReference, verseText, isBookMarked, isUnsaved }: OutputState) {
+    draw({
+        verseReference,
+        verseText,
+        isBookMarked,
+        isUnsaved,
+        buffer,
+        showInsertBuffer,
+    }: OutputState) {
         screen.erase();
         cursor.home();
         this.renderReference(verseReference);
         if (isUnsaved) this.renderUnsaved();
         if (isBookMarked) this.renderIsMarked();
+
+        if (showInsertBuffer) this.renderTypingBuffer(buffer);
+
         this.renderVerseText(verseText);
+    }
+    renderTypingBuffer(buffer: string) {
+        cursor.home();
+        cursor.down(1);
+        style.bg(240);
+        style.fg(229);
+        write(`$ ${buffer}`);
+        style.rmBg();
+        style.rmFg();
     }
     renderReference(verseRef: string) {
         style.bg(235);

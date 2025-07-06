@@ -13,16 +13,38 @@ export class App {
         this.renderer.draw(this.state.getState());
     }
     private onStdin = (chunk: Buffer) => {
-        const input = new Input(chunk);
+        const input = new Input(chunk, this.state.getMode());
+        if (input.isHardQuit()) {
+            this.term.quit();
+            return;
+        }
 
-        if (input.isNext()) this.state.inc();
-        else if (input.isPrev()) this.state.dec();
-        else if (input.isBookMark()) this.state.toggleBookMark();
-        else if (input.isSave()) this.state.save();
-        else if (input.shouldQuit()) this.term.quit();
+        if (this.state.getMode() === "insert") {
+            this.handleInsertMode(input, chunk);
+        } else {
+            this.handleNavMode(input);
+        }
 
         this.renderer.draw(this.state.getState());
     };
+    handleNavMode(input: Input) {
+        if (input.isNext()) this.state.inc();
+        else if (input.isPrev()) this.state.dec();
+        else if (input.isEnterInsertMode()) this.state.enterInsertMode();
+        else if (input.isBookMark()) this.state.toggleBookMark();
+        else if (input.isSave()) this.state.save();
+    }
+    handleInsertMode(input: Input, chunk: Buffer) {
+        if (input.isActionKey()) {
+            this.state.enter();
+            return;
+        }
+        if (input.isExitKey()) {
+            this.state.cancel();
+            return;
+        }
+        this.state.addToBuffer(chunk.toString());
+    }
     private onResize = () => {
         this.renderer.draw(this.state.getState());
     };

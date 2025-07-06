@@ -1,10 +1,10 @@
 import { Cursor } from "./Cursor";
 import { Screen } from "./Screen";
-import { Style } from "./Style";
+// import { Style } from "./Style";
 
 const screen = new Screen();
 const cursor = new Cursor();
-const style = new Style();
+// const style = new Style();
 
 function write(s: string) {
     process.stdout.write(s);
@@ -12,7 +12,7 @@ function write(s: string) {
 
 export class VerseRenderer {
     private maxWidth = screen.width();
-    private line = 2;
+    private line = 4;
     private col = 1;
     private words: string[];
     private currentWord: number = 0;
