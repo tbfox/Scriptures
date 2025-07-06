@@ -2,17 +2,10 @@ import { readFileSync } from "fs";
 import { getVerseMetadata } from "./getVerseMetadata";
 import { getNextBook, getPrevBook } from "./Books";
 import type { ReferenceStruct } from "../types/ReferenceStruct";
+import type { VerseData } from "../types/VerseData";
+import type { ResourceNavigator } from "./ResourceNavigator";
 
-type VerseData = {
-    work: string;
-    book: string;
-    chapter: number;
-    verse: number;
-    text: string;
-    ref: string;
-};
-
-export class StandardNavigator {
+export class StandardNavigator implements ResourceNavigator {
     private work: string;
     private book: string;
     private chapter: number;
@@ -23,7 +16,6 @@ export class StandardNavigator {
         this.book = ref.book;
         this.chapter = ref.chapter;
         this.verse = ref.verse;
-        const data = getVerseMetadata(this.getPath());
     }
 
     nextVerse() {

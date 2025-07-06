@@ -80,7 +80,7 @@
     "mormon": ["Mormon", "Morm", "mor"],
     "ether": ["Ether", "eth"],
     "moroni": ["Moroni", "Moro"],
-    "doctrine_and_covenants": ["Doctrine and Covenants", "D&C", "dc", "dnc"],
+    "dnc": ["Doctrine and Covenants", "D&C", "dc", "dnc"],
     "moses": ["moses", "moss"],
     "abraham": ["Abraham", "Abr"],
     "js_matthew": ["Joseph Smith—Matthew", "JS-M", "jsm"],

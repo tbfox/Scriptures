@@ -1,5 +1,7 @@
 import type { ReferenceStruct } from "../types/ReferenceStruct";
 import { determineSource } from "./detremineSource";
+import { DncNavigator } from "./DncNavigator";
+import type { ResourceNavigator } from "./ResourceNavigator";
 import { StandardNavigator } from "./StandardNavigator";
 
 export type OutputState = {
@@ -11,13 +13,16 @@ export type OutputState = {
 
 export class State {
     private bookmarks: string[] = [];
-    private nav: StandardNavigator;
+    private nav: ResourceNavigator;
     private error: string | null = null;
     private source: string | null;
     constructor(ref: ReferenceStruct) {
         this.source = determineSource(ref.book);
-
-        this.nav = new StandardNavigator(this.source, ref);
+        if (this.source === "dnc") {
+            this.nav = new DncNavigator(this.source, ref);
+        } else {
+            this.nav = new StandardNavigator(this.source, ref);
+        }
     }
     toggleBookMark() {
         const ref = this.nav.getState().ref;
