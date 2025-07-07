@@ -1,1 +1,1 @@
-export type Mode = "nav" | "insert";
+export type Mode = "nav" | "insert" | "select";

@@ -1,10 +1,10 @@
 import { Cursor } from "./Cursor";
 import { Screen } from "./Screen";
-// import { Style } from "./Style";
+import { Style } from "./Style";
 
 const screen = new Screen();
 const cursor = new Cursor();
-// const style = new Style();
+const style = new Style();
 
 function write(s: string) {
     process.stdout.write(s);
@@ -16,9 +16,10 @@ export class VerseRenderer {
     private col = 1;
     private words: string[];
     private currentWord: number = 0;
-
-    constructor(text: string) {
+    private selectedWord: number | null;
+    constructor(text: string, selectedWord: number | null) {
         this.words = text.split(" ");
+        this.selectedWord = selectedWord;
     }
 
     renderVerse() {
@@ -45,7 +46,16 @@ export class VerseRenderer {
         cursor.jumpTo(this.col, this.line);
     }
     private writeCurrentWord() {
-        write(this.words[this.currentWord]!.toString());
+        if (
+            this.selectedWord !== null &&
+            this.selectedWord === this.currentWord
+        ) {
+            style.bg(67);
+            write(this.words[this.currentWord]!.toString());
+            style.rmBg();
+        } else {
+            write(this.words[this.currentWord]!.toString());
+        }
     }
     private curWordLength() {
         if (this.words[this.currentWord]!.length === undefined) return 0;

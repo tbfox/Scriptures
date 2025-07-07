@@ -1,4 +1,4 @@
-import type { Mode } from "../../types/Mode";
+import type { Mode } from "../types/Mode";
 
 export class Input {
     private key: string;
@@ -9,6 +9,7 @@ export class Input {
     }
     isActionKey = () => this.match(["\r", "\n"]);
     isEnterInsertMode = () => this.is("i");
+    isEnterSelectMode = () => this.is("w");
     isExitKey = () => this.is("\x1b");
 
     isHardQuit = () => this.is("\x03");

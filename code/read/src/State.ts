@@ -14,6 +14,7 @@ export type OutputState = {
     isUnsaved: boolean;
     showInsertBuffer: boolean;
     buffer: string;
+    selectedWord: number | null;
 };
 
 export class State {
@@ -22,16 +23,15 @@ export class State {
     private error: string | null = null;
     private source: string | null;
     private mode: Mode;
+    private selectedWord: number | null = null;
     private buffer: string = "";
     constructor(ref: ReferenceStruct) {
         this.bm.load();
         this.source = determineSource(ref.book);
         this.mode = "nav";
-        if (this.source === "dnc") {
+        if (this.source === "dnc")
             this.nav = new DncNavigator(this.source, ref);
-        } else {
-            this.nav = new StandardNavigator(this.source, ref);
-        }
+        else this.nav = new StandardNavigator(this.source, ref);
     }
     enter() {
         if (this.mode === "insert") {
@@ -52,21 +52,29 @@ export class State {
     }
     toggleBookMark() {
         const ref = this.nav.getState().ref;
-        if (this.bm.has(ref)) {
-            this.bm.remove(ref);
-        } else {
-            this.bm.add(ref);
-        }
+        if (this.bm.has(ref)) this.bm.remove(ref);
+        else this.bm.add(ref);
     }
     enterInsertMode() {
         this.mode = "insert";
     }
+    enterSelectMode() {
+        this.selectedWord = 0;
+        this.mode = "select";
+    }
     enterNavMode() {
         this.mode = "nav";
+        this.selectedWord = null;
     }
     save = () => this.bm.save();
     inc = () => this.nav.nextVerse();
     dec = () => this.nav.prevVerse();
+    incWord = () => {
+        if (this.selectedWord !== null) this.selectedWord++;
+    };
+    decWord = () => {
+        if (this.selectedWord !== null) this.selectedWord--;
+    };
     getMode = () => this.mode;
     getState(): OutputState {
         const { text, ref } = this.nav.getState();
@@ -78,6 +86,7 @@ export class State {
             isUnsaved: this.bm.hasUnsaved(),
             buffer: this.buffer,
             showInsertBuffer: this.mode === "insert",
+            selectedWord: this.selectedWord,
         };
     }
 }

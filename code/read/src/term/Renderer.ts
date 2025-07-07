@@ -20,6 +20,7 @@ export class Renderer {
         isUnsaved,
         buffer,
         showInsertBuffer,
+        selectedWord,
     }: OutputState) {
         screen.erase();
         cursor.home();
@@ -29,7 +30,7 @@ export class Renderer {
 
         if (showInsertBuffer) this.renderTypingBuffer(buffer);
 
-        this.renderVerseText(verseText);
+        this.renderVerseText(verseText, selectedWord);
     }
     renderTypingBuffer(buffer: string) {
         cursor.home();
@@ -61,8 +62,8 @@ export class Renderer {
         style.rmBg();
         style.rmFg();
     }
-    renderVerseText(text: string) {
-        const renderer = new VerseRenderer(text);
+    renderVerseText(text: string, selectedWord: number | null) {
+        const renderer = new VerseRenderer(text, selectedWord);
         renderer.renderVerse();
     }
     private capitalize(s: string) {

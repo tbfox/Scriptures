@@ -1,8 +1,8 @@
 import type { ReferenceStruct } from "../types/ReferenceStruct";
-import { Input } from "./term/Input";
 import { Renderer } from "./term/Renderer";
 import { State } from "./State";
 import { Terminal } from "./term/Terminal";
+import { Input } from "./Input";
 
 export class App {
     private term = new Terminal();
@@ -21,6 +21,8 @@ export class App {
 
         if (this.state.getMode() === "insert") {
             this.handleInsertMode(input, chunk);
+        } else if (this.state.getMode() === "select") {
+            this.handleSelectMode(input);
         } else {
             this.handleNavMode(input);
         }
@@ -33,14 +35,23 @@ export class App {
         else if (input.isEnterInsertMode()) this.state.enterInsertMode();
         else if (input.isBookMark()) this.state.toggleBookMark();
         else if (input.isSave()) this.state.save();
+        else if (input.isEnterSelectMode()) this.state.enterSelectMode();
+        // else if (input.isSoftQuit()) this.term.quit();
+    }
+    handleSelectMode(input: Input) {
+        if (input.isNext()) this.state.incWord();
+        else if (input.isPrev()) this.state.decWord();
+        else if (input.isBookMark()) this.state.toggleBookMark();
+        else if (input.isSave()) this.state.save();
+        else if (input.isSoftQuit()) this.state.enterNavMode();
     }
     handleInsertMode(input: Input, chunk: Buffer) {
-        if (input.isActionKey()) {
-            this.state.enter();
-            return;
-        }
         if (input.isExitKey()) {
             this.state.cancel();
+            return;
+        }
+        if (input.isActionKey()) {
+            this.state.enter();
             return;
         }
         this.state.addToBuffer(chunk.toString());
