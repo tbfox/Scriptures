@@ -1,5 +1,3 @@
-import { readFileSync, type ReadVResult } from "fs";
-import { getDncMetadata } from "../file-queries/getVerseMetadata";
 import type { ReferenceStruct } from "../../types/ReferenceStruct";
 import type { VerseData } from "../../types/VerseData";
 import type {

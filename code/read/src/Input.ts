@@ -2,9 +2,7 @@ import type { Mode } from "../types/Mode";
 
 export class Input {
     private key: string;
-    private mode: Mode;
-    constructor(chunk: Buffer, mode: Mode) {
-        this.mode = mode;
+    constructor(chunk: Buffer) {
         this.key = chunk.toString();
     }
     isActionKey = () => this.match(["\r", "\n"]);

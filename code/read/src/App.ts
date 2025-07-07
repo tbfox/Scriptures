@@ -13,7 +13,7 @@ export class App {
         this.renderer.draw(this.state.getState());
     }
     private onStdin = (chunk: Buffer) => {
-        const input = new Input(chunk, this.state.getMode());
+        const input = new Input(chunk);
         if (input.isHardQuit()) {
             this.term.quit();
             return;
