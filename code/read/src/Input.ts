@@ -20,6 +20,7 @@ export class Input {
 
     isNext = () => this.match(["\x1b[C", "l"]);
     isPrev = () => this.match(["\x1b[D", "h"]);
+    isGoTo = () => this.is("g");
 
     private is = (key: string) => this.key === key;
     private match = (keys: string[]) => keys.includes(this.key);

@@ -1,11 +1,10 @@
 import type { ReferenceStruct } from "../types/ReferenceStruct";
-import { determineSource } from "./file-queries/determineSource";
-import { DncNavigator } from "./navigators/DncNavigator";
 import type { ResourceNavigator } from "../types/ResourceNavigator";
-import { StandardNavigator } from "./navigators/StandardNavigator";
 import { BookMarks } from "./Bookmarks";
 import type { Mode } from "../types/Mode";
+import { Navigator } from "./navigators/Navigator";
 
+export type InputAction = null | "goto";
 export type OutputState = {
     verseReference: string;
     verseText: string;
@@ -15,28 +14,28 @@ export type OutputState = {
     showInsertBuffer: boolean;
     buffer: string;
     selectedWord: number | null;
+    inputAction: InputAction;
 };
 
 export class State {
     private bm = new BookMarks();
     private nav: ResourceNavigator;
     private error: string | null = null;
-    private source: string | null;
     private mode: Mode;
+    private inputAction: InputAction = null;
     private selectedWord: number | null = null;
     private buffer: string = "";
     constructor(ref: ReferenceStruct) {
         this.bm.load();
-        this.source = determineSource(ref.book);
         this.mode = "nav";
-        if (this.source === "dnc")
-            this.nav = new DncNavigator(this.source, ref);
-        else this.nav = new StandardNavigator(this.source, ref);
+        this.nav = new Navigator(ref);
     }
     enter() {
-        if (this.mode === "insert") {
+        if (this.mode === "insert" && this.inputAction === "goto") {
+            this.nav.goTo({ book: "alma", chapter: 32, verse: 25 });
             this.buffer = "";
             this.mode = "nav";
+            this.inputAction = null;
         }
     }
     cancel() {
@@ -58,6 +57,7 @@ export class State {
     enterInsertMode() {
         this.mode = "insert";
     }
+
     enterSelectMode() {
         this.selectedWord = 0;
         this.mode = "select";
@@ -69,6 +69,10 @@ export class State {
     save = () => this.bm.save();
     inc = () => this.nav.nextVerse();
     dec = () => this.nav.prevVerse();
+    goTo = () => {
+        this.mode = "insert";
+        this.inputAction = "goto";
+    };
     incWord = () => {
         if (this.selectedWord !== null) this.selectedWord++;
     };
@@ -87,6 +91,7 @@ export class State {
             buffer: this.buffer,
             showInsertBuffer: this.mode === "insert",
             selectedWord: this.selectedWord,
+            inputAction: this.inputAction,
         };
     }
 }

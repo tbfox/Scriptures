@@ -36,6 +36,7 @@ export class App {
         else if (input.isBookMark()) this.state.toggleBookMark();
         else if (input.isSave()) this.state.save();
         else if (input.isEnterSelectMode()) this.state.enterSelectMode();
+        else if (input.isGoTo()) this.state.goTo();
         // else if (input.isSoftQuit()) this.term.quit();
     }
     handleSelectMode(input: Input) {

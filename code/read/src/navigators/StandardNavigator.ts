@@ -1,11 +1,15 @@
 import { readFileSync } from "fs";
-import type { ResourceNavigator } from "../../types/ResourceNavigator";
+import type {
+    NavigatorType,
+    ResourceNavigator,
+} from "../../types/ResourceNavigator";
 import type { ReferenceStruct } from "../../types/ReferenceStruct";
 import { getVerseMetadata } from "../file-queries/getVerseMetadata";
 import { getNextBook, getPrevBook } from "../Books";
 import type { VerseData } from "../../types/VerseData";
 
 export class StandardNavigator implements ResourceNavigator {
+    navigatorType: NavigatorType = "std";
     private work: string;
     private book: string;
     private chapter: number;
@@ -17,7 +21,12 @@ export class StandardNavigator implements ResourceNavigator {
         this.chapter = ref.chapter;
         this.verse = ref.verse;
     }
-
+    goTo = (ref: ReferenceStruct) => {
+        // this.work = work;
+        // this.book = ref.book;
+        // this.chapter = ref.chapter;
+        // this.verse = ref.verse;
+    };
     nextVerse() {
         this.verse += 1;
         const { verses, chapters } = getVerseMetadata(this.getPath());
@@ -58,7 +67,7 @@ export class StandardNavigator implements ResourceNavigator {
     private getPath() {
         return `works/${this.work}/${this.book}/${this.chapter}/${this.verse}.txt`;
     }
-    getScripture = () => {
+    private getScripture = () => {
         return readFileSync(Bun.env.ROOT_DIR + this.getPath(), "utf-8");
     };
 }

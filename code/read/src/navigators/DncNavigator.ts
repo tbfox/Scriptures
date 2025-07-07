@@ -2,19 +2,24 @@ import { readFileSync } from "fs";
 import { getDncMetadata } from "../file-queries/getVerseMetadata";
 import type { ReferenceStruct } from "../../types/ReferenceStruct";
 import type { VerseData } from "../../types/VerseData";
-import type { ResourceNavigator } from "../../types/ResourceNavigator";
+import type {
+    NavigatorType,
+    ResourceNavigator,
+} from "../../types/ResourceNavigator";
 
 export class DncNavigator implements ResourceNavigator {
-    private work: string;
+    navigatorType: NavigatorType = "dnc";
     private section: number;
     private verse: number;
 
-    constructor(work: string, ref: ReferenceStruct) {
-        this.work = work;
+    constructor(ref: ReferenceStruct) {
         this.section = ref.chapter;
         this.verse = ref.verse;
     }
-
+    goTo(ref: ReferenceStruct) {
+        this.section = ref.chapter;
+        this.verse = ref.verse;
+    }
     nextVerse() {
         this.verse += 1;
         const { verses, chapters } = getDncMetadata(this.getPath());
@@ -45,9 +50,9 @@ export class DncNavigator implements ResourceNavigator {
         };
     }
     private getPath() {
-        return `works/${this.work}/${this.section}/${this.verse}.txt`;
+        return `works/dnc/${this.section}/${this.verse}.txt`;
     }
-    getScripture = () => {
+    private getScripture = () => {
         return readFileSync(Bun.env.ROOT_DIR + this.getPath(), "utf-8");
     };
 }

@@ -1,4 +1,4 @@
-import type { OutputState } from "../State";
+import type { InputAction, OutputState } from "../State";
 import { Cursor } from "./Cursor";
 import { Screen } from "./Screen";
 import { Style } from "./Style";
@@ -21,6 +21,7 @@ export class Renderer {
         buffer,
         showInsertBuffer,
         selectedWord,
+        inputAction,
     }: OutputState) {
         screen.erase();
         cursor.home();
@@ -28,16 +29,16 @@ export class Renderer {
         if (isUnsaved) this.renderUnsaved();
         if (isBookMarked) this.renderIsMarked();
 
-        if (showInsertBuffer) this.renderTypingBuffer(buffer);
+        if (showInsertBuffer) this.renderTypingBuffer(buffer, inputAction);
 
         this.renderVerseText(verseText, selectedWord);
     }
-    renderTypingBuffer(buffer: string) {
+    renderTypingBuffer(buffer: string, action: InputAction) {
         cursor.home();
         cursor.down(1);
         style.bg(240);
         style.fg(229);
-        write(`$ ${buffer}`);
+        write(`${action}: ${buffer}`);
         style.rmBg();
         style.rmFg();
     }
