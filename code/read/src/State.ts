@@ -3,6 +3,7 @@ import type { ResourceNavigator } from "../types/ResourceNavigator";
 import { BookMarks } from "./Bookmarks";
 import type { Mode } from "../types/Mode";
 import { Navigator } from "./navigators/Navigator";
+import { parseReference } from "./aliasing/parseReference";
 
 export type InputAction = null | "goto";
 export type OutputState = {
@@ -32,10 +33,16 @@ export class State {
     }
     enter() {
         if (this.mode === "insert" && this.inputAction === "goto") {
-            this.nav.goTo({ book: "alma", chapter: 32, verse: 25 });
-            this.buffer = "";
-            this.mode = "nav";
-            this.inputAction = null;
+            try {
+                const ref = parseReference(this.buffer);
+                this.nav.goTo(ref);
+            } catch {
+                this.error = `there was an issue parsing '${this.buffer}'`;
+            } finally {
+                this.buffer = "";
+                this.inputAction = null;
+                this.mode = "nav";
+            }
         }
     }
     cancel() {
@@ -93,5 +100,8 @@ export class State {
             selectedWord: this.selectedWord,
             inputAction: this.inputAction,
         };
+    }
+    clearError() {
+        this.error = null;
     }
 }

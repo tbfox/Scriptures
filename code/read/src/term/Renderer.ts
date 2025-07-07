@@ -22,12 +22,14 @@ export class Renderer {
         showInsertBuffer,
         selectedWord,
         inputAction,
+        error,
     }: OutputState) {
         screen.erase();
         cursor.home();
         this.renderReference(verseReference);
         if (isUnsaved) this.renderUnsaved();
         if (isBookMarked) this.renderIsMarked();
+        if (error !== null) this.renderError(error);
 
         if (showInsertBuffer) this.renderTypingBuffer(buffer, inputAction);
 
@@ -66,6 +68,13 @@ export class Renderer {
     renderVerseText(text: string, selectedWord: number | null) {
         const renderer = new VerseRenderer(text, selectedWord);
         renderer.renderVerse();
+    }
+    renderError(error: string) {
+        style.bg(237);
+        style.fg(196);
+        write(error);
+        style.rmBg();
+        style.rmFg();
     }
     private capitalize(s: string) {
         return s

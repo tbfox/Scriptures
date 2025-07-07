@@ -19,6 +19,8 @@ export class App {
             return;
         }
 
+        this.state.clearError();
+
         if (this.state.getMode() === "insert") {
             this.handleInsertMode(input, chunk);
         } else if (this.state.getMode() === "select") {
