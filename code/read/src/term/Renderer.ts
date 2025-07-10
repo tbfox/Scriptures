@@ -23,6 +23,7 @@ export class Renderer {
         selectedWord,
         inputAction,
         error,
+        links,
     }: OutputState) {
         screen.erase();
         cursor.home();
@@ -33,7 +34,7 @@ export class Renderer {
 
         if (showInsertBuffer) this.renderTypingBuffer(buffer, inputAction);
 
-        this.renderVerseText(verseText, selectedWord);
+        this.renderVerseText(verseText, selectedWord, links);
     }
     renderTypingBuffer(buffer: string, action: InputAction) {
         cursor.home();
@@ -65,8 +66,12 @@ export class Renderer {
         style.rmBg();
         style.rmFg();
     }
-    renderVerseText(text: string, selectedWord: number | null) {
-        const renderer = new VerseRenderer(text, selectedWord);
+    renderVerseText(
+        text: string,
+        selectedWord: number | null,
+        links: number[]
+    ) {
+        const renderer = new VerseRenderer(text, selectedWord, links);
         renderer.renderVerse();
     }
     renderError(error: string) {

@@ -15,9 +15,10 @@ export class Input {
 
     isBookMark = () => this.is("m");
     isSave = () => this.is("s");
+    isLink = () => this.is("l");
 
-    isNext = () => this.match(["\x1b[C", "l"]);
-    isPrev = () => this.match(["\x1b[D", "h"]);
+    isNext = () => this.is("\x1b[C");
+    isPrev = () => this.is("\x1b[D");
     isGoTo = () => this.is("g");
 
     private is = (key: string) => this.key === key;

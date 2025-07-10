@@ -1,6 +1,6 @@
-import type { ReferenceStruct } from "../../types/ReferenceStruct";
+import type { Resource } from "../../types/ReferenceStruct";
 
-export function parseReference(reference: string): ReferenceStruct {
+export function parseReference(reference: string): Resource {
     if (!reference.trim())
         throw "Invalid Reference: Reference cannot be empty.";
 

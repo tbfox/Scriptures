@@ -1,4 +1,4 @@
-import type { ReferenceStruct } from "../types/ReferenceStruct";
+import type { Resource } from "../types/ReferenceStruct";
 import { Renderer } from "./term/Renderer";
 import { State } from "./State";
 import { Terminal } from "./term/Terminal";
@@ -8,7 +8,7 @@ export class App {
     private term = new Terminal();
     private renderer = new Renderer();
     private state: State;
-    constructor(ref: ReferenceStruct) {
+    constructor(ref: Resource) {
         this.state = new State(ref);
         this.renderer.draw(this.state.getState());
     }
@@ -46,6 +46,7 @@ export class App {
         else if (input.isPrev()) this.state.decWord();
         else if (input.isBookMark()) this.state.toggleBookMark();
         else if (input.isSave()) this.state.save();
+        else if (input.isLink()) this.state.startLinking();
         else if (input.isSoftQuit()) this.state.enterNavMode();
     }
     handleInsertMode(input: Input, chunk: Buffer) {

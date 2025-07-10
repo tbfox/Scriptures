@@ -1,6 +1,6 @@
 import { readFileSync } from "fs";
 import { getDncMetadata } from "../file-queries/getVerseMetadata";
-import type { ReferenceStruct } from "../../types/ReferenceStruct";
+import { Resource } from "../../types/ReferenceStruct";
 import type { VerseData } from "../../types/VerseData";
 import type {
     NavigatorType,
@@ -12,11 +12,11 @@ export class DncNavigator implements ResourceNavigator {
     private section: number;
     private verse: number;
 
-    constructor(ref: ReferenceStruct) {
+    constructor(ref: Resource) {
         this.section = ref.chapter;
         this.verse = ref.verse;
     }
-    goTo(ref: ReferenceStruct) {
+    goTo(ref: Resource) {
         this.section = ref.chapter;
         this.verse = ref.verse;
     }
@@ -46,8 +46,11 @@ export class DncNavigator implements ResourceNavigator {
             chapter: this.section,
             verse: this.verse,
             text: this.getScripture(),
-            ref: `dnc ${this.section}:${this.verse}`,
+            ref: Resource.getId(this.getCurrent()),
         };
+    }
+    getCurrent(): Resource {
+        return new Resource(this.navigatorType, this.section, this.verse);
     }
     private getPath() {
         return `works/dnc/${this.section}/${this.verse}.txt`;

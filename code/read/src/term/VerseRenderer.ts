@@ -17,9 +17,11 @@ export class VerseRenderer {
     private words: string[];
     private currentWord: number = 0;
     private selectedWord: number | null;
-    constructor(text: string, selectedWord: number | null) {
+    private links: number[] = [];
+    constructor(text: string, selectedWord: number | null, links: number[]) {
         this.words = text.split(" ");
         this.selectedWord = selectedWord;
+        this.links = links;
     }
 
     renderVerse() {
@@ -46,17 +48,31 @@ export class VerseRenderer {
         cursor.jumpTo(this.col, this.line);
     }
     private writeCurrentWord() {
-        if (
-            this.selectedWord !== null &&
-            this.selectedWord === this.currentWord
-        ) {
-            style.bg(67);
-            write(this.words[this.currentWord]!.toString());
-            style.rmBg();
-        } else {
-            write(this.words[this.currentWord]!.toString());
-        }
+        this.turnOnSelectedWord();
+        this.turnOnWordLink();
+        write(this.words[this.currentWord]!.toString());
+        this.turnOffWordLink();
+        this.turnOffSelectedWord();
     }
+    private turnOnSelectedWord() {
+        if (this.isSelectedWord()) style.bg(67);
+    }
+    private turnOffSelectedWord() {
+        if (this.isSelectedWord()) style.rmBg();
+    }
+
+    private isSelectedWord = () =>
+        this.selectedWord !== null && this.selectedWord === this.currentWord;
+
+    private turnOnWordLink() {
+        if (this.wordHasLink()) style.underline();
+    }
+    private turnOffWordLink() {
+        if (this.wordHasLink()) style.rmUnderline();
+    }
+
+    private wordHasLink = () => this.links.includes(this.currentWord);
+
     private curWordLength() {
         if (this.words[this.currentWord]!.length === undefined) return 0;
         return this.words[this.currentWord]!.length;

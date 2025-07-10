@@ -1,4 +1,4 @@
-import type { ReferenceStruct } from "../../types/ReferenceStruct";
+import type { Resource } from "../../types/ReferenceStruct";
 import type { VerseData } from "../../types/VerseData";
 import type {
     NavigatorType,
@@ -11,10 +11,10 @@ import { StandardNavigator } from "./StandardNavigator";
 export class Navigator implements ResourceNavigator {
     navigatorType: NavigatorType = "main";
     private nav: ResourceNavigator;
-    constructor(ref: ReferenceStruct) {
+    constructor(ref: Resource) {
         this.nav = this.chooseNavigator(ref);
     }
-    private chooseNavigator(ref: ReferenceStruct): ResourceNavigator {
+    private chooseNavigator(ref: Resource): ResourceNavigator {
         const source = determineSource(ref.book);
         if (source === "dnc") {
             return new DncNavigator(ref);
@@ -22,14 +22,11 @@ export class Navigator implements ResourceNavigator {
             return new StandardNavigator(source, ref);
         }
     }
-    goTo(ref: ReferenceStruct) {
+    goTo(ref: Resource) {
         this.nav = this.chooseNavigator(ref);
-        // this.nav.goTo(ref);
     }
-
     nextVerse = () => this.nav.nextVerse();
-
     prevVerse = () => this.nav.prevVerse();
-
     getState = (): VerseData => this.nav.getState();
+    getCurrent = (): Resource => this.nav.getCurrent();
 }
