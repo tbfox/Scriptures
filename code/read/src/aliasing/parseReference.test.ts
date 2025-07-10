@@ -31,8 +31,39 @@ describe(parseReference.name, () => {
         expect(result).toEqual({ book: "2 Cor", chapter: 5, verse: 7 });
     });
 
-    test('should return null for an invalid format string like "Invalid Reference"', () => {
-        expect(() => parseReference("Invalid Reference")).toThrow();
+    // New tests for partial references
+    test('should correctly parse a partial reference with book and chapter like "Matt 5"', () => {
+        const result = parseReference("Matt 5");
+        expect(result).toEqual({ book: "Matt", chapter: 5, verse: 1 });
+    });
+
+    test('should correctly parse a partial reference with only book like "Matt"', () => {
+        const result = parseReference("Matt");
+        expect(result).toEqual({ book: "Matt", chapter: 1, verse: 1 });
+    });
+
+    test('should correctly parse a partial reference with numbered book and chapter like "1 Nephi 6"', () => {
+        const result = parseReference("1 Nephi 6");
+        expect(result).toEqual({ book: "1 Nephi", chapter: 6, verse: 1 });
+    });
+
+    test('should correctly parse a partial reference with only numbered book like "1 Nephi"', () => {
+        const result = parseReference("1 Nephi");
+        expect(result).toEqual({ book: "1 Nephi", chapter: 1, verse: 1 });
+    });
+
+    test('should correctly parse a partial reference with book containing ampersand like "D&C 121"', () => {
+        const result = parseReference("D&C 121");
+        expect(result).toEqual({ book: "D&C", chapter: 121, verse: 1 });
+    });
+
+    test('should correctly parse a partial reference with only book containing ampersand like "D&C"', () => {
+        const result = parseReference("D&C");
+        expect(result).toEqual({ book: "D&C", chapter: 1, verse: 1 });
+    });
+
+    test('should return null for an invalid format string with special characters like "Invalid@Reference"', () => {
+        expect(() => parseReference("Invalid@Reference")).toThrow();
     });
 
     test('should return null for a reference missing a verse number like "Gen 1:"', () => {
