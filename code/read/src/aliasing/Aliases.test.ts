@@ -38,8 +38,9 @@ describe(Aliases.name, () => {
     });
 
     test("should resolve D&C references", () => {
-        expect(aliases.resolve("D&C")).toBe("doctrine_and_covenants");
-        expect(aliases.resolve("dc")).toBe("doctrine_and_covenants");
+        expect(aliases.resolve("D&C")).toBe("dnc");
+        expect(aliases.resolve("dc")).toBe("dnc");
+        expect(aliases.resolve("dnc")).toBe("dnc");
     });
 
     test("should throw error for unknown alias", () => {

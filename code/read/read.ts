@@ -12,7 +12,6 @@ function main() {
     const { ref } = commandArgs();
 
     ref.book = aliases.resolve(ref.book);
-    console.log(ref);
     const app = new App(ref);
 
     process.stdin.on("data", app.stdInDataHandler());
