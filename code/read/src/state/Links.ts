@@ -1,4 +1,4 @@
-import { Resource } from "../types/ReferenceStruct";
+import { Resource } from "./Resource";
 
 export type LinkState = {
     word: number;

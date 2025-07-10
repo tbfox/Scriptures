@@ -1,6 +1,6 @@
 import { readFileSync } from "fs";
 import { getDncMetadata } from "../file-queries/getVerseMetadata";
-import { Resource } from "../../types/ReferenceStruct";
+import { Resource } from "../state/Resource";
 import type { VerseData } from "../../types/VerseData";
 import type {
     NavigatorType,

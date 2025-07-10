@@ -1,10 +1,9 @@
-import { Resource } from "../types/ReferenceStruct";
-import type { ResourceNavigator } from "../types/ResourceNavigator";
+import { Resource } from "./Resource";
+import type { ResourceNavigator } from "../../types/ResourceNavigator";
 import { BookMarks } from "./Bookmarks";
-import type { Mode } from "../types/Mode";
-import { Navigator } from "./navigators/Navigator";
-import { parseReference } from "./aliasing/parseReference";
-import { Links, type LinkState } from "./Links";
+import type { Mode } from "../../types/Mode";
+import { Navigator } from "../navigators/Navigator";
+import { Links } from "./Links";
 
 export type InputAction = null | "goto" | "link";
 export type OutputState = {

@@ -1,21 +1,22 @@
-import type { Resource } from "../types/ReferenceStruct";
-import { Renderer } from "./term/Renderer";
-import { State } from "./State";
-import { Terminal } from "./term/Terminal";
+import type { Resource } from "./state/Resource";
+import { Renderer } from "./render/Renderer";
+import { State } from "./state/State";
+import { Process } from "./Process";
 import { Input } from "./Input";
 
 export class App {
-    private term = new Terminal();
+    private proc = new Process();
     private renderer = new Renderer();
     private state: State;
     constructor(ref: Resource) {
         this.state = new State(ref);
         this.renderer.draw(this.state.getState());
+        this.proc.start();
     }
     private onStdin = (chunk: Buffer) => {
         const input = new Input(chunk);
         if (input.isHardQuit()) {
-            this.term.quit();
+            this.proc.quit();
             return;
         }
 

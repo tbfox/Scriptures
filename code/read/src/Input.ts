@@ -1,5 +1,3 @@
-import type { Mode } from "../types/Mode";
-
 export class Input {
     private key: string;
     constructor(chunk: Buffer) {

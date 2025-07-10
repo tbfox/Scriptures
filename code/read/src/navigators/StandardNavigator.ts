@@ -3,10 +3,10 @@ import type {
     NavigatorType,
     ResourceNavigator,
 } from "../../types/ResourceNavigator";
-import { Resource } from "../../types/ReferenceStruct";
+import { Resource } from "../state/Resource";
 import { getVerseMetadata } from "../file-queries/getVerseMetadata";
-import { getNextBook, getPrevBook } from "../Books";
 import type { VerseData } from "../../types/VerseData";
+import { Books } from "../state/util/Books";
 
 export class StandardNavigator implements ResourceNavigator {
     navigatorType: NavigatorType = "std";
@@ -29,7 +29,7 @@ export class StandardNavigator implements ResourceNavigator {
             this.verse = 1;
             this.chapter += 1;
             if (this.chapter > chapters) {
-                this.book = getNextBook(this.work, this.book);
+                this.book = Books.next(this.work, this.book);
                 this.chapter = 1;
             }
         }
@@ -39,7 +39,7 @@ export class StandardNavigator implements ResourceNavigator {
         if (this.verse === 0) {
             this.chapter -= 1;
             if (this.chapter === 0) {
-                this.book = getPrevBook(this.work, this.book);
+                this.book = Books.prev(this.work, this.book);
                 this.chapter = 1;
                 this.verse = 1;
                 const { chapters } = getVerseMetadata(this.getPath());

@@ -1,10 +1,12 @@
-export class Terminal {
+import { Cursor } from "./render/lib/Cursor";
+
+export class Process {
     private originalMode = process.stdin.isRaw;
-    constructor() {
+    start() {
         process.stdin.setRawMode(true);
         process.stdin.resume(); // Start listening
 
-        process.stdout.write("\x1b[?25l"); // hide cursor
+        Cursor.hide();
 
         process.on("exit", this.quit);
         process.on("SIGINT", this.quit); // Handle Ctrl+C specifically
@@ -16,7 +18,7 @@ export class Terminal {
             process.stdin.setRawMode(this.originalMode); // Restore raw mode setting
             process.stdin.pause(); // Stop listening for input
         }
-        process.stdout.write("\x1b[?25h"); // Show cursor
+        Cursor.show();
         process.exit(); // Exit the process
     }
 }

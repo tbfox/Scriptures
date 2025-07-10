@@ -1,4 +1,4 @@
-import type { Resource } from "../../types/ReferenceStruct";
+import type { Resource } from "../Resource";
 
 export function parseReference(reference: string): Resource {
     if (!reference.trim())

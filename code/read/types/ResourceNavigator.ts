@@ -1,6 +1,8 @@
-import type { Resource } from "./ReferenceStruct";
+import type { Resource } from "../src/state/Resource";
 import type { VerseData } from "./VerseData";
+
 export type NavigatorType = "main" | "dnc" | "std";
+
 export interface ResourceNavigator {
     navigatorType: NavigatorType;
     goTo: (res: Resource) => void;

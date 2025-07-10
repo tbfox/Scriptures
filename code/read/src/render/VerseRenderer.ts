@@ -1,6 +1,6 @@
-import { Cursor } from "./Cursor";
-import { Screen } from "./Screen";
-import { Style } from "./Style";
+import { Cursor } from "./lib/Cursor";
+import { Screen } from "./lib/Screen";
+import { Style } from "./lib/Style";
 
 const screen = new Screen();
 const cursor = new Cursor();
@@ -11,7 +11,7 @@ function write(s: string) {
 }
 
 export class VerseRenderer {
-    private maxWidth = screen.width();
+    private maxWidth = Screen.width();
     private line = 4;
     private col = 1;
     private words: string[];
@@ -25,7 +25,7 @@ export class VerseRenderer {
     }
 
     renderVerse() {
-        cursor.jumpTo(this.col, this.line);
+        Cursor.jumpTo(this.col, this.line);
         for (let i = 0; i < this.words.length; i++) {
             this.writeWord();
         }
@@ -45,7 +45,7 @@ export class VerseRenderer {
         }
         this.col++;
         this.currentWord++;
-        cursor.jumpTo(this.col, this.line);
+        Cursor.jumpTo(this.col, this.line);
     }
     private writeCurrentWord() {
         this.turnOnSelectedWord();
@@ -55,20 +55,20 @@ export class VerseRenderer {
         this.turnOffSelectedWord();
     }
     private turnOnSelectedWord() {
-        if (this.isSelectedWord()) style.bg(67);
+        if (this.isSelectedWord()) Style.bg(67);
     }
     private turnOffSelectedWord() {
-        if (this.isSelectedWord()) style.rmBg();
+        if (this.isSelectedWord()) Style.rmBg();
     }
 
     private isSelectedWord = () =>
         this.selectedWord !== null && this.selectedWord === this.currentWord;
 
     private turnOnWordLink() {
-        if (this.wordHasLink()) style.underline();
+        if (this.wordHasLink()) Style.underline();
     }
     private turnOffWordLink() {
-        if (this.wordHasLink()) style.rmUnderline();
+        if (this.wordHasLink()) Style.rmUnderline();
     }
 
     private wordHasLink = () => this.links.includes(this.currentWord);

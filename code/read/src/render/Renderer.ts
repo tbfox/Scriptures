@@ -1,16 +1,12 @@
-import type { InputAction, OutputState } from "../State";
-import { Cursor } from "./Cursor";
-import { Screen } from "./Screen";
-import { Style } from "./Style";
+import type { InputAction, OutputState } from "../state/State";
+import { Cursor } from "./lib/Cursor";
+import { Screen } from "./lib/Screen";
+import { Style } from "./lib/Style";
 import { VerseRenderer } from "./VerseRenderer";
 
 function write(s: string) {
     process.stdout.write(s);
 }
-
-const cursor = new Cursor();
-const screen = new Screen();
-const style = new Style();
 
 export class Renderer {
     draw({
@@ -25,8 +21,8 @@ export class Renderer {
         error,
         links,
     }: OutputState) {
-        screen.erase();
-        cursor.home();
+        Screen.erase();
+        Cursor.home();
         this.renderReference(verseReference);
         if (isUnsaved) this.renderUnsaved();
         if (isBookMarked) this.renderIsMarked();
@@ -37,34 +33,34 @@ export class Renderer {
         this.renderVerseText(verseText, selectedWord, links);
     }
     renderTypingBuffer(buffer: string, action: InputAction) {
-        cursor.home();
-        cursor.down(1);
-        style.bg(240);
-        style.fg(229);
+        Cursor.home();
+        Cursor.down(1);
+        Style.bg(240);
+        Style.fg(229);
         write(`${action}: ${buffer}`);
-        style.rmBg();
-        style.rmFg();
+        Style.rmBg();
+        Style.rmFg();
     }
     renderReference(verseRef: string) {
-        style.bg(235);
-        style.fg(43);
+        Style.bg(235);
+        Style.fg(43);
         write(this.capitalize(verseRef.replace("_", " ")));
-        style.rmBg();
-        style.rmFg();
+        Style.rmBg();
+        Style.rmFg();
     }
     renderUnsaved() {
-        style.bg(235);
-        style.fg(33);
+        Style.bg(235);
+        Style.fg(33);
         write(" *");
-        style.rmBg();
-        style.rmFg();
+        Style.rmBg();
+        Style.rmFg();
     }
     renderIsMarked() {
-        style.bg(235);
-        style.fg(208);
+        Style.bg(235);
+        Style.fg(208);
         write(" BM");
-        style.rmBg();
-        style.rmFg();
+        Style.rmBg();
+        Style.rmFg();
     }
     renderVerseText(
         text: string,
@@ -75,11 +71,11 @@ export class Renderer {
         renderer.renderVerse();
     }
     renderError(error: string) {
-        style.bg(237);
-        style.fg(196);
+        Style.bg(237);
+        Style.fg(196);
         write(error);
-        style.rmBg();
-        style.rmFg();
+        Style.rmBg();
+        Style.rmFg();
     }
     private capitalize(s: string) {
         return s

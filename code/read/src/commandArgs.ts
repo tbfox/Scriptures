@@ -1,5 +1,5 @@
 import { parseArgs } from "util";
-import { parseReference } from "./aliasing/parseReference";
+import { Resource } from "./state/Resource";
 
 export function commandArgs() {
     const { values } = parseArgs({
@@ -12,9 +12,9 @@ export function commandArgs() {
         strict: true,
         allowPositionals: true,
     });
-    const ref = values.ref;
-    if (ref === null || ref === undefined)
-        return { ref: parseReference("1 nephi 1:1") };
+    const res = values.ref;
+    if (res === null || res === undefined)
+        return { ref: Resource.parse("1 nephi 1:1") };
 
-    return { ref: parseReference(ref) };
+    return { ref: Resource.parse(res) };
 }
