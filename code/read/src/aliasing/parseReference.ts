@@ -1,34 +1,33 @@
 import type { ReferenceStruct } from "../../types/ReferenceStruct";
 
 export function parseReference(reference: string): ReferenceStruct {
-    if (reference === "") throw `Invalid Reference: Found empty reference.`;
+    if (!reference.trim())
+        throw "Invalid Reference: Reference cannot be empty.";
 
-    // Updated regex to handle partial references: book [chapter[:verse]]
-    const regex = /^((?:\d+\s+)?[A-Za-z.& ]+?)(?:\s+(\d+)(?::(\d+))?)?$/;
-    const match = reference.trim().match(regex);
+    // Matches: [number] bookName [chapter[:verse]]
+    // Examples: "Matt", "Matt 5", "Matt 5:7", "1 Nephi", "1 Nephi 6", "1 Nephi 6:17"
+    const referencePattern =
+        /^((?:\d+\s+)?[A-Za-z.& ]+?)(?:\s+(\d+)(?::(\d+))?)?$/;
+    const match = reference.trim().match(referencePattern);
 
-    if (!match) {
-        throw `Invalid Reference: "${reference}" is an invalid format.`;
-    }
+    if (!match)
+        throw `Invalid Reference: "${reference}" is not a valid format.`;
 
-    const [, bookNameRaw, chapterStr, verseStr] = match;
+    const [, bookName, chapterNumber, verseNumber] = match;
 
-    if (bookNameRaw === undefined) throw "Invalid Reference: book is undefined";
+    const book = bookName!.trim();
+    const chapter = parseNumber(chapterNumber, "chapter") ?? 1;
+    const verse = parseNumber(verseNumber, "verse") ?? 1;
 
-    const book = bookNameRaw.trim();
-    const chapter = chapterStr ? parseInt(chapterStr, 10) : 1;
-    const verse = verseStr ? parseInt(verseStr, 10) : 1;
+    return { book, chapter, verse };
+}
 
-    if (chapterStr && isNaN(chapter)) {
-        throw `Invalid Reference: Chapter '${chapterStr}' is not a valid number.`;
-    }
-    if (verseStr && isNaN(verse)) {
-        throw `Invalid Reference: Verse '${verseStr}' is not a valid number.`;
-    }
+function parseNumber(value: string | undefined, type: string): number | null {
+    if (!value) return null;
 
-    return {
-        book: book,
-        chapter: chapter,
-        verse: verse,
-    };
+    const parsed = parseInt(value, 10);
+    if (isNaN(parsed))
+        throw `Invalid Reference: ${type} '${value}' is not a valid number.`;
+
+    return parsed;
 }
