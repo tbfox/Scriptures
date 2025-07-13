@@ -34,15 +34,13 @@ export class VerseRenderer {
     private writeWord() {
         let shouldJmp = true;
         if (this.currentWord >= this.words.length) return;
-        if (this.curWordLength() + this.col >= this.maxWidth) {
-            this.col = 0;
+        if (this.curWordLength() + this.col > this.maxWidth) {
+            this.col = 1;
             this.line++;
-            shouldJmp = false;
+            Cursor.jumpTo(this.col, this.line);
         }
         this.writeCurrentWord();
-        if (shouldJmp) {
-            this.col += this.curWordLength();
-        }
+        this.col += this.curWordLength();
         this.col++;
         this.currentWord++;
         Cursor.jumpTo(this.col, this.line);
