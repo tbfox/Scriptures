@@ -5,9 +5,9 @@ export function parseReference(reference: string): Resource {
         throw "Invalid Reference: Reference cannot be empty.";
 
     // Matches: [number] bookName [chapter[:verse]]
-    // Examples: "Matt", "Matt 5", "Matt 5:7", "1 Nephi", "1 Nephi 6", "1 Nephi 6:17"
+    // Examples: "Matt", "Matt 5", "Matt 5:7", "1 Nephi", "1 Nephi 6", "1 Nephi 6:17", "1ne 1:1"
     const referencePattern =
-        /^((?:\d+\s+)?[A-Za-z.& ]+?)(?:\s+(\d+)(?::(\d+))?)?$/;
+        /^((?:\d+\s+)?[A-Za-z0-9.& ]+?)(?:\s+(\d+)(?::(\d+))?)?$/;
     const match = reference.trim().match(referencePattern);
 
     if (!match)
