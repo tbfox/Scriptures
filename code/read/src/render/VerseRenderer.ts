@@ -32,7 +32,6 @@ export class VerseRenderer {
     }
 
     private writeWord() {
-        let shouldJmp = true;
         if (this.currentWord >= this.words.length) return;
         if (this.curWordLength() + this.col > this.maxWidth) {
             this.col = 1;

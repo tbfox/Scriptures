@@ -85,5 +85,6 @@
     "abraham": ["Abraham", "Abr"],
     "js_matthew": ["Joseph Smith—Matthew", "JS-M", "jsm"],
     "js_history": ["Joseph Smith—History", "JS-H", "jsh"],
-    "articles_of_faith": ["Articles of Faith", "A of F", "aof", "af"]
+    "articles_of_faith": ["Articles of Faith", "A of F", "aof", "af"],
+    "podcast": ["podcast", "pod", "pc"]
 }

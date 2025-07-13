@@ -1,4 +1,4 @@
-import { readdirSync, statSync } from "fs";
+import { readdirSync, statSync, readFileSync } from "fs";
 import { join } from "path";
 
 interface VerseMetadata {
@@ -162,5 +162,33 @@ export function verseExists(filePath: string): boolean {
         return statSync(fullPath).isFile();
     } catch {
         return false;
+    }
+}
+
+export function getEpisodeMetadata(filePath: string): { episodes: number } {
+    // Extract the series path from the file path
+    // e.g., "notes/podcast/foundations/episode_1.txt" -> "notes/podcast/foundations"
+    const pathParts = filePath.split("/");
+    const seriesPath = pathParts.slice(0, -1).join("/");
+
+    try {
+        const metadataPath = join(
+            import.meta.dirname,
+            "..",
+            "..",
+            "..",
+            "..",
+            seriesPath,
+            ".metadata"
+        );
+        const metadata = JSON.parse(readFileSync(metadataPath, "utf-8"));
+        return {
+            episodes: metadata.order.length,
+        };
+    } catch (error) {
+        // Fallback to default number of episodes
+        return {
+            episodes: 3,
+        };
     }
 }

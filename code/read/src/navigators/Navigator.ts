@@ -7,6 +7,7 @@ import type {
 import { determineSource } from "../file-queries/determineSource";
 import { DncNavigator } from "./DncNavigator";
 import { StandardNavigator } from "./StandardNavigator";
+import { EpisodeNavigator } from "./EpisodeNavigator";
 
 export class Navigator implements ResourceNavigator {
     navigatorType: NavigatorType = "main";
@@ -18,6 +19,8 @@ export class Navigator implements ResourceNavigator {
         const source = determineSource(ref.book);
         if (source === "dnc") {
             return new DncNavigator(ref);
+        } else if (source === "notes") {
+            return new EpisodeNavigator(ref);
         } else {
             return new StandardNavigator(source, ref);
         }

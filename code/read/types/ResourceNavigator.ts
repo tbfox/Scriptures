@@ -1,7 +1,7 @@
 import type { Resource } from "../src/state/Resource";
 import type { VerseData } from "./VerseData";
 
-export type NavigatorType = "main" | "dnc" | "std";
+export type NavigatorType = "main" | "dnc" | "std" | "episode";
 
 export interface ResourceNavigator {
     navigatorType: NavigatorType;
