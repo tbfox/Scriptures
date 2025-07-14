@@ -32,6 +32,11 @@ export class DncNavigator implements ResourceNavigator {
         }
     }
     prevVerse() {
+        if (this.section === 1 && this.verse === 1) {
+            this.section = 138;
+            this.verse = 60;
+            return;
+        }
         this.verse -= 1;
         if (this.verse === 0) {
             this.section -= 1;
