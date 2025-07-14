@@ -30,6 +30,9 @@ export class StandardNavigator implements ResourceNavigator {
             this.chapter += 1;
             if (this.chapter > chapters) {
                 this.book = Books.next(this.work, this.book);
+                if (this.book === '__end__'){
+                    this.book = Books.first(this.work)
+                }
                 this.chapter = 1;
             }
         }
@@ -40,6 +43,9 @@ export class StandardNavigator implements ResourceNavigator {
             this.chapter -= 1;
             if (this.chapter === 0) {
                 this.book = Books.prev(this.work, this.book);
+                if (this.book === '__start__'){
+                    this.book = Books.last(this.work);
+                }
                 this.chapter = 1;
                 this.verse = 1;
                 const { chapters } = getVerseMetadata(this.getPath());
