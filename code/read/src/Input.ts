@@ -14,6 +14,7 @@ export class Input {
     isBookMark = () => this.is("m");
     isSave = () => this.is("s");
     isLink = () => this.is("l");
+    isFollow = () => this.is("f");
 
     isNext = () => this.is("\x1b[C");
     isPrev = () => this.is("\x1b[D");
@@ -21,4 +22,5 @@ export class Input {
 
     private is = (key: string) => this.key === key;
     private match = (keys: string[]) => keys.includes(this.key);
+    getRawKey = (): string => this.key;
 }

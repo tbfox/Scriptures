@@ -1,7 +1,7 @@
 import { Resource } from "./Resource";
 import type { ResourceNavigator } from "../../types/ResourceNavigator";
 import { BookMarks } from "./Bookmarks";
-import type { Mode } from "../../types/Mode";
+import type { ModeType } from "../../types/ModeType";
 import { Navigator } from "../navigators/Navigator";
 import { Links } from "./Links";
 
@@ -24,7 +24,7 @@ export class State {
     private links = new Links();
     private nav: ResourceNavigator;
     private error: string | null = null;
-    private mode: Mode;
+    private mode: ModeType;
     private inputAction: InputAction = null;
     private selectedWord: number | null = null;
     private buffer: string = "";
@@ -94,7 +94,6 @@ export class State {
     enterInsertMode() {
         this.mode = "insert";
     }
-
     enterSelectMode() {
         this.selectedWord = 0;
         this.mode = "select";
