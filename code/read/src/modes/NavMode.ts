@@ -1,9 +1,9 @@
 import type { Input } from "../Input";
-import type { AppState } from "../state/AppState";
+import type { NavModeState } from "../state/modes/NavModeState";
 import type { Mode } from "./Mode";
 
 export class NavMode implements Mode {
-    constructor(private input: Input, private state: AppState) {}
+    constructor(private input: Input, private state: NavModeState) {}
     handleInput() {
         if (this.input.isNext()) this.state.inc();
         else if (this.input.isPrev()) this.state.dec();
