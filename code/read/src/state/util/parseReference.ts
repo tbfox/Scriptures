@@ -1,4 +1,7 @@
+import { Aliases } from "../../aliasing/Aliases";
 import type { Resource } from "../Resource";
+
+const aliases = new Aliases();
 
 export function parseReference(reference: string): Resource {
     if (!reference.trim())
@@ -19,7 +22,11 @@ export function parseReference(reference: string): Resource {
     const chapter = parseNumber(chapterNumber, "chapter") ?? 1;
     const verse = parseNumber(verseNumber, "verse") ?? 1;
 
-    return { book, chapter, verse };
+    return {
+        book: aliases.resolve(book),
+        chapter,
+        verse,
+    };
 }
 
 function parseNumber(value: string | undefined, type: string): number | null {

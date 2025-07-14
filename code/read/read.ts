@@ -1,5 +1,4 @@
 import { App } from "./src/App";
-import { Aliases } from "./src/aliasing/Aliases";
 import { commandArgs } from "./src/commandArgs";
 
 function main() {
@@ -8,10 +7,7 @@ function main() {
         process.exit(1);
     }
 
-    const aliases = new Aliases();
     const { ref } = commandArgs();
-
-    ref.book = aliases.resolve(ref.book);
     const app = new App(ref);
 
     process.stdin.on("data", app.stdInDataHandler());
