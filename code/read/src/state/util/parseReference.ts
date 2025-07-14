@@ -1,5 +1,5 @@
 import { Aliases } from "../../aliasing/Aliases";
-import type { Resource } from "../Resource";
+import type { Resource } from "../components/Resource";
 
 const aliases = new Aliases();
 

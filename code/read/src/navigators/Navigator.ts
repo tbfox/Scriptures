@@ -1,4 +1,4 @@
-import type { Resource } from "../state/Resource";
+import type { Resource } from "../state/components/Resource";
 import type { VerseData } from "../../types/VerseData";
 import type {
     NavigatorType,

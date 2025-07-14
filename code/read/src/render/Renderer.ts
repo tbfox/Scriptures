@@ -1,4 +1,4 @@
-import type { InputAction, OutputState } from "../state/State";
+import type { InputAction, OutputState } from "../state/AppState";
 import { Cursor } from "./lib/Cursor";
 import { Screen } from "./lib/Screen";
 import { Style } from "./lib/Style";

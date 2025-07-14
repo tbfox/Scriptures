@@ -1,6 +1,6 @@
 import { readFileSync } from "fs";
 import { getEpisodeMetadata } from "../file-queries/getVerseMetadata";
-import { Resource } from "../state/Resource";
+import { Resource } from "../state/components/Resource";
 import type { VerseData } from "../../types/VerseData";
 import type {
     NavigatorType,

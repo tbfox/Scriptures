@@ -1,20 +1,20 @@
-import type { Resource } from "./state/Resource";
+import type { Resource } from "./state/components/Resource";
 import { Renderer } from "./render/Renderer";
-import { State } from "./state/State";
+import { AppState } from "./state/AppState";
 import { Process } from "./Process";
 import { Input } from "./Input";
-import { NavMode } from "./modes/NavMode";
-import { SelectMode } from "./modes/SelectMode";
-import { InsertMode } from "./modes/InsertMode";
-import { makeMode } from "./modes/ModeFactory";
+import { makeMode } from "./modes/makeMode";
+import { AppContext } from "./state/AppContext";
 
 export class App {
     private proc = new Process();
     private renderer = new Renderer();
-    private state: State;
+    private state: AppState;
+    private context: AppContext;
     constructor(ref: Resource) {
-        this.state = new State(ref);
-        this.renderer.draw(this.state.getState());
+        this.context = new AppContext(ref);
+        this.state = new AppState(this.context);
+        this.renderer.draw(this.context.getState());
         this.proc.start();
     }
     private onStdin = (chunk: Buffer) => {
@@ -29,10 +29,10 @@ export class App {
         const mode = makeMode(input, this.state);
         mode.handleInput();
 
-        this.renderer.draw(this.state.getState());
+        this.renderer.draw(this.context.getState());
     };
     private onResize = () => {
-        this.renderer.draw(this.state.getState());
+        this.renderer.draw(this.context.getState());
     };
     stdInDataHandler = () => {
         return this.onStdin;

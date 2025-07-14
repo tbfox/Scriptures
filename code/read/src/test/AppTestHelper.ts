@@ -1,5 +1,5 @@
 import { EventEmitter } from "events";
-import type { Resource } from "../state/Resource";
+import type { Resource } from "../state/components/Resource";
 import { App } from "../App";
 
 class MockStdin extends EventEmitter {

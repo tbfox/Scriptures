@@ -1,4 +1,4 @@
-import type { Resource } from "../src/state/Resource";
+import type { Resource } from "../src/state/components/Resource";
 import type { VerseData } from "./VerseData";
 
 export type NavigatorType = "main" | "dnc" | "std" | "episode";

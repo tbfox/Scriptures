@@ -3,7 +3,7 @@ import type {
     NavigatorType,
     ResourceNavigator,
 } from "../../types/ResourceNavigator";
-import { Resource } from "../state/Resource";
+import { Resource } from "../state/components/Resource";
 import { getVerseMetadata } from "../file-queries/getVerseMetadata";
 import type { VerseData } from "../../types/VerseData";
 import { OrderedSources } from "../state/util/OrderedSources";

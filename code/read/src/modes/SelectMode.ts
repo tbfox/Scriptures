@@ -1,9 +1,9 @@
 import type { Input } from "../Input";
-import type { State } from "../state/State";
+import type { AppState } from "../state/AppState";
 import type { Mode } from "./Mode";
 
 export class SelectMode implements Mode {
-    constructor(private input: Input, private state: State) {}
+    constructor(private input: Input, private state: AppState) {}
     handleInput() {
         if (this.input.isNext()) this.state.incWord();
         else if (this.input.isPrev()) this.state.decWord();
