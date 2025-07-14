@@ -16,7 +16,7 @@ export class Navigator implements ResourceNavigator {
         this.nav = this.chooseNavigator(ref);
     }
     private chooseNavigator(ref: Resource): ResourceNavigator {
-        const source = determineSource(ref.book);
+        const source = determineSource(ref.source);
         if (source === "dnc") {
             return new DncNavigator(ref);
         } else if (source === "notes") {

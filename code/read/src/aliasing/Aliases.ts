@@ -1,18 +1,18 @@
 import { readFileSync } from "fs";
 import { join } from "path";
 
-interface BookAliasConfig {
+interface SourceAliasConfig {
     [slug: string]: string[];
 }
 
 export class Aliases {
     private aliases = new CachedAliases();
-    resolve(bookName: string): string {
+    resolve(source: string): string {
         const aliases = this.aliases.get();
-        const resolvedSlug = aliases[bookName.trim().toLowerCase()];
+        const resolvedSlug = aliases[source.trim().toLowerCase()];
 
         if (resolvedSlug === undefined)
-            throw new Error(`Error: '${bookName}' is not a valid book alias.`);
+            throw new Error(`Error: '${source}' is not a valid source alias.`);
 
         return resolvedSlug;
     }
@@ -31,10 +31,10 @@ class CachedAliases {
                 "..",
                 "..",
                 "config",
-                "bookAliases.config.json"
+                "sourceAliases.config.json"
             );
             const configData = readFileSync(configPath, "utf-8");
-            const config: BookAliasConfig = JSON.parse(configData);
+            const config: SourceAliasConfig = JSON.parse(configData);
 
             this.aliases = {};
             for (const [slug, aliasArray] of Object.entries(config)) {

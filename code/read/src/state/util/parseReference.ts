@@ -7,7 +7,7 @@ export function parseReference(reference: string): Resource {
     if (!reference.trim())
         throw "Invalid Reference: Reference cannot be empty.";
 
-    // Matches: [number] bookName [chapter[:verse]]
+    // Matches: [number] sourceName [chapter[:verse]]
     // Examples: "Matt", "Matt 5", "Matt 5:7", "1 Nephi", "1 Nephi 6", "1 Nephi 6:17", "1ne 1:1"
     const referencePattern =
         /^((?:\d+\s+)?[A-Za-z0-9.& ]+?)(?:\s+(\d+)(?::(\d+))?)?$/;
@@ -16,14 +16,14 @@ export function parseReference(reference: string): Resource {
     if (!match)
         throw `Invalid Reference: "${reference}" is not a valid format.`;
 
-    const [, bookName, chapterNumber, verseNumber] = match;
+    const [, sourceName, chapterNumber, verseNumber] = match;
 
-    const book = bookName!.trim();
+    const source = sourceName!.trim();
     const chapter = parseNumber(chapterNumber, "chapter") ?? 1;
     const verse = parseNumber(verseNumber, "verse") ?? 1;
 
     return {
-        book: aliases.resolve(book),
+        source: aliases.resolve(source),
         chapter,
         verse,
     };

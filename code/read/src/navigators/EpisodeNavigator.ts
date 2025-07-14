@@ -16,13 +16,13 @@ export class EpisodeNavigator implements ResourceNavigator {
     private episodeContent: string; // cached episode content
 
     constructor(ref: Resource) {
-        this.series = ref.book; // "podcast" from the reference
+        this.series = ref.source; // "podcast" from the reference
         this.episode = ref.chapter; // episode number from chapter
         this.currentPoint = ref.verse; // point number from verse
         this.episodeContent = this.loadEpisodeContent();
     }
     goTo(ref: Resource) {
-        this.series = ref.book;
+        this.series = ref.source;
         this.episode = ref.chapter;
         this.currentPoint = ref.verse;
         this.episodeContent = this.loadEpisodeContent();
@@ -65,7 +65,7 @@ export class EpisodeNavigator implements ResourceNavigator {
         const pointText = point ? point.content : "Point not found";
         return {
             work: "notes",
-            book: this.series,
+            source: this.series,
             chapter: this.episode,
             verse: this.currentPoint,
             text: pointText,

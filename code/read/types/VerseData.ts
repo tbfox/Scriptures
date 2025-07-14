@@ -1,6 +1,6 @@
 export type VerseData = {
     work: string;
-    book: string;
+    source: string;
     chapter: number;
     verse: number;
     text: string;

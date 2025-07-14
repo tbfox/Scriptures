@@ -45,7 +45,7 @@ describe(Aliases.name, () => {
 
     test("should throw error for unknown alias", () => {
         expect(() => {
-            aliases.resolve("Unknown Book");
+            aliases.resolve("Unknown Source");
         }).toThrow();
     });
 

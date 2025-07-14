@@ -2,11 +2,12 @@ import { parseReference } from "./util/parseReference";
 
 export class Resource {
     constructor(
-        public book: string,
+        public source: string,
         public chapter: number,
         public verse: number
     ) {}
-    static getId = ({ book, chapter, verse }: Resource) =>
-        `${book} ${chapter}:${verse}`;
+    static getId = ({ source, chapter, verse }: Resource) =>
+        `${source} ${chapter}:${verse}`;
+
     static parse = (ref: string) => parseReference(ref);
 }

@@ -6,18 +6,18 @@ import type {
 import { Resource } from "../state/Resource";
 import { getVerseMetadata } from "../file-queries/getVerseMetadata";
 import type { VerseData } from "../../types/VerseData";
-import { Books } from "../state/util/Books";
+import { OrderedSources } from "../state/util/OrderedSources";
 
 export class StandardNavigator implements ResourceNavigator {
     navigatorType: NavigatorType = "std";
     private work: string;
-    private book: string;
+    private source: string;
     private chapter: number;
     private verse: number;
 
     constructor(work: string, ref: Resource) {
         this.work = work;
-        this.book = ref.book;
+        this.source = ref.source;
         this.chapter = ref.chapter;
         this.verse = ref.verse;
     }
@@ -29,9 +29,9 @@ export class StandardNavigator implements ResourceNavigator {
             this.verse = 1;
             this.chapter += 1;
             if (this.chapter > chapters) {
-                this.book = Books.next(this.work, this.book);
-                if (this.book === '__end__'){
-                    this.book = Books.first(this.work)
+                this.source = OrderedSources.next(this.work, this.source);
+                if (this.source === "__end__") {
+                    this.source = OrderedSources.first(this.work);
                 }
                 this.chapter = 1;
             }
@@ -42,9 +42,9 @@ export class StandardNavigator implements ResourceNavigator {
         if (this.verse === 0) {
             this.chapter -= 1;
             if (this.chapter === 0) {
-                this.book = Books.prev(this.work, this.book);
-                if (this.book === '__start__'){
-                    this.book = Books.last(this.work);
+                this.source = OrderedSources.prev(this.work, this.source);
+                if (this.source === "__start__") {
+                    this.source = OrderedSources.last(this.work);
                 }
                 this.chapter = 1;
                 this.verse = 1;
@@ -58,7 +58,7 @@ export class StandardNavigator implements ResourceNavigator {
     getState(): VerseData {
         return {
             work: this.work,
-            book: this.book,
+            source: this.source,
             chapter: this.chapter,
             verse: this.verse,
             text: this.getScripture(),
@@ -66,10 +66,10 @@ export class StandardNavigator implements ResourceNavigator {
         };
     }
     getCurrent(): Resource {
-        return new Resource(this.book, this.chapter, this.verse);
+        return new Resource(this.source, this.chapter, this.verse);
     }
     private getPath() {
-        return `works/${this.work}/${this.book}/${this.chapter}/${this.verse}.txt`;
+        return `works/${this.work}/${this.source}/${this.chapter}/${this.verse}.txt`;
     }
     private getScripture = () => {
         return readFileSync(Bun.env.ROOT_DIR + this.getPath(), "utf-8");

@@ -47,7 +47,7 @@ export class DncNavigator implements ResourceNavigator {
     getState(): VerseData {
         return {
             work: "dnc",
-            book: "dnc",
+            source: "dnc",
             chapter: this.section,
             verse: this.verse,
             text: this.getScripture(),

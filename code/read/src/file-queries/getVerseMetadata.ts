@@ -11,13 +11,13 @@ export function getVerseMetadata(filePath: string): VerseMetadata {
 
     if (pathParts.length < 4) {
         throw new Error(
-            `Invalid file path format. Expected: works/[work]/[book]/[chapter]/[verse].txt, got: ${filePath}`
+            `Invalid file path format. Expected: works/[work]/[source]/[chapter]/[verse].txt, got: ${filePath}`
         );
     }
 
-    const [works, work, book, chapter] = pathParts;
+    const [works, work, source, chapter] = pathParts;
 
-    if (!works || !work || !book || !chapter) {
+    if (!works || !work || !source || !chapter) {
         throw new Error(
             `Invalid file path format. Missing required components in: ${filePath}`
         );
@@ -35,21 +35,21 @@ export function getVerseMetadata(filePath: string): VerseMetadata {
         "..",
         "works"
     );
-    const bookPath = join(worksPath, work, book);
-    const chapterPath = join(bookPath, chapter);
+    const sourcePath = join(worksPath, work, source);
+    const chapterPath = join(sourcePath, chapter);
 
     let chaptersCount = 0;
     try {
-        const bookContents = readdirSync(bookPath);
+        const bookContents = readdirSync(sourcePath);
         chaptersCount = bookContents.filter((item) => {
-            const itemPath = join(bookPath, item);
+            const itemPath = join(sourcePath, item);
             const isDirectory = statSync(itemPath).isDirectory();
             const isNumeric = /^\d+$/.test(item);
             return isDirectory && isNumeric;
         }).length;
     } catch (error) {
         throw new Error(
-            `Failed to read book directory: ${bookPath}. Error: ${error}`
+            `Failed to read book directory: ${sourcePath}. Error: ${error}`
         );
     }
 

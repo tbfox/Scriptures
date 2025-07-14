@@ -7,8 +7,7 @@ function main() {
         process.exit(1);
     }
 
-    const { ref } = commandArgs();
-    const app = new App(ref);
+    const app = new App(commandArgs().ref);
 
     process.stdin.on("data", app.stdInDataHandler());
     process.stdout.on("resize", app.resizeHandler());
