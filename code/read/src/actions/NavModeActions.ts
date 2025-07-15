@@ -11,7 +11,7 @@ export class NavModeActions extends Actions {
     dec(): void {
         this.context.nav.prevVerse();
     }
-    enterInsertMode() {
+    enterCommandMode() {
         this.context.mode = "command";
     }
     toggleBookMark() {

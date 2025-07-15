@@ -9,7 +9,7 @@ export abstract class Actions {
     startLinking() {}
     addToBuffer(key: string) {}
     toggleBookMark() {}
-    enterInsertMode() {}
+    enterCommandMode() {}
     enterSelectMode() {}
     enterNavMode() {}
     save() {}
