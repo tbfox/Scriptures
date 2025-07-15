@@ -1,6 +1,6 @@
 import { readdirSync, statSync, readFileSync } from "fs";
 import { join } from "path";
-import { resolveWorkspacePath } from "../utils/pathResolver";
+import { resolveWorkspacePath } from "./pathResolver";
 
 interface VerseMetadata {
     chapters: number;

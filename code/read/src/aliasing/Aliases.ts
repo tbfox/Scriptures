@@ -1,5 +1,5 @@
 import { readFileSync } from "fs";
-import { resolveWorkspacePath } from "../utils/pathResolver";
+import { resolveWorkspacePath } from "../file-queries/pathResolver";
 
 interface SourceAliasConfig {
     [slug: string]: string[];

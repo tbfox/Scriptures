@@ -1,6 +1,6 @@
 import { App } from "./src/App";
 import { commandArgs } from "./src/commandArgs";
-import { initializePathResolver } from "./src/utils/pathResolver";
+import { initializePathResolver } from "./src/file-queries/pathResolver";
 
 function main() {
     // Initialize path resolver to set ROOT_DIR environment variable

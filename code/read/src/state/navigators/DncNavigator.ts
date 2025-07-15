@@ -1,6 +1,6 @@
 import { readFileSync } from "fs";
 import { getDncMetadata } from "../../file-queries/getVerseMetadata";
-import { resolveWorkspacePath } from "../../utils/pathResolver";
+import { resolveWorkspacePath } from "../../file-queries/pathResolver";
 import type { VerseData } from "../../../types/VerseData";
 import type {
     NavigatorType,

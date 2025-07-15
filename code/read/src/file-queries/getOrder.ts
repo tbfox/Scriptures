@@ -1,5 +1,5 @@
 import { readFileSync } from "fs";
-import { resolveWorkspacePath } from "../utils/pathResolver";
+import { resolveWorkspacePath } from "./pathResolver";
 
 export const getOrder = (work: string): string[] => {
     const basePath = work === "notes" ? "notes" : `works/${work}`;

@@ -6,7 +6,7 @@ import type {
 import { getVerseMetadata } from "../../file-queries/getVerseMetadata";
 import type { VerseData } from "../../../types/VerseData";
 import { OrderedSources } from "../../file-queries/OrderedSources";
-import { resolveWorkspacePath } from "../../utils/pathResolver";
+import { resolveWorkspacePath } from "../../file-queries/pathResolver";
 import { Resource } from "../Resource";
 
 export class StandardNavigator implements ResourceNavigator {

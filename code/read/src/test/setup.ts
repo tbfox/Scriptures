@@ -1,4 +1,4 @@
-import { initializePathResolver } from "../utils/pathResolver";
+import { initializePathResolver } from "../file-queries/pathResolver";
 
 /**
  * Test setup utility for configuring the test environment
