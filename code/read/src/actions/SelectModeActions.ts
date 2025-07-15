@@ -5,7 +5,7 @@ export class SelectModeActions extends Actions {
     constructor(public context: AppContext) {
         super(context);
     }
-    incWord(): void {
+    inc(): void {
         const verseSize = this.context.nav.getState().text.split(" ").length;
         if (
             this.context.selectedWord !== null &&
@@ -13,7 +13,7 @@ export class SelectModeActions extends Actions {
         )
             this.context.selectedWord++;
     }
-    decWord(): void {
+    dec(): void {
         if (
             this.context.selectedWord !== null &&
             this.context.selectedWord >= 1

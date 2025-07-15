@@ -16,8 +16,6 @@ export abstract class Actions {
     inc() {}
     dec() {}
     goTo() {}
-    incWord() {}
-    decWord() {}
     getMode = (): ModeType => null;
     clearError() {}
 }

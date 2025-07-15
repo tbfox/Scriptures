@@ -5,8 +5,8 @@ import type { InputMapper } from "./InputMapper";
 export class SelectModeMapper implements InputMapper {
     constructor(private input: Input, private state: SelectModeActions) {}
     map() {
-        if (this.input.isNext()) this.state.incWord();
-        else if (this.input.isPrev()) this.state.decWord();
+        if (this.input.isNext()) this.state.inc();
+        else if (this.input.isPrev()) this.state.dec();
         else if (this.input.isBookMark()) this.state.toggleBookMark();
         else if (this.input.isSave()) this.state.save();
         else if (this.input.isLink()) this.state.startLinking();
