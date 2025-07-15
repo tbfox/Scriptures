@@ -2,7 +2,7 @@ import type { AppContext } from "../state/AppContext";
 import { Resource } from "../state/Resource";
 import { Actions } from "./Actions";
 
-export class InsertModeActions extends Actions {
+export class CommandModeActions extends Actions {
     constructor(public context: AppContext) {
         super(context);
     }
@@ -16,9 +16,7 @@ export class InsertModeActions extends Actions {
         else this.context.buffer = this.context.buffer + key;
     }
     enter() {
-        if (this.context.mode === "insert") {
-            this.onEnterWhileInInsert();
-        }
+        this.onEnterWhileInInsert();
     }
     private onEnterWhileInInsert() {
         if (this.context.inputAction === "goto") {

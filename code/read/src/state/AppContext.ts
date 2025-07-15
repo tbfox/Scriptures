@@ -31,7 +31,7 @@ export class AppContext {
             isBookMarked: this.bm.has(Resource.getId(res)),
             isUnsaved: this.bm.hasUnsaved(),
             buffer: this.buffer,
-            showInsertBuffer: this.mode === "insert",
+            showInsertBuffer: this.mode === "command",
             selectedWord: this.selectedWord,
             inputAction: this.inputAction,
             links: this.links.getState(res),

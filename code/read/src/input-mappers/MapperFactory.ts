@@ -4,49 +4,37 @@ import { InsertModeMapper } from "./InsertModeMapper";
 import type { InputMapper } from "./InputMapper";
 import { NavModeMapper } from "./NavModeMapper";
 import { SelectModeMapper } from "./SelectModeMapper";
-import { InsertModeActions } from "../actions/InsertModeActions";
+import { CommandModeActions } from "../actions/CommandModeActions";
 import { SelectModeActions } from "../actions/SelectModeActions";
 import { NavModeActions } from "../actions/NavModeActions";
 
-export class MapperFactory {
-    make(input: Input, context: AppContext): InputMapper {
+export class InputMapperFactory {
+    static make(input: Input, context: AppContext): InputMapper {
         const mode = context.mode;
-        if (mode === "insert") return this.makeInsertModeMapper(input, context);
+        if (mode === "command")
+            return this.makeInsertModeMapper(input, context);
         if (mode === "select") return this.makeSelectModeMapper(input, context);
         return this.makeNavModeMapper(input, context);
     }
-    private makeInsertModeMapper(
+    private static makeInsertModeMapper(
         input: Input,
         context: AppContext
     ): InputMapper {
-        const s = new InsertModeActions(context);
+        const s = new CommandModeActions(context);
         return new InsertModeMapper(input, s);
     }
-    private makeSelectModeMapper(
+    private static makeSelectModeMapper(
         input: Input,
         context: AppContext
     ): InputMapper {
         const s = new SelectModeActions(context);
         return new SelectModeMapper(input, s);
     }
-    private makeNavModeMapper(input: Input, context: AppContext): InputMapper {
+    private static makeNavModeMapper(
+        input: Input,
+        context: AppContext
+    ): InputMapper {
         const s = new NavModeActions(context);
         return new NavModeMapper(input, s);
     }
-}
-
-export function makeMode(input: Input, context: AppContext): InputMapper {
-    const mode = context.mode;
-    if (mode === "insert") {
-        const s = new InsertModeActions(context);
-        return new InsertModeMapper(input, s);
-    }
-
-    if (mode === "select") {
-        const s = new SelectModeActions(context);
-        return new SelectModeMapper(input, s);
-    }
-
-    const s = new NavModeActions(context);
-    return new NavModeMapper(input, s);
 }

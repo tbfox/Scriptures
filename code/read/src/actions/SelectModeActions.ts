@@ -27,7 +27,7 @@ export class SelectModeActions extends Actions {
     }
     save = () => this.context.bm.save();
     startLinking(): void {
-        this.context.mode = "insert";
+        this.context.mode = "command";
         this.context.inputAction = "link";
     }
     enterNavMode(): void {

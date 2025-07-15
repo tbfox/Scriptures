@@ -12,7 +12,7 @@ export class NavModeActions extends Actions {
         this.context.nav.prevVerse();
     }
     enterInsertMode() {
-        this.context.mode = "insert";
+        this.context.mode = "command";
     }
     toggleBookMark() {
         const ref = this.context.nav.getState().ref;
@@ -25,7 +25,7 @@ export class NavModeActions extends Actions {
         this.context.mode = "select";
     }
     goTo = () => {
-        this.context.mode = "insert";
+        this.context.mode = "command";
         this.context.inputAction = "goto";
     };
 }
