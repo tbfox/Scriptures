@@ -1,3 +1,4 @@
+#!/Users/tristanbarrow/.bun/bin/bun
 import { App } from "./src/App";
 import { commandArgs } from "./src/commandArgs";
 import { initializePathResolver } from "./src/file-queries/pathResolver";
