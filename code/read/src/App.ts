@@ -23,7 +23,7 @@ export class App {
         this.context.error = null;
 
         const mode = makeMode(input, this.context);
-        mode.map();
+        mode.act();
 
         this.renderer.draw(this.context.getState());
     };

@@ -16,6 +16,5 @@ export abstract class Actions {
     inc() {}
     dec() {}
     goTo() {}
-    getMode = (): ModeType => null;
     clearError() {}
 }

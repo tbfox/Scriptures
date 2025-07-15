@@ -1,3 +1,3 @@
 export interface InputMapper {
-    map: () => void;
+    act: () => void;
 }

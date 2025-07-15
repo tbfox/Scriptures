@@ -4,7 +4,7 @@ import type { InputMapper } from "./InputMapper";
 
 export class NavModeMapper implements InputMapper {
     constructor(private input: Input, private state: NavModeActions) {}
-    map() {
+    act() {
         if (this.input.isNext()) this.state.inc();
         else if (this.input.isPrev()) this.state.dec();
         else if (this.input.isEnterInsertMode()) this.state.enterInsertMode();
