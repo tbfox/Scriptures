@@ -166,15 +166,15 @@ export class AppTestHelper {
 
     // State inspection
     getAppState() {
-        return (this.app as any).state.getState();
+        return (this.app as any).context.getState();
     }
 
     getMode() {
-        return (this.app as any).state.getMode();
+        return (this.app as any).context.mode;
     }
 
     getCurrentReference() {
-        return (this.app as any).state.nav.getCurrent();
+        return (this.app as any).context.nav.getCurrent();
     }
 
     // Output inspection
