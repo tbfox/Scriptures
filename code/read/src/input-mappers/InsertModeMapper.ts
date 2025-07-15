@@ -1,5 +1,5 @@
+import type { InsertModeActions } from "../actions/InsertModeActions";
 import type { Input } from "../Input";
-import type { InsertModeActions } from "../state/modes/InsertModeActions";
 import type { InputMapper } from "./InputMapper";
 
 export class InsertModeMapper implements InputMapper {

@@ -1,4 +1,4 @@
-import { getOrder } from "../../file-queries/getOrder";
+import { getOrder } from "./getOrder";
 
 export class OrderedSources {
     static prev(work: string, source: string): string {

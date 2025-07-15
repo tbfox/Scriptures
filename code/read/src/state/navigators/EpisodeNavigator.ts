@@ -1,12 +1,12 @@
 import { readFileSync } from "fs";
-import { getEpisodeMetadata } from "../file-queries/getVerseMetadata";
-import { Resource } from "../state/components/Resource";
-import type { VerseData } from "../../types/VerseData";
+import { getEpisodeMetadata } from "../../file-queries/getVerseMetadata";
+import type { VerseData } from "../../../types/VerseData";
 import type {
     NavigatorType,
     ResourceNavigator,
-} from "../../types/ResourceNavigator";
-import { MarkdownParser } from "../parsers/MarkdownParser";
+} from "../../../types/ResourceNavigator";
+import { MarkdownParser } from "../../parsers/MarkdownParser";
+import { Resource } from "../Resource";
 
 export class EpisodeNavigator implements ResourceNavigator {
     navigatorType: NavigatorType = "episode";

@@ -1,5 +1,5 @@
+import type { NavModeActions } from "../actions/NavModeActions";
 import type { Input } from "../Input";
-import type { NavModeActions } from "../state/modes/NavModeActions";
 import type { InputMapper } from "./InputMapper";
 
 export class NavModeMapper implements InputMapper {

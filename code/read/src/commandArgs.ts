@@ -1,5 +1,5 @@
 import { parseArgs } from "util";
-import { Resource } from "./state/components/Resource";
+import { Resource } from "./state/Resource";
 
 export function commandArgs() {
     const { values } = parseArgs({

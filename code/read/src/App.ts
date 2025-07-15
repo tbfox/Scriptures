@@ -1,9 +1,9 @@
-import type { Resource } from "./state/components/Resource";
 import { Renderer } from "./render/Renderer";
 import { Process } from "./Process";
 import { Input } from "./Input";
 import { makeMode } from "./input-mappers/MapperFactory";
 import { AppContext } from "./state/AppContext";
+import type { Resource } from "./state/Resource";
 
 export class App {
     private proc = new Process();

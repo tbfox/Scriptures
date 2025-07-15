@@ -1,6 +1,6 @@
 import { EventEmitter } from "events";
-import type { Resource } from "../state/components/Resource";
 import { App } from "../App";
+import type { Resource } from "../state/Resource";
 
 class MockStdin extends EventEmitter {
     isTTY = true;

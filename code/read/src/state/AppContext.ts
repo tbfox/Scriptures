@@ -2,10 +2,10 @@ import type { InputAction } from "../../types/InputAction";
 import type { ModeType } from "../../types/ModeType";
 import type { OutputState } from "../../types/OutputState";
 import type { ResourceNavigator } from "../../types/ResourceNavigator";
-import { Navigator } from "../navigators/Navigator";
-import { BookMarks } from "./components/Bookmarks";
-import { Links } from "./components/Links";
-import { Resource } from "./components/Resource";
+import { Navigator } from "./navigators/Navigator";
+import { BookMarks } from "./Bookmarks";
+import { Links } from "./Links";
+import { Resource } from "./Resource";
 
 export class AppContext {
     public bm = new BookMarks();

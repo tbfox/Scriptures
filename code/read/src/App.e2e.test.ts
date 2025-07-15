@@ -1,7 +1,7 @@
 import { describe, test, expect, beforeEach, afterEach } from "bun:test";
 import { AppTestHelper } from "./test/AppTestHelper";
-import { Resource } from "./state/components/Resource";
 import { setupTestEnvironment, mockConsole } from "./test/setup";
+import { Resource } from "./state/Resource";
 
 describe("App End-to-End Tests", () => {
     let helper: AppTestHelper;

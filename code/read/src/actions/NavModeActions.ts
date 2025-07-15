@@ -1,5 +1,5 @@
-import type { AppContext } from "../AppContext";
-import { Actions } from "../Actions";
+import type { AppContext } from "../state/AppContext";
+import { Actions } from "./Actions";
 
 export class NavModeActions extends Actions {
     constructor(public context: AppContext) {

@@ -1,6 +1,6 @@
-import type { AppContext } from "../AppContext";
-import { Resource } from "../components/Resource";
-import { Actions } from "../Actions";
+import type { AppContext } from "../state/AppContext";
+import { Resource } from "../state/Resource";
+import { Actions } from "./Actions";
 
 export class InsertModeActions extends Actions {
     constructor(public context: AppContext) {

@@ -1,11 +1,11 @@
 import { readFileSync } from "fs";
-import { getDncMetadata } from "../file-queries/getVerseMetadata";
-import { Resource } from "../state/components/Resource";
-import type { VerseData } from "../../types/VerseData";
+import { getDncMetadata } from "../../file-queries/getVerseMetadata";
+import type { VerseData } from "../../../types/VerseData";
 import type {
     NavigatorType,
     ResourceNavigator,
-} from "../../types/ResourceNavigator";
+} from "../../../types/ResourceNavigator";
+import { Resource } from "../Resource";
 
 export class DncNavigator implements ResourceNavigator {
     navigatorType: NavigatorType = "dnc";

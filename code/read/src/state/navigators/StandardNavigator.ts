@@ -2,11 +2,11 @@ import { readFileSync } from "fs";
 import type {
     NavigatorType,
     ResourceNavigator,
-} from "../../types/ResourceNavigator";
-import { Resource } from "../state/components/Resource";
-import { getVerseMetadata } from "../file-queries/getVerseMetadata";
-import type { VerseData } from "../../types/VerseData";
-import { OrderedSources } from "../state/util/OrderedSources";
+} from "../../../types/ResourceNavigator";
+import { getVerseMetadata } from "../../file-queries/getVerseMetadata";
+import type { VerseData } from "../../../types/VerseData";
+import { OrderedSources } from "../../file-queries/OrderedSources";
+import { Resource } from "../Resource";
 
 export class StandardNavigator implements ResourceNavigator {
     navigatorType: NavigatorType = "std";

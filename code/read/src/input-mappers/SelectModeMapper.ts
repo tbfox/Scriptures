@@ -1,5 +1,5 @@
+import type { SelectModeActions } from "../actions/SelectModeActions";
 import type { Input } from "../Input";
-import type { SelectModeActions } from "../state/modes/SelectModeActions";
 import type { InputMapper } from "./InputMapper";
 
 export class SelectModeMapper implements InputMapper {

@@ -1,13 +1,13 @@
-import type { Resource } from "../state/components/Resource";
-import type { VerseData } from "../../types/VerseData";
+import type { VerseData } from "../../../types/VerseData";
 import type {
     NavigatorType,
     ResourceNavigator,
-} from "../../types/ResourceNavigator";
-import { determineSource } from "../file-queries/determineSource";
+} from "../../../types/ResourceNavigator";
+import { determineSource } from "../../file-queries/determineSource";
 import { DncNavigator } from "./DncNavigator";
 import { StandardNavigator } from "./StandardNavigator";
 import { EpisodeNavigator } from "./EpisodeNavigator";
+import type { Resource } from "../Resource";
 
 export class Navigator implements ResourceNavigator {
     navigatorType: NavigatorType = "main";

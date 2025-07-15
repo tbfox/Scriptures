@@ -1,12 +1,12 @@
 import type { Input } from "../Input";
 import type { AppContext } from "../state/AppContext";
-import { InsertModeActions } from "../state/modes/InsertModeActions";
-import { NavModeActions } from "../state/modes/NavModeActions";
-import { SelectModeActions } from "../state/modes/SelectModeActions";
 import { InsertModeMapper } from "./InsertModeMapper";
 import type { InputMapper } from "./InputMapper";
 import { NavModeMapper } from "./NavModeMapper";
 import { SelectModeMapper } from "./SelectModeMapper";
+import { InsertModeActions } from "../actions/InsertModeActions";
+import { SelectModeActions } from "../actions/SelectModeActions";
+import { NavModeActions } from "../actions/NavModeActions";
 
 export class MapperFactory {
     make(input: Input, context: AppContext): InputMapper {

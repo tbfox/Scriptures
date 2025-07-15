@@ -1,4 +1,4 @@
-import { parseReference } from "../util/parseReference";
+import { parseReference } from "../parsers/parseReference";
 
 export class Resource {
     constructor(
