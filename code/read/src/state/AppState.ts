@@ -1,6 +1,6 @@
 import { Resource } from "./components/Resource";
 import { AppContext } from "./AppContext";
-import { State } from "./State";
+import { Actions } from "./Actions";
 
 // export class AppState extends State {
 //     constructor(public context: AppContext) {

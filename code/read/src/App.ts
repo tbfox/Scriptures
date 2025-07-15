@@ -2,7 +2,7 @@ import type { Resource } from "./state/components/Resource";
 import { Renderer } from "./render/Renderer";
 import { Process } from "./Process";
 import { Input } from "./Input";
-import { makeMode } from "./modes/makeMode";
+import { makeMode } from "./input-mappers/MapperFactory";
 import { AppContext } from "./state/AppContext";
 
 export class App {
@@ -23,7 +23,7 @@ export class App {
         this.context.error = null;
 
         const mode = makeMode(input, this.context);
-        mode.handleInput();
+        mode.map();
 
         this.renderer.draw(this.context.getState());
     };

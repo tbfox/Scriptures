@@ -1,7 +1,7 @@
 import type { ModeType } from "../../types/ModeType";
 import type { AppContext } from "./AppContext";
 
-export abstract class State {
+export abstract class Actions {
     constructor(public context: AppContext) {}
     getState() {}
     enter() {}

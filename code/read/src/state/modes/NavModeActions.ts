@@ -1,7 +1,7 @@
 import type { AppContext } from "../AppContext";
-import { State } from "../State";
+import { Actions } from "../Actions";
 
-export class NavModeState extends State {
+export class NavModeActions extends Actions {
     constructor(public context: AppContext) {
         super(context);
     }

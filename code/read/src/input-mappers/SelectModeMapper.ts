@@ -1,10 +1,10 @@
 import type { Input } from "../Input";
-import type { SelectModeState } from "../state/modes/SelectModeState";
-import type { Mode } from "./Mode";
+import type { SelectModeActions } from "../state/modes/SelectModeActions";
+import type { InputMapper } from "./InputMapper";
 
-export class SelectMode implements Mode {
-    constructor(private input: Input, private state: SelectModeState) {}
-    handleInput() {
+export class SelectModeMapper implements InputMapper {
+    constructor(private input: Input, private state: SelectModeActions) {}
+    map() {
         if (this.input.isNext()) this.state.incWord();
         else if (this.input.isPrev()) this.state.decWord();
         else if (this.input.isBookMark()) this.state.toggleBookMark();

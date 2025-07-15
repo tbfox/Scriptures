@@ -1,8 +1,8 @@
 import type { AppContext } from "../AppContext";
 import { Resource } from "../components/Resource";
-import { State } from "../State";
+import { Actions } from "../Actions";
 
-export class InsertModeState extends State {
+export class InsertModeActions extends Actions {
     constructor(public context: AppContext) {
         super(context);
     }

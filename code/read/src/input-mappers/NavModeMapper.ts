@@ -1,10 +1,10 @@
 import type { Input } from "../Input";
-import type { NavModeState } from "../state/modes/NavModeState";
-import type { Mode } from "./Mode";
+import type { NavModeActions } from "../state/modes/NavModeActions";
+import type { InputMapper } from "./InputMapper";
 
-export class NavMode implements Mode {
-    constructor(private input: Input, private state: NavModeState) {}
-    handleInput() {
+export class NavModeMapper implements InputMapper {
+    constructor(private input: Input, private state: NavModeActions) {}
+    map() {
         if (this.input.isNext()) this.state.inc();
         else if (this.input.isPrev()) this.state.dec();
         else if (this.input.isEnterInsertMode()) this.state.enterInsertMode();
