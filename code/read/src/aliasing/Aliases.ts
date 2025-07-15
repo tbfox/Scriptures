@@ -1,5 +1,5 @@
 import { readFileSync } from "fs";
-import { join } from "path";
+import { resolveWorkspacePath } from "../utils/pathResolver";
 
 interface SourceAliasConfig {
     [slug: string]: string[];
@@ -24,14 +24,8 @@ class CachedAliases {
         if (this.aliases !== null) return this.aliases;
 
         try {
-            const configPath = join(
-                import.meta.dirname,
-                "..",
-                "..",
-                "..",
-                "..",
-                "config",
-                "sourceAliases.config.json"
+            const configPath = resolveWorkspacePath(
+                "config/sourceAliases.config.json"
             );
             const configData = readFileSync(configPath, "utf-8");
             const config: SourceAliasConfig = JSON.parse(configData);

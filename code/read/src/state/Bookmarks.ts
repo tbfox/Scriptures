@@ -1,4 +1,5 @@
 import { readFileSync } from "fs";
+import { resolveWorkspacePath } from "../utils/pathResolver";
 
 export class BookMarks {
     private bookmarks: string[] = [];
@@ -16,13 +17,16 @@ export class BookMarks {
         this.unsaved = true;
     }
     save() {
-        const path = Bun.file(Bun.env.ROOT_DIR + "user-data/bookmarks.json");
+        const path = Bun.file(resolveWorkspacePath("user-data/bookmarks.json"));
         Bun.write(path, JSON.stringify(this.bookmarks));
         this.unsaved = false;
     }
     load() {
         this.bookmarks = JSON.parse(
-            readFileSync(Bun.env.ROOT_DIR + "user-data/bookmarks.json", "utf-8")
+            readFileSync(
+                resolveWorkspacePath("user-data/bookmarks.json"),
+                "utf-8"
+            )
         );
         this.unsaved = false;
     }

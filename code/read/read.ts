@@ -1,7 +1,10 @@
 import { App } from "./src/App";
 import { commandArgs } from "./src/commandArgs";
+import { initializePathResolver } from "./src/utils/pathResolver";
 
 function main() {
+    // Initialize path resolver to set ROOT_DIR environment variable
+    initializePathResolver();
     if (!process.stdin.isTTY) {
         console.error("This program requires an interactive terminal (TTY).");
         process.exit(1);

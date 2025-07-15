@@ -1,5 +1,6 @@
 import { readdirSync, statSync, readFileSync } from "fs";
 import { join } from "path";
+import { resolveWorkspacePath } from "../utils/pathResolver";
 
 interface VerseMetadata {
     chapters: number;
@@ -27,14 +28,7 @@ export function getVerseMetadata(filePath: string): VerseMetadata {
         throw new Error(`Expected path to start with 'works', got: ${works}`);
     }
 
-    const worksPath = join(
-        import.meta.dirname,
-        "..",
-        "..",
-        "..",
-        "..",
-        "works"
-    );
+    const worksPath = resolveWorkspacePath("works");
     const sourcePath = join(worksPath, work, source);
     const chapterPath = join(sourcePath, chapter);
 
@@ -100,14 +94,7 @@ export function getDncMetadata(filePath: string): VerseMetadata {
         throw new Error(`Expected work to be 'dnc', got: ${work}`);
     }
 
-    const worksPath = join(
-        import.meta.dirname,
-        "..",
-        "..",
-        "..",
-        "..",
-        "works"
-    );
+    const worksPath = resolveWorkspacePath("works");
     const dncPath = join(worksPath, "dnc");
     const sectionPath = join(dncPath, section);
 
@@ -151,14 +138,7 @@ export function getDncMetadata(filePath: string): VerseMetadata {
 
 export function verseExists(filePath: string): boolean {
     try {
-        const fullPath = join(
-            import.meta.dirname,
-            "..",
-            "..",
-            "..",
-            "..",
-            filePath
-        );
+        const fullPath = resolveWorkspacePath(filePath);
         return statSync(fullPath).isFile();
     } catch {
         return false;
@@ -172,14 +152,8 @@ export function getEpisodeMetadata(filePath: string): { episodes: number } {
     const seriesPath = pathParts.slice(0, -1).join("/");
 
     try {
-        const metadataPath = join(
-            import.meta.dirname,
-            "..",
-            "..",
-            "..",
-            "..",
-            seriesPath,
-            ".metadata"
+        const metadataPath = resolveWorkspacePath(
+            join(seriesPath, ".metadata")
         );
         const metadata = JSON.parse(readFileSync(metadataPath, "utf-8"));
         return {

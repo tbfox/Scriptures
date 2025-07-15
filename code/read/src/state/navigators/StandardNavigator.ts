@@ -6,6 +6,7 @@ import type {
 import { getVerseMetadata } from "../../file-queries/getVerseMetadata";
 import type { VerseData } from "../../../types/VerseData";
 import { OrderedSources } from "../../file-queries/OrderedSources";
+import { resolveWorkspacePath } from "../../utils/pathResolver";
 import { Resource } from "../Resource";
 
 export class StandardNavigator implements ResourceNavigator {
@@ -72,6 +73,6 @@ export class StandardNavigator implements ResourceNavigator {
         return `works/${this.work}/${this.source}/${this.chapter}/${this.verse}.txt`;
     }
     private getScripture = () => {
-        return readFileSync(Bun.env.ROOT_DIR + this.getPath(), "utf-8");
+        return readFileSync(resolveWorkspacePath(this.getPath()), "utf-8");
     };
 }

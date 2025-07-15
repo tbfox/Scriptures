@@ -1,5 +1,6 @@
 import { readFileSync } from "fs";
 import { getEpisodeMetadata } from "../../file-queries/getVerseMetadata";
+import { resolveWorkspacePath } from "../../utils/pathResolver";
 import type { VerseData } from "../../../types/VerseData";
 import type {
     NavigatorType,
@@ -79,6 +80,6 @@ export class EpisodeNavigator implements ResourceNavigator {
         return `notes/podcast/foundations/episode_${this.episode}.md`;
     }
     private loadEpisodeContent(): string {
-        return readFileSync(Bun.env.ROOT_DIR + this.getPath(), "utf-8");
+        return readFileSync(resolveWorkspacePath(this.getPath()), "utf-8");
     }
 }

@@ -1,11 +1,11 @@
+import { initializePathResolver } from "../utils/pathResolver";
+
 /**
  * Test setup utility for configuring the test environment
  */
 export function setupTestEnvironment() {
-    // Set up the ROOT_DIR environment variable for tests
-    if (!process.env.ROOT_DIR) {
-        process.env.ROOT_DIR = process.cwd() + "/../../";
-    }
+    // Initialize path resolver to set ROOT_DIR environment variable
+    initializePathResolver();
 }
 
 /**

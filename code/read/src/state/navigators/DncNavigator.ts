@@ -1,5 +1,6 @@
 import { readFileSync } from "fs";
 import { getDncMetadata } from "../../file-queries/getVerseMetadata";
+import { resolveWorkspacePath } from "../../utils/pathResolver";
 import type { VerseData } from "../../../types/VerseData";
 import type {
     NavigatorType,
@@ -61,6 +62,6 @@ export class DncNavigator implements ResourceNavigator {
         return `works/dnc/${this.section}/${this.verse}.txt`;
     }
     private getScripture = () => {
-        return readFileSync(Bun.env.ROOT_DIR + this.getPath(), "utf-8");
+        return readFileSync(resolveWorkspacePath(this.getPath()), "utf-8");
     };
 }
