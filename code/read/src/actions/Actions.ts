@@ -1,4 +1,3 @@
-import type { ModeType } from "../../types/ModeType";
 import type { AppContext } from "../state/AppContext";
 
 export abstract class Actions {
@@ -9,8 +8,7 @@ export abstract class Actions {
     startLinking() {}
     addToBuffer(key: string) {}
     toggleBookMark() {}
-    enterCommandMode() {}
-    enterSelectMode() {}
+    enterWordMode() {}
     enterNavMode() {}
     save() {}
     inc() {}

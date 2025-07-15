@@ -1,4 +1,4 @@
-import type { InputAction } from "../../types/InputAction";
+import type { CommandType } from "../../types/InputAction";
 import type { ModeType } from "../../types/ModeType";
 import type { OutputState } from "../../types/OutputState";
 import type { ResourceNavigator } from "../../types/ResourceNavigator";
@@ -13,7 +13,7 @@ export class AppContext {
     public nav: ResourceNavigator;
     public error: string | null = null;
     public mode: ModeType = "nav";
-    public inputAction: InputAction = null;
+    public commandType: CommandType = null;
     public selectedWord: number | null = null;
     public buffer: string = "";
     constructor(ref: Resource) {
@@ -33,7 +33,7 @@ export class AppContext {
             buffer: this.buffer,
             showInsertBuffer: this.mode === "command",
             selectedWord: this.selectedWord,
-            inputAction: this.inputAction,
+            inputAction: this.commandType,
             links: this.links.getState(res),
         };
     }

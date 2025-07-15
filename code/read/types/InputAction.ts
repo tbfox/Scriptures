@@ -1,1 +1,1 @@
-export type InputAction = null | "goto" | "link";
+export type CommandType = null | "goto" | "link";

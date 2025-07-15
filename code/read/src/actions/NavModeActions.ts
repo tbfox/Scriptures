@@ -11,21 +11,18 @@ export class NavModeActions extends Actions {
     dec(): void {
         this.context.nav.prevVerse();
     }
-    enterCommandMode() {
-        this.context.mode = "command";
-    }
     toggleBookMark() {
         const ref = this.context.nav.getState().ref;
         if (this.context.bm.has(ref)) this.context.bm.remove(ref);
         else this.context.bm.add(ref);
     }
     save = () => this.context.bm.save();
-    enterSelectMode() {
+    enterWordMode() {
         this.context.selectedWord = 0;
-        this.context.mode = "select";
+        this.context.mode = "word";
     }
     goTo = () => {
+        this.context.commandType = "goto";
         this.context.mode = "command";
-        this.context.inputAction = "goto";
     };
 }

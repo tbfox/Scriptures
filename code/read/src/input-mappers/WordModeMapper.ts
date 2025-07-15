@@ -1,9 +1,9 @@
-import type { SelectModeActions } from "../actions/SelectModeActions";
+import type { WordModeActions } from "../actions/WordModeActions";
 import type { Input } from "../Input";
 import type { InputMapper } from "./InputMapper";
 
-export class SelectModeMapper implements InputMapper {
-    constructor(private input: Input, private state: SelectModeActions) {}
+export class WordModeMapper implements InputMapper {
+    constructor(private input: Input, private state: WordModeActions) {}
     act() {
         if (this.input.isNext()) this.state.inc();
         else if (this.input.isPrev()) this.state.dec();

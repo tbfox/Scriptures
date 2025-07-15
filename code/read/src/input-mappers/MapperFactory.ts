@@ -3,9 +3,9 @@ import type { AppContext } from "../state/AppContext";
 import { InsertModeMapper } from "./InsertModeMapper";
 import type { InputMapper } from "./InputMapper";
 import { NavModeMapper } from "./NavModeMapper";
-import { SelectModeMapper } from "./SelectModeMapper";
+import { WordModeMapper as WordModeMapper } from "./WordModeMapper";
 import { CommandModeActions } from "../actions/CommandModeActions";
-import { SelectModeActions } from "../actions/SelectModeActions";
+import { WordModeActions } from "../actions/WordModeActions";
 import { NavModeActions } from "../actions/NavModeActions";
 
 export class InputMapperFactory {
@@ -13,7 +13,7 @@ export class InputMapperFactory {
         const mode = context.mode;
         if (mode === "command")
             return this.makeInsertModeMapper(input, context);
-        if (mode === "select") return this.makeSelectModeMapper(input, context);
+        if (mode === "word") return this.makeWordModeMapper(input, context);
         return this.makeNavModeMapper(input, context);
     }
     private static makeInsertModeMapper(
@@ -23,12 +23,12 @@ export class InputMapperFactory {
         const s = new CommandModeActions(context);
         return new InsertModeMapper(input, s);
     }
-    private static makeSelectModeMapper(
+    private static makeWordModeMapper(
         input: Input,
         context: AppContext
     ): InputMapper {
-        const s = new SelectModeActions(context);
-        return new SelectModeMapper(input, s);
+        const s = new WordModeActions(context);
+        return new WordModeMapper(input, s);
     }
     private static makeNavModeMapper(
         input: Input,

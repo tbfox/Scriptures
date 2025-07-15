@@ -3,10 +3,10 @@ export class Input {
     constructor(chunk: Buffer) {
         this.key = chunk.toString();
     }
-    isActionKey = () => this.match(["\r", "\n"]);
-    isEnterInsertMode = () => this.is("i");
-    isEnterSelectMode = () => this.is("w");
-    isExitKey = () => this.is("\x1b");
+    isExit = () => this.is("\x1b");
+
+    isAction = () => this.match(["\r", "\n"]);
+    isSelect = () => this.is("w");
 
     isHardQuit = () => this.is("\x03");
     isSoftQuit = () => this.is("q");

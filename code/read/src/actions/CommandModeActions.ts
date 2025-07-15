@@ -19,7 +19,7 @@ export class CommandModeActions extends Actions {
         this.onEnterWhileInInsert();
     }
     private onEnterWhileInInsert() {
-        if (this.context.inputAction === "goto") {
+        if (this.context.commandType === "goto") {
             try {
                 const ref = Resource.parse(this.context.buffer);
                 this.context.nav.goTo(ref);
@@ -27,10 +27,10 @@ export class CommandModeActions extends Actions {
                 this.context.error = `there was an issue parsing '${this.context.buffer}'`;
             } finally {
                 this.context.buffer = "";
-                this.context.inputAction = null;
+                this.context.commandType = null;
                 this.context.mode = "nav";
             }
-        } else if (this.context.inputAction === "link") {
+        } else if (this.context.commandType === "link") {
             try {
                 if (
                     this.context.selectedWord === null ||
@@ -47,7 +47,7 @@ export class CommandModeActions extends Actions {
                 this.context.error = `there was an issue parsing '${this.context.buffer}'`;
             } finally {
                 this.context.buffer = "";
-                this.context.inputAction = null;
+                this.context.commandType = null;
                 this.context.mode = "nav";
                 this.context.selectedWord = null;
             }

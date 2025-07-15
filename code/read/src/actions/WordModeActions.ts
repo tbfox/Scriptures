@@ -1,7 +1,7 @@
 import type { AppContext } from "../state/AppContext";
 import { Actions } from "./Actions";
 
-export class SelectModeActions extends Actions {
+export class WordModeActions extends Actions {
     constructor(public context: AppContext) {
         super(context);
     }
@@ -28,7 +28,7 @@ export class SelectModeActions extends Actions {
     save = () => this.context.bm.save();
     startLinking(): void {
         this.context.mode = "command";
-        this.context.inputAction = "link";
+        this.context.commandType = "link";
     }
     enterNavMode(): void {
         this.context.mode = "nav";

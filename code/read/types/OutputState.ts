@@ -1,4 +1,4 @@
-import type { InputAction } from "./InputAction";
+import type { CommandType } from "./InputAction";
 
 export type OutputState = {
     verseReference: string;
@@ -9,6 +9,6 @@ export type OutputState = {
     showInsertBuffer: boolean;
     buffer: string;
     selectedWord: number | null;
-    inputAction: InputAction;
+    inputAction: CommandType;
     links: number[];
 };
