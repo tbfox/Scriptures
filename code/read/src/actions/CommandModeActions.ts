@@ -1,13 +1,13 @@
 import type { AppContext } from "../state/AppContext";
-import { Resource } from "../state/Resource";
 import { Actions } from "./Actions";
 import { Command } from "../commands/Command";
+import { CommandFactory } from "../commands/CommandFactory";
 
 export class CommandModeActions extends Actions {
     private command: Command;
     constructor(public context: AppContext) {
         super(context);
-        this.command = Command.make(context);
+        this.command = CommandFactory.make(context);
     }
     cancel() {
         this.context.buffer = "";

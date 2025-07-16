@@ -1,4 +1,3 @@
-import type { AppContext } from "../state/AppContext";
 import { Resource } from "../state/Resource";
 import { Command } from "./Command";
 
