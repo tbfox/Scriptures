@@ -21,9 +21,16 @@ export class App {
             return;
         }
         this.context.error = null;
+        const modeChanged = this.context.modeChanged();
+        const prevMode = this.context.prevMode;
+        const actor = InputMapperFactory.make(input, this.context);
+        if (modeChanged) {
+            actor.onExitMode(prevMode);
+            this.context.updatePrevMode();
+            actor.onEnterMode(prevMode);
+        }
 
-        const mode = InputMapperFactory.make(input, this.context);
-        mode.act();
+        actor.act();
 
         this.renderer.draw(this.context.getState());
     };

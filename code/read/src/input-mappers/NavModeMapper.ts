@@ -1,15 +1,17 @@
 import type { NavModeActions } from "../actions/NavModeActions";
 import type { Input } from "../Input";
-import type { InputMapper } from "./InputMapper";
+import { InputMapper } from "./InputMapper";
 
-export class NavModeMapper implements InputMapper {
-    constructor(private input: Input, private state: NavModeActions) {}
+export class NavModeMapper extends InputMapper {
+    constructor(input: Input, actions: NavModeActions) {
+        super(input, actions);
+    }
     act() {
-        if (this.input.isNext()) this.state.inc();
-        else if (this.input.isPrev()) this.state.dec();
-        else if (this.input.isBookMark()) this.state.toggleBookMark();
-        else if (this.input.isSave()) this.state.save();
-        else if (this.input.isSelect()) this.state.enterWordMode();
-        else if (this.input.isGoTo()) this.state.goTo();
+        if (this.input.isNext()) this.actions.inc();
+        else if (this.input.isPrev()) this.actions.dec();
+        else if (this.input.isBookMark()) this.actions.toggleBookMark();
+        else if (this.input.isSave()) this.actions.save();
+        else if (this.input.isSelect()) this.actions.enterWordMode();
+        else if (this.input.isGoTo()) this.actions.goTo();
     }
 }

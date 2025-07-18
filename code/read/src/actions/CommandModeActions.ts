@@ -2,6 +2,7 @@ import type { AppContext } from "../state/AppContext";
 import { Actions } from "./Actions";
 import { Command } from "../commands/Command";
 import { CommandFactory } from "../commands/CommandFactory";
+import type { ModeType } from "../../types/ModeType";
 
 export class CommandModeActions extends Actions {
     private command: Command;
@@ -29,5 +30,11 @@ export class CommandModeActions extends Actions {
             this.context.mode = "nav";
             this.context.selectedWord = null;
         }
+    }
+    onExitMode(): void {
+        this.context.error = "exited command mode";
+        this.context.buffer = "";
+        this.context.commandType = null;
+        this.context.selectedWord = null;
     }
 }

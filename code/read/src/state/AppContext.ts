@@ -13,6 +13,7 @@ export class AppContext {
     public nav: ResourceNavigator;
     public error: string | null = null;
     public mode: ModeType = "nav";
+    public prevMode: ModeType = "nav";
     public commandType: CommandType = null;
     public selectedWord: number | null = null;
     public buffer: string = "";
@@ -21,6 +22,10 @@ export class AppContext {
         this.mode = "nav";
         this.nav = new Navigator(ref);
     }
+    modeChanged = () => this.prevMode !== this.mode;
+    updatePrevMode = () => {
+        this.prevMode = this.mode;
+    };
     getState(): OutputState {
         const { text } = this.nav.getState();
         const res = this.nav.getCurrent();
