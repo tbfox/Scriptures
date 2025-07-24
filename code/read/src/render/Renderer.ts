@@ -1,4 +1,5 @@
-import type { InputAction, OutputState } from "../state/AppState";
+import type { OutputState } from "../../types/OutputState";
+import type { CommandType } from "../../types/CommandType";
 import { Cursor } from "./lib/Cursor";
 import { Screen } from "./lib/Screen";
 import { Style } from "./lib/Style";
@@ -32,7 +33,7 @@ export class Renderer {
 
         this.renderVerseText(verseText, selectedWord, links);
     }
-    renderTypingBuffer(buffer: string, action: InputAction) {
+    renderTypingBuffer(buffer: string, action: CommandType) {
         Cursor.home();
         Cursor.down(1);
         Style.bg(240);

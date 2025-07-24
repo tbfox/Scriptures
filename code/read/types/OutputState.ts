@@ -1,4 +1,4 @@
-import type { CommandType } from "./InputAction";
+import type { CommandType } from "./CommandType";
 
 export type OutputState = {
     verseReference: string;

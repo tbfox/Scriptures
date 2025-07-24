@@ -1,4 +1,4 @@
-import type { CommandType } from "../../types/InputAction";
+import type { CommandType } from "../../types/CommandType";
 import type { ModeType } from "../../types/ModeType";
 import type { OutputState } from "../../types/OutputState";
 import type { ResourceNavigator } from "../../types/ResourceNavigator";
