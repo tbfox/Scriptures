@@ -1,3 +1,4 @@
+import { getVerseByReference } from "./src/getVerseByReference";
 import { resolveReference } from "./src/referenceResolver";
 
 Bun.serve({
@@ -35,7 +36,15 @@ Bun.serve({
         const url = new URL(req.url);
         const path = url.pathname.split("/");
         path.shift();
-        const { reference, isValid, error } = resolveReference(path);
-        return new Response(JSON.stringify({ reference, isValid, error }));
+        const { isValid, reference, error } = resolveReference(path);
+        if (isValid)
+            return new Response(
+                JSON.stringify({
+                    reference,
+                    verse: getVerseByReference(reference),
+                })
+            );
+        else return new Response(error, { status: 400 });
     },
 });
+console.log("Server listening...");
