@@ -30,108 +30,75 @@ const BOM_BOOK_MAPPING: Record<string, string> = {
  * @returns Reference object with the resolved reference string and validity
  */
 export function resolveReference(pathArray: string[]): Reference {
-    // Basic validation
-    if (!Array.isArray(pathArray) || pathArray.length === 0) {
+    try {
+        if (!Array.isArray(pathArray) || pathArray.length === 0) {
+            throw "Invalid path array"
+        }
+
+        const collection = pathArray[0]?.toLowerCase();
+        if (collection !== "bom") {
+            throw "Only Book of Mormon references are currently supported"
+        }
+
+        if (pathArray.length < 2) {
+            throw "Book name is required"
+        }
+
+        const bookAbbr = pathArray[1]?.toLowerCase();
+        if (!bookAbbr) {
+            throw "Book name is required"
+        }
+
+        const fullBookName = BOM_BOOK_MAPPING[bookAbbr];
+
+        if (!fullBookName) {
+            throw `Unknown book abbreviation: ${bookAbbr}`
+        }
+
+        let reference = fullBookName;
+
+        if (pathArray.length >= 3) {
+            const chapter = pathArray[2];
+            if (!chapter || chapter.trim() === "") {
+                throw "Chapter cannot be empty"
+            }
+            if (!/^\d+$/.test(chapter)) {
+                throw "Chapter must be a number"
+            }
+            reference += ` ${chapter}`;
+        }
+
+        if (pathArray.length >= 4) {
+            const verse = pathArray[3];
+            if (!verse || verse.trim() === "") {
+                throw "Verse cannot be empty"
+            }
+            if (!/^\d+$/.test(verse)) {
+                throw "Verse must be a number"
+            }
+            reference += `:${verse}`;
+        }
+
+        if (pathArray.length > 4) {
+            throw "Too many path segments. Maximum format is: /collection/book/chapter/verse"
+        }
+
         return {
-            reference: "",
-            isValid: false,
-            error: "Invalid path array",
+            reference,
+            isValid: true,
         };
-    }
-
-    // Check if first element indicates Book of Mormon
-    const collection = pathArray[0]?.toLowerCase();
-    if (collection !== "bom") {
-        return {
-            reference: "",
-            isValid: false,
-            error: "Only Book of Mormon references are currently supported",
-        };
-    }
-
-    // Need at least book abbreviation
-    if (pathArray.length < 2) {
-        return {
-            reference: "",
-            isValid: false,
-            error: "Book name is required",
-        };
-    }
-
-    const bookAbbr = pathArray[1]?.toLowerCase();
-    if (!bookAbbr) {
-        return {
-            reference: "",
-            isValid: false,
-            error: "Book name is required",
-        };
-    }
-
-    const fullBookName = BOM_BOOK_MAPPING[bookAbbr];
-
-    if (!fullBookName) {
-        return {
-            reference: "",
-            isValid: false,
-            error: `Unknown book abbreviation: ${bookAbbr}`,
-        };
-    }
-
-    // Build reference based on available components
-    let reference = fullBookName;
-
-    // Add chapter if provided
-    if (pathArray.length >= 3) {
-        const chapter = pathArray[2];
-        if (!chapter || chapter.trim() === "") {
+    } catch (e) {
+        if (typeof e === 'string') 
             return {
                 reference: "",
                 isValid: false,
-                error: "Chapter cannot be empty",
+                error: e
             };
-        }
-        if (!/^\d+$/.test(chapter)) {
-            return {
-                reference: "",
-                isValid: false,
-                error: "Chapter must be a number",
-            };
-        }
-        reference += ` ${chapter}`;
     }
-
-    // Add verse if provided
-    if (pathArray.length >= 4) {
-        const verse = pathArray[3];
-        if (!verse || verse.trim() === "") {
-            return {
-                reference: "",
-                isValid: false,
-                error: "Verse cannot be empty",
-            };
-        }
-        if (!/^\d+$/.test(verse)) {
-            return {
-                reference: "",
-                isValid: false,
-                error: "Verse must be a number",
-            };
-        }
-        reference += `:${verse}`;
-    }
-
-    // Check for too many path segments
-    if (pathArray.length > 4) {
-        return {
-            reference: "",
-            isValid: false,
-            error: "Too many path segments. Maximum format is: /collection/book/chapter/verse",
-        };
-    }
-
     return {
-        reference,
-        isValid: true,
+        reference: "",
+        isValid: false,
+        error: "Unknown",
     };
 }
 

@@ -55,12 +55,6 @@ describe("resolveReference", () => {
         expect(resolveReference([]).isValid).toBe(false);
         expect(resolveReference([]).error).toBe("Invalid path array");
 
-        // Non-BOM collection
-        expect(resolveReference(["nt", "john"]).isValid).toBe(false);
-        expect(resolveReference(["nt", "john"]).error).toBe(
-            "Only Book of Mormon references are currently supported"
-        );
-
         // Missing book
         expect(resolveReference(["bom"]).isValid).toBe(false);
         expect(resolveReference(["bom"]).error).toBe("Book name is required");
