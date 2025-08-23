@@ -7,19 +7,15 @@ const help = `-- Scripture Server --
 
 Bun.serve({
     routes: {},
-    fetch(req) {
+    async fetch(req) {
         const url = new URL(req.url);
         const path = url.pathname.split("/").filter((item) => item !== '');
         if (path.length === 0) return new Response(help, { status: 404 });
         
         const { isValid, reference, error } = resolveReference(path);
         if (isValid) {
-            console.log(`Resolved reference: ${reference}`);
             return new Response(
-                JSON.stringify({
-                    reference: reference.split('_').join(' '),
-                    verse: getVerseByReference(reference),
-                })
+                JSON.stringify(await getVerseByReference(reference))
             );
         }
         return new Response(`${error}`, { status: 400 });
