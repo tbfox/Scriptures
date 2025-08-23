@@ -1,4 +1,4 @@
-import { calculateNext } from "./src/calculateNext";
+import { calculateNext, calculatePrev } from "./src/calculateNext";
 import { getVerseByReference } from "./src/getVerseByReference";
 import { resolveReference, validatePath } from "./src/referenceResolver";
 
@@ -16,6 +16,7 @@ Bun.serve({
                 const verse = await getVerseByReference(reference);
                 return jsonResponse({
                     ...verse,
+                    prev: calculatePrev(path),
                     next: calculateNext(path),
                 });
             } catch (e) {

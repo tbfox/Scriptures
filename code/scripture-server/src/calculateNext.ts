@@ -60,34 +60,68 @@ class Reference {
         if (i === -1) throw `Failed to retrieve book index.`;
         this.book = bookArr[i + 1] || "END";
     }
+    private decBook() {
+        let i = bookArr.indexOf(this.book);
+        if (i === -1) throw `Failed to retrieve book index.`;
+        this.book = bookArr[i - 1] || "START";
+    }
     private incChapter() {
         this.chapter++;
         const maxChapters = chapter_count[nameMap.get(this.book) || "unknown"];
-        if (maxChapters === undefined) throw "Failed to find maxChapters";
+        if (maxChapters === undefined) throw "(incChapter) Failed to find maxChapters";
         if (this.chapter > maxChapters) {
             this.chapter = 1;
             this.incBook();
+        }
+    }
+    private decChapter() {
+        this.chapter--;
+        if (this.chapter === 0) {
+            this.decBook();
+            if (this.book === 'START') return
+            const maxChapters = chapter_count[nameMap.get(this.book) || "unknown"];
+            if (maxChapters === undefined) throw "(decChapter) Failed to find maxChapters";
+            this.chapter = maxChapters;
         }
     }
     incVerse() {
         this.verse++;
         const verseCountIndex = `${nameMap.get(this.book)}-${this.chapter}`;
         const maxVerses = verse_count[verseCountIndex];
-        if (maxVerses === undefined) throw "Failed to find maxVerses";
+        if (maxVerses === undefined) throw "(incVerse) Failed to find maxVerses";
         if (this.verse > maxVerses) {
             this.verse = 1;
             this.incChapter();
         }
     }
+
+    decVerse() {
+        this.verse--;
+        if (this.verse === 0) {
+            this.decChapter()
+            if (this.book === "START") return
+            const verseCountIndex = `${nameMap.get(this.book)}-${this.chapter}`;
+            const maxVerses = verse_count[verseCountIndex];
+            if (maxVerses === undefined) throw "(decVerse) Failed to find maxVerses";
+            this.verse = maxVerses;
+        }
+    }
+
     getPath() {
         if (this.book === "END") return "END";
+        if (this.book === "START") return "START";
         return `/bom/${this.book}/${this.chapter}/${this.verse}`;
     }
+}
+
+export function calculatePrev(_path: string[]) {
+    const ref = new Reference(_path!);
+    ref.decVerse();
+    return ref.getPath();
 }
 
 export function calculateNext(_path: string[]) {
     const ref = new Reference(_path!);
     ref.incVerse();
     return ref.getPath();
-    // return `${source}/${book}/${chapter}/${verse}`
 }
