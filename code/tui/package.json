@@ -1,17 +1,22 @@
 {
-  "name": "tui",
-  "module": "index.ts",
-  "type": "module",
-  "private": true,
-  "devDependencies": {
-    "@types/bun": "latest"
-  },
-  "peerDependencies": {
-    "typescript": "^5"
-  },
-  "dependencies": {
-    "@tanstack/react-query": "^5.85.5",
-    "ink": "^6.2.1",
-    "react": "^19.1.1"
-  }
+    "name": "tui",
+    "module": "index.ts",
+    "type": "module",
+    "private": true,
+    "scripts": {
+        "start": "bun index.ts",
+        "fmt": "prettier . --write"
+    },
+    "devDependencies": {
+        "@types/bun": "latest",
+        "prettier": "^3.6.2"
+    },
+    "peerDependencies": {
+        "typescript": "^5"
+    },
+    "dependencies": {
+        "@tanstack/react-query": "^5.85.5",
+        "ink": "^6.2.1",
+        "react": "^19.1.1"
+    }
 }

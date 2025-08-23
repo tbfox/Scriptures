@@ -1,19 +1,20 @@
-import { useQuery } from "@tanstack/react-query"
+import { useQuery } from "@tanstack/react-query";
 
 type Ref = {
-    reference: string
-    verse: string
-}
+    reference: string;
+    text: string;
+    next: string;
+    prev: string;
+};
 
-const req = async (source: string[]): Promise<Ref> => {
-    const requestResult = await fetch(`http://localhost:3000/${source.join('/')}`)
-    return await requestResult.json() as Ref;
-}
+const req = async (source: string): Promise<Ref> => {
+    const requestResult = await fetch(`http://localhost:3000${source}`);
+    return (await requestResult.json()) as Ref;
+};
 
-export const scriptureQuery = (source: string[]) => {
+export const scriptureQuery = (source: string) => {
     return useQuery<Ref>({
-        queryKey: source || ["empty"],
+        queryKey: [source],
         queryFn: () => req(source),
-    })
-}
-
+    });
+};
