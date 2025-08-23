@@ -4,85 +4,55 @@ interface Reference {
     error?: string;
 }
 
-// Mapping of book abbreviations to full names for Book of Mormon
-const BOM_BOOK_MAPPING: Record<string, string> = {
-    "1ne": "1 Nephi",
-    "2ne": "2 Nephi",
-    jacob: "Jacob",
-    enos: "Enos",
-    jarom: "Jarom",
-    omni: "Omni",
-    wom: "Words of Mormon",
-    mosiah: "Mosiah",
-    alma: "Alma",
-    helaman: "Helaman",
-    hel: "Helaman",
-    "3ne": "3 Nephi",
-    "4ne": "4 Nephi",
-    mormon: "Mormon",
-    ether: "Ether",
-    moroni: "Moroni",
-};
+const nameMap: Map<string, string> = new Map([
+    ["1ne", "1_Nephi"],
+    ["2ne", "2_Nephi"],
+    ['jacob', "Jacob"],
+    ['enos', "Enos"],
+    ['jarom', "Jarom"],
+    ['omni', "Omni"],
+    ['wom', "Words_of_Mormon"],
+    ['mosiah', "Mosiah"],
+    ['alma', "Alma"],
+    ['hel', "Helaman"],
+    ["3ne", "3_Nephi"],
+    ["4ne", "4_Nephi"],
+    ['mormon', "Mormon"],
+    ['ether', "Ether"],
+    ['moroni', "Moroni"],
+]);
 
-/**
- * Resolves a path array into a scripture reference
- * @param pathArray - Array of path segments from URL (e.g., ["bom", "1ne", "13", "14"])
- * @returns Reference object with the resolved reference string and validity
- */
-export function resolveReference(pathArray: string[]): Reference {
+function validate(path: string[]): [string, string, string, string] {
+    if (path.length < 1) throw "Source name is required."
+    if (path.length < 2) throw "Book name is required."
+    if (path.length < 3) throw "Chapter is required."
+    if (path.length < 4) throw "Verse is required."
+    if (path.length > 4) throw "Too many arguments. Format: /source/book/chapter/verse"
+
+    const book = path[1]!
+    
+    if (nameMap.get(book) === undefined) 
+        throw `Book '${book}' does not exist in the Book of Mormon.`
+    
+    if (!/^\d+$/.test(path[2]!))
+        throw `Chapter '${path[2]}' is not a number.`
+    
+    if (!/^\d+$/.test(path[3]!))
+        throw `Verse '${path[3]}' is not a number.`
+
+    return path as [string, string, string, string]
+}
+
+export function resolveReference(path: string[]): Reference {
     try {
-        if (!Array.isArray(pathArray) || pathArray.length === 0) {
-            throw "Invalid path array"
-        }
+        path = validate(path)
+        
+        const bookCode = path[1]!
+        const book = nameMap.get(bookCode)
 
-        const collection = pathArray[0]?.toLowerCase();
-        if (collection !== "bom") {
-            throw "Only Book of Mormon references are currently supported"
-        }
-
-        if (pathArray.length < 2) {
-            throw "Book name is required"
-        }
-
-        const bookAbbr = pathArray[1]?.toLowerCase();
-        if (!bookAbbr) {
-            throw "Book name is required"
-        }
-
-        const fullBookName = BOM_BOOK_MAPPING[bookAbbr];
-
-        if (!fullBookName) {
-            throw `Unknown book abbreviation: ${bookAbbr}`
-        }
-
-        let reference = fullBookName;
-
-        if (pathArray.length >= 3) {
-            const chapter = pathArray[2];
-            if (!chapter || chapter.trim() === "") {
-                throw "Chapter cannot be empty"
-            }
-            if (!/^\d+$/.test(chapter)) {
-                throw "Chapter must be a number"
-            }
-            reference += ` ${chapter}`;
-        }
-
-        if (pathArray.length >= 4) {
-            const verse = pathArray[3];
-            if (!verse || verse.trim() === "") {
-                throw "Verse cannot be empty"
-            }
-            if (!/^\d+$/.test(verse)) {
-                throw "Verse must be a number"
-            }
-            reference += `:${verse}`;
-        }
-
-        if (pathArray.length > 4) {
-            throw "Too many path segments. Maximum format is: /collection/book/chapter/verse"
-        }
-
+        if (book === undefined)
+            throw `Book '${bookCode}' does not exist in the Book of Mormon.`
+        const reference = `${book} ${path[2]}:${path[3]}`;
         return {
             reference,
             isValid: true,
@@ -102,10 +72,3 @@ export function resolveReference(pathArray: string[]): Reference {
     };
 }
 
-/**
- * Helper function to get all supported book abbreviations
- * @returns Array of supported book abbreviations
- */
-export function getSupportedBooks(): string[] {
-    return Object.keys(BOM_BOOK_MAPPING);
-}
