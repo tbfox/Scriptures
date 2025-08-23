@@ -1,25 +1,44 @@
+import { calculateNext } from "./src/calculateNext";
 import { getVerseByReference } from "./src/getVerseByReference";
-import { resolveReference } from "./src/referenceResolver";
-
-
-const help = `-- Scripture Server --
-`;
+import { resolveReference, validatePath } from "./src/referenceResolver";
 
 Bun.serve({
     routes: {},
     async fetch(req) {
-        const url = new URL(req.url);
-        const path = url.pathname.split("/").filter((item) => item !== '');
-        if (path.length === 0) return new Response(help, { status: 404 });
-        
+        const path = parsePath(req);
+
+        if (path.length === 0) return helpResponse();
+
         const { isValid, reference, error } = resolveReference(path);
+
         if (isValid) {
-            return new Response(
-                JSON.stringify(await getVerseByReference(reference))
-            );
+            try {
+                const verse = await getVerseByReference(reference);
+                return jsonResponse({
+                    ...verse,
+                    next: calculateNext(path),
+                });
+            } catch (e) {
+                if (typeof e === "string")
+                    return new Response(e, { status: 500 });
+            }
         }
-        return new Response(`${error}`, { status: 400 });
+
+        return new Response(error, { status: 400 });
     },
 });
+
+const parsePath = (req: Request) => {
+    const url = new URL(req.url);
+    return url.pathname.split("/").filter((item) => item !== "");
+};
+
+const help = `-- Scripture Server --
+`;
+const helpResponse = () => new Response(help, { status: 404 });
+
+const jsonResponse = (data: any) => {
+    return new Response(JSON.stringify(data));
+};
 
 console.log("Server listening...");

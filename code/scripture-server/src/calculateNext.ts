@@ -1,0 +1,93 @@
+const chapter_count = (await Bun.file(
+    import.meta.dir + "/../res/bom_book_count.json",
+).json()) as Record<string, number>;
+const verse_count = (await Bun.file(
+    import.meta.dir + "/../res/bom_verse_count.json",
+).json()) as Record<string, number>;
+
+const bookArr = [
+    "1ne",
+    "2ne",
+    "jacob",
+    "enos",
+    "jarom",
+    "omni",
+    "wom",
+    "mosiah",
+    "alma",
+    "hel",
+    "3ne",
+    "4ne",
+    "mormon",
+    "ether",
+    "moroni",
+];
+
+const nameMap: Map<string, string> = new Map([
+    ["1ne", "1_Nephi"],
+    ["2ne", "2_Nephi"],
+    ["jacob", "Jacob"],
+    ["enos", "Enos"],
+    ["jarom", "Jarom"],
+    ["omni", "Omni"],
+    ["wom", "Words_of_Mormon"],
+    ["mosiah", "Mosiah"],
+    ["alma", "Alma"],
+    ["hel", "Helaman"],
+    ["3ne", "3_Nephi"],
+    ["4ne", "4_Nephi"],
+    ["mormon", "Mormon"],
+    ["ether", "Ether"],
+    ["moroni", "Moroni"],
+]);
+
+class Reference {
+    private book: string;
+    private verse: number;
+    private chapter: number;
+    constructor(_path: string[]) {
+        this.book = _path[1] || "unknown_book";
+        this.chapter = parseInt(_path[2]!);
+        this.verse = parseInt(_path[3]!);
+    }
+    static chapterCount(bookname: string): number {
+        const count = chapter_count[bookname];
+        if (count === undefined) throw `Book ${bookname} not found.`;
+        return count;
+    }
+    private incBook() {
+        let i = bookArr.indexOf(this.book);
+        if (i === -1) throw `Failed to retrieve book index.`;
+        this.book = bookArr[i + 1] || "END";
+    }
+    private incChapter() {
+        this.chapter++;
+        const maxChapters = chapter_count[nameMap.get(this.book) || "unknown"];
+        if (maxChapters === undefined) throw "Failed to find maxChapters";
+        if (this.chapter > maxChapters) {
+            this.chapter = 1;
+            this.incBook();
+        }
+    }
+    incVerse() {
+        this.verse++;
+        const verseCountIndex = `${nameMap.get(this.book)}-${this.chapter}`;
+        const maxVerses = verse_count[verseCountIndex];
+        if (maxVerses === undefined) throw "Failed to find maxVerses";
+        if (this.verse > maxVerses) {
+            this.verse = 1;
+            this.incChapter();
+        }
+    }
+    getPath() {
+        if (this.book === "END") return "END";
+        return `/bom/${this.book}/${this.chapter}/${this.verse}`;
+    }
+}
+
+export function calculateNext(_path: string[]) {
+    const ref = new Reference(_path!);
+    ref.incVerse();
+    return ref.getPath();
+    // return `${source}/${book}/${chapter}/${verse}`
+}

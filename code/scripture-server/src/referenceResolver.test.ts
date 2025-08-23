@@ -21,11 +21,12 @@ describe("resolveReference", () => {
     test("should handle invalid inputs", () => {
         expect(resolveReference(["bom"]).isValid).toBe(false);
         expect(resolveReference(["bom", "1ne"]).isValid).toBe(false);
-        expect(resolveReference(["bom", "1ne", '1']).isValid).toBe(false);
-        expect(resolveReference(["bom", "1ne", 'bob']).isValid).toBe(false);
-        expect(resolveReference(["bom", "1ne", '1', 'bob']).isValid).toBe(false);
+        expect(resolveReference(["bom", "1ne", "1"]).isValid).toBe(false);
+        expect(resolveReference(["bom", "1ne", "bob"]).isValid).toBe(false);
+        expect(resolveReference(["bom", "1ne", "1", "bob"]).isValid).toBe(
+            false,
+        );
     });
-
 
     test("should reject too many path segments", () => {
         const result = resolveReference(["bom", "1ne", "13", "14", "extra"]);
@@ -43,4 +44,3 @@ describe("resolveReference", () => {
         expect(result3.isValid).toBe(false);
     });
 });
-

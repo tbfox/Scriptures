@@ -1,15 +1,19 @@
 {
-  "name": "scripture-server",
-  "module": "index.ts",
-  "type": "module",
-  "private": true,
-  "scripts": {
-      "start": "bun index.ts"
-  },
-  "devDependencies": {
-    "@types/bun": "latest"
-  },
-  "peerDependencies": {
-    "typescript": "^5"
-  }
+    "name": "scripture-server",
+    "module": "index.ts",
+    "type": "module",
+    "private": true,
+    "scripts": {
+        "start": "bun index.ts",
+        "fmt": "prettier . --write"
+    },
+    "devDependencies": {
+        "@types/bun": "latest"
+    },
+    "peerDependencies": {
+        "typescript": "^5"
+    },
+    "dependencies": {
+        "prettier": "^3.6.2"
+    }
 }
