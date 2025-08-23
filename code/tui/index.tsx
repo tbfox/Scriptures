@@ -4,6 +4,9 @@ import { render, Box, Text, useInput } from "ink";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { scriptureQuery } from "./src/scriptureQuery";
 
+process.stdout.write(`\x1b[2J`) // clear screen
+process.stdout.write(`\x1b[H`)  // cursor home
+
 const { values } = parseArgs({
     args: Bun.argv,
     options: {
