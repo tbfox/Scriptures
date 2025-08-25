@@ -43,12 +43,12 @@ const Main = () => {
 
     return (
         <>
-            <Box>
+            <Box width={80}>
                 <Text color="yellow">Reference: </Text>
                 <Text>{res.data?.reference}</Text>
                 {res.isPending && <Text>Loading</Text>}
             </Box>
-            <Box borderStyle="single">
+            <Box borderStyle="single" width={80}>
                 <Text>{res.data?.text}</Text>
             </Box>
         </>
