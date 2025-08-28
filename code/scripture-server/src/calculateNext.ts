@@ -68,7 +68,8 @@ class Reference {
     private incChapter() {
         this.chapter++;
         const maxChapters = chapter_count[nameMap.get(this.book) || "unknown"];
-        if (maxChapters === undefined) throw "(incChapter) Failed to find maxChapters";
+        if (maxChapters === undefined)
+            throw "(incChapter) Failed to find maxChapters";
         if (this.chapter > maxChapters) {
             this.chapter = 1;
             this.incBook();
@@ -78,9 +79,11 @@ class Reference {
         this.chapter--;
         if (this.chapter === 0) {
             this.decBook();
-            if (this.book === 'START') return
-            const maxChapters = chapter_count[nameMap.get(this.book) || "unknown"];
-            if (maxChapters === undefined) throw "(decChapter) Failed to find maxChapters";
+            if (this.book === "START") return;
+            const maxChapters =
+                chapter_count[nameMap.get(this.book) || "unknown"];
+            if (maxChapters === undefined)
+                throw "(decChapter) Failed to find maxChapters";
             this.chapter = maxChapters;
         }
     }
@@ -88,7 +91,8 @@ class Reference {
         this.verse++;
         const verseCountIndex = `${nameMap.get(this.book)}-${this.chapter}`;
         const maxVerses = verse_count[verseCountIndex];
-        if (maxVerses === undefined) throw "(incVerse) Failed to find maxVerses";
+        if (maxVerses === undefined)
+            throw "(incVerse) Failed to find maxVerses";
         if (this.verse > maxVerses) {
             this.verse = 1;
             this.incChapter();
@@ -98,11 +102,12 @@ class Reference {
     decVerse() {
         this.verse--;
         if (this.verse === 0) {
-            this.decChapter()
-            if (this.book === "START") return
+            this.decChapter();
+            if (this.book === "START") return;
             const verseCountIndex = `${nameMap.get(this.book)}-${this.chapter}`;
             const maxVerses = verse_count[verseCountIndex];
-            if (maxVerses === undefined) throw "(decVerse) Failed to find maxVerses";
+            if (maxVerses === undefined)
+                throw "(decVerse) Failed to find maxVerses";
             this.verse = maxVerses;
         }
     }

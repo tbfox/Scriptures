@@ -4,7 +4,6 @@ interface Reference {
     error?: string;
 }
 
-
 const sources: Map<string, string> = new Map([
     ["bofm", "Book of Mormon"],
     ["nt", "New Testament"],
@@ -40,9 +39,11 @@ export function validatePath(path: string[]): [string, string, string, string] {
     if (path.length > 4)
         throw "Too many arguments. Format: /source/book/chapter/verse";
 
-    let source = path[0]!  
-    
-    if (source === 'dnc') { source = 'dc-testament' }
+    let source = path[0]!;
+
+    if (source === "dnc") {
+        source = "dc-testament";
+    }
 
     if (!sources.has(source)) {
         throw `Source '${source}' is not a valid source.`;
