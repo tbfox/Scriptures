@@ -1,13 +1,13 @@
 const chapter_count = (await Bun.file(
-    import.meta.dir + "/../res/bom_book_count.json",
+    import.meta.dir + "/../res/bofm_book_count.json",
 ).json()) as Record<string, number>;
 const verse_count = (await Bun.file(
-    import.meta.dir + "/../res/bom_verse_count.json",
+    import.meta.dir + "/../res/bofm_verse_count.json",
 ).json()) as Record<string, number>;
 
 const bookArr = [
-    "1ne",
-    "2ne",
+    "1-ne",
+    "2-ne",
     "jacob",
     "enos",
     "jarom",
@@ -16,16 +16,16 @@ const bookArr = [
     "mosiah",
     "alma",
     "hel",
-    "3ne",
-    "4ne",
+    "3-ne",
+    "4-ne",
     "mormon",
     "ether",
     "moroni",
 ];
 
 const nameMap: Map<string, string> = new Map([
-    ["1ne", "1_Nephi"],
-    ["2ne", "2_Nephi"],
+    ["1-ne", "1_Nephi"],
+    ["2-ne", "2_Nephi"],
     ["jacob", "Jacob"],
     ["enos", "Enos"],
     ["jarom", "Jarom"],
@@ -34,8 +34,8 @@ const nameMap: Map<string, string> = new Map([
     ["mosiah", "Mosiah"],
     ["alma", "Alma"],
     ["hel", "Helaman"],
-    ["3ne", "3_Nephi"],
-    ["4ne", "4_Nephi"],
+    ["3-ne", "3_Nephi"],
+    ["4-ne", "4_Nephi"],
     ["mormon", "Mormon"],
     ["ether", "Ether"],
     ["moroni", "Moroni"],
@@ -110,7 +110,7 @@ class Reference {
     getPath() {
         if (this.book === "END") return "END";
         if (this.book === "START") return "START";
-        return `/bom/${this.book}/${this.chapter}/${this.verse}`;
+        return `/bofm/${this.book}/${this.chapter}/${this.verse}`;
     }
 }
 

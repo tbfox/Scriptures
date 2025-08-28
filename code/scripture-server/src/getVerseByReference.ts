@@ -2,7 +2,7 @@ type FlatVerse = { reference: string; text: string };
 
 export const getVerseByReference = async (ref: string) => {
     const verses = (await Bun.file(
-        import.meta.dir + "/../res/bom.json",
+        import.meta.dir + "/../res/bofm.json",
     ).json()) as FlatVerse[];
     const filtered = verses.filter(({ reference }) => reference === ref);
 

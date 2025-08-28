@@ -4,22 +4,32 @@ interface Reference {
     error?: string;
 }
 
-const nameMap: Map<string, string> = new Map([
-    ["1ne", "1_Nephi"],
-    ["2ne", "2_Nephi"],
+
+const sources: Map<string, string> = new Map([
+    ["bofm", "Book of Mormon"],
+    ["nt", "New Testament"],
+    ["ot", "Old Testament"],
+    ["pgp", "Pearl of Great Price"],
+    ["dnc", "Doctrine and Covenents"],
+    ["dc-testament", "Doctrine and Covenents"],
+]);
+
+const bofmMap: Map<string, string> = new Map([
+    ["1-ne", "1_Nephi"],
+    ["2-ne", "2_Nephi"],
     ["jacob", "Jacob"],
     ["enos", "Enos"],
     ["jarom", "Jarom"],
     ["omni", "Omni"],
-    ["wom", "Words_of_Mormon"],
+    ["w-of-m", "Words_of_Mormon"],
     ["mosiah", "Mosiah"],
     ["alma", "Alma"],
     ["hel", "Helaman"],
-    ["3ne", "3_Nephi"],
-    ["4ne", "4_Nephi"],
-    ["mormon", "Mormon"],
+    ["3-ne", "3_Nephi"],
+    ["4-ne", "4_Nephi"],
+    ["morm", "Mormon"],
     ["ether", "Ether"],
-    ["moroni", "Moroni"],
+    ["moro", "Moroni"],
 ]);
 
 export function validatePath(path: string[]): [string, string, string, string] {
@@ -30,9 +40,17 @@ export function validatePath(path: string[]): [string, string, string, string] {
     if (path.length > 4)
         throw "Too many arguments. Format: /source/book/chapter/verse";
 
+    let source = path[0]!  
+    
+    if (source === 'dnc') { source = 'dc-testament' }
+
+    if (!sources.has(source)) {
+        throw `Source '${source}' is not a valid source.`;
+    }
+
     const book = path[1]!;
 
-    if (nameMap.get(book) === undefined)
+    if (bofmMap.get(book) === undefined)
         throw `Book '${book}' does not exist in the Book of Mormon.`;
 
     if (!/^\d+$/.test(path[2]!)) throw `Chapter '${path[2]}' is not a number.`;
@@ -47,11 +65,13 @@ export function resolveReference(path: string[]): Reference {
         path = validatePath(path);
 
         const bookCode = path[1]!;
-        const book = nameMap.get(bookCode);
+        const book = bofmMap.get(bookCode);
 
         if (book === undefined)
             throw `Book '${bookCode}' does not exist in the Book of Mormon.`;
+
         const reference = `${book} ${path[2]}:${path[3]}`;
+
         return {
             reference,
             isValid: true,
@@ -64,6 +84,7 @@ export function resolveReference(path: string[]): Reference {
                 error: e,
             };
     }
+
     return {
         reference: "",
         isValid: false,
