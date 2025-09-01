@@ -7,6 +7,7 @@
     "books": [
         {
             "name": "1_Nephi",
+            "url_code": "1-ne",
             "order": 1,
             "chapters": 22,
             "chapter_details": [
@@ -36,6 +37,7 @@
         },
         {
             "name": "2_Nephi",
+            "url_code": "2-ne",
             "order": 2,
             "chapters": 33,
             "chapter_details": [
@@ -76,6 +78,7 @@
         },
         {
             "name": "Jacob",
+            "url_code": "jacob",
             "order": 3,
             "chapters": 7,
             "chapter_details": [
@@ -90,30 +93,35 @@
         },
         {
             "name": "Enos",
+            "url_code": "enos",
             "order": 4,
             "chapters": 1,
             "chapter_details": [{ "chapter": 1, "verses": 27 }]
         },
         {
             "name": "Jarom",
+            "url_code": "jarom",
             "order": 5,
             "chapters": 1,
             "chapter_details": [{ "chapter": 1, "verses": 15 }]
         },
         {
             "name": "Omni",
+            "url_code": "omni",
             "order": 6,
             "chapters": 1,
             "chapter_details": [{ "chapter": 1, "verses": 30 }]
         },
         {
             "name": "Words_of_Mormon",
+            "url_code": "w-of-m",
             "order": 7,
             "chapters": 1,
             "chapter_details": [{ "chapter": 1, "verses": 18 }]
         },
         {
             "name": "Mosiah",
+            "url_code": "mosiah",
             "order": 8,
             "chapters": 29,
             "chapter_details": [
@@ -150,6 +158,7 @@
         },
         {
             "name": "Alma",
+            "url_code": "alma",
             "order": 9,
             "chapters": 63,
             "chapter_details": [
@@ -220,6 +229,7 @@
         },
         {
             "name": "Helaman",
+            "url_code": "hel",
             "order": 10,
             "chapters": 16,
             "chapter_details": [
@@ -243,6 +253,7 @@
         },
         {
             "name": "3_Nephi",
+            "url_code": "3-ne",
             "order": 11,
             "chapters": 30,
             "chapter_details": [
@@ -280,12 +291,14 @@
         },
         {
             "name": "4_Nephi",
+            "url_code": "4-ne",
             "order": 12,
             "chapters": 1,
             "chapter_details": [{ "chapter": 1, "verses": 49 }]
         },
         {
             "name": "Mormon",
+            "url_code": "mormon",
             "order": 13,
             "chapters": 9,
             "chapter_details": [
@@ -302,6 +315,7 @@
         },
         {
             "name": "Ether",
+            "url_code": "ether",
             "order": 14,
             "chapters": 15,
             "chapter_details": [
@@ -324,6 +338,7 @@
         },
         {
             "name": "Moroni",
+            "url_code": "moro",
             "order": 15,
             "chapters": 10,
             "chapter_details": [
