@@ -11,9 +11,11 @@ type Ref = {
     chapStart: string;
     nextBook: string;
     prevBook: string;
-};
+} | "END" | 'START';
 
 const req = async (source: string): Promise<Ref> => {
+    if (source === 'START') return 'START'
+    if (source === 'END') return 'END'
     const requestResult = await fetch(`http://localhost:3000${source}`);
     return (await requestResult.json()) as Ref;
 };

@@ -43,9 +43,20 @@ const Main = () => {
             prev: source.current
         })
     }
+    const setPrevSource = ()=> {
+        setSource({
+            current: source.prev || 'unknown',
+            prev: null
+        })
+    }
 
     useInput((input) => {
+        
         if (res.isPending || res.data === undefined) return;
+        if (res.data === 'END' || res.data === 'START'){
+            setPrevSource()
+            return
+        }
         if (input === "j") _setSource(res.data.next);
         if (input === "k") _setSource(res.data.prev);
         if (input === "l") _setSource(res.data.nextChap);
@@ -55,14 +66,16 @@ const Main = () => {
         if (input === "n") _setSource(res.data.nextBook);
         if (input === "p") _setSource(res.data.prevBook);
     });
-
-    if (source.current === "unknown")
-        return <Text>Failed to load Scripture reference</Text>;
-    let display = source.current
-    if (source.current === 'START' || source.current === 'END') {
-        if (source.prev === null) return <Text>Failed to load Scripture reference</Text>;
-        display = source.prev
+    
+    if (source.current === 'START') {
+        return <Text>You are at the START of the book</Text>;
     }
+    if (source.current === 'END') {
+        return <Text>You are at the END of the book</Text>;
+    }
+    
+    if (res.isError || source.current === "unknown")
+        return <Text>Failed to load Scripture reference</Text>;
     return (
         <>
             <Box width={80}>
@@ -73,9 +86,6 @@ const Main = () => {
             <Box borderStyle="single" width={80}>
                 <Text>{res.data?.text}</Text>
             </Box>
-            {/* <Box> */}
-            {/*     <Text>{JSON.stringify(res)}</Text> */}
-            {/* </Box> */}
         </>
     );
 };
