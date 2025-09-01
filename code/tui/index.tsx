@@ -28,22 +28,41 @@ const App = () => {
     );
 };
 
+type SourceData = {
+    current: string
+    prev: string | null
+}
+
 const Main = () => {
-    const [source, setSource] = useState<string>(values.ref || "/bofm/1-ne/1/1");
-    const res = scriptureQuery(source);
+    const [source, setSource] = useState<SourceData>({ current: values.ref || "/bofm/1-ne/1/1", prev: null });
+    const res = scriptureQuery(source.current);
+    
+    const _setSource = (src: string)=> {
+        setSource({
+            current: src,
+            prev: source.current
+        })
+    }
 
     useInput((input) => {
         if (res.isPending || res.data === undefined) return;
-        if (input === "j") setSource(res.data.next);
-        if (input === "k") setSource(res.data.prev);
-        if (input === "l") setSource(res.data.nextChap);
-        if (input === "h") setSource(res.data.prevChap);
-        if (input === "$") setSource(res.data.chapEnd);
+        if (input === "j") _setSource(res.data.next);
+        if (input === "k") _setSource(res.data.prev);
+        if (input === "l") _setSource(res.data.nextChap);
+        if (input === "h") _setSource(res.data.prevChap);
+        if (input === "$") _setSource(res.data.chapEnd);
+        if (input === "0") _setSource(res.data.chapStart);
+        if (input === "n") _setSource(res.data.nextBook);
+        if (input === "p") _setSource(res.data.prevBook);
     });
 
-    if (source === "unknown")
+    if (source.current === "unknown")
         return <Text>Failed to load Scripture reference</Text>;
-
+    let display = source.current
+    if (source.current === 'START' || source.current === 'END') {
+        if (source.prev === null) return <Text>Failed to load Scripture reference</Text>;
+        display = source.prev
+    }
     return (
         <>
             <Box width={80}>
@@ -54,6 +73,9 @@ const Main = () => {
             <Box borderStyle="single" width={80}>
                 <Text>{res.data?.text}</Text>
             </Box>
+            {/* <Box> */}
+            {/*     <Text>{JSON.stringify(res)}</Text> */}
+            {/* </Box> */}
         </>
     );
 };

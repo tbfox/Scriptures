@@ -42,7 +42,7 @@ class Reference {
         return bookOrder.indexOf(this.book);
     }
 
-    private incBook(): void {
+    public incBook(): void {
         const bookOrder = getBookOrder(this.source);
 
         const currentIndex = this.getBookIndex();
@@ -58,7 +58,7 @@ class Reference {
         }
     }
 
-    private decBook(): void {
+    public decBook(): void {
         const bookOrder = getBookOrder(this.source);
 
         const currentIndex = this.getBookIndex();
@@ -208,6 +208,47 @@ export function calculateChapterEnd(path: string[]): string {
 
     // Set verse to the last verse of the chapter
     ref.verse = maxVerse;
+
+    return ref.getPath();
+}
+
+export function calculateChapterStart(path: string[]): string {
+    const ref = new Reference(path);
+
+    // Set verse to the first verse of the chapter
+    ref.verse = 1;
+
+    return ref.getPath();
+}
+
+export function calculateNextBook(path: string[]): string {
+    const ref = new Reference(path);
+    ref.incBook();
+
+    // If we've reached END, return as is
+    if (ref.getPath() === "END") {
+        return ref.getPath();
+    }
+
+    // Reset to chapter 1, verse 1 when navigating by book
+    ref.chapter = 1;
+    ref.verse = 1;
+
+    return ref.getPath();
+}
+
+export function calculatePrevBook(path: string[]): string {
+    const ref = new Reference(path);
+    ref.decBook();
+
+    // If we've reached START, return as is
+    if (ref.getPath() === "START") {
+        return ref.getPath();
+    }
+
+    // Reset to chapter 1, verse 1 when navigating by book
+    ref.chapter = 1;
+    ref.verse = 1;
 
     return ref.getPath();
 }

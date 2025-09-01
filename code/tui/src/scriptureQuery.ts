@@ -8,6 +8,9 @@ type Ref = {
     nextChap: string;
     prevChap: string;
     chapEnd: string;
+    chapStart: string;
+    nextBook: string;
+    prevBook: string;
 };
 
 const req = async (source: string): Promise<Ref> => {

@@ -4,6 +4,9 @@ import {
     calculateNextChapter,
     calculatePrevChapter,
     calculateChapterEnd,
+    calculateChapterStart,
+    calculateNextBook,
+    calculatePrevBook,
 } from "./src/navigation/referenceNavigation";
 import { getVerseByReference } from "./src/services/verseService";
 import {
@@ -46,7 +49,10 @@ Bun.serve({
                     next: calculateNext(path),
                     prevChap: calculatePrevChapter(path),
                     nextChap: calculateNextChapter(path),
+                    chapStart: calculateChapterStart(path),
                     chapEnd: calculateChapterEnd(path),
+                    prevBook: calculatePrevBook(path),
+                    nextBook: calculateNextBook(path),
                 });
             } catch (e) {
                 const errorMessage =
