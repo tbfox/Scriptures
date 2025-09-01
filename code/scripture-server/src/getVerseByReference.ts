@@ -1,7 +1,7 @@
 import { ValidationError, NotFoundError, DatabaseError } from "./errors";
 import { dbManager, type VerseRecord } from "./database";
 
-export const getVerseByReference = async (ref: string) => {
+export const getVerseByReference = async (ref: string, source: string) => {
     try {
         // Parse the reference (e.g., "1_Nephi 1:1" or "1 Nephi 1:1")
         const normalizedRef = ref.replace(/_/g, " ");
@@ -26,10 +26,10 @@ export const getVerseByReference = async (ref: string) => {
         const db = dbManager.getConnection();
         const query = db.prepare(`
             SELECT * FROM verses 
-            WHERE book = ? AND chapter = ? AND verse = ?
+            WHERE source = ? AND book = ? AND chapter = ? AND verse = ?
         `);
 
-        const result = query.get(book, chapter, verse) as
+        const result = query.get(source, book, chapter, verse) as
             | VerseRecord
             | undefined;
 

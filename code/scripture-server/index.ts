@@ -19,7 +19,8 @@ Bun.serve({
 
         if (isValid) {
             try {
-                const verse = await getVerseByReference(reference);
+                const [source] = validatePath(path);
+                const verse = await getVerseByReference(reference, source);
                 return jsonResponse({
                     ...verse,
                     prev: calculatePrev(path),
