@@ -1,7 +1,11 @@
-import { ValidationError, NotFoundError, DatabaseError } from "./errors";
-import { VerseRepository, type VerseRecord } from "./database";
+import { ValidationError, NotFoundError, DatabaseError } from "../utils/errors";
+import { VerseRepository } from "../database/repository";
+import type { VerseResponse } from "../models";
 
-export const getVerseByReference = async (ref: string, source: string) => {
+export const getVerseByReference = async (
+    ref: string,
+    source: string,
+): Promise<VerseResponse> => {
     try {
         // Parse the reference (e.g., "1_Nephi 1:1" or "1 Nephi 1:1")
         const normalizedRef = ref.replace(/_/g, " ");

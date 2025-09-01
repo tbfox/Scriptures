@@ -1,12 +1,18 @@
-import { calculateNext, calculatePrev } from "./src/calculateNext";
-import { getVerseByReference } from "./src/getVerseByReference";
-import { resolveReference, validatePath } from "./src/referenceResolver";
+import {
+    calculateNext,
+    calculatePrev,
+} from "./src/navigation/referenceNavigation";
+import { getVerseByReference } from "./src/services/verseService";
+import {
+    resolveReference,
+    validatePath,
+} from "./src/services/referenceResolver";
 import {
     ValidationError,
     NotFoundError,
     DatabaseError,
     getErrorStatusCode,
-} from "./src/errors";
+} from "./src/utils/errors";
 import { dbManager } from "./src/database";
 
 Bun.serve({

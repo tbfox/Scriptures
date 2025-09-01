@@ -1,15 +1,11 @@
-import { ValidationError } from "./errors";
-import {
-    VerseRepository,
-    getMaxVerseForChapter,
-    getBooksForSource,
-} from "./database";
+import { ValidationError } from "../utils/errors";
+import { getMaxVerseForChapter, getBooksForSource } from "../database/helpers";
 import {
     getBookOrder,
     getBookCodeToNameMapping,
     getBookNameToCodeMapping,
     getSourceToFirstBookMapping,
-} from "./metadata";
+} from "../services/metadataService";
 
 // Load mappings from metadata files
 const sourceToFirstBook = getSourceToFirstBookMapping();

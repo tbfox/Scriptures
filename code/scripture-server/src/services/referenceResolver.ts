@@ -1,19 +1,14 @@
-import { ValidationError } from "./errors";
+import { ValidationError } from "../utils/errors";
 import {
     getAvailableSources,
     getBooksForSource,
     verseExists,
-} from "./database";
+} from "../database";
 import {
     getBookCodeToNameMapping,
     getSourceToFirstBookMapping,
-} from "./metadata";
-
-interface Reference {
-    reference: string;
-    isValid: boolean;
-    error?: string;
-}
+} from "./metadataService";
+import type { Reference } from "../models";
 
 // Handle source aliases (e.g., 'dnc' -> 'dc')
 const sourceAliases: Map<string, string> = new Map([

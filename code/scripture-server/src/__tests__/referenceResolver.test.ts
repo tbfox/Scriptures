@@ -1,5 +1,5 @@
 import { describe, test, expect } from "bun:test";
-import { resolveReference } from "./referenceResolver";
+import { resolveReference } from "../services/referenceResolver";
 
 describe("resolveReference", () => {
     test("should resolve source only reference (now defaults to first book, chapter 1, verse 1)", () => {
