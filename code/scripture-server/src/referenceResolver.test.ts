@@ -38,6 +38,54 @@ describe("resolveReference", () => {
         expect(result.isValid).toEqual(true);
     });
 
+    test("should resolve New Testament source-only reference", () => {
+        const result = resolveReference(["nt"]);
+        expect(result.reference).toBe("Matthew 1:1");
+        expect(result.isValid).toBe(true);
+    });
+
+    test("should resolve New Testament book reference", () => {
+        const result = resolveReference(["nt", "john"]);
+        expect(result.reference).toBe("John 1:1");
+        expect(result.isValid).toBe(true);
+    });
+
+    test("should resolve New Testament full reference", () => {
+        const result = resolveReference(["nt", "john", "3", "16"]);
+        expect(result.reference).toBe("John 3:16");
+        expect(result.isValid).toBe(true);
+    });
+
+    test("should resolve Old Testament source-only reference", () => {
+        const result = resolveReference(["ot"]);
+        expect(result.reference).toBe("Genesis 1:1");
+        expect(result.isValid).toBe(true);
+    });
+
+    test("should resolve Old Testament book reference", () => {
+        const result = resolveReference(["ot", "ps"]);
+        expect(result.reference).toBe("Psalms 1:1");
+        expect(result.isValid).toBe(true);
+    });
+
+    test("should resolve Doctrine & Covenants source-only reference", () => {
+        const result = resolveReference(["dc"]);
+        expect(result.reference).toBe("D&C 1:1");
+        expect(result.isValid).toBe(true);
+    });
+
+    test("should resolve Pearl of Great Price source-only reference", () => {
+        const result = resolveReference(["pgp"]);
+        expect(result.reference).toBe("Moses 1:1");
+        expect(result.isValid).toBe(true);
+    });
+
+    test("should resolve Pearl of Great Price book reference", () => {
+        const result = resolveReference(["pgp", "abr"]);
+        expect(result.reference).toBe("Abraham 1:1");
+        expect(result.isValid).toBe(true);
+    });
+
     test("should handle invalid inputs", () => {
         // Empty path should still fail
         expect(resolveReference([]).isValid).toBe(false);

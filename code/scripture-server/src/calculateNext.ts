@@ -6,32 +6,124 @@ import {
     verseExists,
 } from "./database";
 
-// Book order mapping for Book of Mormon
-const bofmBookOrder = [
-    "1 Nephi",
-    "2 Nephi",
-    "Jacob",
-    "Enos",
-    "Jarom",
-    "Omni",
-    "Words of Mormon",
-    "Mosiah",
-    "Alma",
-    "Helaman",
-    "3 Nephi",
-    "4 Nephi",
-    "Mormon",
-    "Ether",
-    "Moroni",
-];
-
 // Map sources to their first book (for source-only requests)
 const sourceToFirstBook: Map<string, string> = new Map([
     ["bofm", "1-ne"],
     ["nt", "mat"],
     ["ot", "gen"],
-    ["dc", "dc1"],
+    ["dc", "dc"],
     ["pgp", "moses"],
+]);
+
+// Book order mapping for each source
+const bookOrders: Map<string, string[]> = new Map([
+    [
+        "bofm",
+        [
+            "1 Nephi",
+            "2 Nephi",
+            "Jacob",
+            "Enos",
+            "Jarom",
+            "Omni",
+            "Words of Mormon",
+            "Mosiah",
+            "Alma",
+            "Helaman",
+            "3 Nephi",
+            "4 Nephi",
+            "Mormon",
+            "Ether",
+            "Moroni",
+        ],
+    ],
+    [
+        "nt",
+        [
+            "Matthew",
+            "Mark",
+            "Luke",
+            "John",
+            "Acts",
+            "Romans",
+            "1 Corinthians",
+            "2 Corinthians",
+            "Galatians",
+            "Ephesians",
+            "Philippians",
+            "Colossians",
+            "1 Thessalonians",
+            "2 Thessalonians",
+            "1 Timothy",
+            "2 Timothy",
+            "Titus",
+            "Philemon",
+            "Hebrews",
+            "James",
+            "1 Peter",
+            "2 Peter",
+            "1 John",
+            "2 John",
+            "3 John",
+            "Jude",
+            "Revelation",
+        ],
+    ],
+    [
+        "ot",
+        [
+            "Genesis",
+            "Exodus",
+            "Leviticus",
+            "Numbers",
+            "Deuteronomy",
+            "Joshua",
+            "Judges",
+            "Ruth",
+            "1 Samuel",
+            "2 Samuel",
+            "1 Kings",
+            "2 Kings",
+            "1 Chronicles",
+            "2 Chronicles",
+            "Ezra",
+            "Nehemiah",
+            "Esther",
+            "Job",
+            "Psalms",
+            "Proverbs",
+            "Ecclesiastes",
+            "Solomon's Song",
+            "Isaiah",
+            "Jeremiah",
+            "Lamentations",
+            "Ezekiel",
+            "Daniel",
+            "Hosea",
+            "Joel",
+            "Amos",
+            "Obadiah",
+            "Jonah",
+            "Micah",
+            "Nahum",
+            "Habakkuk",
+            "Zephaniah",
+            "Haggai",
+            "Zechariah",
+            "Malachi",
+        ],
+    ],
+    ["dc", ["D&C"]],
+    [
+        "pgp",
+        [
+            "Moses",
+            "Abraham",
+            "Joseph Smith—Matthew",
+            "Joseph Smith—History",
+            "Articles of Faith",
+        ],
+    ],
 ]);
 
 // URL-friendly book codes to full book names mapping
@@ -55,14 +147,86 @@ const bookCodeToName: Map<string, string> = new Map([
     ["ether", "Ether"],
     ["moro", "Moroni"],
     ["moroni", "Moroni"],
+
     // New Testament
     ["mat", "Matthew"],
+    ["mark", "Mark"],
+    ["luke", "Luke"],
+    ["john", "John"],
+    ["acts", "Acts"],
+    ["rom", "Romans"],
+    ["1-cor", "1 Corinthians"],
+    ["2-cor", "2 Corinthians"],
+    ["gal", "Galatians"],
+    ["eph", "Ephesians"],
+    ["phil", "Philippians"],
+    ["col", "Colossians"],
+    ["1-thes", "1 Thessalonians"],
+    ["2-thes", "2 Thessalonians"],
+    ["1-tim", "1 Timothy"],
+    ["2-tim", "2 Timothy"],
+    ["titus", "Titus"],
+    ["philem", "Philemon"],
+    ["heb", "Hebrews"],
+    ["james", "James"],
+    ["1-pet", "1 Peter"],
+    ["2-pet", "2 Peter"],
+    ["1-jn", "1 John"],
+    ["2-jn", "2 John"],
+    ["3-jn", "3 John"],
+    ["jude", "Jude"],
+    ["rev", "Revelation"],
+
     // Old Testament
     ["gen", "Genesis"],
+    ["ex", "Exodus"],
+    ["lev", "Leviticus"],
+    ["num", "Numbers"],
+    ["deut", "Deuteronomy"],
+    ["josh", "Joshua"],
+    ["judg", "Judges"],
+    ["ruth", "Ruth"],
+    ["1-sam", "1 Samuel"],
+    ["2-sam", "2 Samuel"],
+    ["1-kgs", "1 Kings"],
+    ["2-kgs", "2 Kings"],
+    ["1-chr", "1 Chronicles"],
+    ["2-chr", "2 Chronicles"],
+    ["ezra", "Ezra"],
+    ["neh", "Nehemiah"],
+    ["esth", "Esther"],
+    ["job", "Job"],
+    ["ps", "Psalms"],
+    ["prov", "Proverbs"],
+    ["eccl", "Ecclesiastes"],
+    ["song", "Solomon's Song"],
+    ["isa", "Isaiah"],
+    ["jer", "Jeremiah"],
+    ["lam", "Lamentations"],
+    ["ezek", "Ezekiel"],
+    ["dan", "Daniel"],
+    ["hosea", "Hosea"],
+    ["joel", "Joel"],
+    ["amos", "Amos"],
+    ["obad", "Obadiah"],
+    ["jonah", "Jonah"],
+    ["micah", "Micah"],
+    ["nahum", "Nahum"],
+    ["hab", "Habakkuk"],
+    ["zeph", "Zephaniah"],
+    ["hag", "Haggai"],
+    ["zech", "Zechariah"],
+    ["mal", "Malachi"],
+
     // Doctrine & Covenants
-    ["dc1", "D&C"],
+    ["dc", "D&C"],
+
     // Pearl of Great Price
     ["moses", "Moses"],
+    ["abr", "Abraham"],
+    ["js-m", "Joseph Smith—Matthew"],
+    ["js-h", "Joseph Smith—History"],
+    ["a-of-f", "Articles of Faith"],
 ]);
 
 // Reverse mapping for URL generation
@@ -99,24 +263,44 @@ class Reference {
     }
 
     private getBookIndex(): number {
-        return bofmBookOrder.indexOf(this.book);
+        const bookOrder = bookOrders.get(this.source);
+        if (!bookOrder) {
+            throw new ValidationError(
+                `No book order found for source: ${this.source}`,
+            );
+        }
+        return bookOrder.indexOf(this.book);
     }
 
     private incBook(): void {
+        const bookOrder = bookOrders.get(this.source);
+        if (!bookOrder) {
+            throw new ValidationError(
+                `No book order found for source: ${this.source}`,
+            );
+        }
+
         const currentIndex = this.getBookIndex();
         if (currentIndex === -1) {
             throw new ValidationError(`Invalid book: ${this.book}`);
         }
 
-        if (currentIndex >= bofmBookOrder.length - 1) {
+        if (currentIndex >= bookOrder.length - 1) {
             // We're at the last book
             this.book = "END";
         } else {
-            this.book = bofmBookOrder[currentIndex + 1]!;
+            this.book = bookOrder[currentIndex + 1]!;
         }
     }
 
     private decBook(): void {
+        const bookOrder = bookOrders.get(this.source);
+        if (!bookOrder) {
+            throw new ValidationError(
+                `No book order found for source: ${this.source}`,
+            );
+        }
+
         const currentIndex = this.getBookIndex();
         if (currentIndex === -1) {
             throw new ValidationError(`Invalid book: ${this.book}`);
@@ -126,7 +310,7 @@ class Reference {
             // We're at the first book
             this.book = "START";
         } else {
-            this.book = bofmBookOrder[currentIndex - 1]!;
+            this.book = bookOrder[currentIndex - 1]!;
         }
     }
 
