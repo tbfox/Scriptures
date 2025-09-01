@@ -7,6 +7,7 @@ import {
     DatabaseError,
     getErrorStatusCode,
 } from "./src/errors";
+import { dbManager } from "./src/database";
 
 Bun.serve({
     routes: {},
@@ -14,6 +15,15 @@ Bun.serve({
         const path = parsePath(req);
 
         if (path.length === 0) return helpResponse();
+
+        // Health check endpoint
+        if (path.length === 1 && path[0] === "health") {
+            const healthy = isHealthy();
+            return jsonResponse({
+                status: healthy ? "healthy" : "unhealthy",
+                timestamp: new Date().toISOString(),
+            });
+        }
 
         const { isValid, reference, error } = resolveReference(path);
 
@@ -68,3 +78,24 @@ const errorResponse = (message: string, status: number) => {
 };
 
 console.log("Server listening...");
+
+// Graceful shutdown handling
+const shutdown = (signal: string) => {
+    console.log(`\nReceived ${signal}. Closing database connection...`);
+    dbManager.close();
+    console.log("Database connection closed. Exiting.");
+    process.exit(0);
+};
+
+process.on("SIGINT", () => shutdown("SIGINT"));
+process.on("SIGTERM", () => shutdown("SIGTERM"));
+
+// Health check endpoint
+const isHealthy = () => {
+    try {
+        return dbManager.isHealthy();
+    } catch (error) {
+        console.error("Health check failed:", error);
+        return false;
+    }
+};

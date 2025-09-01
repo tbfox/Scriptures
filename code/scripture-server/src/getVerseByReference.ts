@@ -1,5 +1,5 @@
 import { ValidationError, NotFoundError, DatabaseError } from "./errors";
-import { dbManager, type VerseRecord } from "./database";
+import { VerseRepository, type VerseRecord } from "./database";
 
 export const getVerseByReference = async (ref: string, source: string) => {
     try {
@@ -22,16 +22,8 @@ export const getVerseByReference = async (ref: string, source: string) => {
         const chapter = parseInt(chapterVerse[0] || "0");
         const verse = parseInt(chapterVerse[1] || "0");
 
-        // Query the database
-        const db = dbManager.getConnection();
-        const query = db.prepare(`
-            SELECT * FROM verses 
-            WHERE source = ? AND book = ? AND chapter = ? AND verse = ?
-        `);
-
-        const result = query.get(source, book, chapter, verse) as
-            | VerseRecord
-            | undefined;
+        // Query the database using the repository
+        const result = VerseRepository.findVerse(source, book, chapter, verse);
 
         if (!result) {
             throw new NotFoundError(

@@ -1,5 +1,9 @@
 import { ValidationError } from "./errors";
-import { dbManager, getMaxVerseForChapter } from "./database";
+import {
+    VerseRepository,
+    getMaxVerseForChapter,
+    getBooksForSource,
+} from "./database";
 import {
     getBookOrder,
     getBookCodeToNameMapping,
@@ -75,16 +79,10 @@ class Reference {
     }
 
     private getMaxChapter(): number {
-        const db = dbManager.getConnection();
-        const query = db.prepare(`
-            SELECT MAX(chapter) as maxChapter 
-            FROM verses 
-            WHERE source = ? AND book = ?
-        `);
-        const result = query.get(this.source, this.book) as
-            | { maxChapter: number }
-            | undefined;
-        return result?.maxChapter || 1;
+        // Use the existing optimized function which should now benefit from caching
+        const booksInfo = getBooksForSource(this.source);
+        const bookInfo = booksInfo.find((b) => b.book === this.book);
+        return bookInfo?.maxChapter || 1;
     }
 
     private incChapter(): void {
