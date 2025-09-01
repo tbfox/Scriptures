@@ -14,7 +14,7 @@ describe("resolveReference", () => {
 
     test("should resolve full reference with verse", () => {
         const result = resolveReference(["bofm", "1-ne", "13", "14"]);
-        expect(result.reference).toBe("1_Nephi 13:14");
+        expect(result.reference).toBe("1 Nephi 13:14");
         expect(result.isValid).toEqual(true);
     });
 

@@ -1,143 +1,196 @@
 import { ValidationError } from "./errors";
+import {
+    dbManager,
+    getBooksForSource,
+    getMaxVerseForChapter,
+    verseExists,
+} from "./database";
 
-const chapter_count = (await Bun.file(
-    import.meta.dir + "/../res/bofm_book_count.json",
-).json()) as Record<string, number>;
-const verse_count = (await Bun.file(
-    import.meta.dir + "/../res/bofm_verse_count.json",
-).json()) as Record<string, number>;
-
-const bookArr = [
-    "1-ne",
-    "2-ne",
-    "jacob",
-    "enos",
-    "jarom",
-    "omni",
-    "wom",
-    "mosiah",
-    "alma",
-    "hel",
-    "3-ne",
-    "4-ne",
-    "mormon",
-    "ether",
-    "moroni",
+// Book order mapping for Book of Mormon
+const bofmBookOrder = [
+    "1 Nephi",
+    "2 Nephi",
+    "Jacob",
+    "Enos",
+    "Jarom",
+    "Omni",
+    "Words of Mormon",
+    "Mosiah",
+    "Alma",
+    "Helaman",
+    "3 Nephi",
+    "4 Nephi",
+    "Mormon",
+    "Ether",
+    "Moroni",
 ];
 
-const nameMap: Map<string, string> = new Map([
-    ["1-ne", "1_Nephi"],
-    ["2-ne", "2_Nephi"],
+// URL-friendly book codes to full book names mapping
+const bookCodeToName: Map<string, string> = new Map([
+    ["1-ne", "1 Nephi"],
+    ["2-ne", "2 Nephi"],
     ["jacob", "Jacob"],
     ["enos", "Enos"],
     ["jarom", "Jarom"],
     ["omni", "Omni"],
-    ["wom", "Words_of_Mormon"],
+    ["w-of-m", "Words of Mormon"],
+    ["wom", "Words of Mormon"],
     ["mosiah", "Mosiah"],
     ["alma", "Alma"],
     ["hel", "Helaman"],
-    ["3-ne", "3_Nephi"],
-    ["4-ne", "4_Nephi"],
+    ["3-ne", "3 Nephi"],
+    ["4-ne", "4 Nephi"],
+    ["morm", "Mormon"],
     ["mormon", "Mormon"],
     ["ether", "Ether"],
+    ["moro", "Moroni"],
     ["moroni", "Moroni"],
 ]);
 
+// Reverse mapping for URL generation
+const bookNameToCode: Map<string, string> = new Map();
+for (const [code, name] of bookCodeToName.entries()) {
+    if (!bookNameToCode.has(name)) {
+        bookNameToCode.set(name, code);
+    }
+}
+
 class Reference {
+    private source: string;
     private book: string;
-    private verse: number;
     private chapter: number;
-    constructor(_path: string[]) {
-        this.book = _path[1] || "unknown_book";
-        this.chapter = parseInt(_path[2]!);
-        this.verse = parseInt(_path[3]!);
+    private verse: number;
+
+    constructor(path: string[]) {
+        this.source = path[0] || "bofm";
+        const bookCode = path[1] || "1-ne";
+        this.book = bookCodeToName.get(bookCode) || "1 Nephi";
+        this.chapter = parseInt(path[2] || "1");
+        this.verse = parseInt(path[3] || "1");
     }
-    static chapterCount(bookname: string): number {
-        const count = chapter_count[bookname];
-        if (count === undefined)
-            throw new ValidationError(`Book ${bookname} not found.`);
-        return count;
+
+    private getBookIndex(): number {
+        return bofmBookOrder.indexOf(this.book);
     }
-    private incBook() {
-        let i = bookArr.indexOf(this.book);
-        if (i === -1)
-            throw new ValidationError(`Failed to retrieve book index.`);
-        this.book = bookArr[i + 1] || "END";
+
+    private incBook(): void {
+        const currentIndex = this.getBookIndex();
+        if (currentIndex === -1) {
+            throw new ValidationError(`Invalid book: ${this.book}`);
+        }
+
+        if (currentIndex >= bofmBookOrder.length - 1) {
+            // We're at the last book
+            this.book = "END";
+        } else {
+            this.book = bofmBookOrder[currentIndex + 1]!;
+        }
     }
-    private decBook() {
-        let i = bookArr.indexOf(this.book);
-        if (i === -1)
-            throw new ValidationError(`Failed to retrieve book index.`);
-        this.book = bookArr[i - 1] || "START";
+
+    private decBook(): void {
+        const currentIndex = this.getBookIndex();
+        if (currentIndex === -1) {
+            throw new ValidationError(`Invalid book: ${this.book}`);
+        }
+
+        if (currentIndex <= 0) {
+            // We're at the first book
+            this.book = "START";
+        } else {
+            this.book = bofmBookOrder[currentIndex - 1]!;
+        }
     }
-    private incChapter() {
+
+    private getMaxChapter(): number {
+        const db = dbManager.getConnection();
+        const query = db.prepare(`
+            SELECT MAX(chapter) as maxChapter 
+            FROM verses 
+            WHERE source = ? AND book = ?
+        `);
+        const result = query.get(this.source, this.book) as
+            | { maxChapter: number }
+            | undefined;
+        return result?.maxChapter || 1;
+    }
+
+    private incChapter(): void {
         this.chapter++;
-        const maxChapters = chapter_count[nameMap.get(this.book) || "unknown"];
-        if (maxChapters === undefined)
-            throw new ValidationError(
-                "(incChapter) Failed to find maxChapters",
-            );
-        if (this.chapter > maxChapters) {
+        const maxChapter = this.getMaxChapter();
+
+        if (this.chapter > maxChapter) {
             this.chapter = 1;
             this.incBook();
         }
     }
-    private decChapter() {
+
+    private decChapter(): void {
         this.chapter--;
+
         if (this.chapter === 0) {
             this.decBook();
             if (this.book === "START") return;
-            const maxChapters =
-                chapter_count[nameMap.get(this.book) || "unknown"];
-            if (maxChapters === undefined)
-                throw new ValidationError(
-                    "(decChapter) Failed to find maxChapters",
-                );
-            this.chapter = maxChapters;
+
+            // Set to the last chapter of the previous book
+            const maxChapter = this.getMaxChapter();
+            this.chapter = maxChapter;
         }
     }
-    incVerse() {
+
+    incVerse(): void {
         this.verse++;
-        const verseCountIndex = `${nameMap.get(this.book)}-${this.chapter}`;
-        const maxVerses = verse_count[verseCountIndex];
-        if (maxVerses === undefined)
-            throw new ValidationError("(incVerse) Failed to find maxVerses");
-        if (this.verse > maxVerses) {
+        const maxVerse = getMaxVerseForChapter(
+            this.source,
+            this.book,
+            this.chapter,
+        );
+
+        if (this.verse > maxVerse) {
             this.verse = 1;
             this.incChapter();
         }
     }
 
-    decVerse() {
+    decVerse(): void {
         this.verse--;
+
         if (this.verse === 0) {
             this.decChapter();
             if (this.book === "START") return;
-            const verseCountIndex = `${nameMap.get(this.book)}-${this.chapter}`;
-            const maxVerses = verse_count[verseCountIndex];
-            if (maxVerses === undefined)
-                throw new ValidationError(
-                    "(decVerse) Failed to find maxVerses",
-                );
-            this.verse = maxVerses;
+
+            // Set to the last verse of the previous chapter
+            const maxVerse = getMaxVerseForChapter(
+                this.source,
+                this.book,
+                this.chapter,
+            );
+            this.verse = maxVerse;
         }
     }
 
-    getPath() {
+    getPath(): string {
         if (this.book === "END") return "END";
         if (this.book === "START") return "START";
-        return `/bofm/${this.book}/${this.chapter}/${this.verse}`;
+
+        const bookCode = bookNameToCode.get(this.book);
+        if (!bookCode) {
+            throw new ValidationError(
+                `No URL code found for book: ${this.book}`,
+            );
+        }
+
+        return `/${this.source}/${bookCode}/${this.chapter}/${this.verse}`;
     }
 }
 
-export function calculatePrev(_path: string[]) {
-    const ref = new Reference(_path!);
+export function calculatePrev(path: string[]): string {
+    const ref = new Reference(path);
     ref.decVerse();
     return ref.getPath();
 }
 
-export function calculateNext(_path: string[]) {
-    const ref = new Reference(_path!);
+export function calculateNext(path: string[]): string {
+    const ref = new Reference(path);
     ref.incVerse();
     return ref.getPath();
 }

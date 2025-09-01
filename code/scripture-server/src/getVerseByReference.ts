@@ -1,18 +1,7 @@
-import { Database } from "bun:sqlite";
 import { ValidationError, NotFoundError, DatabaseError } from "./errors";
-
-type VerseRecord = {
-    id: number;
-    source: string;
-    book: string;
-    chapter: number;
-    verse: number;
-    content: string;
-};
+import { dbManager, type VerseRecord } from "./database";
 
 export const getVerseByReference = async (ref: string) => {
-    const db = new Database(import.meta.dir + "/../res/standard-works.sqlite");
-
     try {
         // Parse the reference (e.g., "1_Nephi 1:1" or "1 Nephi 1:1")
         const normalizedRef = ref.replace(/_/g, " ");
@@ -34,6 +23,7 @@ export const getVerseByReference = async (ref: string) => {
         const verse = parseInt(chapterVerse[1] || "0");
 
         // Query the database
+        const db = dbManager.getConnection();
         const query = db.prepare(`
             SELECT * FROM verses 
             WHERE book = ? AND chapter = ? AND verse = ?
@@ -66,7 +56,5 @@ export const getVerseByReference = async (ref: string) => {
         throw new DatabaseError(
             `Database error while retrieving verse: ${error instanceof Error ? error.message : "Unknown error"}`,
         );
-    } finally {
-        db.close();
     }
 };

@@ -1,4 +1,9 @@
 import { ValidationError } from "./errors";
+import {
+    getAvailableSources,
+    getBooksForSource,
+    verseExists,
+} from "./database";
 
 interface Reference {
     reference: string;
@@ -6,31 +11,32 @@ interface Reference {
     error?: string;
 }
 
-const sources: Map<string, string> = new Map([
-    ["bofm", "Book of Mormon"],
-    ["nt", "New Testament"],
-    ["ot", "Old Testament"],
-    ["pgp", "Pearl of Great Price"],
-    ["dnc", "Doctrine and Covenents"],
-    ["dc-testament", "Doctrine and Covenents"],
+// Map source aliases to canonical names
+const sourceAliases: Map<string, string> = new Map([
+    ["dnc", "dc"],
+    ["dc-testament", "dc"],
 ]);
 
-const bofmMap: Map<string, string> = new Map([
-    ["1-ne", "1_Nephi"],
-    ["2-ne", "2_Nephi"],
+// Map URL-friendly book codes to database book names
+const bookCodeToName: Map<string, string> = new Map([
+    ["1-ne", "1 Nephi"],
+    ["2-ne", "2 Nephi"],
     ["jacob", "Jacob"],
     ["enos", "Enos"],
     ["jarom", "Jarom"],
     ["omni", "Omni"],
-    ["w-of-m", "Words_of_Mormon"],
+    ["w-of-m", "Words of Mormon"],
+    ["wom", "Words of Mormon"],
     ["mosiah", "Mosiah"],
     ["alma", "Alma"],
     ["hel", "Helaman"],
-    ["3-ne", "3_Nephi"],
-    ["4-ne", "4_Nephi"],
+    ["3-ne", "3 Nephi"],
+    ["4-ne", "4 Nephi"],
     ["morm", "Mormon"],
+    ["mormon", "Mormon"],
     ["ether", "Ether"],
     ["moro", "Moroni"],
+    ["moroni", "Moroni"],
 ]);
 
 export function validatePath(path: string[]): [string, string, string, string] {
@@ -43,45 +49,69 @@ export function validatePath(path: string[]): [string, string, string, string] {
             "Too many arguments. Format: /source/book/chapter/verse",
         );
 
+    // Normalize source name
     let source = path[0]!;
+    source = sourceAliases.get(source) || source;
 
-    if (source === "dnc") {
-        source = "dc-testament";
-    }
-
-    if (!sources.has(source)) {
-        throw new ValidationError(`Source '${source}' is not a valid source.`);
-    }
-
-    const book = path[1]!;
-
-    if (bofmMap.get(book) === undefined)
+    // Validate source exists in database
+    const availableSources = getAvailableSources();
+    if (!availableSources.includes(source)) {
         throw new ValidationError(
-            `Book '${book}' does not exist in the Book of Mormon.`,
+            `Source '${path[0]}' is not a valid source. Available sources: ${availableSources.join(", ")}`,
         );
+    }
 
+    const bookCode = path[1]!;
+    const bookName = bookCodeToName.get(bookCode);
+
+    if (!bookName) {
+        throw new ValidationError(`Book code '${bookCode}' is not recognized.`);
+    }
+
+    // Validate book exists in the specified source
+    const booksForSource = getBooksForSource(source);
+    const bookExists = booksForSource.some((b) => b.book === bookName);
+
+    if (!bookExists) {
+        const availableBooks = booksForSource.map((b) => b.book).join(", ");
+        throw new ValidationError(
+            `Book '${bookName}' does not exist in source '${source}'. Available books: ${availableBooks}`,
+        );
+    }
+
+    // Validate chapter and verse are numbers
     if (!/^\d+$/.test(path[2]!))
         throw new ValidationError(`Chapter '${path[2]}' is not a number.`);
 
     if (!/^\d+$/.test(path[3]!))
         throw new ValidationError(`Verse '${path[3]}' is not a number.`);
 
-    return path as [string, string, string, string];
+    const chapter = parseInt(path[2]!);
+    const verse = parseInt(path[3]!);
+
+    // Validate verse exists in database
+    if (!verseExists(source, bookName, chapter, verse)) {
+        throw new ValidationError(
+            `Verse ${bookName} ${chapter}:${verse} does not exist in the database.`,
+        );
+    }
+
+    return [source, bookCode, path[2]!, path[3]!];
 }
 
 export function resolveReference(path: string[]): Reference {
     try {
-        path = validatePath(path);
+        const validatedPath = validatePath(path);
+        const [source, bookCode, chapterStr, verseStr] = validatedPath;
 
-        const bookCode = path[1]!;
-        const book = bofmMap.get(bookCode);
-
-        if (book === undefined)
+        const bookName = bookCodeToName.get(bookCode);
+        if (!bookName) {
             throw new ValidationError(
-                `Book '${bookCode}' does not exist in the Book of Mormon.`,
+                `Book code '${bookCode}' is not recognized.`,
             );
+        }
 
-        const reference = `${book} ${path[2]}:${path[3]}`;
+        const reference = `${bookName} ${chapterStr}:${verseStr}`;
 
         return {
             reference,
