@@ -1,0 +1,1238 @@
+{
+  "metadata": {
+    "total_books": 27,
+    "total_chapters": 260,
+    "description": "Complete New Testament structure with books, chapters, and verse counts"
+  },
+  "books": [
+    {
+      "name": "Matthew",
+      "order": 1,
+      "chapters": 28,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 25
+        },
+        {
+          "chapter": 2,
+          "verses": 23
+        },
+        {
+          "chapter": 3,
+          "verses": 17
+        },
+        {
+          "chapter": 4,
+          "verses": 25
+        },
+        {
+          "chapter": 5,
+          "verses": 48
+        },
+        {
+          "chapter": 6,
+          "verses": 34
+        },
+        {
+          "chapter": 7,
+          "verses": 29
+        },
+        {
+          "chapter": 8,
+          "verses": 34
+        },
+        {
+          "chapter": 9,
+          "verses": 38
+        },
+        {
+          "chapter": 10,
+          "verses": 42
+        },
+        {
+          "chapter": 11,
+          "verses": 30
+        },
+        {
+          "chapter": 12,
+          "verses": 50
+        },
+        {
+          "chapter": 13,
+          "verses": 58
+        },
+        {
+          "chapter": 14,
+          "verses": 36
+        },
+        {
+          "chapter": 15,
+          "verses": 39
+        },
+        {
+          "chapter": 16,
+          "verses": 28
+        },
+        {
+          "chapter": 17,
+          "verses": 27
+        },
+        {
+          "chapter": 18,
+          "verses": 35
+        },
+        {
+          "chapter": 19,
+          "verses": 30
+        },
+        {
+          "chapter": 20,
+          "verses": 34
+        },
+        {
+          "chapter": 21,
+          "verses": 46
+        },
+        {
+          "chapter": 22,
+          "verses": 46
+        },
+        {
+          "chapter": 23,
+          "verses": 39
+        },
+        {
+          "chapter": 24,
+          "verses": 51
+        },
+        {
+          "chapter": 25,
+          "verses": 46
+        },
+        {
+          "chapter": 26,
+          "verses": 75
+        },
+        {
+          "chapter": 27,
+          "verses": 66
+        },
+        {
+          "chapter": 28,
+          "verses": 20
+        }
+      ]
+    },
+    {
+      "name": "Mark",
+      "order": 2,
+      "chapters": 16,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 45
+        },
+        {
+          "chapter": 2,
+          "verses": 28
+        },
+        {
+          "chapter": 3,
+          "verses": 35
+        },
+        {
+          "chapter": 4,
+          "verses": 41
+        },
+        {
+          "chapter": 5,
+          "verses": 43
+        },
+        {
+          "chapter": 6,
+          "verses": 56
+        },
+        {
+          "chapter": 7,
+          "verses": 37
+        },
+        {
+          "chapter": 8,
+          "verses": 38
+        },
+        {
+          "chapter": 9,
+          "verses": 50
+        },
+        {
+          "chapter": 10,
+          "verses": 52
+        },
+        {
+          "chapter": 11,
+          "verses": 33
+        },
+        {
+          "chapter": 12,
+          "verses": 44
+        },
+        {
+          "chapter": 13,
+          "verses": 37
+        },
+        {
+          "chapter": 14,
+          "verses": 72
+        },
+        {
+          "chapter": 15,
+          "verses": 47
+        },
+        {
+          "chapter": 16,
+          "verses": 20
+        }
+      ]
+    },
+    {
+      "name": "Luke",
+      "order": 3,
+      "chapters": 24,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 80
+        },
+        {
+          "chapter": 2,
+          "verses": 52
+        },
+        {
+          "chapter": 3,
+          "verses": 38
+        },
+        {
+          "chapter": 4,
+          "verses": 44
+        },
+        {
+          "chapter": 5,
+          "verses": 39
+        },
+        {
+          "chapter": 6,
+          "verses": 49
+        },
+        {
+          "chapter": 7,
+          "verses": 50
+        },
+        {
+          "chapter": 8,
+          "verses": 56
+        },
+        {
+          "chapter": 9,
+          "verses": 62
+        },
+        {
+          "chapter": 10,
+          "verses": 42
+        },
+        {
+          "chapter": 11,
+          "verses": 54
+        },
+        {
+          "chapter": 12,
+          "verses": 59
+        },
+        {
+          "chapter": 13,
+          "verses": 35
+        },
+        {
+          "chapter": 14,
+          "verses": 35
+        },
+        {
+          "chapter": 15,
+          "verses": 32
+        },
+        {
+          "chapter": 16,
+          "verses": 31
+        },
+        {
+          "chapter": 17,
+          "verses": 37
+        },
+        {
+          "chapter": 18,
+          "verses": 43
+        },
+        {
+          "chapter": 19,
+          "verses": 48
+        },
+        {
+          "chapter": 20,
+          "verses": 47
+        },
+        {
+          "chapter": 21,
+          "verses": 38
+        },
+        {
+          "chapter": 22,
+          "verses": 71
+        },
+        {
+          "chapter": 23,
+          "verses": 56
+        },
+        {
+          "chapter": 24,
+          "verses": 53
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "order": 4,
+      "chapters": 21,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 51
+        },
+        {
+          "chapter": 2,
+          "verses": 25
+        },
+        {
+          "chapter": 3,
+          "verses": 36
+        },
+        {
+          "chapter": 4,
+          "verses": 54
+        },
+        {
+          "chapter": 5,
+          "verses": 47
+        },
+        {
+          "chapter": 6,
+          "verses": 71
+        },
+        {
+          "chapter": 7,
+          "verses": 53
+        },
+        {
+          "chapter": 8,
+          "verses": 59
+        },
+        {
+          "chapter": 9,
+          "verses": 41
+        },
+        {
+          "chapter": 10,
+          "verses": 42
+        },
+        {
+          "chapter": 11,
+          "verses": 57
+        },
+        {
+          "chapter": 12,
+          "verses": 50
+        },
+        {
+          "chapter": 13,
+          "verses": 38
+        },
+        {
+          "chapter": 14,
+          "verses": 31
+        },
+        {
+          "chapter": 15,
+          "verses": 27
+        },
+        {
+          "chapter": 16,
+          "verses": 33
+        },
+        {
+          "chapter": 17,
+          "verses": 26
+        },
+        {
+          "chapter": 18,
+          "verses": 40
+        },
+        {
+          "chapter": 19,
+          "verses": 42
+        },
+        {
+          "chapter": 20,
+          "verses": 31
+        },
+        {
+          "chapter": 21,
+          "verses": 25
+        }
+      ]
+    },
+    {
+      "name": "Acts",
+      "order": 5,
+      "chapters": 28,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 26
+        },
+        {
+          "chapter": 2,
+          "verses": 47
+        },
+        {
+          "chapter": 3,
+          "verses": 26
+        },
+        {
+          "chapter": 4,
+          "verses": 37
+        },
+        {
+          "chapter": 5,
+          "verses": 42
+        },
+        {
+          "chapter": 6,
+          "verses": 15
+        },
+        {
+          "chapter": 7,
+          "verses": 60
+        },
+        {
+          "chapter": 8,
+          "verses": 40
+        },
+        {
+          "chapter": 9,
+          "verses": 43
+        },
+        {
+          "chapter": 10,
+          "verses": 48
+        },
+        {
+          "chapter": 11,
+          "verses": 30
+        },
+        {
+          "chapter": 12,
+          "verses": 25
+        },
+        {
+          "chapter": 13,
+          "verses": 52
+        },
+        {
+          "chapter": 14,
+          "verses": 28
+        },
+        {
+          "chapter": 15,
+          "verses": 41
+        },
+        {
+          "chapter": 16,
+          "verses": 40
+        },
+        {
+          "chapter": 17,
+          "verses": 34
+        },
+        {
+          "chapter": 18,
+          "verses": 28
+        },
+        {
+          "chapter": 19,
+          "verses": 41
+        },
+        {
+          "chapter": 20,
+          "verses": 38
+        },
+        {
+          "chapter": 21,
+          "verses": 40
+        },
+        {
+          "chapter": 22,
+          "verses": 30
+        },
+        {
+          "chapter": 23,
+          "verses": 35
+        },
+        {
+          "chapter": 24,
+          "verses": 27
+        },
+        {
+          "chapter": 25,
+          "verses": 27
+        },
+        {
+          "chapter": 26,
+          "verses": 32
+        },
+        {
+          "chapter": 27,
+          "verses": 44
+        },
+        {
+          "chapter": 28,
+          "verses": 31
+        }
+      ]
+    },
+    {
+      "name": "Romans",
+      "order": 6,
+      "chapters": 16,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 32
+        },
+        {
+          "chapter": 2,
+          "verses": 29
+        },
+        {
+          "chapter": 3,
+          "verses": 31
+        },
+        {
+          "chapter": 4,
+          "verses": 25
+        },
+        {
+          "chapter": 5,
+          "verses": 21
+        },
+        {
+          "chapter": 6,
+          "verses": 23
+        },
+        {
+          "chapter": 7,
+          "verses": 25
+        },
+        {
+          "chapter": 8,
+          "verses": 39
+        },
+        {
+          "chapter": 9,
+          "verses": 33
+        },
+        {
+          "chapter": 10,
+          "verses": 21
+        },
+        {
+          "chapter": 11,
+          "verses": 36
+        },
+        {
+          "chapter": 12,
+          "verses": 21
+        },
+        {
+          "chapter": 13,
+          "verses": 14
+        },
+        {
+          "chapter": 14,
+          "verses": 23
+        },
+        {
+          "chapter": 15,
+          "verses": 33
+        },
+        {
+          "chapter": 16,
+          "verses": 27
+        }
+      ]
+    },
+    {
+      "name": "1 Corinthians",
+      "order": 7,
+      "chapters": 16,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 31
+        },
+        {
+          "chapter": 2,
+          "verses": 16
+        },
+        {
+          "chapter": 3,
+          "verses": 23
+        },
+        {
+          "chapter": 4,
+          "verses": 21
+        },
+        {
+          "chapter": 5,
+          "verses": 13
+        },
+        {
+          "chapter": 6,
+          "verses": 20
+        },
+        {
+          "chapter": 7,
+          "verses": 40
+        },
+        {
+          "chapter": 8,
+          "verses": 13
+        },
+        {
+          "chapter": 9,
+          "verses": 27
+        },
+        {
+          "chapter": 10,
+          "verses": 33
+        },
+        {
+          "chapter": 11,
+          "verses": 34
+        },
+        {
+          "chapter": 12,
+          "verses": 31
+        },
+        {
+          "chapter": 13,
+          "verses": 13
+        },
+        {
+          "chapter": 14,
+          "verses": 40
+        },
+        {
+          "chapter": 15,
+          "verses": 58
+        },
+        {
+          "chapter": 16,
+          "verses": 24
+        }
+      ]
+    },
+    {
+      "name": "2 Corinthians",
+      "order": 8,
+      "chapters": 13,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 24
+        },
+        {
+          "chapter": 2,
+          "verses": 17
+        },
+        {
+          "chapter": 3,
+          "verses": 18
+        },
+        {
+          "chapter": 4,
+          "verses": 18
+        },
+        {
+          "chapter": 5,
+          "verses": 21
+        },
+        {
+          "chapter": 6,
+          "verses": 18
+        },
+        {
+          "chapter": 7,
+          "verses": 16
+        },
+        {
+          "chapter": 8,
+          "verses": 24
+        },
+        {
+          "chapter": 9,
+          "verses": 15
+        },
+        {
+          "chapter": 10,
+          "verses": 18
+        },
+        {
+          "chapter": 11,
+          "verses": 33
+        },
+        {
+          "chapter": 12,
+          "verses": 21
+        },
+        {
+          "chapter": 13,
+          "verses": 14
+        }
+      ]
+    },
+    {
+      "name": "Galatians",
+      "order": 9,
+      "chapters": 6,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 24
+        },
+        {
+          "chapter": 2,
+          "verses": 21
+        },
+        {
+          "chapter": 3,
+          "verses": 29
+        },
+        {
+          "chapter": 4,
+          "verses": 31
+        },
+        {
+          "chapter": 5,
+          "verses": 26
+        },
+        {
+          "chapter": 6,
+          "verses": 18
+        }
+      ]
+    },
+    {
+      "name": "Ephesians",
+      "order": 10,
+      "chapters": 6,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 23
+        },
+        {
+          "chapter": 2,
+          "verses": 22
+        },
+        {
+          "chapter": 3,
+          "verses": 21
+        },
+        {
+          "chapter": 4,
+          "verses": 32
+        },
+        {
+          "chapter": 5,
+          "verses": 33
+        },
+        {
+          "chapter": 6,
+          "verses": 24
+        }
+      ]
+    },
+    {
+      "name": "Philippians",
+      "order": 11,
+      "chapters": 4,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 30
+        },
+        {
+          "chapter": 2,
+          "verses": 30
+        },
+        {
+          "chapter": 3,
+          "verses": 21
+        },
+        {
+          "chapter": 4,
+          "verses": 23
+        }
+      ]
+    },
+    {
+      "name": "Colossians",
+      "order": 12,
+      "chapters": 4,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 29
+        },
+        {
+          "chapter": 2,
+          "verses": 23
+        },
+        {
+          "chapter": 3,
+          "verses": 25
+        },
+        {
+          "chapter": 4,
+          "verses": 18
+        }
+      ]
+    },
+    {
+      "name": "1 Thessalonians",
+      "order": 13,
+      "chapters": 5,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 10
+        },
+        {
+          "chapter": 2,
+          "verses": 20
+        },
+        {
+          "chapter": 3,
+          "verses": 13
+        },
+        {
+          "chapter": 4,
+          "verses": 18
+        },
+        {
+          "chapter": 5,
+          "verses": 28
+        }
+      ]
+    },
+    {
+      "name": "2 Thessalonians",
+      "order": 14,
+      "chapters": 3,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 12
+        },
+        {
+          "chapter": 2,
+          "verses": 17
+        },
+        {
+          "chapter": 3,
+          "verses": 18
+        }
+      ]
+    },
+    {
+      "name": "1 Timothy",
+      "order": 15,
+      "chapters": 6,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 20
+        },
+        {
+          "chapter": 2,
+          "verses": 15
+        },
+        {
+          "chapter": 3,
+          "verses": 16
+        },
+        {
+          "chapter": 4,
+          "verses": 16
+        },
+        {
+          "chapter": 5,
+          "verses": 25
+        },
+        {
+          "chapter": 6,
+          "verses": 21
+        }
+      ]
+    },
+    {
+      "name": "2 Timothy",
+      "order": 16,
+      "chapters": 4,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 18
+        },
+        {
+          "chapter": 2,
+          "verses": 26
+        },
+        {
+          "chapter": 3,
+          "verses": 17
+        },
+        {
+          "chapter": 4,
+          "verses": 22
+        }
+      ]
+    },
+    {
+      "name": "Titus",
+      "order": 17,
+      "chapters": 3,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 16
+        },
+        {
+          "chapter": 2,
+          "verses": 15
+        },
+        {
+          "chapter": 3,
+          "verses": 15
+        }
+      ]
+    },
+    {
+      "name": "Philemon",
+      "order": 18,
+      "chapters": 1,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 25
+        }
+      ]
+    },
+    {
+      "name": "Hebrews",
+      "order": 19,
+      "chapters": 13,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 14
+        },
+        {
+          "chapter": 2,
+          "verses": 18
+        },
+        {
+          "chapter": 3,
+          "verses": 19
+        },
+        {
+          "chapter": 4,
+          "verses": 16
+        },
+        {
+          "chapter": 5,
+          "verses": 14
+        },
+        {
+          "chapter": 6,
+          "verses": 20
+        },
+        {
+          "chapter": 7,
+          "verses": 28
+        },
+        {
+          "chapter": 8,
+          "verses": 13
+        },
+        {
+          "chapter": 9,
+          "verses": 28
+        },
+        {
+          "chapter": 10,
+          "verses": 39
+        },
+        {
+          "chapter": 11,
+          "verses": 40
+        },
+        {
+          "chapter": 12,
+          "verses": 29
+        },
+        {
+          "chapter": 13,
+          "verses": 25
+        }
+      ]
+    },
+    {
+      "name": "James",
+      "order": 20,
+      "chapters": 5,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 27
+        },
+        {
+          "chapter": 2,
+          "verses": 26
+        },
+        {
+          "chapter": 3,
+          "verses": 18
+        },
+        {
+          "chapter": 4,
+          "verses": 17
+        },
+        {
+          "chapter": 5,
+          "verses": 20
+        }
+      ]
+    },
+    {
+      "name": "1 Peter",
+      "order": 21,
+      "chapters": 5,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 25
+        },
+        {
+          "chapter": 2,
+          "verses": 25
+        },
+        {
+          "chapter": 3,
+          "verses": 22
+        },
+        {
+          "chapter": 4,
+          "verses": 19
+        },
+        {
+          "chapter": 5,
+          "verses": 14
+        }
+      ]
+    },
+    {
+      "name": "2 Peter",
+      "order": 22,
+      "chapters": 3,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 21
+        },
+        {
+          "chapter": 2,
+          "verses": 22
+        },
+        {
+          "chapter": 3,
+          "verses": 18
+        }
+      ]
+    },
+    {
+      "name": "1 John",
+      "order": 23,
+      "chapters": 5,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 10
+        },
+        {
+          "chapter": 2,
+          "verses": 29
+        },
+        {
+          "chapter": 3,
+          "verses": 24
+        },
+        {
+          "chapter": 4,
+          "verses": 21
+        },
+        {
+          "chapter": 5,
+          "verses": 21
+        }
+      ]
+    },
+    {
+      "name": "2 John",
+      "order": 24,
+      "chapters": 1,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 13
+        }
+      ]
+    },
+    {
+      "name": "3 John",
+      "order": 25,
+      "chapters": 1,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 14
+        }
+      ]
+    },
+    {
+      "name": "Jude",
+      "order": 26,
+      "chapters": 1,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 25
+        }
+      ]
+    },
+    {
+      "name": "Revelation",
+      "order": 27,
+      "chapters": 22,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 20
+        },
+        {
+          "chapter": 2,
+          "verses": 29
+        },
+        {
+          "chapter": 3,
+          "verses": 22
+        },
+        {
+          "chapter": 4,
+          "verses": 11
+        },
+        {
+          "chapter": 5,
+          "verses": 14
+        },
+        {
+          "chapter": 6,
+          "verses": 17
+        },
+        {
+          "chapter": 7,
+          "verses": 17
+        },
+        {
+          "chapter": 8,
+          "verses": 13
+        },
+        {
+          "chapter": 9,
+          "verses": 21
+        },
+        {
+          "chapter": 10,
+          "verses": 11
+        },
+        {
+          "chapter": 11,
+          "verses": 19
+        },
+        {
+          "chapter": 12,
+          "verses": 17
+        },
+        {
+          "chapter": 13,
+          "verses": 18
+        },
+        {
+          "chapter": 14,
+          "verses": 20
+        },
+        {
+          "chapter": 15,
+          "verses": 8
+        },
+        {
+          "chapter": 16,
+          "verses": 21
+        },
+        {
+          "chapter": 17,
+          "verses": 18
+        },
+        {
+          "chapter": 18,
+          "verses": 24
+        },
+        {
+          "chapter": 19,
+          "verses": 21
+        },
+        {
+          "chapter": 20,
+          "verses": 15
+        },
+        {
+          "chapter": 21,
+          "verses": 27
+        },
+        {
+          "chapter": 22,
+          "verses": 21
+        }
+      ]
+    }
+  ]
+}

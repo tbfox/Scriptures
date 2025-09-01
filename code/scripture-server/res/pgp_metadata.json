@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "total_books": 5,
+    "total_chapters": 16,
+    "description": "Complete Pearl of Great Price structure with books, chapters, and verse counts"
+  },
+  "books": [
+    {
+      "name": "Moses",
+      "order": 1,
+      "chapters": 8,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 42
+        },
+        {
+          "chapter": 2,
+          "verses": 31
+        },
+        {
+          "chapter": 3,
+          "verses": 25
+        },
+        {
+          "chapter": 4,
+          "verses": 32
+        },
+        {
+          "chapter": 5,
+          "verses": 59
+        },
+        {
+          "chapter": 6,
+          "verses": 68
+        },
+        {
+          "chapter": 7,
+          "verses": 69
+        },
+        {
+          "chapter": 8,
+          "verses": 30
+        }
+      ]
+    },
+    {
+      "name": "Abraham",
+      "order": 2,
+      "chapters": 5,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 31
+        },
+        {
+          "chapter": 2,
+          "verses": 25
+        },
+        {
+          "chapter": 3,
+          "verses": 28
+        },
+        {
+          "chapter": 4,
+          "verses": 31
+        },
+        {
+          "chapter": 5,
+          "verses": 21
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith—Matthew",
+      "order": 3,
+      "chapters": 1,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 55
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith—History",
+      "order": 4,
+      "chapters": 1,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 75
+        }
+      ]
+    },
+    {
+      "name": "Articles of Faith",
+      "order": 5,
+      "chapters": 1,
+      "chapter_details": [
+        {
+          "chapter": 1,
+          "verses": 13
+        }
+      ]
+    }
+  ]
+}
