@@ -66,6 +66,7 @@ class Reference {
         const bookCode = path[1] || "1-ne";
         this.book = bookCodeToName.get(bookCode) || "1 Nephi";
         this.chapter = parseInt(path[2] || "1");
+        // Default to verse 1 if not provided (handles 3-element paths)
         this.verse = parseInt(path[3] || "1");
     }
 

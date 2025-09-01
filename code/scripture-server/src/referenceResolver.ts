@@ -43,11 +43,13 @@ export function validatePath(path: string[]): [string, string, string, string] {
     if (path.length < 1) throw new ValidationError("Source name is required.");
     if (path.length < 2) throw new ValidationError("Book name is required.");
     if (path.length < 3) throw new ValidationError("Chapter is required.");
-    if (path.length < 4) throw new ValidationError("Verse is required.");
     if (path.length > 4)
         throw new ValidationError(
-            "Too many arguments. Format: /source/book/chapter/verse",
+            "Too many arguments. Format: /source/book/chapter[/verse]",
         );
+
+    // Default to verse 1 if not provided
+    const verse = path.length >= 4 ? path[3]! : "1";
 
     // Normalize source name
     let source = path[0]!;
@@ -83,20 +85,20 @@ export function validatePath(path: string[]): [string, string, string, string] {
     if (!/^\d+$/.test(path[2]!))
         throw new ValidationError(`Chapter '${path[2]}' is not a number.`);
 
-    if (!/^\d+$/.test(path[3]!))
-        throw new ValidationError(`Verse '${path[3]}' is not a number.`);
+    if (!/^\d+$/.test(verse))
+        throw new ValidationError(`Verse '${verse}' is not a number.`);
 
     const chapter = parseInt(path[2]!);
-    const verse = parseInt(path[3]!);
+    const verseNum = parseInt(verse);
 
     // Validate verse exists in database
-    if (!verseExists(source, bookName, chapter, verse)) {
+    if (!verseExists(source, bookName, chapter, verseNum)) {
         throw new ValidationError(
-            `Verse ${bookName} ${chapter}:${verse} does not exist in the database.`,
+            `Verse ${bookName} ${chapter}:${verseNum} does not exist in the database.`,
         );
     }
 
-    return [source, bookCode, path[2]!, path[3]!];
+    return [source, bookCode, path[2]!, verse];
 }
 
 export function resolveReference(path: string[]): Reference {
