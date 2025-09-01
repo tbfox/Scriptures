@@ -1,3 +1,5 @@
+import { ValidationError } from "./errors";
+
 const chapter_count = (await Bun.file(
     import.meta.dir + "/../res/bofm_book_count.json",
 ).json()) as Record<string, number>;
@@ -52,24 +54,29 @@ class Reference {
     }
     static chapterCount(bookname: string): number {
         const count = chapter_count[bookname];
-        if (count === undefined) throw `Book ${bookname} not found.`;
+        if (count === undefined)
+            throw new ValidationError(`Book ${bookname} not found.`);
         return count;
     }
     private incBook() {
         let i = bookArr.indexOf(this.book);
-        if (i === -1) throw `Failed to retrieve book index.`;
+        if (i === -1)
+            throw new ValidationError(`Failed to retrieve book index.`);
         this.book = bookArr[i + 1] || "END";
     }
     private decBook() {
         let i = bookArr.indexOf(this.book);
-        if (i === -1) throw `Failed to retrieve book index.`;
+        if (i === -1)
+            throw new ValidationError(`Failed to retrieve book index.`);
         this.book = bookArr[i - 1] || "START";
     }
     private incChapter() {
         this.chapter++;
         const maxChapters = chapter_count[nameMap.get(this.book) || "unknown"];
         if (maxChapters === undefined)
-            throw "(incChapter) Failed to find maxChapters";
+            throw new ValidationError(
+                "(incChapter) Failed to find maxChapters",
+            );
         if (this.chapter > maxChapters) {
             this.chapter = 1;
             this.incBook();
@@ -83,7 +90,9 @@ class Reference {
             const maxChapters =
                 chapter_count[nameMap.get(this.book) || "unknown"];
             if (maxChapters === undefined)
-                throw "(decChapter) Failed to find maxChapters";
+                throw new ValidationError(
+                    "(decChapter) Failed to find maxChapters",
+                );
             this.chapter = maxChapters;
         }
     }
@@ -92,7 +101,7 @@ class Reference {
         const verseCountIndex = `${nameMap.get(this.book)}-${this.chapter}`;
         const maxVerses = verse_count[verseCountIndex];
         if (maxVerses === undefined)
-            throw "(incVerse) Failed to find maxVerses";
+            throw new ValidationError("(incVerse) Failed to find maxVerses");
         if (this.verse > maxVerses) {
             this.verse = 1;
             this.incChapter();
@@ -107,7 +116,9 @@ class Reference {
             const verseCountIndex = `${nameMap.get(this.book)}-${this.chapter}`;
             const maxVerses = verse_count[verseCountIndex];
             if (maxVerses === undefined)
-                throw "(decVerse) Failed to find maxVerses";
+                throw new ValidationError(
+                    "(decVerse) Failed to find maxVerses",
+                );
             this.verse = maxVerses;
         }
     }

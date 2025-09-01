@@ -1,3 +1,5 @@
+import { ValidationError } from "./errors";
+
 interface Reference {
     reference: string;
     isValid: boolean;
@@ -32,12 +34,14 @@ const bofmMap: Map<string, string> = new Map([
 ]);
 
 export function validatePath(path: string[]): [string, string, string, string] {
-    if (path.length < 1) throw "Source name is required.";
-    if (path.length < 2) throw "Book name is required.";
-    if (path.length < 3) throw "Chapter is required.";
-    if (path.length < 4) throw "Verse is required.";
+    if (path.length < 1) throw new ValidationError("Source name is required.");
+    if (path.length < 2) throw new ValidationError("Book name is required.");
+    if (path.length < 3) throw new ValidationError("Chapter is required.");
+    if (path.length < 4) throw new ValidationError("Verse is required.");
     if (path.length > 4)
-        throw "Too many arguments. Format: /source/book/chapter/verse";
+        throw new ValidationError(
+            "Too many arguments. Format: /source/book/chapter/verse",
+        );
 
     let source = path[0]!;
 
@@ -46,17 +50,21 @@ export function validatePath(path: string[]): [string, string, string, string] {
     }
 
     if (!sources.has(source)) {
-        throw `Source '${source}' is not a valid source.`;
+        throw new ValidationError(`Source '${source}' is not a valid source.`);
     }
 
     const book = path[1]!;
 
     if (bofmMap.get(book) === undefined)
-        throw `Book '${book}' does not exist in the Book of Mormon.`;
+        throw new ValidationError(
+            `Book '${book}' does not exist in the Book of Mormon.`,
+        );
 
-    if (!/^\d+$/.test(path[2]!)) throw `Chapter '${path[2]}' is not a number.`;
+    if (!/^\d+$/.test(path[2]!))
+        throw new ValidationError(`Chapter '${path[2]}' is not a number.`);
 
-    if (!/^\d+$/.test(path[3]!)) throw `Verse '${path[3]}' is not a number.`;
+    if (!/^\d+$/.test(path[3]!))
+        throw new ValidationError(`Verse '${path[3]}' is not a number.`);
 
     return path as [string, string, string, string];
 }
@@ -69,7 +77,9 @@ export function resolveReference(path: string[]): Reference {
         const book = bofmMap.get(bookCode);
 
         if (book === undefined)
-            throw `Book '${bookCode}' does not exist in the Book of Mormon.`;
+            throw new ValidationError(
+                `Book '${bookCode}' does not exist in the Book of Mormon.`,
+            );
 
         const reference = `${book} ${path[2]}:${path[3]}`;
 
@@ -78,17 +88,11 @@ export function resolveReference(path: string[]): Reference {
             isValid: true,
         };
     } catch (e) {
-        if (typeof e === "string")
-            return {
-                reference: "",
-                isValid: false,
-                error: e,
-            };
+        const errorMessage = e instanceof Error ? e.message : "Unknown error";
+        return {
+            reference: "",
+            isValid: false,
+            error: errorMessage,
+        };
     }
-
-    return {
-        reference: "",
-        isValid: false,
-        error: "Unknown",
-    };
 }

@@ -1,6 +1,12 @@
 import { calculateNext, calculatePrev } from "./src/calculateNext";
 import { getVerseByReference } from "./src/getVerseByReference";
 import { resolveReference, validatePath } from "./src/referenceResolver";
+import {
+    ValidationError,
+    NotFoundError,
+    DatabaseError,
+    getErrorStatusCode,
+} from "./src/errors";
 
 Bun.serve({
     routes: {},
@@ -20,12 +26,15 @@ Bun.serve({
                     next: calculateNext(path),
                 });
             } catch (e) {
-                if (typeof e === "string")
-                    return new Response(e, { status: 500 });
+                const errorMessage =
+                    e instanceof Error ? e.message : "Unknown error";
+                const statusCode =
+                    e instanceof Error ? getErrorStatusCode(e) : 500;
+                return errorResponse(errorMessage, statusCode);
             }
         }
 
-        return new Response(error, { status: 400 });
+        return errorResponse(error || "Invalid request", 400);
     },
 });
 
@@ -39,7 +48,22 @@ const help = `-- Scripture Server --
 const helpResponse = () => new Response(help, { status: 404 });
 
 const jsonResponse = (data: any) => {
-    return new Response(JSON.stringify(data));
+    return new Response(JSON.stringify(data), {
+        headers: { "Content-Type": "application/json" },
+    });
+};
+
+const errorResponse = (message: string, status: number) => {
+    return new Response(
+        JSON.stringify({
+            error: message,
+            timestamp: new Date().toISOString(),
+        }),
+        {
+            status,
+            headers: { "Content-Type": "application/json" },
+        },
+    );
 };
 
 console.log("Server listening...");

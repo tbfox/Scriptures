@@ -1,4 +1,5 @@
 import { Database } from "bun:sqlite";
+import { ValidationError, NotFoundError, DatabaseError } from "./errors";
 
 type VerseRecord = {
     id: number;
@@ -18,12 +19,14 @@ export const getVerseByReference = async (ref: string) => {
         const parts = normalizedRef.split(" ");
 
         if (parts.length < 2) {
-            throw `Invalid reference format: '${ref}'`;
+            throw new ValidationError(`Invalid reference format: '${ref}'`);
         }
 
         const chapterVerse = parts[parts.length - 1]?.split(":");
         if (!chapterVerse || chapterVerse.length !== 2) {
-            throw `Invalid chapter:verse format in reference: '${ref}'`;
+            throw new ValidationError(
+                `Invalid chapter:verse format in reference: '${ref}'`,
+            );
         }
 
         const book = parts.slice(0, -1).join(" ");
@@ -41,7 +44,9 @@ export const getVerseByReference = async (ref: string) => {
             | undefined;
 
         if (!result) {
-            throw `Verse for reference '${ref}' does not exist.`;
+            throw new NotFoundError(
+                `Verse for reference '${ref}' does not exist.`,
+            );
         }
 
         // Format the response to match the expected format
@@ -49,6 +54,18 @@ export const getVerseByReference = async (ref: string) => {
         const text = result.content;
 
         return { reference, text };
+    } catch (error) {
+        // Re-throw known errors as-is
+        if (
+            error instanceof ValidationError ||
+            error instanceof NotFoundError
+        ) {
+            throw error;
+        }
+        // Wrap unknown errors as DatabaseError
+        throw new DatabaseError(
+            `Database error while retrieving verse: ${error instanceof Error ? error.message : "Unknown error"}`,
+        );
     } finally {
         db.close();
     }
