@@ -2,9 +2,10 @@ import { describe, test, expect } from "bun:test";
 import { resolveReference } from "./referenceResolver";
 
 describe("resolveReference", () => {
-    test("should resolve book only reference", () => {
+    test("should resolve book only reference (now defaults to chapter 1, verse 1)", () => {
         const result = resolveReference(["bofm", "1-ne"]);
-        expect(result.isValid).toBe(false);
+        expect(result.reference).toBe("1 Nephi 1:1");
+        expect(result.isValid).toBe(true);
     });
 
     test("should resolve book and chapter reference (now defaults to verse 1)", () => {
@@ -25,9 +26,16 @@ describe("resolveReference", () => {
         expect(result.isValid).toEqual(true);
     });
 
+    test("should resolve book reference without chapter or verse (defaults to chapter 1, verse 1)", () => {
+        const result = resolveReference(["bofm", "alma"]);
+        expect(result.reference).toBe("Alma 1:1");
+        expect(result.isValid).toEqual(true);
+    });
+
     test("should handle invalid inputs", () => {
         expect(resolveReference(["bofm"]).isValid).toBe(false);
-        expect(resolveReference(["bofm", "1-ne"]).isValid).toBe(false);
+        // Book-only paths now work (default to chapter 1, verse 1)
+        expect(resolveReference(["bofm", "1-ne"]).isValid).toBe(true);
         // Chapter-only paths now work (default to verse 1)
         expect(resolveReference(["bofm", "1-ne", "1"]).isValid).toBe(true);
         expect(resolveReference(["bofm", "1-ne", "bob"]).isValid).toBe(false);
