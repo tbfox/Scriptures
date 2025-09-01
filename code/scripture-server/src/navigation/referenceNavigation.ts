@@ -13,10 +13,10 @@ const bookCodeToName = getBookCodeToNameMapping();
 const bookNameToCode = getBookNameToCodeMapping();
 
 class Reference {
-    private source: string;
-    private book: string;
-    private chapter: number;
-    private verse: number;
+    public source: string;
+    public book: string;
+    public chapter: number;
+    public verse: number;
 
     constructor(path: string[]) {
         this.source = path[0] || "bofm";
@@ -81,7 +81,7 @@ class Reference {
         return bookInfo?.maxChapter || 1;
     }
 
-    private incChapter(): void {
+    public incChapter(): void {
         this.chapter++;
         const maxChapter = this.getMaxChapter();
 
@@ -91,7 +91,7 @@ class Reference {
         }
     }
 
-    private decChapter(): void {
+    public decChapter(): void {
         this.chapter--;
 
         if (this.chapter === 0) {
@@ -159,5 +159,55 @@ export function calculatePrev(path: string[]): string {
 export function calculateNext(path: string[]): string {
     const ref = new Reference(path);
     ref.incVerse();
+    return ref.getPath();
+}
+
+export function calculateNextChapter(path: string[]): string {
+    const ref = new Reference(path);
+    const originalVerse = ref.verse;
+    ref.incChapter();
+
+    // If we've reached END, return as is
+    if (ref.getPath() === "END") {
+        return ref.getPath();
+    }
+
+    // Get max verse for the new chapter
+    const maxVerse = getMaxVerseForChapter(ref.source, ref.book, ref.chapter);
+
+    // Use the original verse or the last verse of the chapter, whichever is smaller
+    ref.verse = Math.min(originalVerse, maxVerse);
+
+    return ref.getPath();
+}
+
+export function calculatePrevChapter(path: string[]): string {
+    const ref = new Reference(path);
+    const originalVerse = ref.verse;
+    ref.decChapter();
+
+    // If we've reached START, return as is
+    if (ref.getPath() === "START") {
+        return ref.getPath();
+    }
+
+    // Get max verse for the new chapter
+    const maxVerse = getMaxVerseForChapter(ref.source, ref.book, ref.chapter);
+
+    // Use the original verse or the last verse of the chapter, whichever is smaller
+    ref.verse = Math.min(originalVerse, maxVerse);
+
+    return ref.getPath();
+}
+
+export function calculateChapterEnd(path: string[]): string {
+    const ref = new Reference(path);
+
+    // Get max verse for the current chapter
+    const maxVerse = getMaxVerseForChapter(ref.source, ref.book, ref.chapter);
+
+    // Set verse to the last verse of the chapter
+    ref.verse = maxVerse;
+
     return ref.getPath();
 }

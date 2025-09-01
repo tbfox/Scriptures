@@ -5,6 +5,9 @@ type Ref = {
     text: string;
     next: string;
     prev: string;
+    nextChap: string;
+    prevChap: string;
+    chapEnd: string;
 };
 
 const req = async (source: string): Promise<Ref> => {

@@ -29,13 +29,16 @@ const App = () => {
 };
 
 const Main = () => {
-    const [source, setSource] = useState<string>(values.ref || "/bom/1ne/1/1");
+    const [source, setSource] = useState<string>(values.ref || "/bofm/1-ne/1/1");
     const res = scriptureQuery(source);
 
     useInput((input) => {
         if (res.isPending || res.data === undefined) return;
         if (input === "j") setSource(res.data.next);
         if (input === "k") setSource(res.data.prev);
+        if (input === "l") setSource(res.data.nextChap);
+        if (input === "h") setSource(res.data.prevChap);
+        if (input === "$") setSource(res.data.chapEnd);
     });
 
     if (source === "unknown")
