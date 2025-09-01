@@ -17,8 +17,18 @@ const sourceAliases: Map<string, string> = new Map([
     ["dc-testament", "dc"],
 ]);
 
+// Map sources to their first book (for source-only requests)
+const sourceToFirstBook: Map<string, string> = new Map([
+    ["bofm", "1-ne"],
+    ["nt", "mat"],
+    ["ot", "gen"],
+    ["dc", "dc1"],
+    ["pgp", "moses"],
+]);
+
 // Map URL-friendly book codes to database book names
 const bookCodeToName: Map<string, string> = new Map([
+    // Book of Mormon
     ["1-ne", "1 Nephi"],
     ["2-ne", "2 Nephi"],
     ["jacob", "Jacob"],
@@ -37,15 +47,38 @@ const bookCodeToName: Map<string, string> = new Map([
     ["ether", "Ether"],
     ["moro", "Moroni"],
     ["moroni", "Moroni"],
+    // New Testament
+    ["mat", "Matthew"],
+    // Old Testament
+    ["gen", "Genesis"],
+    // Doctrine & Covenants
+    ["dc1", "D&C"],
+    // Pearl of Great Price
+    ["moses", "Moses"],
 ]);
 
 export function validatePath(path: string[]): [string, string, string, string] {
     if (path.length < 1) throw new ValidationError("Source name is required.");
-    if (path.length < 2) throw new ValidationError("Book name is required.");
     if (path.length > 4)
         throw new ValidationError(
-            "Too many arguments. Format: /source/book[/chapter[/verse]]",
+            "Too many arguments. Format: /source[/book[/chapter[/verse]]]",
         );
+
+    // Handle source-only requests by defaulting to first book
+    let bookCode: string;
+    if (path.length >= 2) {
+        bookCode = path[1]!;
+    } else {
+        // Default to first book of the source
+        const source = sourceAliases.get(path[0]!) || path[0]!;
+        const firstBook = sourceToFirstBook.get(source);
+        if (!firstBook) {
+            throw new ValidationError(
+                `No default book found for source '${path[0]}'.`,
+            );
+        }
+        bookCode = firstBook;
+    }
 
     // Default to chapter 1 if not provided
     const chapter = path.length >= 3 ? path[2]! : "1";
@@ -64,7 +97,6 @@ export function validatePath(path: string[]): [string, string, string, string] {
         );
     }
 
-    const bookCode = path[1]!;
     const bookName = bookCodeToName.get(bookCode);
 
     if (!bookName) {

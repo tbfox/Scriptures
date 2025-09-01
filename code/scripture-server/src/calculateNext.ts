@@ -25,8 +25,18 @@ const bofmBookOrder = [
     "Moroni",
 ];
 
+// Map sources to their first book (for source-only requests)
+const sourceToFirstBook: Map<string, string> = new Map([
+    ["bofm", "1-ne"],
+    ["nt", "mat"],
+    ["ot", "gen"],
+    ["dc", "dc1"],
+    ["pgp", "moses"],
+]);
+
 // URL-friendly book codes to full book names mapping
 const bookCodeToName: Map<string, string> = new Map([
+    // Book of Mormon
     ["1-ne", "1 Nephi"],
     ["2-ne", "2 Nephi"],
     ["jacob", "Jacob"],
@@ -45,6 +55,14 @@ const bookCodeToName: Map<string, string> = new Map([
     ["ether", "Ether"],
     ["moro", "Moroni"],
     ["moroni", "Moroni"],
+    // New Testament
+    ["mat", "Matthew"],
+    // Old Testament
+    ["gen", "Genesis"],
+    // Doctrine & Covenants
+    ["dc1", "D&C"],
+    // Pearl of Great Price
+    ["moses", "Moses"],
 ]);
 
 // Reverse mapping for URL generation
@@ -63,11 +81,20 @@ class Reference {
 
     constructor(path: string[]) {
         this.source = path[0] || "bofm";
-        const bookCode = path[1] || "1-ne";
+
+        // Handle source-only requests (1-element paths)
+        let bookCode: string;
+        if (path.length >= 2) {
+            bookCode = path[1]!;
+        } else {
+            // Default to first book of the source
+            bookCode = sourceToFirstBook.get(this.source) || "1-ne";
+        }
+
         this.book = bookCodeToName.get(bookCode) || "1 Nephi";
-        // Default to chapter 1 if not provided (handles 2-element paths)
+        // Default to chapter 1 if not provided (handles 1 and 2-element paths)
         this.chapter = parseInt(path[2] || "1");
-        // Default to verse 1 if not provided (handles 2 and 3-element paths)
+        // Default to verse 1 if not provided (handles 1, 2 and 3-element paths)
         this.verse = parseInt(path[3] || "1");
     }
 
