@@ -3,6 +3,7 @@ import { parseArgs } from "util";
 import { render, Box, Text, useInput } from "ink";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { scriptureQuery } from "./src/scriptureQuery";
+import TextInput from "ink-text-input";
 
 process.stdout.write(`\x1b[2J`) // clear screen
 process.stdout.write(`\x1b[H`)  // cursor home
@@ -34,7 +35,11 @@ type SourceData = {
 }
 
 const Main = () => {
+
     const [source, setSource] = useState<SourceData>({ current: values.ref || "/bofm/1-ne/1/1", prev: null });
+    const [value, setValue] = useState<string>('');
+    const [isInputMode, setIsInputMode] = useState<boolean>(false);
+
     const res = scriptureQuery(source.current);
     
     const _setSource = (src: string)=> {
@@ -49,14 +54,24 @@ const Main = () => {
             prev: null
         })
     }
-
+    const onSubmit = () => {
+        _setSource("/bofm")
+        setValue('')
+        setIsInputMode(false)
+    }
     useInput((input) => {
+        if (isInputMode) return
         
         if (res.isPending || res.data === undefined) return;
         if (res.data === 'END' || res.data === 'START'){
             setPrevSource()
             return
         }
+        if (input === "i") {
+            setIsInputMode(true)
+            return
+        }
+
         if (input === "j") _setSource(res.data.next);
         if (input === "k") _setSource(res.data.prev);
         if (input === "l") _setSource(res.data.nextChap);
@@ -67,25 +82,27 @@ const Main = () => {
         if (input === "p") _setSource(res.data.prevBook);
     });
     
-    if (source.current === 'START') {
+    if (source.current === 'START' || res.data === 'START') {
         return <Text>You are at the START of the book</Text>;
     }
-    if (source.current === 'END') {
+    if (source.current === 'END' || res.data === 'END') {
         return <Text>You are at the END of the book</Text>;
     }
     
-    if (res.isError || source.current === "unknown")
+    if (res.isError || source.current === "unknown" || !res.data)
         return <Text>Failed to load Scripture reference</Text>;
+
     return (
         <>
             <Box width={80}>
                 <Text color="yellow">Reference: </Text>
-                <Text>{res.data?.reference}</Text>
+                <Text>{res.data.reference}</Text>
                 {res.isPending && <Text>Loading</Text>}
             </Box>
             <Box borderStyle="single" width={80}>
-                <Text>{res.data?.text}</Text>
+                <Text>{res.data.text}</Text>
             </Box>
+            {isInputMode && <Text>Go to: <TextInput value={value} onChange={setValue} onSubmit={onSubmit} /></Text>}
         </>
     );
 };
