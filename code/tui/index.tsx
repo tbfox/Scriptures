@@ -3,7 +3,7 @@ import { parseArgs } from "util";
 import { render, Box, Text, useInput } from "ink";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { scriptureQuery } from "./src/scriptureQuery";
-import TextInput from "ink-text-input";
+import { CommandLine, useCommandLine } from "./src/Input";
 
 process.stdout.write(`\x1b[2J`) // clear screen
 process.stdout.write(`\x1b[H`)  // cursor home
@@ -35,13 +35,9 @@ type SourceData = {
 }
 
 const Main = () => {
-
     const [source, setSource] = useState<SourceData>({ current: values.ref || "/bofm/1-ne/1/1", prev: null });
-    const [value, setValue] = useState<string>('');
-    const [isInputMode, setIsInputMode] = useState<boolean>(false);
-
+    const commandLine = useCommandLine()
     const res = scriptureQuery(source.current);
-    
     const _setSource = (src: string)=> {
         setSource({
             current: src,
@@ -54,13 +50,8 @@ const Main = () => {
             prev: null
         })
     }
-    const onSubmit = () => {
-        _setSource("/bofm")
-        setValue('')
-        setIsInputMode(false)
-    }
     useInput((input) => {
-        if (isInputMode) return
+        if (commandLine.mode !== null) return
         
         if (res.isPending || res.data === undefined) return;
         if (res.data === 'END' || res.data === 'START'){
@@ -68,7 +59,7 @@ const Main = () => {
             return
         }
         if (input === "i") {
-            setIsInputMode(true)
+            commandLine.setMode('goto')
             return
         }
 
@@ -102,7 +93,7 @@ const Main = () => {
             <Box borderStyle="single" width={80}>
                 <Text>{res.data.text}</Text>
             </Box>
-            {isInputMode && <Text>Go to: <TextInput value={value} onChange={setValue} onSubmit={onSubmit} /></Text>}
+            <CommandLine {...commandLine.bind} />
         </>
     );
 };
