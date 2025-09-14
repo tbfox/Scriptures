@@ -8,8 +8,8 @@ type SearchResults = {
 
 type SearchDirtyArgs = {
     contentIncludes?: string | null
-    pageSize: number | null
-    pageNumber: number | null
+    pageSize: number
+    pageNumber: number
 }
 
 export const getSearchResults = async ({ 

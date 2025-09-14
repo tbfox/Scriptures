@@ -31,8 +31,8 @@ Bun.serve({
             }
             if (path[0] === "search") {
                 const contentIncludes = searchParams.get('content_includes')
-                const pageSize = searchParams.get('page_size') 
-                const pageNumber = searchParams.get('page')
+                const pageSize = parseInt(searchParams.get('page_size') || '20') 
+                const pageNumber = parseInt(searchParams.get('page') || '0')
                 
                 return jsonResponse(await getSearchResults({ 
                     contentIncludes, 
