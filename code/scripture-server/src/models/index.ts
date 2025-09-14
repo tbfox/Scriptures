@@ -1,6 +1,12 @@
-/**
- * Shared type definitions and interfaces
- */
+export interface SearchResponse {
+    references: string[]
+}
+
+export type SearchArgs = {
+    contentIncludes: string
+    pageSize: number
+    pageNumber: number
+}
 
 export interface VerseRecord {
     id: number;
@@ -27,7 +33,10 @@ export interface BookMetadata {
     url_code: string;
     order: number;
     chapters: number;
-    chapter_details: { chapter: number; verses: number }[];
+    chapter_details: { 
+        chapter: number; 
+        verses: number;
+    }[];
 }
 
 export interface SourceMetadata {

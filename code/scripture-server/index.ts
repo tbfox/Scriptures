@@ -9,32 +9,37 @@ import {
     calculatePrevBook,
 } from "./src/navigation/referenceNavigation";
 import { getVerseByReference } from "./src/services/verseService";
-import {
-    resolveReference,
-    validatePath,
-} from "./src/services/referenceResolver";
-import {
-    ValidationError,
-    NotFoundError,
-    DatabaseError,
-    getErrorStatusCode,
-} from "./src/utils/errors";
+import { resolveReference, validatePath, } from "./src/services/referenceResolver";
+import { getErrorStatusCode } from "./src/utils/errors";
 import { dbManager } from "./src/database";
+import { getSearchResults } from "./src/services/searchService";
 
 Bun.serve({
     routes: {},
     async fetch(req) {
-        const path = parsePath(req);
-
+        const { path, searchParams } = parsePath(req);
+        
         if (path.length === 0) return helpResponse();
 
-        // Health check endpoint
-        if (path.length === 1 && path[0] === "health") {
-            const healthy = isHealthy();
-            return jsonResponse({
-                status: healthy ? "healthy" : "unhealthy",
-                timestamp: new Date().toISOString(),
-            });
+        if (path.length === 1) {
+            if (path[0] === "health") {
+                const healthy = isHealthy();
+                return jsonResponse({
+                    status: healthy ? "healthy" : "unhealthy",
+                    timestamp: new Date().toISOString(),
+                });
+            }
+            if (path[0] === "search") {
+                const contentIncludes = searchParams.get('content_includes')
+                const pageSize = searchParams.get('page_size') 
+                const pageNumber = searchParams.get('page')
+                
+                return jsonResponse(await getSearchResults({ 
+                    contentIncludes, 
+                    pageSize, 
+                    pageNumber 
+                }));
+            }
         }
 
         const { isValid, reference, error } = resolveReference(path);
@@ -69,7 +74,10 @@ Bun.serve({
 
 const parsePath = (req: Request) => {
     const url = new URL(req.url);
-    return url.pathname.split("/").filter((item) => item !== "");
+    return {
+        path: url.pathname.split("/").filter((item) => item !== ""),
+        searchParams: url.searchParams,
+    }
 };
 
 const help = `-- Scripture Server --
