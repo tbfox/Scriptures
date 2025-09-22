@@ -9,7 +9,10 @@ import {
     calculatePrevBook,
 } from "./src/navigation/referenceNavigation";
 import { getVerseByReference } from "./src/services/verseService";
-import { resolveReference, validatePath, } from "./src/services/referenceResolver";
+import {
+    resolveReference,
+    validatePath,
+} from "./src/services/referenceResolver";
 import { getErrorStatusCode } from "./src/utils/errors";
 import { dbManager } from "./src/database";
 import { getSearchResults } from "./src/services/searchService";
@@ -18,7 +21,7 @@ Bun.serve({
     routes: {},
     async fetch(req) {
         const { path, searchParams } = parsePath(req);
-        
+
         if (path.length === 0) return helpResponse();
 
         if (path.length === 1) {
@@ -30,15 +33,19 @@ Bun.serve({
                 });
             }
             if (path[0] === "search") {
-                const contentIncludes = searchParams.get('content_includes')
-                const pageSize = parseInt(searchParams.get('page_size') || '20') 
-                const pageNumber = parseInt(searchParams.get('page') || '0')
-                
-                return jsonResponse(await getSearchResults({ 
-                    contentIncludes, 
-                    pageSize, 
-                    pageNumber 
-                }));
+                const contentIncludes = searchParams.get("content_includes");
+                const pageSize = parseInt(
+                    searchParams.get("page_size") || "20",
+                );
+                const pageNumber = parseInt(searchParams.get("page") || "0");
+
+                return jsonResponse(
+                    await getSearchResults({
+                        contentIncludes,
+                        pageSize,
+                        pageNumber,
+                    }),
+                );
             }
         }
 
@@ -77,7 +84,7 @@ const parsePath = (req: Request) => {
     return {
         path: url.pathname.split("/").filter((item) => item !== ""),
         searchParams: url.searchParams,
-    }
+    };
 };
 
 const help = `-- Scripture Server --

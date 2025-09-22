@@ -1,12 +1,12 @@
 export interface SearchResponse {
-    references: string[]
+    references: string[];
 }
 
 export type SearchArgs = {
-    contentIncludes: string
-    pageSize: number
-    pageNumber: number
-}
+    contentIncludes: string;
+    pageSize: number;
+    pageNumber: number;
+};
 
 export interface VerseRecord {
     id: number;
@@ -15,6 +15,7 @@ export interface VerseRecord {
     chapter: number;
     verse: number;
     content: string;
+    path: string;
 }
 
 export interface BookInfo {
@@ -33,8 +34,8 @@ export interface BookMetadata {
     url_code: string;
     order: number;
     chapters: number;
-    chapter_details: { 
-        chapter: number; 
+    chapter_details: {
+        chapter: number;
         verses: number;
     }[];
 }

@@ -7,10 +7,10 @@ export const count = (contentIncludes: string): any => {
         SELECT COUNT(*) as count FROM verses 
         WHERE content LIKE ?`);
 
-    const r = query.get(`%${contentIncludes}%`) as {count: number}
+    const r = query.get(`%${contentIncludes}%`) as { count: number };
 
-    return r.count
-}
+    return r.count;
+};
 
 export const search = ({
     contentIncludes,
@@ -25,9 +25,5 @@ export const search = ({
         LIMIT ? OFFSET ?
     `);
 
-    return query.all(
-        `%${contentIncludes}%`,
-        pageSize,
-        pageNumber
-    )
-}
+    return query.all(`%${contentIncludes}%`, pageSize, pageNumber);
+};

@@ -1,6 +1,6 @@
 import { dbManager } from "./connection";
 import { queryCache } from "../utils/cache";
-import type { VerseRecord, BookInfo, ChapterInfo } from "../models";
+import type { VerseRecord, ChapterInfo } from "../models";
 
 /**
  * Enhanced database repository with caching and common query patterns
@@ -11,9 +11,13 @@ export class VerseRepository {
         findVersesByChapter: null as any,
         getChapterInfo: null as any,
         getBookInfo: null as any,
+        findVerseByPath: null as any,
     };
 
-    private static getPreparedQuery(name: keyof typeof VerseRepository.preparedQueries, sql: string) {
+    private static getPreparedQuery(
+        name: keyof typeof VerseRepository.preparedQueries,
+        sql: string,
+    ) {
         if (!this.preparedQueries[name]) {
             const db = dbManager.getConnection();
             this.preparedQueries[name] = db.prepare(sql);
@@ -114,6 +118,29 @@ export class VerseRepository {
         queryCache.set(cacheKey, params, chapterInfo, 10 * 60 * 1000); // 10 minutes TTL
 
         return chapterInfo;
+    }
+
+    static findVerseByPath(path: string): VerseRecord | null {
+        const cacheKey = "findVerseByPath";
+        const params = [path];
+
+        const cached = queryCache.get<VerseRecord>(cacheKey, params);
+        if (cached) return cached;
+
+        const query = this.getPreparedQuery(
+            "findVerseByPath",
+            `
+            SELECT * FROM verses 
+            WHERE path = ?
+        `,
+        );
+
+        const result = query.get(path) as VerseRecord | undefined;
+
+        const resultToCache = result || null;
+        queryCache.set(cacheKey, params, resultToCache);
+
+        return resultToCache;
     }
 
     static clearCache(): void {

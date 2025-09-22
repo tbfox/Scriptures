@@ -14,17 +14,16 @@ class DatabaseManager {
     }
 
     private connect(): void {
-        const dbPath = import.meta.dir + "/../../res/standard-works.sqlite";
+        const dbPath = Bun.env.DATABASE;
+        console.log(`Connecting to database at: ${dbPath}`);
         try {
             this.db = new Database(dbPath, { readonly: true });
             this.isConnected = true;
 
-            // Only set read-only optimizations that don't require write access
             try {
                 this.db.exec("PRAGMA cache_size = 1000;");
                 this.db.exec("PRAGMA temp_store = memory;");
             } catch (pragmaError) {
-                // Silently ignore PRAGMA errors for readonly databases
                 console.warn(
                     "Some PRAGMA optimizations could not be applied to readonly database",
                 );
@@ -54,7 +53,6 @@ class DatabaseManager {
     public isHealthy(): boolean {
         try {
             if (!this.isConnected) return false;
-            // Simple health check query
             const result = this.db.prepare("SELECT 1 as test").get() as
                 | { test: number }
                 | undefined;
@@ -77,5 +75,4 @@ class DatabaseManager {
     }
 }
 
-// Export singleton instance
 export const dbManager = DatabaseManager.getInstance();

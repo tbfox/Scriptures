@@ -5,7 +5,10 @@
     "private": true,
     "scripts": {
         "start": "bun index.ts",
-        "fmt": "prettier . --write"
+        "fmt": "prettier . --write",
+        "b": "bun build ./index.ts --compile --outfile ss",
+        "clean": "rm ./ss",
+        "move": "mv ./ss ~/.bin && cp ./res/standard-works.sqlite ~/.database/sw.sqlite"
     },
     "devDependencies": {
         "@types/bun": "latest"
