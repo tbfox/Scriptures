@@ -35,7 +35,7 @@ export async function fetch(req: Request) {
                 nextBook: calculateNextBook(path),
             });
         } catch (e) {
-            if (e instanceof Error){
+            if (e instanceof Error) {
                 return errorResponse(e.message, getErrorStatusCode(e));
             }
             return errorResponse("Unknown Error", 500);
@@ -57,4 +57,3 @@ const errorResponse = (message: string, status: number) => {
         },
     );
 };
-

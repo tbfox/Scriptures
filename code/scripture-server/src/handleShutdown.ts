@@ -11,12 +11,12 @@ export function setupGracefulShutdown() {
     process.on("SIGINT", () => shutdown("SIGINT"));
     process.on("SIGTERM", () => shutdown("SIGTERM"));
 
-    if (process.stdin.setRawMode) process.stdin.setRawMode(true)
+    if (process.stdin.setRawMode) process.stdin.setRawMode(true);
 
     process.stdin.resume();
-    process.stdin.setEncoding('utf8');
+    process.stdin.setEncoding("utf8");
     process.stdin.on("data", (key: string) => {
-        if (key === 'q') shutdown("'q'")
-        if (key === 'Q') shutdown("'Q'")
-    })
+        if (key === "q") shutdown("'q'");
+        if (key === "Q") shutdown("'Q'");
+    });
 }
