@@ -1,8 +1,9 @@
-import { dbManager } from "./src/database/connection.ts";
 import { fetch } from "./src/fetch.ts"
 import { parseArgs } from "util";
-import { jsonResponse } from "./src/utils/jsonResponse.ts";
 import { help } from "./docs/help.ts";
+import { search } from "./src/routes/search.ts";
+import { health } from "./src/routes/health.ts";
+import { setupGracefulShutdown } from "./src/handleShutdown.ts";
 
 const { values } = parseArgs({
   args: Bun.argv,
@@ -21,20 +22,12 @@ Bun.serve({
     port: PORT,
     routes: {
         '/': () => new Response(help),
-        '/health': () => {
-            if (dbManager.isHealthy()){
-                return jsonResponse({
-                    status: "healthy", 
-                    timestamp: new Date().toISOString(),
-                });
-            }
-            return jsonResponse({
-                status: "unhealthy",
-                timestamp: new Date().toISOString(),
-            });
-        }
+        '/health': health,
+        '/search': search
     },
     fetch,
 });
 
 console.log(`Server listening on PORT: ${PORT}`)
+
+setupGracefulShutdown();

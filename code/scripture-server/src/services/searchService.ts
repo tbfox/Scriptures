@@ -1,5 +1,5 @@
 import { count, search } from "../database/searchRepository";
-import type { SearchArgs, VerseRecord } from "../models";
+import type {  VerseRecord } from "../models";
 
 type SearchResults = {
     count: number;
