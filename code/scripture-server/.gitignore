@@ -1,6 +1,7 @@
 # dependencies (bun install)
 node_modules
 
+ss
 # output
 out
 dist
