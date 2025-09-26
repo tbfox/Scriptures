@@ -24,37 +24,37 @@ export const useIO = ({
             if (key.escape) cmdLine.exit()
             return 
         }
-        if (input === "q") {
-            exit()
-            return
-        }
-
         if (ref === 'END' || ref === 'START'){
             setPrevSource()
             return
         }
-
-        if (input === ":") {
-            cmdLine.cmd()
-            return
+        switch(input) {
+            case "q": exit()
+                break;
+            case ":": cmdLine.cmd()
+                break;
+            case "/": cmdLine.search()
+                break;
+            case "?": cmdLine.reverseSearch()
+                break;
+            case "j": setSource(ref.next);
+                break;
+            case "k": setSource(ref.prev);
+                break;
+            case "l": setSource(ref.nextChap);
+                break;
+            case "h": setSource(ref.prevChap);
+                break;
+            case "$": setSource(ref.chapEnd);
+                break;
+            case "0": setSource(ref.chapStart);
+                break;
+            case "n": setSource(ref.nextBook);
+                break;
+            case "p": setSource(ref.prevBook);
+                break;
+            default:
         }
-        if (input === "/") {
-            cmdLine.search()
-            return
-        }
-        if (input === "?") {
-            cmdLine.reverseSearch()
-            return
-        }
-
-        if (input === "j") setSource(ref.next);
-        if (input === "k") setSource(ref.prev);
-        if (input === "l") setSource(ref.nextChap);
-        if (input === "h") setSource(ref.prevChap);
-        if (input === "$") setSource(ref.chapEnd);
-        if (input === "0") setSource(ref.chapStart);
-        if (input === "n") setSource(ref.nextBook);
-        if (input === "p") setSource(ref.prevBook);
     });
     return { cmdLineBinding: cmdLine.bind }
 }

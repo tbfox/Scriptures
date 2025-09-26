@@ -13,8 +13,10 @@ type CommandLineProps = {
 
 export const CommandLine = ({ mode, value, onChange, onSubmit}: CommandLineProps) => {
     if (mode === null) return <></>
-
-    return <Text>{mode}: <TextInput value={value} onChange={onChange} onSubmit={onSubmit} /></Text>
+    let label = ":"
+    if (mode === 'search') label = '/'
+    if (mode === 'r-search') label = '?'
+    return <Text>{label}<TextInput value={value} onChange={onChange} onSubmit={onSubmit} /></Text>
 }
 
 export type UseCommandLineResult = {
