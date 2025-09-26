@@ -1,6 +1,6 @@
 import { useQuery } from "@tanstack/react-query";
 
-type Ref = {
+export type Ref = {
     reference: string;
     text: string;
     next: string;

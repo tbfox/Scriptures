@@ -29,7 +29,6 @@ Bun.serve({
     fetch,
 });
 
-//console.log(JSON.stringify(Bun.env));
 console.log(`Server listening on PORT: ${PORT}`);
 console.log("Press 'q' to shutdown.");
 

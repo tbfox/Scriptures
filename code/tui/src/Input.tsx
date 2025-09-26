@@ -2,9 +2,7 @@ import { Text } from "ink"
 import TextInput from "ink-text-input"
 import { useState } from "react"
 
-type CommandMode = "goto" | null
-
-
+type CommandMode = "command" | "search" | "r-search" | null
 
 type CommandLineProps = {
     value: string
@@ -13,17 +11,18 @@ type CommandLineProps = {
     mode: CommandMode
 }
 
-export const CommandLine = ({ mode,value, onChange, onSubmit}: CommandLineProps) => {
+export const CommandLine = ({ mode, value, onChange, onSubmit}: CommandLineProps) => {
     if (mode === null) return <></>
 
-    return <Text>Go to: <TextInput value={value} onChange={onChange} onSubmit={onSubmit} /></Text>
+    return <Text>{mode}: <TextInput value={value} onChange={onChange} onSubmit={onSubmit} /></Text>
 }
 
-type UseCommandLineArgs = {}
-
-type UseCommandLineResult = {
-    setMode: (mode: CommandMode) => void
-    mode: CommandMode
+export type UseCommandLineResult = {
+    cmd: () => void
+    search: () => void
+    reverseSearch: () => void
+    exit: () => void
+    isActive: boolean
     bind: CommandLineProps
 }
 
@@ -31,18 +30,21 @@ export const useCommandLine = (): UseCommandLineResult => {
     const [value, setValue] = useState('')
     const [mode, setMode] = useState<CommandMode>(null);
 
-    const onSubmit = () => {
+    const exit = () => {
         setValue('')
         setMode(null)
     }
 
     return {
-        setMode,
-        mode,
+        cmd: () => setMode('command'),
+        search: () => setMode('search'),
+        reverseSearch: () => setMode('r-search'),
+        exit,
+        isActive: mode !== null,
         bind: {
             value,
             onChange: setValue,
-            onSubmit,
+            onSubmit: exit,
             mode,
         }
     }

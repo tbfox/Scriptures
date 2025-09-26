@@ -21,4 +21,4 @@ const App = () => {
 };
 
 Log.info('Starting App...')
-render(<App />);
+render(<App />, { exitOnCtrlC: true });
