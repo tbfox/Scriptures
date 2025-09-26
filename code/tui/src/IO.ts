@@ -18,7 +18,7 @@ export const useIO = ({
     setPrevSource,
 }: UseIOArgs) => {
     const { exit } = useApp()
-
+    
     useInput((input, key) => {
         if (isPending || ref === undefined) return;
         if (cmdLine.isActive) {

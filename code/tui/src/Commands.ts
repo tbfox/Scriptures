@@ -2,9 +2,15 @@ import { type OnCommandSubmit } from "./Input";
 
 export const useCommands = () => {
     
-    const onRunCommand = (cmd: string) => { } 
-    const onSearch = (cmd: string) => { } 
-    const onReverseSearch = (cmd: string) => { } 
+    const onRunCommand = (cmd: string) => {
+    
+    } 
+    const onSearch = (cmd: string) => {
+
+    } 
+    const onReverseSearch = (cmd: string) => {
+    
+    } 
 
     const onSubmit: OnCommandSubmit = (mode, command) => {
         if (mode === 'search') onSearch(command)
