@@ -27,7 +27,8 @@ function loadSourceMetadata(source: string): SourceMetadata {
         return metadataCache.get(source)!;
     }
 
-    const metadataPath = join(process.cwd(), "res", `${source}_metadata.json`);
+    if (!Bun.env.DATABASE) throw Error("Failed to find DATABASE env variable")
+    const metadataPath = join(Bun.env.DATABASE, `${source}_metadata.json`);
     try {
         const rawData = readFileSync(metadataPath, "utf-8");
         const metadata: SourceMetadata = JSON.parse(rawData);

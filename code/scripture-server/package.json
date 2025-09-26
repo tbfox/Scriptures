@@ -7,7 +7,7 @@
         "start": "bun index.ts",
         "fmt": "prettier . --write",
         "b": "bun build ./index.ts --compile --outfile ss",
-        "mv": "mv ./ss ~/.bin && cp ./res/standard-works.sqlite ~/.database/sw.sqlite",
+        "mv": "nu ./scripts/mv.nu",
         "clean": "rm ./ss"
     },
     "devDependencies": {
