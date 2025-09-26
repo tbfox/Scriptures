@@ -1,10 +1,11 @@
 import {  useApp, useInput } from "ink";
-import { useCommandLine, type UseCommandLineResult } from "./Input";
+import { type UseCommandLineResult,  } from "./Input";
 import type { Ref } from "./scriptureQuery";
 
 type UseIOArgs = {
     isPending: boolean
     ref: Ref | undefined
+    cmdLine: UseCommandLineResult
     setSource: (src: string ) => void 
     setPrevSource: () => void
 }
@@ -12,10 +13,10 @@ type UseIOArgs = {
 export const useIO = ({
     isPending,
     ref,
+    cmdLine,
     setSource,
     setPrevSource,
 }: UseIOArgs) => {
-    const cmdLine = useCommandLine()
     const { exit } = useApp()
 
     useInput((input, key) => {

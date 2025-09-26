@@ -2,9 +2,9 @@ import { getSearchResults } from "../services/searchService";
 import { jsonResponse } from "../utils/jsonResponse";
 import { parsePath } from "../utils/parsePath";
 
-export async function search(req: Request) {
+export async function search(req: Request, reverse: boolean) {
     const { searchParams } = parsePath(req);
-    const contentIncludes = searchParams.get("content_includes");
+    const contentIncludes = searchParams.get("includes");
     const pageSize = parseInt(searchParams.get("page_size") || "20");
     const pageNumber = parseInt(searchParams.get("page") || "0");
 
@@ -13,6 +13,7 @@ export async function search(req: Request) {
             contentIncludes,
             pageSize,
             pageNumber,
+            reverse,
         }),
     );
 }

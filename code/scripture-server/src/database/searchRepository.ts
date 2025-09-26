@@ -16,12 +16,13 @@ export const search = ({
     contentIncludes,
     pageSize,
     pageNumber,
+    reverse,
 }: SearchArgs): any => {
     const db = dbManager.getConnection();
     const query = db.prepare(`
         SELECT * FROM verses 
         WHERE content LIKE ?
-        ORDER BY id
+        ORDER BY id${reverse ? ' DESC' : ''}
         LIMIT ? OFFSET ?
     `);
 

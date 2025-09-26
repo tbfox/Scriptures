@@ -28,13 +28,24 @@ export type UseCommandLineResult = {
     bind: CommandLineProps
 }
 
-export const useCommandLine = (): UseCommandLineResult => {
+export type OnCommandSubmit = (mode: CommandMode, cmd: string) => void
+
+type UseCommandLineArgs = {
+    onSubmit: OnCommandSubmit
+}
+
+export const useCommandLine = ({ onSubmit: _onSubmit }: UseCommandLineArgs): UseCommandLineResult => {
     const [value, setValue] = useState('')
     const [mode, setMode] = useState<CommandMode>(null);
 
     const exit = () => {
         setValue('')
         setMode(null)
+    }
+
+    const onSubmit = () => {
+        _onSubmit(mode, value)
+        exit()
     }
 
     return {
@@ -46,7 +57,7 @@ export const useCommandLine = (): UseCommandLineResult => {
         bind: {
             value,
             onChange: setValue,
-            onSubmit: exit,
+            onSubmit,
             mode,
         }
     }

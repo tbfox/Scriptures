@@ -1,10 +1,11 @@
 import { useState } from "react";
 import { scriptureQuery } from "./scriptureQuery";
-import { CommandLine } from "./Input";
+import { CommandLine, useCommandLine } from "./Input";
 import { Box, Text } from "ink";
 import { useArguments } from "./ArgumentContext";
 import { Log } from "./Logger";
 import { useIO } from "./IO";
+import { useCommands } from "./Commands";
 
 type SourceData = {
     current: string
@@ -33,8 +34,12 @@ export const Main = () => {
         })
     }
 
+    const { onSubmit } = useCommands()
+    const cmdLine = useCommandLine({ onSubmit })
+
     const {cmdLineBinding} = useIO({ 
         setSource: _setSource,
+        cmdLine,
         setPrevSource,
         isPending: res.isPending ,
         ref: res.data, 

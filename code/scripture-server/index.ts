@@ -24,7 +24,8 @@ Bun.serve({
     routes: {
         "/": () => new Response(help),
         "/health": health,
-        "/search": search,
+        "/search": (req) => search(req, false),
+        "/r-search": (req) => search(req, true),
     },
     fetch,
 });

@@ -6,6 +6,7 @@ export type SearchArgs = {
     contentIncludes: string;
     pageSize: number;
     pageNumber: number;
+    reverse: boolean;
 };
 
 export interface VerseRecord {
