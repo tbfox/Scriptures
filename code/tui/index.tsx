@@ -3,6 +3,7 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { ArgumentContextProvider } from "./src/ArgumentContext";
 import { Main } from "./src/Main";
 import { Log } from "./src/Logger";
+import { ListContextProvider } from "./src/ListContext";
 
 process.stdout.write(`\x1b[2J`) // clear screen
 process.stdout.write(`\x1b[H`)  // cursor home
@@ -10,12 +11,14 @@ process.stdout.write(`\x1b[H`)  // cursor home
 const queryClient = new QueryClient();
 
 const App = () => {
-    Log.render(App)
+    // Log.render(App)
     return (
         <QueryClientProvider client={queryClient}>
-            <ArgumentContextProvider>
-                <Main />
-            </ArgumentContextProvider>
+            <ListContextProvider>
+                <ArgumentContextProvider>
+                    <Main />
+                </ArgumentContextProvider>
+            </ListContextProvider>
         </QueryClientProvider>
     );
 };

@@ -1,43 +1,38 @@
 import { useState } from "react";
 import { scriptureQuery } from "./scriptureQuery";
-import { CommandLine, useCommandLine } from "./Input";
+import { CommandLine, useCommandLine } from "./CommandLine";
 import { Box, Text } from "ink";
 import { useArguments } from "./ArgumentContext";
-import { Log } from "./Logger";
 import { useIO } from "./IO";
 import { useCommands } from "./Commands";
+import { ListView } from "./ListView";
 
 type SourceData = {
     current: string
     prev: string | null
 }
 
-
 export const Main = () => {
     const { values } = useArguments()
     const [source, setSource] = useState<SourceData>({ current: values.ref || "/bofm/1-ne/1/1", prev: null });
     const res = scriptureQuery(source.current);
-    Log.render(Main)
-    Log.obj('res', res)
 
-    const _setSource = (src: string)=> {
-        setSource({
-            current: src,
-            prev: source.current
-        })
+    const _setSource = (src: string | null) => {
+        if (src !== null) 
+            setSource({ current: src, prev: source.current })
     }
 
-    const setPrevSource = ()=> {
+    const setPrevSource = () => {
         setSource({
             current: source.prev || 'unknown',
             prev: null
         })
     }
-
+    
     const { onSubmit } = useCommands()
     const cmdLine = useCommandLine({ onSubmit })
 
-    const {cmdLineBinding} = useIO({ 
+    const { cmdLineBinding, mode } = useIO({ 
         setSource: _setSource,
         cmdLine,
         setPrevSource,
@@ -58,10 +53,11 @@ export const Main = () => {
     return (
         <>
             <Box width={80}>
-                <Text color="yellow">Reference: </Text>
+                <Text color="yellow">{mode}: </Text>
                 <Text>{res.data.reference}</Text>
                 {res.isPending && <Text>Loading</Text>}
             </Box>
+            <ListView />
             <Box borderStyle="single" width={80}>
                 <Text>{res.data.text}</Text>
             </Box>

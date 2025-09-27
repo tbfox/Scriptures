@@ -2,6 +2,7 @@ import { useQuery } from "@tanstack/react-query";
 
 export type Ref = {
     reference: string;
+    path: string;
     text: string;
     next: string;
     prev: string;
