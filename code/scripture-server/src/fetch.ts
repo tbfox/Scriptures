@@ -15,7 +15,7 @@ import { jsonResponse } from "./utils/jsonResponse";
 import { parsePath } from "./utils/parsePath";
 
 export async function fetch(req: Request) {
-    const { path } = parsePath(req);
+    const { path, pathname } = parsePath(req);
 
     const { isValid, reference, error } = resolveReference(path);
 
@@ -25,6 +25,7 @@ export async function fetch(req: Request) {
             const verse = await getVerseByReference(reference, source);
             return jsonResponse({
                 ...verse,
+                path: pathname,
                 prev: calculatePrev(path),
                 next: calculateNext(path),
                 prevChap: calculatePrevChapter(path),
