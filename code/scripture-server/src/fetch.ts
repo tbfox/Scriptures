@@ -43,7 +43,7 @@ export async function fetch(req: Request) {
         }
     }
 
-    console.error(error)
+    console.error(error);
     return errorResponse(error || "Invalid request", 400);
 }
 

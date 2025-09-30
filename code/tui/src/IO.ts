@@ -1,18 +1,18 @@
-import {  useApp, useInput } from "ink";
-import { type UseCommandLineResult,  } from "./CommandLine";
+import { useApp, useInput } from "ink";
+import { type UseCommandLineResult } from "./CommandLine";
 import type { ScriptureReference } from "./scriptureQuery";
 import { useState } from "react";
 import { useAppList } from "./ListContext";
 
 type UseIOArgs = {
-    isPending: boolean
-    ref: ScriptureReference | null | undefined
-    cmdLine: UseCommandLineResult
-    setSource: (src: string | null) => void 
-    setPrevSource: () => void
-}
+    isPending: boolean;
+    ref: ScriptureReference | null | undefined;
+    cmdLine: UseCommandLineResult;
+    setSource: (src: string | null) => void;
+    setPrevSource: () => void;
+};
 
-type IOMode = 'Reader' | 'List'
+type IOMode = "Reader" | "List";
 
 export const useIO = ({
     isPending,
@@ -21,86 +21,103 @@ export const useIO = ({
     setSource,
     setPrevSource,
 }: UseIOArgs) => {
-    const { exit } = useApp()
-    const [mode, setMode] = useState<IOMode>('Reader') 
-    const lists = useAppList()
+    const { exit } = useApp();
+    const [mode, setMode] = useState<IOMode>("Reader");
+    const lists = useAppList();
 
     useInput((input, key) => {
         if (isPending || ref === undefined || ref === null) return;
         if (cmdLine.isActive) {
-            if (key.escape) cmdLine.exit()
-            return 
+            if (key.escape) cmdLine.exit();
+            return;
         }
-        if (ref === 'END' || ref === 'START'){
-            setPrevSource()
-            return
+        if (ref === "END" || ref === "START") {
+            setPrevSource();
+            return;
         }
-        if (input === 'q') {
-            exit()
-            return
+        if (input === "q") {
+            exit();
+            return;
         }
-        if (input === ':') {
-            cmdLine.cmd()
-            return
+        if (input === ":") {
+            cmdLine.cmd();
+            return;
         }
         if (input === "/") {
-            cmdLine.search(); 
-            return
+            cmdLine.search();
+            return;
         }
         if (input === "?") {
-            cmdLine.reverseSearch(); 
-            return
+            cmdLine.reverseSearch();
+            return;
         }
-        if (mode === 'Reader') {
-            switch(input) {
-                case "j": setSource(ref.next);
+        if (mode === "Reader") {
+            switch (input) {
+                case "j":
+                    setSource(ref.next);
                     break;
-                case "k": setSource(ref.prev);
+                case "k":
+                    setSource(ref.prev);
                     break;
-                case "l": setSource(ref.nextChap);
+                case "l":
+                    setSource(ref.nextChap);
                     break;
-                case "h": setSource(ref.prevChap);
+                case "h":
+                    setSource(ref.prevChap);
                     break;
-                case "$": setSource(ref.chapEnd);
+                case "$":
+                    setSource(ref.chapEnd);
                     break;
-                case "0": setSource(ref.chapStart);
+                case "0":
+                    setSource(ref.chapStart);
                     break;
-                case "n": setSource(ref.nextBook);
+                case "n":
+                    setSource(ref.nextBook);
                     break;
-                case "p": setSource(ref.prevBook);
+                case "p":
+                    setSource(ref.prevBook);
                     break;
-                case "m": lists.addItem(ref.path)
+                case "m":
+                    lists.addItem(ref.path);
                     break;
-                case "L": 
-                    setMode("List")
+                case "L":
+                    setMode("List");
                     setSource(lists.current());
                     break;
                 default:
             }
-        } else if (mode === 'List') {
-            switch(input) {
-                case "R": setMode("Reader")
+        } else if (mode === "List") {
+            switch (input) {
+                case "R":
+                    setMode("Reader");
                     break;
-                case "j": setSource(lists.next());
+                case "j":
+                    setSource(lists.next());
                     break;
-                case "k": setSource(lists.prev())
+                case "k":
+                    setSource(lists.prev());
                     break;
-                case "l": lists.nextList()
+                case "l":
+                    lists.nextList();
                     break;
-                case "h": lists.prevList()
+                case "h":
+                    lists.prevList();
                     break;
-                case "$": lists.goToLastInList()
+                case "$":
+                    lists.goToLastInList();
                     break;
-                case "0": lists.goToFirstInList()
+                case "0":
+                    lists.goToFirstInList();
                     break;
-                case "m": lists.addItem(ref.path)
+                case "m":
+                    lists.addItem(ref.path);
                     break;
                 default:
             }
         }
     });
-    return { 
+    return {
         cmdLineBinding: cmdLine.bind,
         mode,
-    }
-}
+    };
+};

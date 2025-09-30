@@ -11,4 +11,4 @@ export const cliArguments = parseArgs({
     allowPositionals: true,
 });
 
-export type CliArguments = typeof cliArguments
+export type CliArguments = typeof cliArguments;

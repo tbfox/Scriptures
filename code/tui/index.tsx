@@ -5,8 +5,8 @@ import { Main } from "./src/Main";
 import { Log } from "./src/Logger";
 import { ListContextProvider } from "./src/ListContext";
 
-process.stdout.write(`\x1b[2J`) // clear screen
-process.stdout.write(`\x1b[H`)  // cursor home
+process.stdout.write(`\x1b[2J`); // clear screen
+process.stdout.write(`\x1b[H`); // cursor home
 
 const queryClient = new QueryClient();
 
@@ -23,5 +23,5 @@ const App = () => {
     );
 };
 
-Log.info('Starting App...')
+Log.info("Starting App...");
 render(<App />, { exitOnCtrlC: true });

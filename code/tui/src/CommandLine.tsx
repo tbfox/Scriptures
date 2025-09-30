@@ -1,57 +1,69 @@
-import { Text } from "ink"
-import TextInput from "ink-text-input"
-import { useState } from "react"
+import { Text } from "ink";
+import TextInput from "ink-text-input";
+import { useState } from "react";
 
-type CommandMode = "command" | "search" | "r-search" | null
+type CommandMode = "command" | "search" | "r-search" | null;
 
 type CommandLineProps = {
-    value: string
-    onChange: (value: string) => void
-    onSubmit: () => void
-    mode: CommandMode
-}
+    value: string;
+    onChange: (value: string) => void;
+    onSubmit: () => void;
+    mode: CommandMode;
+};
 
-export const CommandLine = ({ mode, value, onChange, onSubmit}: CommandLineProps) => {
-    if (mode === null) return <></>
-    let label = ":"
-    if (mode === 'search') label = '/'
-    if (mode === 'r-search') label = '?'
-    return <Text>{label}<TextInput value={value} onChange={onChange} onSubmit={onSubmit} /></Text>
-}
+export const CommandLine = ({
+    mode,
+    value,
+    onChange,
+    onSubmit,
+}: CommandLineProps) => {
+    if (mode === null) return <></>;
+    let label = ":";
+    if (mode === "search") label = "/";
+    if (mode === "r-search") label = "?";
+    return (
+        <Text>
+            {label}
+            <TextInput value={value} onChange={onChange} onSubmit={onSubmit} />
+        </Text>
+    );
+};
 
 export type UseCommandLineResult = {
-    cmd: () => void
-    search: () => void
-    reverseSearch: () => void
-    exit: () => void
-    isActive: boolean
-    bind: CommandLineProps
-}
+    cmd: () => void;
+    search: () => void;
+    reverseSearch: () => void;
+    exit: () => void;
+    isActive: boolean;
+    bind: CommandLineProps;
+};
 
-export type OnCommandSubmit = (mode: CommandMode, cmd: string) => void
+export type OnCommandSubmit = (mode: CommandMode, cmd: string) => void;
 
 type UseCommandLineArgs = {
-    onSubmit: OnCommandSubmit
-}
+    onSubmit: OnCommandSubmit;
+};
 
-export const useCommandLine = ({ onSubmit: _onSubmit }: UseCommandLineArgs): UseCommandLineResult => {
-    const [value, setValue] = useState('')
+export const useCommandLine = ({
+    onSubmit: _onSubmit,
+}: UseCommandLineArgs): UseCommandLineResult => {
+    const [value, setValue] = useState("");
     const [mode, setMode] = useState<CommandMode>(null);
 
     const exit = () => {
-        setValue('')
-        setMode(null)
-    }
+        setValue("");
+        setMode(null);
+    };
 
     const onSubmit = () => {
-        _onSubmit(mode, value)
-        exit()
-    }
+        _onSubmit(mode, value);
+        exit();
+    };
 
     return {
-        cmd: () => setMode('command'),
-        search: () => setMode('search'),
-        reverseSearch: () => setMode('r-search'),
+        cmd: () => setMode("command"),
+        search: () => setMode("search"),
+        reverseSearch: () => setMode("r-search"),
         exit,
         isActive: mode !== null,
         bind: {
@@ -59,6 +71,6 @@ export const useCommandLine = ({ onSubmit: _onSubmit }: UseCommandLineArgs): Use
             onChange: setValue,
             onSubmit,
             mode,
-        }
-    }
-}
+        },
+    };
+};

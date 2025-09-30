@@ -2,7 +2,6 @@ import { Database } from "bun:sqlite";
 import { DatabaseError } from "../utils/errors";
 import { join } from "path";
 
-
 /**
  * Centralized database connection manager with improved lifecycle management
  */
@@ -16,8 +15,9 @@ class DatabaseManager {
     }
 
     private connect(): void {
-        if (!Bun.env.DATABASE) throw Error("Failed to find DATABASE env variable")
-        const dbPath =  join(Bun.env.DATABASE, "standard-works.sqlite");
+        if (!Bun.env.DATABASE)
+            throw Error("Failed to find DATABASE env variable");
+        const dbPath = join(Bun.env.DATABASE, "standard-works.sqlite");
         console.log(`Connecting to database at: ${dbPath}`);
         try {
             this.db = new Database(dbPath, { readonly: true });

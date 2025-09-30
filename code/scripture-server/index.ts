@@ -10,7 +10,7 @@ const { values } = parseArgs({
     options: {
         port: {
             type: "string",
-            short: 'p',
+            short: "p",
         },
     },
     strict: true,

@@ -2,7 +2,7 @@ import { dbManager } from "./database/connection";
 
 const shutdown = (signal: string) => {
     console.log(`\nReceived ${signal}.`);
-    console.log('Closing database connection...');
+    console.log("Closing database connection...");
     dbManager.close();
     console.log("Database connection closed. Exiting.");
     process.exit(0);
