@@ -36,30 +36,31 @@ export const Main = () => {
         setSource: _setSource,
         cmdLine,
         setPrevSource,
-        isPending: res.isPending ,
+        isPending: res.isLoading,
         ref: res.data, 
     })
-    
+   
     if (source.current === 'START' || res.data === 'START') {
         return <Text>You are at the START of the book</Text>;
     }
+
     if (source.current === 'END' || res.data === 'END') {
         return <Text>You are at the END of the book</Text>;
     }
     
-    if (res.isError || source.current === "unknown" || !res.data)
-        return <Text>Failed to load Scripture reference</Text>;
+    if (res.error || source.current === "unknown")
+        return <Text>Failed to load Scripture reference: {source.current}</Text>;
 
     return (
         <>
             <Box width={80}>
                 <Text color="yellow">{mode}: </Text>
-                <Text>{res.data.reference}</Text>
-                {res.isPending && <Text>Loading</Text>}
+                <Text>{res.data?.reference}</Text>
+                {res.isLoading && <Text>Loading...</Text>}
             </Box>
             <ListView />
             <Box borderStyle="single" width={80}>
-                <Text>{res.data.text}</Text>
+                <Text>{res.data?.text}</Text>
             </Box>
             <CommandLine {...cmdLineBinding} />
         </>

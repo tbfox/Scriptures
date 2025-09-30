@@ -12,6 +12,16 @@ export const count = (contentIncludes: string): any => {
     return r.count;
 };
 
+type VerseResult = {
+    id: number;
+    source: string;
+    book: string;
+    chapter: number;
+    verse: number;
+    content: string;
+    path: string;
+};
+
 export const search = ({
     contentIncludes,
     pageSize,
@@ -22,9 +32,14 @@ export const search = ({
     const query = db.prepare(`
         SELECT * FROM verses 
         WHERE content LIKE ?
-        ORDER BY id${reverse ? ' DESC' : ''}
+        ORDER BY id${reverse ? " DESC" : ""}
         LIMIT ? OFFSET ?
     `);
 
-    return query.all(`%${contentIncludes}%`, pageSize, pageNumber);
+    const result = query.all(
+        `%${contentIncludes}%`,
+        pageSize,
+        pageNumber,
+    ) as VerseResult[];
+    return result.map((item) => ({ ...item, path: `/${item.path}` }));
 };

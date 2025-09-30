@@ -1,12 +1,12 @@
 import {  useApp, useInput } from "ink";
 import { type UseCommandLineResult,  } from "./CommandLine";
-import type { Ref } from "./scriptureQuery";
+import type { ScriptureReference } from "./scriptureQuery";
 import { useState } from "react";
 import { useAppList } from "./ListContext";
 
 type UseIOArgs = {
     isPending: boolean
-    ref: Ref | undefined
+    ref: ScriptureReference | null | undefined
     cmdLine: UseCommandLineResult
     setSource: (src: string | null) => void 
     setPrevSource: () => void
@@ -26,7 +26,7 @@ export const useIO = ({
     const lists = useAppList()
 
     useInput((input, key) => {
-        if (isPending || ref === undefined) return;
+        if (isPending || ref === undefined || ref === null) return;
         if (cmdLine.isActive) {
             if (key.escape) cmdLine.exit()
             return 
@@ -71,7 +71,9 @@ export const useIO = ({
                     break;
                 case "m": lists.addItem(ref.path)
                     break;
-                case "L": setMode("List")
+                case "L": 
+                    setMode("List")
+                    setSource(lists.current());
                     break;
                 default:
             }

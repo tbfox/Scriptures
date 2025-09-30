@@ -1,6 +1,8 @@
-import { useQuery } from "@tanstack/react-query";
+import { useEffect, useState } from "react";
 
-export type Ref = {
+const BASE_ROUTE = Bun.env.BASE_PATH || 'http://localhost:3000'
+
+export type ScriptureReference = {
     reference: string;
     path: string;
     text: string;
@@ -14,16 +16,35 @@ export type Ref = {
     prevBook: string;
 } | "END" | 'START';
 
-const req = async (source: string): Promise<Ref> => {
-    if (source === 'START') return 'START'
-    if (source === 'END') return 'END'
-    const requestResult = await fetch(`http://localhost:3000${source}`);
-    return (await requestResult.json()) as Ref;
+const req = async (source: string): Promise<ScriptureReference> => {
+    if (source === 'START') return 'START';
+    if (source === 'END') return 'END';
+    const requestResult = await fetch(`${BASE_ROUTE}${source}`);
+    return (await requestResult.json()) as ScriptureReference;
 };
 
 export const scriptureQuery = (source: string) => {
-    return useQuery<Ref>({
-        queryKey: [source],
-        queryFn: () => req(source),
-    });
+    const [data, setData] = useState<ScriptureReference | null>(null)
+    const [isLoading, setIsLoading] = useState<boolean>(true)
+    const [error, setError] = useState<any>(null)
+    
+    useEffect(() => {
+        setIsLoading(true)
+        req(source)
+            .then(res => {
+                setData(res)
+            })
+            .catch((e) => {
+                setError(e)
+                setData(null)
+            })
+            .finally(() => {
+                setIsLoading(false)
+            })
+    }, [source])
+    return {
+        isLoading,
+        data,
+        error,
+    }
 };

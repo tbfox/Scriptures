@@ -1,5 +1,9 @@
+import { useState } from "react";
 import { type OnCommandSubmit } from "./CommandLine";
 import { useAppList } from "./ListContext";
+import type { ScriptureReference } from "./scriptureQuery";
+
+const BASE_ROUTE = Bun.env.BASE_PATH || 'http://localhost:3000'
 
 const defCmd = (cmd: string, def: string, callback: (...args: string[]) => void) => {
     const c = cmd.split(' ')
@@ -15,8 +19,25 @@ const defCmd = (cmd: string, def: string, callback: (...args: string[]) => void)
     callback(...args)
 }
 
+interface VerseRecord {
+    id: number;
+    source: string;
+    book: string;
+    chapter: number;
+    verse: number;
+    content: string;
+    path: string;
+}
+
+type SearchResults = {
+    count: number;
+    verses: VerseRecord[];
+};
+
+
 export const useCommands = () => {
-    const { addList, rmList, addItem } = useAppList()
+    const [listCount, setListCount] = useState<number>(0)
+    const { addList, rmList, addItem, selectList } = useAppList()
 
     const onRunCommand = (cmd: string) => {
         defCmd(cmd, "list add _", (arg) => {
@@ -29,15 +50,22 @@ export const useCommands = () => {
              addItem(arg)
         })
     }
+    
+    const onSearch = async (cmd: string, base: string) => {
+        const cleaned = cmd.split(' ').join('&')
+        const res = await(await fetch(`${BASE_ROUTE}/${base}?text=${cleaned}`)).json() as SearchResults
+        const listName = `s${listCount}?`
+        addList(listName)
+        setListCount(c => c + 1)
+        selectList(listName)
+        res.verses.forEach(v => {
+            addItem(v.path)
+        })
+    }
 
-    const onSearch = (cmd: string) => {}
-
-    const onReverseSearch = (cmd: string) => {} 
-
-    const onSubmit: OnCommandSubmit = (mode, command) => {
-        if (mode === 'search') onSearch(command)
-        else if (mode === 'command') onRunCommand(command)
-        else if (mode === 'r-search') onReverseSearch(command)
+    const onSubmit: OnCommandSubmit = async (mode, command) => {
+        if (mode === 'search' || mode === 'r-search') await onSearch(command, mode)
+        if (mode === 'command') onRunCommand(command)
     }
 
     return { onSubmit }
