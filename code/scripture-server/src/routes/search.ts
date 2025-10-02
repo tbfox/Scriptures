@@ -4,9 +4,9 @@ import { parsePath } from "../utils/parsePath";
 
 export async function search(req: Request, reverse: boolean) {
     const { searchParams } = parsePath(req);
+    const contentIncludes = searchParams.get("match");
     const pageNumber = parseInt(searchParams.get("page") || "0");
     const pageSize = parseInt(searchParams.get("take") || "20");
-    const contentIncludes = searchParams.get("text");
     const countWords = searchParams.get("count_words") === "true" || false;
     const countChars = searchParams.get("count_chars") === "true" || false;
     const removePunc = searchParams.get("no_punc") === "true" || false;
