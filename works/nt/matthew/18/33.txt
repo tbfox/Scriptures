@@ -1,1 +1,0 @@
-Shouldest not thou also have had compassion on thy fellowservant, even as I had pity on thee?

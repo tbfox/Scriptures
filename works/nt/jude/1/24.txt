@@ -1,1 +1,0 @@
-Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy,

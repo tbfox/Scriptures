@@ -1,1 +1,0 @@
-Then certain of the scribes answering said, Master, thou hast well said.

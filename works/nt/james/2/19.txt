@@ -1,1 +1,0 @@
-Thou believest that there is one God; thou doest well: the devils also believe, and tremble.

@@ -1,1 +1,0 @@
-And said unto them; Go ye also into the vineyard, and whatsoever is right I will give you. And they went their way.

@@ -1,1 +1,0 @@
-David therefore calleth him Lord, how is he then his son?

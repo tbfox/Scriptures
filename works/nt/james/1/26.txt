@@ -1,1 +1,0 @@
-If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man's religion is vain.

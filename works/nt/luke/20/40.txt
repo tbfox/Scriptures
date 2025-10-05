@@ -1,1 +1,0 @@
-And after that they durst not ask him any question at all.

@@ -1,1 +1,0 @@
-Who shall not receive manifold more in this present time, and in the world to come life everlasting.

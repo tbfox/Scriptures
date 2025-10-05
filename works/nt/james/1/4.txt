@@ -1,1 +1,0 @@
-But let patience have her perfect work, that ye may be perfect and entire, wanting nothing.

@@ -1,1 +1,0 @@
-And Jesus said unto him, Receive thy sight: thy faith hath saved thee.

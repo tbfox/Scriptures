@@ -1,1 +1,0 @@
-And shall deliver him to the Gentiles to mock, and to scourge, and to crucify him: and the third day he shall rise again.

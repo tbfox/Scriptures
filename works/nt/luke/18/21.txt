@@ -1,1 +1,0 @@
-And he said, All these have I kept from my youth up.

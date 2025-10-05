@@ -1,1 +1,0 @@
-And the second took her to wife, and he died childless.

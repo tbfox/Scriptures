@@ -1,1 +1,0 @@
-And they told him, that Jesus of Nazareth passeth by.

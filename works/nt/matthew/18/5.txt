@@ -1,1 +1,0 @@
-And whoso shall receive one such little child in my name receiveth me.

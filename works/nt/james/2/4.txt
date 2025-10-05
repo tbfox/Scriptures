@@ -1,1 +1,0 @@
-Are ye not then partial in yourselves, and are become judges of evil thoughts?

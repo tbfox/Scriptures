@@ -1,1 +1,0 @@
-Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child shall in no wise enter therein.

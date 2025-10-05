@@ -1,1 +1,0 @@
-And whosoever will be chief among you, let him be your servant:

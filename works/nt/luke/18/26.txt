@@ -1,1 +1,0 @@
-And they that heard it said, Who then can be saved?

@@ -1,1 +1,0 @@
-And he would not for a while: but afterward he said within himself, Though I fear not God, nor regard man;

@@ -1,1 +1,0 @@
-But every man is tempted, when he is drawn away of his own lust, and enticed.

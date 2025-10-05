@@ -1,1 +1,0 @@
-Ye have condemned and killed the just; and he doth not resist you.

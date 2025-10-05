@@ -1,1 +1,0 @@
-But it shall not be so among you: but whosoever will be great among you, let him be your minister;

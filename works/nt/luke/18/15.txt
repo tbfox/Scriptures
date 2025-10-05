@@ -1,1 +1,0 @@
-And they brought unto him also infants, that he would touch them: but when his disciples saw it, they rebuked them.

@@ -1,1 +1,0 @@
-For that ye ought to say, If the Lord will, we shall live, and do this, or that.

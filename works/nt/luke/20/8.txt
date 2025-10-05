@@ -1,1 +1,0 @@
-And Jesus said unto them, Neither tell I you by what authority I do these things.

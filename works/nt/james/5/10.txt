@@ -1,1 +1,0 @@
-Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience.

@@ -1,1 +1,0 @@
-So they cast him out of the vineyard, and killed him. What therefore shall the lord of the vineyard do unto them?

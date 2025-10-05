@@ -1,1 +1,0 @@
-Therefore in the resurrection whose wife of them is she? for seven had her to wife.

@@ -1,1 +1,0 @@
-Then came to him certain of the Sadducees, which deny that there is any resurrection; and they asked him,

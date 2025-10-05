@@ -1,1 +1,0 @@
-For he shall be delivered unto the Gentiles, and shall be mocked, and spitefully entreated, and spitted on:

@@ -1,1 +1,0 @@
-And they shall scourge him, and put him to death: and the third day he shall rise again.

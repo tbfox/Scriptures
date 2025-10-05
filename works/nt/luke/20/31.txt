@@ -1,1 +1,0 @@
-And the third took her; and in like manner the seven also: and they left no children, and died.

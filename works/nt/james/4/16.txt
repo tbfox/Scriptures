@@ -1,1 +1,0 @@
-But now ye rejoice in your boastings: all such rejoicing is evil.

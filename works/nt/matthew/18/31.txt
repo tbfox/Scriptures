@@ -1,1 +1,0 @@
-So when his fellowservants saw what was done, they were very sorry, and came and told unto their lord all that was done.

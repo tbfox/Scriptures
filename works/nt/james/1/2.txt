@@ -1,1 +1,0 @@
-My brethren, count it all joy when ye fall into divers temptations;

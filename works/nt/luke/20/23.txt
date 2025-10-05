@@ -1,1 +1,0 @@
-But he perceived their craftiness, and said unto them, Why tempt ye me?

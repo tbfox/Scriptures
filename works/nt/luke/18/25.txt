@@ -1,1 +1,0 @@
-For it is easier for a camel to go through a needle's eye, than for a rich man to enter into the kingdom of God.

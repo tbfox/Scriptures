@@ -1,1 +1,0 @@
-And a certain ruler asked him, saying, Good Master, what shall I do to inherit eternal life?

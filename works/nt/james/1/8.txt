@@ -1,1 +1,0 @@
-A double minded man is unstable in all his ways.

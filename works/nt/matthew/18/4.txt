@@ -1,1 +1,0 @@
-Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven.

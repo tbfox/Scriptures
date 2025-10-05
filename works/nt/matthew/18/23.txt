@@ -1,1 +1,0 @@
-Therefore is the kingdom of heaven likened unto a certain king, which would take account of his servants.

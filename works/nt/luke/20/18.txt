@@ -1,1 +1,0 @@
-Whosoever shall fall upon that stone shall be broken; but on whomsoever it shall fall, it will grind him to powder.

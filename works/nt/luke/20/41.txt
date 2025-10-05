@@ -1,1 +1,0 @@
-And he said unto them, How say they that Christ is David's son?

@@ -1,1 +1,0 @@
-I fast twice in the week, I give tithes of all that I possess.

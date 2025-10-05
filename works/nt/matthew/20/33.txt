@@ -1,1 +1,0 @@
-They say unto him, Lord, that our eyes may be opened.

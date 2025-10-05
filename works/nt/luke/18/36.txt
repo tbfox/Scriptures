@@ -1,1 +1,0 @@
-And hearing the multitude pass by, he asked what it meant.

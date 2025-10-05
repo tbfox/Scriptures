@@ -1,1 +1,0 @@
-Even so faith, if it hath not works, is dead, being alone.

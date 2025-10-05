@@ -1,1 +1,0 @@
-But the rich, in that he is made low: because as the flower of the grass he shall pass away.

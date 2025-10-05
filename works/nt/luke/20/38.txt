@@ -1,1 +1,0 @@
-For he is not a God of the dead, but of the living: for all live unto him.

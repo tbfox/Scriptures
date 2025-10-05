@@ -1,1 +1,0 @@
-There were therefore seven brethren: and the first took a wife, and died without children.

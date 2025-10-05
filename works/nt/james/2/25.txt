@@ -1,1 +1,0 @@
-Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way?

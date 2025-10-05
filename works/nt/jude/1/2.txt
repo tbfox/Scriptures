@@ -1,1 +1,0 @@
-Mercy unto you, and peace, and love, be multiplied.

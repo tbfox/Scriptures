@@ -1,1 +1,0 @@
-And again he sent a third: and they wounded him also, and cast him out.

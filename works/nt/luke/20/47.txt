@@ -1,1 +1,0 @@
-Which devour widows' houses, and for a shew make long prayers: the same shall receive greater damnation.

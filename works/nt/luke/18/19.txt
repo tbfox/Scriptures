@@ -1,1 +1,0 @@
-And Jesus said unto him, Why callest thou me good? none is good, save one, that is, God.

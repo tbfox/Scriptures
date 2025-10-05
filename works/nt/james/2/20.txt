@@ -1,1 +1,0 @@
-But wilt thou know, O vain man, that faith without works is dead?

@@ -1,1 +1,0 @@
-And again he sent another servant: and they beat him also, and entreated him shamefully, and sent him away empty.

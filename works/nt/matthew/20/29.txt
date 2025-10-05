@@ -1,1 +1,0 @@
-And as they departed from Jericho, a great multitude followed him.

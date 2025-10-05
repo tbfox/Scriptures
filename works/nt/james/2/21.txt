@@ -1,1 +1,0 @@
-Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?

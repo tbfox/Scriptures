@@ -1,1 +1,0 @@
-Is it not lawful for me to do what I will with mine own? Is thine eye evil, because I am good?

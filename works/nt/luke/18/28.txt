@@ -1,1 +1,0 @@
-Then Peter said, Lo, we have left all, and followed thee.
