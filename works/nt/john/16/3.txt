@@ -1,1 +1,0 @@
-And these things will they do unto you, because they have not known the Father, nor me.

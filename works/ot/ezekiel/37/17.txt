@@ -1,1 +1,0 @@
-And join them one to another into one stick; and they shall become one in thine hand.

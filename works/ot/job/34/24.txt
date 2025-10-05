@@ -1,1 +1,0 @@
-He shall break in pieces mighty men without number, and set others in their stead.

@@ -1,1 +1,0 @@
-Make me to go in the path of thy commandments; for therein do I delight.

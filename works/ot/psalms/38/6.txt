@@ -1,1 +1,0 @@
-I am troubled; I am bowed down greatly; I go mourning all the day long.

@@ -1,1 +1,0 @@
-And there are diversities of operations, but it is the same God which worketh all in all.

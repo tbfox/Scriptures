@@ -1,1 +1,0 @@
-For ye are our glory and joy.

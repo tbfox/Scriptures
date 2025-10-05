@@ -1,1 +1,0 @@
-Give us day by day our daily bread.

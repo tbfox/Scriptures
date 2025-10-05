@@ -1,1 +1,0 @@
-And Moses came and spake all the words of this song in the ears of the people, he, and Hoshea the son of Nun.

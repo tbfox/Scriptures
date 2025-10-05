@@ -1,1 +1,0 @@
-Igal the son of Nathan of Zobah, Bani the Gadite,

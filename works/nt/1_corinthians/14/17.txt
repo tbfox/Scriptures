@@ -1,1 +1,0 @@
-For thou verily givest thanks well, but the other is not edified.

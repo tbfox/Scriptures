@@ -1,1 +1,0 @@
-For my sighing cometh before I eat, and my roarings are poured out like the waters.

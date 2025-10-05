@@ -1,1 +1,0 @@
-Then the king of Israel said, Take ye Micaiah, and carry him back to Amon the governor of the city, and to Joash the king's son;

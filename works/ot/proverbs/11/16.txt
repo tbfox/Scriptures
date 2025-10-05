@@ -1,1 +1,0 @@
-A gracious woman retaineth honour: and strong men retain riches.

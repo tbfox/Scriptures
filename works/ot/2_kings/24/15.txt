@@ -1,1 +1,0 @@
-And he carried away Jehoiachin to Babylon, and the king's mother, and the king's wives, and his officers, and the mighty of the land, those carried he into captivity from Jerusalem to Babylon.

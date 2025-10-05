@@ -1,1 +1,0 @@
-Shalt thou reign, because thou closest thyself in cedar? did not thy father eat and drink, and do judgment and justice, and then it was well with him?

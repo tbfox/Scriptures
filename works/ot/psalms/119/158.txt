@@ -1,1 +1,0 @@
-I beheld the transgressors, and was grieved; because they kept not thy word.

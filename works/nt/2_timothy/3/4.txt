@@ -1,1 +1,0 @@
-Traitors, heady, highminded, lovers of pleasures more than lovers of God;

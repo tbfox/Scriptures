@@ -1,1 +1,0 @@
-So Jeroboam and all the people came to Rehoboam the third day, as the king had appointed, saying, Come to me again the third day.

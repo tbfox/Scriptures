@@ -1,1 +1,0 @@
-Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest.

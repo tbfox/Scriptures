@@ -1,1 +1,0 @@
-Why standest thou afar off, O LORD? why hidest thou thyself in times of trouble?

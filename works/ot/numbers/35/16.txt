@@ -1,1 +1,0 @@
-And if he smite him with an instrument of iron, so that he die, he is a murderer: the murderer shall surely be put to death.

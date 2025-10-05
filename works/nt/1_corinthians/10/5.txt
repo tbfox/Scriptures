@@ -1,1 +1,0 @@
-But with many of them God was not well pleased: for they were overthrown in the wilderness.

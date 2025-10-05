@@ -1,1 +1,0 @@
-This is the interpretation, O king, and this is the decree of the most High, which is come upon my lord the king:

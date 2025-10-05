@@ -1,1 +1,0 @@
-For I say unto you, I will not drink of the fruit of the vine, until the kingdom of God shall come.

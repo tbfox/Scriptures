@@ -1,1 +1,0 @@
-And he answered and said unto them, What did Moses command you?

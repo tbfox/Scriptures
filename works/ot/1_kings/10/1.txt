@@ -1,1 +1,0 @@
-And when the queen of Sheba heard of the fame of Solomon concerning the name of the LORD, she came to prove him with hard questions.

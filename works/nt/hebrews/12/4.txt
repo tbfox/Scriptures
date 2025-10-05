@@ -1,1 +1,0 @@
-Ye have not yet resisted unto blood, striving against sin.

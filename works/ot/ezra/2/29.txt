@@ -1,1 +1,0 @@
-The children of Nebo, fifty and two.

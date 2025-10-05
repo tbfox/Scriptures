@@ -1,1 +1,0 @@
-He giveth snow like wool: he scattereth the hoarfrost like ashes.

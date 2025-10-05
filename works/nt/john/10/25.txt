@@ -1,1 +1,0 @@
-Jesus answered them, I told you, and ye believed not: the works that I do in my Father's name, they bear witness of me.

@@ -1,1 +1,0 @@
-They shall ask the way to Zion with their faces thitherward, saying, Come, and let us join ourselves to the LORD in a perpetual covenant that shall not be forgotten.

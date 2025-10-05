@@ -1,1 +1,0 @@
-Help us, O God of our salvation, for the glory of thy name: and deliver us, and purge away our sins, for thy name's sake.

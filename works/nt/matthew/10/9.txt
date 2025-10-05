@@ -1,1 +1,0 @@
-Provide neither gold, nor silver, nor brass in your purses,

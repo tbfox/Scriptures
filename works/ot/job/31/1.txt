@@ -1,1 +1,0 @@
-I made a covenant with mine eyes; why then should I think upon a maid?

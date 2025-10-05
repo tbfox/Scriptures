@@ -1,1 +1,0 @@
-From thence they removed, and pitched in the valley of Zared.

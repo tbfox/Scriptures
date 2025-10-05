@@ -1,1 +1,0 @@
-And told him, saying, Joseph is yet alive, and he is governor over all the land of Egypt. And Jacob's heart fainted, for he believed them not.

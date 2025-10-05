@@ -1,1 +1,0 @@
-And on the seventh day ye shall have an holy convocation; ye shall do no servile work.

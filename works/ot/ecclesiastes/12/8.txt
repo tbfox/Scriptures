@@ -1,1 +1,0 @@
-Vanity of vanities, saith the preacher; all is vanity.

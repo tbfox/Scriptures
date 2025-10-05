@@ -1,1 +1,0 @@
-After that he is sold he may be redeemed again; one of his brethren may redeem him:

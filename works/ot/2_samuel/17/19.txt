@@ -1,1 +1,0 @@
-And the woman took and spread a covering over the well's mouth, and spread ground corn thereon; and the thing was not known.

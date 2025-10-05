@@ -1,1 +1,0 @@
-Though he had commanded the clouds from above, and opened the doors of heaven,

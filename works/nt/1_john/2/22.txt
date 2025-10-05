@@ -1,1 +1,0 @@
-Who is a liar but he that denieth that Jesus is the Christ? He is antichrist, that denieth the Father and the Son.

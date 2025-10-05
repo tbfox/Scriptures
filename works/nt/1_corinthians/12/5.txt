@@ -1,1 +1,0 @@
-And there are differences of administrations, but the same Lord.

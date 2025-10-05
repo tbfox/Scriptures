@@ -1,1 +1,0 @@
-All the while my breath is in me, and the spirit of God is in my nostrils;

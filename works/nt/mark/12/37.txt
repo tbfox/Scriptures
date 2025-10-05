@@ -1,1 +1,0 @@
-David therefore himself calleth him Lord; and whence is he then his son? And the common people heard him gladly.

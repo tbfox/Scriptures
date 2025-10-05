@@ -1,1 +1,0 @@
-There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day:

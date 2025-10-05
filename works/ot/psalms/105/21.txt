@@ -1,1 +1,0 @@
-He made him lord of his house, and ruler of all his substance:

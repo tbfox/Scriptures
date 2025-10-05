@@ -1,1 +1,0 @@
-The burden of the desert of the sea. As whirlwinds in the south pass through; so it cometh from the desert, from a terrible land.

@@ -1,1 +1,0 @@
-Yea, and why even of yourselves judge ye not what is right?

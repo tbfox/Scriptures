@@ -1,1 +1,0 @@
-And they brought up the ark, and the tabernacle of the congregation, and all the holy vessels that were in the tabernacle, these did the priests and the Levites bring up.

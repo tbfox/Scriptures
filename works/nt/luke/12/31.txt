@@ -1,1 +1,0 @@
-But rather seek ye the kingdom of God; and all these things shall be added unto you.

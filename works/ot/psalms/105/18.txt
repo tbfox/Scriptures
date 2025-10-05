@@ -1,1 +1,0 @@
-Whose feet they hurt with fetters: he was laid in iron:

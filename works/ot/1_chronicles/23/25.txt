@@ -1,1 +1,0 @@
-For David said, The LORD God of Israel hath given rest unto his people, that they may dwell in Jerusalem for ever:

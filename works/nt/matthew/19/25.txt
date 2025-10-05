@@ -1,1 +1,0 @@
-When his disciples heard it, they were exceedingly amazed, saying, Who then can be saved?

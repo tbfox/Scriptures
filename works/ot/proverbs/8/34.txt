@@ -1,1 +1,0 @@
-Blessed is the man that heareth me, watching daily at my gates, waiting at the posts of my doors.

@@ -1,1 +1,0 @@
-The LORD therefore be judge, and judge between me and thee, and see, and plead my cause, and deliver me out of thine hand.

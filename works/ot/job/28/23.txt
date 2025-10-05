@@ -1,1 +1,0 @@
-God understandeth the way thereof, and he knoweth the place thereof.

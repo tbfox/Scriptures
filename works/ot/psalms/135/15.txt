@@ -1,1 +1,0 @@
-The idols of the heathen are silver and gold, the work of men's hands.

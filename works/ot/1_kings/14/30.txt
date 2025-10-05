@@ -1,1 +1,0 @@
-And there was war between Rehoboam and Jeroboam all their days.

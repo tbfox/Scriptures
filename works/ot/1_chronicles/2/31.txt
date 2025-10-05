@@ -1,1 +1,0 @@
-And the sons of Appaim; Ishi. And the sons of Ishi; Sheshan. And the children of Sheshan; Ahlai.

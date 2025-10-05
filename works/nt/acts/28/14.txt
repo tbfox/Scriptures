@@ -1,1 +1,0 @@
-Where we found brethren, and were desired to tarry with them seven days: and so we went toward Rome.

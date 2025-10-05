@@ -1,1 +1,0 @@
-They were amazed, they answered no more: they left off speaking.

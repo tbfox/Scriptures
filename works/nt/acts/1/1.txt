@@ -1,1 +1,0 @@
-The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach,

@@ -1,1 +1,0 @@
-And five of them were wise, and five were foolish.

@@ -1,1 +1,0 @@
-This gate of the LORD, into which the righteous shall enter.

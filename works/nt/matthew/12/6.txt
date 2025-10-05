@@ -1,1 +1,0 @@
-But I say unto you, That in this place is one greater than the temple.

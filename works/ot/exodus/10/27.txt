@@ -1,1 +1,0 @@
-But the LORD hardened Pharaoh's heart, and he would not let them go.

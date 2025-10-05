@@ -1,1 +1,0 @@
-He is in the way of life that keepeth instruction: but he that refuseth reproof erreth.

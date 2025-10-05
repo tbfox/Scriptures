@@ -1,1 +1,0 @@
-My bowels boiled, and rested not: the days of affliction prevented me.

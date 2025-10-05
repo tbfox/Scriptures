@@ -1,1 +1,0 @@
-And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory.

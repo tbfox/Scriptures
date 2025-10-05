@@ -1,1 +1,0 @@
-And he drave them from the judgment seat.

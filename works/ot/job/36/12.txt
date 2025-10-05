@@ -1,1 +1,0 @@
-But if they obey not, they shall perish by the sword, and they shall die without knowledge.

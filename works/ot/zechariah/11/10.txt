@@ -1,1 +1,0 @@
-And I took my staff, even Beauty, and cut it asunder, that I might break my covenant which I had made with all the people.

@@ -1,1 +1,0 @@
-And he made three hundred shields of beaten gold; three pound of gold went to one shield: and the king put them in the house of the forest of Lebanon.

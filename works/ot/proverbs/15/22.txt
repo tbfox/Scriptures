@@ -1,1 +1,0 @@
-Without counsel purposes are disappointed: but in the multitude of counsellors they are established.

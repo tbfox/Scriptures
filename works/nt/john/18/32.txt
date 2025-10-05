@@ -1,1 +1,0 @@
-That the saying of Jesus might be fulfilled, which he spake, signifying what death he should die.

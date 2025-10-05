@@ -1,1 +1,0 @@
-For as a snare shall it come on all them that dwell on the face of the whole earth.

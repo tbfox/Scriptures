@@ -1,1 +1,0 @@
-And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits?

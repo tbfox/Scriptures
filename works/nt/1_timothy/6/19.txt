@@ -1,1 +1,0 @@
-Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life.

@@ -1,1 +1,0 @@
-Blessed is the man to whom the Lord will not impute sin.

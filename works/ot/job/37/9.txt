@@ -1,1 +1,0 @@
-Out of the south cometh the whirlwind: and cold out of the north.

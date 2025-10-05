@@ -1,1 +1,0 @@
-Open to me the gates of righteousness: I will go into them, and I will praise the LORD:

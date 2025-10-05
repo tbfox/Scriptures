@@ -1,1 +1,0 @@
-For I have not spoken of myself; but the Father which sent me, he gave me a commandment, what I should say, and what I should speak.

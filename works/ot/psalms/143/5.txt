@@ -1,1 +1,0 @@
-I remember the days of old; I meditate on all thy works; I muse on the work of thy hands.

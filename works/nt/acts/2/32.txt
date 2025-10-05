@@ -1,1 +1,0 @@
-This Jesus hath God raised up, whereof we all are witnesses.

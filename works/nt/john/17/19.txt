@@ -1,1 +1,0 @@
-And for their sakes I sanctify myself, that they also might be sanctified through the truth.

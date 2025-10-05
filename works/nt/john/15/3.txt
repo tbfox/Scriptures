@@ -1,1 +1,0 @@
-Now ye are clean through the word which I have spoken unto you.

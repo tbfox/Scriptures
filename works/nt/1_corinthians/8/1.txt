@@ -1,1 +1,0 @@
-Now as touching things offered unto idols, we know that we all have knowledge. Knowledge puffeth up, but charity edifieth.

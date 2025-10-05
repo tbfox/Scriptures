@@ -1,1 +1,0 @@
-Is not destruction to the wicked? and a strange punishment to the workers of iniquity?

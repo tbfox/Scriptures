@@ -1,1 +1,0 @@
-The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted.

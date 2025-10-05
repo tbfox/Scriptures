@@ -1,1 +1,0 @@
-A gift is as a precious stone in the eyes of him that hath it: whithersoever it turneth, it prospereth.

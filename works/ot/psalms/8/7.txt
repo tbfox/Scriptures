@@ -1,1 +1,0 @@
-All sheep and oxen, yea, and the beasts of the field;

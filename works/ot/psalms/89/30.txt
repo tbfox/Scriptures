@@ -1,1 +1,0 @@
-If his children forsake my law, and walk not in my judgments;

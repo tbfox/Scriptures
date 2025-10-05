@@ -1,1 +1,0 @@
-For if we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins,

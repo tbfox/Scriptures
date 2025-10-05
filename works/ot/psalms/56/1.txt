@@ -1,1 +1,0 @@
-Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me.

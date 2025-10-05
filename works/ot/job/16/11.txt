@@ -1,1 +1,0 @@
-God hath delivered me to the ungodly, and turned me over into the hands of the wicked.

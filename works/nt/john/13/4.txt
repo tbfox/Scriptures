@@ -1,1 +1,0 @@
-He riseth from supper, and laid aside his garments; and took a towel, and girded himself.

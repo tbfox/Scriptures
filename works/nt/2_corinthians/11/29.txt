@@ -1,1 +1,0 @@
-Who is weak, and I am not weak? who is offended, and I burn not?

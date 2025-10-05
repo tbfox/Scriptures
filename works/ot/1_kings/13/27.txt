@@ -1,1 +1,0 @@
-And he spake to his sons, saying, Saddle me the ass. And they saddled him.

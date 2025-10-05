@@ -1,1 +1,0 @@
-I was daily with you in the temple teaching, and ye took me not: but the scriptures must be fulfilled.

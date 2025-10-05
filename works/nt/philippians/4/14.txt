@@ -1,1 +1,0 @@
-Notwithstanding ye have well done, that ye did communicate with my affliction.

@@ -1,1 +1,0 @@
-Let thine hand help me; for I have chosen thy precepts.

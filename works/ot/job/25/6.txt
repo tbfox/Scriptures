@@ -1,1 +1,0 @@
-How much less man, that is a worm? and the son of man, which is a worm?

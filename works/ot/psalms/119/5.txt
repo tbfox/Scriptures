@@ -1,1 +1,0 @@
-O that my ways were directed to keep thy statutes!

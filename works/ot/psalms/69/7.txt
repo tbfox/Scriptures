@@ -1,1 +1,0 @@
-Because for thy sake I have borne reproach; shame hath covered my face.

@@ -1,1 +1,0 @@
-And David took more wives at Jerusalem: and David begat more sons and daughters.

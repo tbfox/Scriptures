@@ -1,1 +1,0 @@
-And had rained down manna upon them to eat, and had given them of the corn of heaven.

@@ -1,1 +1,0 @@
-Wherefore hidest thou thy face, and holdest me for thine enemy?

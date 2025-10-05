@@ -1,1 +1,0 @@
-She layeth her hands to the spindle, and her hands hold the distaff.

@@ -1,1 +1,0 @@
-But man dieth, and wasteth away: yea, man giveth up the ghost, and where is he?

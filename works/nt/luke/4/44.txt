@@ -1,1 +1,0 @@
-And he preached in the synagogues of Galilee.

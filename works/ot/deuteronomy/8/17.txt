@@ -1,1 +1,0 @@
-And thou say in thine heart, My power and the might of mine hand hath gotten me this wealth.

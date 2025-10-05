@@ -1,1 +1,0 @@
-Because he covereth his face with his fatness, and maketh collops of fat on his flanks.

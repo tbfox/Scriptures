@@ -1,1 +1,0 @@
-Thou prevailest for ever against him, and he passeth: thou changest his countenance, and sendest him away.

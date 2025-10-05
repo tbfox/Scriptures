@@ -1,1 +1,0 @@
-And when they heard of the resurrection of the dead, some mocked: and others said, We will hear thee again of this matter.

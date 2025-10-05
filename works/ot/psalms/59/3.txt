@@ -1,1 +1,0 @@
-For, lo, they lie in wait for my soul: the mighty are gathered against me; not for my transgression, nor for my sin, O LORD.

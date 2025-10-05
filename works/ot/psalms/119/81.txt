@@ -1,1 +1,0 @@
-My soul fainteth for thy salvation: but I hope in thy word.

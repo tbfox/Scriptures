@@ -1,1 +1,0 @@
-For thou hast girded me with strength unto the battle: thou hast subdued under me those that rose up against me.

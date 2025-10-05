@@ -1,1 +1,0 @@
-Then the beasts go into dens, and remain in their places.

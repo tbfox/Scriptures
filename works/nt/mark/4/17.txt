@@ -1,1 +1,0 @@
-And have no root in themselves, and so endure but for a time: afterward, when affliction or persecution ariseth for the word's sake, immediately they are offended.

@@ -1,1 +1,0 @@
-And Peter went out, and wept bitterly.

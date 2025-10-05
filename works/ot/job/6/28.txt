@@ -1,1 +1,0 @@
-Now therefore be content, look upon me; for it is evident unto you if I lie.

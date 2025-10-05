@@ -1,1 +1,0 @@
-A wrathful man stirreth up strife: but he that is slow to anger appeaseth strife.

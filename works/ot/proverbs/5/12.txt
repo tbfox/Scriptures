@@ -1,1 +1,0 @@
-And say, How have I hated instruction, and my heart despised reproof;

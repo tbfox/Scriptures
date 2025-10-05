@@ -1,1 +1,0 @@
-I am one that bear witness of myself, and the Father that sent me beareth witness of me.

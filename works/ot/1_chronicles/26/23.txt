@@ -1,1 +1,0 @@
-Of the Amramites, and the Izharites, the Hebronites, and the Uzzielites:

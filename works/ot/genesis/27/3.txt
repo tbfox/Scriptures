@@ -1,1 +1,0 @@
-Now therefore take, I pray thee, thy weapons, thy quiver and thy bow, and go out to the field, and take me some venison;

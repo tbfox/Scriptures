@@ -1,1 +1,0 @@
-Thy neck is like the tower of David builded for an armoury, whereon there hang a thousand bucklers, all shields of mighty men.

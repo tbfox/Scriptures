@@ -1,1 +1,0 @@
-He spake, and the locusts came, and caterpillers, and that without number,

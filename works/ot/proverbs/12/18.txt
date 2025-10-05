@@ -1,1 +1,0 @@
-There is that speaketh like the piercings of a sword: but the tongue of the wise is health.

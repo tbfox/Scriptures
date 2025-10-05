@@ -1,1 +1,0 @@
-For their heart studieth destruction, and their lips talk of mischief.

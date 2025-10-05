@@ -1,1 +1,0 @@
-And he made an house of high places, and made priests of the lowest of the people, which were not of the sons of Levi.

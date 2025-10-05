@@ -1,1 +1,0 @@
-And it repented the LORD that he had made man on the earth, and it grieved him at his heart.

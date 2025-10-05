@@ -1,1 +1,0 @@
-The LORD possessed me in the beginning of his way, before his works of old.

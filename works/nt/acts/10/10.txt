@@ -1,1 +1,0 @@
-And he became very hungry, and would have eaten: but while they made ready, he fell into a trance,

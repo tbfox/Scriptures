@@ -1,1 +1,0 @@
-The eleventh to Eliashib, the twelfth to Jakim,

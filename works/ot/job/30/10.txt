@@ -1,1 +1,0 @@
-They abhor me, they flee far from me, and spare not to spit in my face.

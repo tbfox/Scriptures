@@ -1,1 +1,0 @@
-Did ever people hear the voice of God speaking out of the midst of the fire, as thou hast heard, and live?

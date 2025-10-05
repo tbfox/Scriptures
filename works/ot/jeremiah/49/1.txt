@@ -1,1 +1,0 @@
-Concerning the Ammonites, thus saith the LORD; Hath Israel no sons? hath he no heir? why then doth their king inherit Gad, and his people dwell in his cities?

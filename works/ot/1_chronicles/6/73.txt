@@ -1,1 +1,0 @@
-And Ramoth with her suburbs, and Anem with her suburbs:

@@ -1,1 +1,0 @@
-But oh that God would speak, and open his lips against thee;

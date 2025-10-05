@@ -1,1 +1,0 @@
-In the fourteenth day of the first month at even is the LORD's passover.

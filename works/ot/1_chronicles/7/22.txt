@@ -1,1 +1,0 @@
-And Ephraim their father mourned many days, and his brethren came to comfort him.

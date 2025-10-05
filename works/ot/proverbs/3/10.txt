@@ -1,1 +1,0 @@
-So shall thy barns be filled with plenty, and thy presses shall burst out with new wine.

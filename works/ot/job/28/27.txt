@@ -1,1 +1,0 @@
-Then did he see it, and declare it; he prepared it, yea, and searched it out.

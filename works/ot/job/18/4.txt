@@ -1,1 +1,0 @@
-He teareth himself in his anger: shall the earth be forsaken for thee? and shall the rock be removed out of his place?

@@ -1,1 +1,0 @@
-Then said one unto him, Lord, are there few that be saved? And he said unto them,

@@ -1,1 +1,0 @@
-For ever, O LORD, thy word is settled in heaven.

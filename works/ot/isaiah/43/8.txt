@@ -1,1 +1,0 @@
-Bring forth the blind people that have eyes, and the deaf that have ears.

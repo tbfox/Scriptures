@@ -1,1 +1,0 @@
-Mine eye runneth down with rivers of water for the destruction of the daughter of my people.

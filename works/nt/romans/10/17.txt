@@ -1,1 +1,0 @@
-So then faith cometh by hearing, and hearing by the word of God.

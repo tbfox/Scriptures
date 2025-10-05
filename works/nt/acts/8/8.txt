@@ -1,1 +1,0 @@
-And there was great joy in that city.

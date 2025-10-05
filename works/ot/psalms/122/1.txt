@@ -1,1 +1,0 @@
-I was glad when they said unto me, Let us go into the house of the LORD.

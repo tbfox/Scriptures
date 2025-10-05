@@ -1,1 +1,0 @@
-Thou hast a mighty arm: strong is thy hand, and high is thy right hand.

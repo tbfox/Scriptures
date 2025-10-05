@@ -1,1 +1,0 @@
-Behold, your house is left unto you desolate.

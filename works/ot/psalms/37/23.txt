@@ -1,1 +1,0 @@
-The steps of a good man are ordered by the LORD: and he delighteth in his way.

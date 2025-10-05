@@ -1,1 +1,0 @@
-O LORD God of hosts, how long wilt thou be angry against the prayer of thy people?

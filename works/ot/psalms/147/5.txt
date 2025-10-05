@@ -1,1 +1,0 @@
-Great is our Lord, and of great power: his understanding is infinite.

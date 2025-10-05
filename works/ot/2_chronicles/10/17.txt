@@ -1,1 +1,0 @@
-But as for the children of Israel that dwelt in the cities of Judah, Rehoboam reigned over them.

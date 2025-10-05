@@ -1,1 +1,0 @@
-And he burnt the bones of the priests upon their altars, and cleansed Judah and Jerusalem.

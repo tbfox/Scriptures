@@ -1,1 +1,0 @@
-Came unto me, and stood, and said unto me, Brother Saul, receive thy sight. And the same hour I looked up upon him.

@@ -1,1 +1,0 @@
-The LORD shall reign for ever and ever.

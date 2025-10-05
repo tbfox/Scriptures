@@ -1,1 +1,0 @@
-Separate yourselves from among this congregation, that I may consume them in a moment.

@@ -1,1 +1,0 @@
-When he raiseth up himself, the mighty are afraid: by reason of breakings they purify themselves.

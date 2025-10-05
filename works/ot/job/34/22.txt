@@ -1,1 +1,0 @@
-There is no darkness, nor shadow of death, where the workers of iniquity may hide themselves.

@@ -1,1 +1,0 @@
-The lord of that servant shall come in a day when he looketh not for him, and in an hour that he is not aware of,

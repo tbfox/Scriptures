@@ -1,1 +1,0 @@
-The mouth of the just bringeth forth wisdom: but the froward tongue shall be cut out.

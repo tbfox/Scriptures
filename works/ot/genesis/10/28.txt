@@ -1,1 +1,0 @@
-And Obal, and Abimael, and Sheba,

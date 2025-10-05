@@ -1,1 +1,0 @@
-For God maketh my heart soft, and the Almighty troubleth me:

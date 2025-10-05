@@ -1,1 +1,0 @@
-Therefore he knoweth their works, and he overturneth them in the night, so that they are destroyed.

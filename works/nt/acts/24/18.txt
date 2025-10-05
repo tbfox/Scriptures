@@ -1,1 +1,0 @@
-Whereupon certain Jews from Asia found me purified in the temple, neither with multitude, nor with tumult.

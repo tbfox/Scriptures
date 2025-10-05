@@ -1,1 +1,0 @@
-Thus shall Aaron come into the holy place: with a young bullock for a sin offering, and a ram for a burnt offering.

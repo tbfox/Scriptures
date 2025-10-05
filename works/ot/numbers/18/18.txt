@@ -1,1 +1,0 @@
-And the flesh of them shall be thine, as the wave breast and as the right shoulder are thine.

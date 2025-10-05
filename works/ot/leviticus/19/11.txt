@@ -1,1 +1,0 @@
-Ye shall not steal, neither deal falsely, neither lie one to another.

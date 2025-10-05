@@ -1,1 +1,0 @@
-While the king sitteth at his table, my spikenard sendeth forth the smell thereof.

@@ -1,1 +1,0 @@
-Are they Hebrews? so am I. Are they Israelites? so am I. Are they the seed of Abraham? so am I.

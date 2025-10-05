@@ -1,1 +1,0 @@
-And that he was buried, and that he rose again the third day according to the scriptures:

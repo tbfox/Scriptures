@@ -1,1 +1,0 @@
-And the captain of the LORD's host said unto Joshua, Loose thy shoe from off thy foot; for the place whereon thou standest is holy. And Joshua did so.

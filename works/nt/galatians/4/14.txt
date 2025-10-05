@@ -1,1 +1,0 @@
-And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, even as Christ Jesus.

@@ -1,1 +1,0 @@
-Son of man, I have made thee a watchman unto the house of Israel: therefore hear the word at my mouth, and give them warning from me.

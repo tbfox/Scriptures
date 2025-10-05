@@ -1,1 +1,0 @@
-Blessed art thou, O LORD: teach me thy statutes.

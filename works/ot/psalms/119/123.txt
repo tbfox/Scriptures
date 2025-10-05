@@ -1,1 +1,0 @@
-Mine eyes fail for thy salvation, and for the word of thy righteousness.

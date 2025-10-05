@@ -1,1 +1,0 @@
-And when he had sent them away, he departed into a mountain to pray.

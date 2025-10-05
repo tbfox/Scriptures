@@ -1,1 +1,0 @@
-Huz his firstborn, and Buz his brother, and Kemuel the father of Aram,

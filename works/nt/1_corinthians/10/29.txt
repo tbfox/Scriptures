@@ -1,1 +1,0 @@
-Conscience, I say, not thine own, but of the other: for why is my liberty judged of another man's conscience?

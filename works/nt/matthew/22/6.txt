@@ -1,1 +1,0 @@
-And the remnant took his servants, and entreated them spitefully, and slew them.

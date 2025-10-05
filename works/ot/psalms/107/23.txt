@@ -1,1 +1,0 @@
-They that go down to the sea in ships, that do business in great waters;

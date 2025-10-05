@@ -1,1 +1,0 @@
-For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city.

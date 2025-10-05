@@ -1,1 +1,0 @@
-And at Anathoth, Nob, Ananiah,

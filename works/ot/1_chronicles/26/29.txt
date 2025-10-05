@@ -1,1 +1,0 @@
-Of the Izharites, Chenaniah and his sons were for the outward business over Israel, for officers and judges.

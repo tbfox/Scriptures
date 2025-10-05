@@ -1,1 +1,0 @@
-And Abimelech said, Behold, my land is before thee: dwell where it pleaseth thee.

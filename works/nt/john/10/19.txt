@@ -1,1 +1,0 @@
-There was a division therefore again among the Jews for these sayings.

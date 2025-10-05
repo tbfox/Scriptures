@@ -1,1 +1,0 @@
-Then Pilate therefore took Jesus, and scourged him.

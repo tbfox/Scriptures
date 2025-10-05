@@ -1,1 +1,0 @@
-He shall abide before God for ever: O prepare mercy and truth, which may preserve him.

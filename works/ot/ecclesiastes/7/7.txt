@@ -1,1 +1,0 @@
-Surely oppression maketh a wise man mad; and a gift destroyeth the heart.

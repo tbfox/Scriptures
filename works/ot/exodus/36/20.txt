@@ -1,1 +1,0 @@
-And he made boards for the tabernacle of shittim wood, standing up.

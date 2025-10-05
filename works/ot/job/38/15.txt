@@ -1,1 +1,0 @@
-And from the wicked their light is withholden, and the high arm shall be broken.

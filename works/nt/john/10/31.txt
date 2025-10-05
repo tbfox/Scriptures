@@ -1,1 +1,0 @@
-Then the Jews took up stones again to stone him.

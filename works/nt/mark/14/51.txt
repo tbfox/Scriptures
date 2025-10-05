@@ -1,1 +1,0 @@
-And there followed him a certain young man, having a linen cloth cast about his naked body; and the young men laid hold on him:

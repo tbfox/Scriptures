@@ -1,1 +1,0 @@
-And there shall be no remnant of them: for I will bring evil upon the men of Anathoth, even the year of their visitation.

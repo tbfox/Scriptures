@@ -1,1 +1,0 @@
-To hear the groaning of the prisoner; to loose those that are appointed to death;

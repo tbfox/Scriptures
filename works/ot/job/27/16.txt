@@ -1,1 +1,0 @@
-Though he heap up silver as the dust, and prepare raiment as the clay;

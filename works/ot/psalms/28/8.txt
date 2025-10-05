@@ -1,1 +1,0 @@
-The LORD is their strength, and he is the saving strength of his anointed.

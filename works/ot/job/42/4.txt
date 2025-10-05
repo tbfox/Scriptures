@@ -1,1 +1,0 @@
-Hear, I beseech thee, and I will speak: I will demand of thee, and declare thou unto me.

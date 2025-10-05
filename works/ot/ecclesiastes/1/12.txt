@@ -1,1 +1,0 @@
-I the Preacher was king over Israel in Jerusalem.

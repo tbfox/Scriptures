@@ -1,1 +1,0 @@
-Arise, O LORD; O God, lift up thine hand: forget not the humble.

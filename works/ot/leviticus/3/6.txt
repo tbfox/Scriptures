@@ -1,1 +1,0 @@
-And if his offering for a sacrifice of peace offering unto the LORD be of the flock; male or female, he shall offer it without blemish.

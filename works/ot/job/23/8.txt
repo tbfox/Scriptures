@@ -1,1 +1,0 @@
-Behold, I go forward, but he is not there; and backward, but I cannot perceive him:

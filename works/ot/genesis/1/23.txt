@@ -1,1 +1,0 @@
-And the evening and the morning were the fifth day.

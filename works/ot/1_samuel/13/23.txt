@@ -1,1 +1,0 @@
-And the garrison of the Philistines went out to the passage of Michmash.

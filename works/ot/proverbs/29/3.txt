@@ -1,1 +1,0 @@
-Whoso loveth wisdom rejoiceth his father: but he that keepeth company with harlots spendeth his substance.

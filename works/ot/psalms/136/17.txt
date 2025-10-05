@@ -1,1 +1,0 @@
-To him which smote great kings: for his mercy endureth for ever:

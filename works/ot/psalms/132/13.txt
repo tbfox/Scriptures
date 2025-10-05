@@ -1,1 +1,0 @@
-For the LORD hath chosen Zion; he hath desired it for his habitation.

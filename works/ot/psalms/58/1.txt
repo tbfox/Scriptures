@@ -1,1 +1,0 @@
-Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?

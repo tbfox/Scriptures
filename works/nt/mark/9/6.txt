@@ -1,1 +1,0 @@
-For he wist not what to say; for they were sore afraid.

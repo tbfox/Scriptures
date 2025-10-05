@@ -1,1 +1,0 @@
-Give ye ear, and hear my voice; hearken, and hear my speech.

@@ -1,1 +1,0 @@
-For the LORD had fast closed up all the wombs of the house of Abimelech, because of Sarah Abraham's wife.

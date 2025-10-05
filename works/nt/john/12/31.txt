@@ -1,1 +1,0 @@
-Now is the judgment of this world: now shall the prince of this world be cast out.

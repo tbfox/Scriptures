@@ -1,1 +1,0 @@
-Moreover the LORD spake again unto Ahaz, saying,

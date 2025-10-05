@@ -1,1 +1,0 @@
-But I am like a green olive tree in the house of God: I trust in the mercy of God for ever and ever.

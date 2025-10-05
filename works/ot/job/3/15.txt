@@ -1,1 +1,0 @@
-Or with princes that had gold, who filled their houses with silver:

@@ -1,1 +1,0 @@
-Now Jesus was not yet come into the town, but was in that place where Martha met him.

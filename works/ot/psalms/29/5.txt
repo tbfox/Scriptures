@@ -1,1 +1,0 @@
-The voice of the LORD breaketh the cedars; yea, the LORD breaketh the cedars of Lebanon.

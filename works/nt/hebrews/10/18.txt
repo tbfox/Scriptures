@@ -1,1 +1,0 @@
-Now where remission of these is, there is no more offering for sin.

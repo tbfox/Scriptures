@@ -1,1 +1,0 @@
-I am thy servant; give me understanding, that I may know thy testimonies.

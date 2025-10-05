@@ -1,1 +1,0 @@
-And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am.

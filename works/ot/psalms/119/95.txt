@@ -1,1 +1,0 @@
-The wicked have waited for me to destroy me: but I will consider thy testimonies.

@@ -1,1 +1,0 @@
-Uriah the Hittite, Zabad the son of Ahlai,

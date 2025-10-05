@@ -1,1 +1,0 @@
-And David said, Is there yet any that is left of the house of Saul, that I may shew him kindness for Jonathan's sake?

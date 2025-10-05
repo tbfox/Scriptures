@@ -1,1 +1,0 @@
-If thou prepare thine heart, and stretch out thine hands toward him;

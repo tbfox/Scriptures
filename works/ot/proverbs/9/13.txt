@@ -1,1 +1,0 @@
-A foolish woman is clamorous: she is simple, and knoweth nothing.

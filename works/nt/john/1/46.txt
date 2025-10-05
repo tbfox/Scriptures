@@ -1,1 +1,0 @@
-And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see.

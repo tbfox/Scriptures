@@ -1,1 +1,0 @@
-And they began to be sorrowful, and to say unto him one by one, Is it I? and another said, Is it I?

@@ -1,1 +1,0 @@
-Simon Peter therefore beckoned to him, that he should ask who it should be of whom he spake.

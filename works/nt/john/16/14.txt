@@ -1,1 +1,0 @@
-He shall glorify me: for he shall receive of mine, and shall shew it unto you.

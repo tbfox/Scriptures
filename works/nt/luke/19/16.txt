@@ -1,1 +1,0 @@
-Then came the first, saying, Lord, thy pound hath gained ten pounds.

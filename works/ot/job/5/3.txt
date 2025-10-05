@@ -1,1 +1,0 @@
-I have seen the foolish taking root: but suddenly I cursed his habitation.

@@ -1,1 +1,0 @@
-And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast.

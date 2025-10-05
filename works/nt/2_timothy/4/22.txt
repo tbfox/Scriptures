@@ -1,1 +1,0 @@
-The Lord Jesus Christ be with thy spirit. Grace be with you. Amen.

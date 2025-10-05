@@ -1,1 +1,0 @@
-For other foundation can no man lay than that is laid, which is Jesus Christ.

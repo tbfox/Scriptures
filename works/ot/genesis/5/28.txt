@@ -1,1 +1,0 @@
-And Lamech lived an hundred eighty and two years, and begat a son:

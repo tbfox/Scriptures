@@ -1,1 +1,0 @@
-And for the sides of the tabernacle westward he made six boards.

@@ -1,1 +1,0 @@
-Their heart is as fat as grease; but I delight in thy law.

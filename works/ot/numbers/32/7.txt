@@ -1,1 +1,0 @@
-And wherefore discourage ye the heart of the children of Israel from going over into the land which the LORD hath given them?

@@ -1,1 +1,0 @@
-He was more honourable than the thirty, but he attained not to the first three. And David set him over his guard.

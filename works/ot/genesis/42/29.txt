@@ -1,1 +1,0 @@
-And they came unto Jacob their father unto the land of Canaan, and told him all that befell unto them; saying,

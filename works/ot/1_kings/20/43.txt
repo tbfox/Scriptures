@@ -1,1 +1,0 @@
-And the king of Israel went to his house heavy and displeased, and came to Samaria.

@@ -1,1 +1,0 @@
-He leadeth princes away spoiled, and overthroweth the mighty.

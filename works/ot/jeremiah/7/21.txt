@@ -1,1 +1,0 @@
-Thus saith the LORD of hosts, the God of Israel; Put your burnt offerings unto your sacrifices, and eat flesh.

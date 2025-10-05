@@ -1,1 +1,0 @@
-And if she vowed in her husband's house, or bound her soul by a bond with an oath;

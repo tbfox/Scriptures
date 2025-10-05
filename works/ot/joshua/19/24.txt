@@ -1,1 +1,0 @@
-And the fifth lot came out for the tribe of the children of Asher according to their families.

@@ -1,1 +1,0 @@
-For some, when they had heard, did provoke: howbeit not all that came out of Egypt by Moses.

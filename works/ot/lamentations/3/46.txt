@@ -1,1 +1,0 @@
-All our enemies have opened their mouths against us.

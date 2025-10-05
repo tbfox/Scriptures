@@ -1,1 +1,0 @@
-Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed.

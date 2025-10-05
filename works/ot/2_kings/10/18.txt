@@ -1,1 +1,0 @@
-And Jehu gathered all the people together, and said unto them, Ahab served Baal a little; but Jehu shall serve him much.

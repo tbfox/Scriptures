@@ -1,1 +1,0 @@
-And he slew all the priests of the high places that were there upon the altars, and burned men's bones upon them, and returned to Jerusalem.

@@ -1,1 +1,0 @@
-And said unto them, Why sleep ye? rise and pray, lest ye enter into temptation.

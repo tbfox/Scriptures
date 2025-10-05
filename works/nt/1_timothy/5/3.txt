@@ -1,1 +1,0 @@
-Honour widows that are widows indeed.

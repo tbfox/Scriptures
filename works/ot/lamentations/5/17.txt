@@ -1,1 +1,0 @@
-For this our heart is faint; for these things our eyes are dim.

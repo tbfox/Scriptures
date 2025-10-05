@@ -1,1 +1,0 @@
-Hast thou given the horse strength? hast thou clothed his neck with thunder?

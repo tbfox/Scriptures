@@ -1,1 +1,0 @@
-I rejoice therefore that I have confidence in you in all things.

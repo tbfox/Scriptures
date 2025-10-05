@@ -1,1 +1,0 @@
-For the scripture saith, Whosoever believeth on him shall not be ashamed.

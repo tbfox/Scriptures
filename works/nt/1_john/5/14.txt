@@ -1,1 +1,0 @@
-And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us:

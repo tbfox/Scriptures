@@ -1,1 +1,0 @@
-Behold, the days come, saith the LORD, that I will make a new covenant with the house of Israel, and with the house of Judah:

@@ -1,1 +1,0 @@
-For this cause shall a man leave his father and mother, and cleave to his wife;

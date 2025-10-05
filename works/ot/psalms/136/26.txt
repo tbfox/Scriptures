@@ -1,1 +1,0 @@
-O give thanks unto the God of heaven: for his mercy endureth for ever.

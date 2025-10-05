@@ -1,1 +1,0 @@
-There is none that understandeth, there is none that seeketh after God.

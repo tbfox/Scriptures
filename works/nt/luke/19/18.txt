@@ -1,1 +1,0 @@
-And the second came, saying, Lord, thy pound hath gained five pounds.

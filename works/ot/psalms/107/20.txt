@@ -1,1 +1,0 @@
-He sent his word, and healed them, and delivered them from their destructions.

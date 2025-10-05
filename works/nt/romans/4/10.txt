@@ -1,1 +1,0 @@
-How was it then reckoned? when he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision.

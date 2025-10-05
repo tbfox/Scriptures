@@ -1,1 +1,0 @@
-At that day ye shall ask in my name: and I say not unto you, that I will pray the Father for you:

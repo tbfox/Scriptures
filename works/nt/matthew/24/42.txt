@@ -1,1 +1,0 @@
-Watch therefore: for ye know not what hour your Lord doth come.

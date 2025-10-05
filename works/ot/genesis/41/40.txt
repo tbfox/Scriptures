@@ -1,1 +1,0 @@
-Thou shalt be over my house, and according unto thy word shall all my people be ruled: only in the throne will I be greater than thou.

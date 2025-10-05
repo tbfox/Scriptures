@@ -1,1 +1,0 @@
-Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were children born.

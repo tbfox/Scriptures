@@ -1,1 +1,0 @@
-(Touch not; taste not; handle not;

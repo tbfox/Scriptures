@@ -1,1 +1,0 @@
-And he sent him away to his house, saying, Neither go into the town, nor tell it to any in the town.

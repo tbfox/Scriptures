@@ -1,1 +1,0 @@
-And they brake down the image of Baal, and brake down the house of Baal, and made it a draught house unto this day.

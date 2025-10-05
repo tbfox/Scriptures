@@ -1,1 +1,0 @@
-Should not the multitude of words be answered? and should a man full of talk be justified?

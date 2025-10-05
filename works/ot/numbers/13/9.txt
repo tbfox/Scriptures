@@ -1,1 +1,0 @@
-Of the tribe of Benjamin, Palti the son of Raphu.

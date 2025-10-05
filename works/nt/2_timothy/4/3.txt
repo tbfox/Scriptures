@@ -1,1 +1,0 @@
-For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having itching ears;

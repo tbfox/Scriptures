@@ -1,1 +1,0 @@
-And he laid his hands on them, and departed thence.

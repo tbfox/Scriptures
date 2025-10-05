@@ -1,1 +1,0 @@
-I will not conceal his parts, nor his power, nor his comely proportion.

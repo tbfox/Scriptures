@@ -1,1 +1,0 @@
-And when they brought out the money that was brought into the house of the LORD, Hilkiah the priest found a book of the law of the LORD given by Moses.

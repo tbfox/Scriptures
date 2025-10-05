@@ -1,1 +1,0 @@
-So likewise ye, when ye see these things come to pass, know ye that the kingdom of God is nigh at hand.

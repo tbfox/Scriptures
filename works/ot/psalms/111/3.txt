@@ -1,1 +1,0 @@
-His work is honourable and glorious: and his righteousness endureth for ever.

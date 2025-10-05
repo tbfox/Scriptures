@@ -1,1 +1,0 @@
-These are the families of Manasseh, and those that were numbered of them, fifty and two thousand and seven hundred.

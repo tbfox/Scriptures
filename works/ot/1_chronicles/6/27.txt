@@ -1,1 +1,0 @@
-Eliab his son, Jeroham his son, Elkanah his son.

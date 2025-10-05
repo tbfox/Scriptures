@@ -1,1 +1,0 @@
-Turn thou us unto thee, O LORD, and we shall be turned; renew our days as of old.

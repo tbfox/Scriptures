@@ -1,1 +1,0 @@
-Judah, and Benjamin, and Shemaiah, and Jeremiah,

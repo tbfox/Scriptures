@@ -1,1 +1,0 @@
-Shall any teach God knowledge? seeing he judgeth those that are high.

@@ -1,1 +1,0 @@
-Pilate therefore, willing to release Jesus, spake again to them.

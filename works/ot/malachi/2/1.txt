@@ -1,1 +1,0 @@
-And now, O ye priests, this commandment is for you.

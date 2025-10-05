@@ -1,1 +1,0 @@
-He will keep the feet of his saints, and the wicked shall be silent in darkness; for by strength shall no man prevail.

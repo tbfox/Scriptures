@@ -1,1 +1,0 @@
-Which of you convinceth me of sin? And if I say the truth, why do ye not believe me?

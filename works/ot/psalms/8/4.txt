@@ -1,1 +1,0 @@
-What is man, that thou art mindful of him? and the son of man, that thou visitest him?

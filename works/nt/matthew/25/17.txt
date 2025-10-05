@@ -1,1 +1,0 @@
-And likewise he that had received two, he also gained other two.

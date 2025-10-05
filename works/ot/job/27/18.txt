@@ -1,1 +1,0 @@
-He buildeth his house as a moth, and as a booth that the keeper maketh.

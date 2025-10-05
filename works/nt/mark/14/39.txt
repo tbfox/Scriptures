@@ -1,1 +1,0 @@
-And again he went away, and prayed, and spake the same words.

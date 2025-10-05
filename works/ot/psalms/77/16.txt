@@ -1,1 +1,0 @@
-The waters saw thee, O God, the waters saw thee; they were afraid: the depths also were troubled.

@@ -1,1 +1,0 @@
-And when David's young men came, they spake to Nabal according to all those words in the name of David, and ceased.

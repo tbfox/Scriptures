@@ -1,1 +1,0 @@
-Thus did all the children of Israel; as the LORD commanded Moses and Aaron, so did they.

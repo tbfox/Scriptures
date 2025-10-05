@@ -1,1 +1,0 @@
-How should one chase a thousand, and two put ten thousand to flight, except their Rock had sold them, and the LORD had shut them up?

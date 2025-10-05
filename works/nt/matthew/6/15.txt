@@ -1,1 +1,0 @@
-But if ye forgive not men their trespasses, neither will your Father forgive your trespasses.

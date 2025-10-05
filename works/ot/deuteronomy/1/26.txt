@@ -1,1 +1,0 @@
-Notwithstanding ye would not go up, but rebelled against the commandment of the LORD your God:

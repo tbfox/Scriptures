@@ -1,1 +1,0 @@
-Every day they wrest my words: all their thoughts are against me for evil.

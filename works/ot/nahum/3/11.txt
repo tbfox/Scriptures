@@ -1,1 +1,0 @@
-Thou also shalt be drunken: thou shalt be hid, thou also shalt seek strength because of the enemy.

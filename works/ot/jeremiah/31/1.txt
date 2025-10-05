@@ -1,1 +1,0 @@
-At the same time, saith the LORD, will I be the God of all the families of Israel, and they shall be my people.

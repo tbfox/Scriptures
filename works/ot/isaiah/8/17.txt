@@ -1,1 +1,0 @@
-And I will wait upon the LORD, that hideth his face from the house of Jacob, and I will look for him.

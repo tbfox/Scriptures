@@ -1,1 +1,0 @@
-Through thy precepts I get understanding: therefore I hate every false way.

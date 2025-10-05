@@ -1,1 +1,0 @@
-All that were numbered of the camp of Ephraim were an hundred thousand and eight thousand and an hundred, throughout their armies. And they shall go forward in the third rank.

@@ -1,1 +1,0 @@
-For I have no man likeminded, who will naturally care for your state.

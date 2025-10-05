@@ -1,1 +1,0 @@
-The enemy that sowed them is the devil; the harvest is the end of the world; and the reapers are the angels.

@@ -1,1 +1,0 @@
-His scales are his pride, shut up together as with a close seal.

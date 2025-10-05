@@ -1,1 +1,0 @@
-Now for a long season Israel hath been without the true God, and without a teaching priest, and without law.

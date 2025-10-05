@@ -1,1 +1,0 @@
-And all the people, both small and great, and the captains of the armies, arose, and came to Egypt: for they were afraid of the Chaldees.

@@ -1,1 +1,0 @@
-And when he had said these words, the Jews departed, and had great reasoning among themselves.

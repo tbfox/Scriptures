@@ -1,1 +1,0 @@
-And the navy also of Hiram, that brought gold from Ophir, brought in from Ophir great plenty of almug trees, and precious stones.

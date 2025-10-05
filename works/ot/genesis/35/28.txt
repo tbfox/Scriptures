@@ -1,1 +1,0 @@
-And the days of Isaac were an hundred and fourscore years.

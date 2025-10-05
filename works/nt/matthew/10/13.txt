@@ -1,1 +1,0 @@
-And if the house be worthy, let your peace come upon it: but if it be not worthy, let your peace return to you.

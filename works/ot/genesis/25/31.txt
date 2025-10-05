@@ -1,1 +1,0 @@
-And Jacob said, Sell me this day thy birthright.

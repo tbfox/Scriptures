@@ -1,1 +1,0 @@
-The heaven, even the heavens, are the LORD's: but the earth hath he given to the children of men.

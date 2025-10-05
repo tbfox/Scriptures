@@ -1,1 +1,0 @@
-And he said, I heard thy voice in the garden, and I was afraid, because I was naked; and I hid myself.

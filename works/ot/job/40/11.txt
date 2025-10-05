@@ -1,1 +1,0 @@
-Cast abroad the rage of thy wrath: and behold every one that is proud, and abase him.

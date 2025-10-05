@@ -1,1 +1,0 @@
-Follow peace with all men, and holiness, without which no man shall see the Lord:

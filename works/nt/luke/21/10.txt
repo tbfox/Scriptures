@@ -1,1 +1,0 @@
-Then said he unto them, Nation shall rise against nation, and kingdom against kingdom:

@@ -1,1 +1,0 @@
-And Jesus answering said unto them, Do ye not therefore err, because ye know not the scriptures, neither the power of God?

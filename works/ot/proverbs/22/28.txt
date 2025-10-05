@@ -1,1 +1,0 @@
-Remove not the ancient landmark, which thy fathers have set.

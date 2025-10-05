@@ -1,1 +1,0 @@
-If not, hearken unto me: hold thy peace, and I shall teach thee wisdom.

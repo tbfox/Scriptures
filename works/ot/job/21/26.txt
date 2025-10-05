@@ -1,1 +1,0 @@
-They shall lie down alike in the dust, and the worms shall cover them.

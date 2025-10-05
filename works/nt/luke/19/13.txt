@@ -1,1 +1,0 @@
-And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come.

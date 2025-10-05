@@ -1,1 +1,0 @@
-Adonijah, Bigvai, Adin,

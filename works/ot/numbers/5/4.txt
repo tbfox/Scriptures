@@ -1,1 +1,0 @@
-And the children of Israel did so, and put them out without the camp: as the LORD spake unto Moses, so did the children of Israel.

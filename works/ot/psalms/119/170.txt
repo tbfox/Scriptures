@@ -1,1 +1,0 @@
-Let my supplication come before thee: deliver me according to thy word.

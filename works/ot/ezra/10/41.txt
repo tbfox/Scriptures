@@ -1,1 +1,0 @@
-Azareel, and Shelemiah, Shemariah,

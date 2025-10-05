@@ -1,1 +1,0 @@
-The eyes of the LORD are upon the righteous, and his ears are open unto their cry.

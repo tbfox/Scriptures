@@ -1,1 +1,0 @@
-Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger.

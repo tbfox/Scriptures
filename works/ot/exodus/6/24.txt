@@ -1,1 +1,0 @@
-And the sons of Korah; Assir, and Elkanah, and Abiasaph: these are the families of the Korhites.

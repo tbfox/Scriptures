@@ -1,1 +1,0 @@
-Shechaniah, Rehum, Meremoth,

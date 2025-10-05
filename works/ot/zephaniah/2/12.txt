@@ -1,1 +1,0 @@
-Ye Ethiopians also, ye shall be slain by my sword.

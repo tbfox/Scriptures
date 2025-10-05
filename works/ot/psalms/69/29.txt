@@ -1,1 +1,0 @@
-But I am poor and sorrowful: let thy salvation, O God, set me up on high.

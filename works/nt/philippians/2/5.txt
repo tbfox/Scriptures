@@ -1,1 +1,0 @@
-Let this mind be in you, which was also in Christ Jesus:

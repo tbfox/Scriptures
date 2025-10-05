@@ -1,1 +1,0 @@
-And he said unto him, Arise, go thy way: thy faith hath made thee whole.

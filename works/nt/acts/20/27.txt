@@ -1,1 +1,0 @@
-For I have not shunned to declare unto you all the counsel of God.

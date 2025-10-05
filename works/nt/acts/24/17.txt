@@ -1,1 +1,0 @@
-Now after many years I came to bring alms to my nation, and offerings.

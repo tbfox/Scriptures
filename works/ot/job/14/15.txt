@@ -1,1 +1,0 @@
-Thou shalt call, and I will answer thee: thou wilt have a desire to the work of thine hands.

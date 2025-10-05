@@ -1,1 +1,0 @@
-And though they say, The LORD liveth; surely they swear falsely.

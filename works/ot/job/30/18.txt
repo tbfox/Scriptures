@@ -1,1 +1,0 @@
-By the great force of my disease is my garment changed: it bindeth me about as the collar of my coat.

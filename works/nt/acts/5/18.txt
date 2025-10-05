@@ -1,1 +1,0 @@
-And laid their hands on the apostles, and put them in the common prison.

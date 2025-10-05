@@ -1,1 +1,0 @@
-And the priest shall command that one of the birds be killed in an earthen vessel over running water:

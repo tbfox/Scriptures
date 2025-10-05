@@ -1,1 +1,0 @@
-To whom hast thou uttered words? and whose spirit came from thee?

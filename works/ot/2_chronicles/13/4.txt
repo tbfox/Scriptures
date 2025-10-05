@@ -1,1 +1,0 @@
-And Abijah stood up upon mount Zemaraim, which is in mount Ephraim, and said, Hear me, thou Jeroboam, and all Israel;

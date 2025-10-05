@@ -1,1 +1,0 @@
-And she said unto him, I am the daughter of Bethuel the son of Milcah, which she bare unto Nahor.

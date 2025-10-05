@@ -1,1 +1,0 @@
-Then the LORD answered Job out of the whirlwind, and said,

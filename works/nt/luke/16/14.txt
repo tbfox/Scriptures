@@ -1,1 +1,0 @@
-And the Pharisees also, who were covetous, heard all these things: and they derided him.

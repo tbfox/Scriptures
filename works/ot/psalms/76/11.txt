@@ -1,1 +1,0 @@
-Vow, and pay unto the LORD your God: let all that be round about him bring presents unto him that ought to be feared.

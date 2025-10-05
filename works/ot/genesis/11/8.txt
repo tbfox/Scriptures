@@ -1,1 +1,0 @@
-So the LORD scattered them abroad from thence upon the face of all the earth: and they left off to build the city.

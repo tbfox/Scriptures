@@ -1,1 +1,0 @@
-And Jehoshaphat said, The word of the LORD is with him. So the king of Israel and Jehoshaphat and the king of Edom went down to him.

@@ -1,1 +1,0 @@
-The neighbours therefore, and they which before had seen him that he was blind, said, Is not this he that sat and begged?

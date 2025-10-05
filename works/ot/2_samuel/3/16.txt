@@ -1,1 +1,0 @@
-And her husband went with her along weeping behind her to Bahurim. Then said Abner unto him, Go, return. And he returned.

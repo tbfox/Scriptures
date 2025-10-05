@@ -1,1 +1,0 @@
-He hath stripped me of my glory, and taken the crown from my head.

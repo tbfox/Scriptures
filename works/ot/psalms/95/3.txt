@@ -1,1 +1,0 @@
-For the LORD is a great God, and a great King above all gods.

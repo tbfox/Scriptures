@@ -1,1 +1,0 @@
-And the king of Israel called for one of his officers, and said, Fetch quickly Micaiah the son of Imla.

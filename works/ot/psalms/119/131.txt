@@ -1,1 +1,0 @@
-I opened my mouth, and panted: for I longed for thy commandments.

@@ -1,1 +1,0 @@
-And he poured of the anointing oil upon Aaron's head, and anointed him, to sanctify him.

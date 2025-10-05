@@ -1,1 +1,0 @@
-For ye are dead, and your life is hid with Christ in God.

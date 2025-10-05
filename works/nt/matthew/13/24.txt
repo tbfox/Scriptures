@@ -1,1 +1,0 @@
-Another parable put he forth unto them, saying, The kingdom of heaven is likened unto a man which sowed good seed in his field:

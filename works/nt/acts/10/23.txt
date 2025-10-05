@@ -1,1 +1,0 @@
-Then called he them in, and lodged them. And on the morrow Peter went away with them, and certain brethren from Joppa accompanied him.

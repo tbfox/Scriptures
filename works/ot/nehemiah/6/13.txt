@@ -1,1 +1,0 @@
-Therefore was he hired, that I should be afraid, and do so, and sin, and that they might have matter for an evil report, that they might reproach me.

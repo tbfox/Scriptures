@@ -1,1 +1,0 @@
-My fruit is better than gold, yea, than fine gold; and my revenue than choice silver.

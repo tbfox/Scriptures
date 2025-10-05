@@ -1,1 +1,0 @@
-And the sight of the glory of the LORD was like devouring fire on the top of the mount in the eyes of the children of Israel.

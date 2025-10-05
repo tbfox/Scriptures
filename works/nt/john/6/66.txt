@@ -1,1 +1,0 @@
-From that time many of his disciples went back, and walked no more with him.

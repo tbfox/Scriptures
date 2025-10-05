@@ -1,1 +1,0 @@
-Now these are thy servants and thy people, whom thou hast redeemed by thy great power, and by thy strong hand.

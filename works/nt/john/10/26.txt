@@ -1,1 +1,0 @@
-But ye believe not, because ye are not of my sheep, as I said unto you.

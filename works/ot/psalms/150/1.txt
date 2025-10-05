@@ -1,1 +1,0 @@
-Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power.

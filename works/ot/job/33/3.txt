@@ -1,1 +1,0 @@
-My words shall be of the uprightness of my heart: and my lips shall utter knowledge clearly.

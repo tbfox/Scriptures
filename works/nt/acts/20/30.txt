@@ -1,1 +1,0 @@
-Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.

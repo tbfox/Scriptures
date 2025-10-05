@@ -1,1 +1,0 @@
-For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope,

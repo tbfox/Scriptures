@@ -1,1 +1,0 @@
-And hath seen in a vision a man named Ananias coming in, and putting his hand on him, that he might receive his sight.

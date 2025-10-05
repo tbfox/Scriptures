@@ -1,1 +1,0 @@
-For whosoever exalteth himself shall be abased; and he that humbleth himself shall be exalted.

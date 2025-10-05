@@ -1,1 +1,0 @@
-And when they were come into the ship, the wind ceased.

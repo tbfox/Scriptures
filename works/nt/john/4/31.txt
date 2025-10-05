@@ -1,1 +1,0 @@
-In the mean while his disciples prayed him, saying, Master, eat.

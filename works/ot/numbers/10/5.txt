@@ -1,1 +1,0 @@
-When ye blow an alarm, then the camps that lie on the east parts shall go forward.

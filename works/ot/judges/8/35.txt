@@ -1,1 +1,0 @@
-Neither shewed they kindness to the house of Jerubbaal, namely, Gideon, according to all the goodness which he had shewed unto Israel.

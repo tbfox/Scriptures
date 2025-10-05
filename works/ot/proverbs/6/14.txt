@@ -1,1 +1,0 @@
-Frowardness is in his heart, he deviseth mischief continually; he soweth discord.

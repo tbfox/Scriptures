@@ -1,1 +1,0 @@
-And then shall they see the Son of man coming in a cloud with power and great glory.

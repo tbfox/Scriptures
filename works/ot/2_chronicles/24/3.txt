@@ -1,1 +1,0 @@
-And Jehoiada took for him two wives; and he begat sons and daughters.

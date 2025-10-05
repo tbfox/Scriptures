@@ -1,1 +1,0 @@
-Then Job arose, and rent his mantle, and shaved his head, and fell down upon the ground, and worshipped,

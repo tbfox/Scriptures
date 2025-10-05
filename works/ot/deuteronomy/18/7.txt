@@ -1,1 +1,0 @@
-Then he shall minister in the name of the LORD his God, as all his brethren the Levites do, which stand there before the LORD.

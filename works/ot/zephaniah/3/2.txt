@@ -1,1 +1,0 @@
-She obeyed not the voice; she received not correction; she trusted not in the LORD; she drew not near to her God.

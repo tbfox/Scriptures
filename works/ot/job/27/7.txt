@@ -1,1 +1,0 @@
-Let mine enemy be as the wicked, and he that riseth up against me as the unrighteous.

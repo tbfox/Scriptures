@@ -1,1 +1,0 @@
-Lo, mine eye hath seen all this, mine ear hath heard and understood it.

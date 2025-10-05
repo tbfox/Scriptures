@@ -1,1 +1,0 @@
-Arise therefore, and get thee down, and go with them, doubting nothing: for I have sent them.

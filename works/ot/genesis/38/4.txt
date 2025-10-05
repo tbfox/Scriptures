@@ -1,1 +1,0 @@
-And she conceived again, and bare a son; and she called his name Onan.

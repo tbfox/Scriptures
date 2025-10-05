@@ -1,1 +1,0 @@
-But one thing is needful: and Mary hath chosen that good part, which shall not be taken away from her.

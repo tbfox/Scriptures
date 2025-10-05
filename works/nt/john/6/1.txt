@@ -1,1 +1,0 @@
-After these things Jesus went over the sea of Galilee, which is the sea of Tiberias.

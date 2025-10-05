@@ -1,1 +1,0 @@
-But he that had received one went and digged in the earth, and hid his lord's money.

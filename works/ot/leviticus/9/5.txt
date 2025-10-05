@@ -1,1 +1,0 @@
-And they brought that which Moses commanded before the tabernacle of the congregation: and all the congregation drew near and stood before the LORD.

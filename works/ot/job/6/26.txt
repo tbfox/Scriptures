@@ -1,1 +1,0 @@
-Do ye imagine to reprove words, and the speeches of one that is desperate, which are as wind?

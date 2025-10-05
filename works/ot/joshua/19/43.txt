@@ -1,1 +1,0 @@
-And Elon, and Thimnathah, and Ekron,

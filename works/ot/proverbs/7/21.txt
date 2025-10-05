@@ -1,1 +1,0 @@
-With her much fair speech she caused him to yield, with the flattering of her lips she forced him.

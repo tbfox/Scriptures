@@ -1,1 +1,0 @@
-Let your loins be girded about, and your lights burning;

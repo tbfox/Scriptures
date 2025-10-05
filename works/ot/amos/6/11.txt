@@ -1,1 +1,0 @@
-For, behold, the LORD commandeth, and he will smite the great house with breaches, and the little house with clefts.

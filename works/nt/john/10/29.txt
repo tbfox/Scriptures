@@ -1,1 +1,0 @@
-My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father's hand.

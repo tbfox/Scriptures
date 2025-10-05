@@ -1,1 +1,0 @@
-Wherefore by their fruits ye shall know them.

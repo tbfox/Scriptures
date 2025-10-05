@@ -1,1 +1,0 @@
-He made also bases, and lavers made he upon the bases;

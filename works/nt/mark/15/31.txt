@@ -1,1 +1,0 @@
-Likewise also the chief priests mocking said among themselves with the scribes, He saved others; himself he cannot save.

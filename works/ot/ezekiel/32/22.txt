@@ -1,1 +1,0 @@
-Asshur is there and all her company: his graves are about him: all of them slain, fallen by the sword:

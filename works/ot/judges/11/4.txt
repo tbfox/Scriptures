@@ -1,1 +1,0 @@
-And it came to pass in process of time, that the children of Ammon made war against Israel.

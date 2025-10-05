@@ -1,1 +1,0 @@
-And the king sent, and they gathered unto him all the elders of Judah and of Jerusalem.

@@ -1,1 +1,0 @@
-And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time.

@@ -1,1 +1,0 @@
-The voice of the LORD shaketh the wilderness; the LORD shaketh the wilderness of Kadesh.

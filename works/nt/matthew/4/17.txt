@@ -1,1 +1,0 @@
-From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand.

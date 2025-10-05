@@ -1,1 +1,0 @@
-The works of the LORD are great, sought out of all them that have pleasure therein.

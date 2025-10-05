@@ -1,1 +1,0 @@
-And this is the promise that he hath promised us, even eternal life.

@@ -1,1 +1,0 @@
-And I have consumed them, and wounded them, that they could not arise: yea, they are fallen under my feet.

@@ -1,1 +1,0 @@
-They spake and said to the king Nebuchadnezzar, O king, live for ever.

@@ -1,1 +1,0 @@
-And six years thou shalt sow thy land, and shalt gather in the fruits thereof:

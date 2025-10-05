@@ -1,1 +1,0 @@
-Even as the LORD commanded Moses, so did the daughters of Zelophehad:

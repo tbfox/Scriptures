@@ -1,1 +1,0 @@
-He that oppresseth the poor reproacheth his Maker: but he that honoureth him hath mercy on the poor.

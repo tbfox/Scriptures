@@ -1,1 +1,0 @@
-Doth the hawk fly by thy wisdom, and stretch her wings toward the south?

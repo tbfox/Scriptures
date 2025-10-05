@@ -1,1 +1,0 @@
-Upon a lofty and high mountain hast thou set thy bed: even thither wentest thou up to offer sacrifice.

@@ -1,1 +1,0 @@
-I am the LORD thy God, which brought thee out of the land of Egypt: open thy mouth wide, and I will fill it.

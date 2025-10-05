@@ -1,1 +1,0 @@
-The king of Babylon hath heard the report of them, and his hands waxed feeble: anguish took hold of him, and pangs as of a woman in travail.

@@ -1,1 +1,0 @@
-And Mizpeh, and Chephirah, and Mozah,

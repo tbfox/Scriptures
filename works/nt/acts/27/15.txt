@@ -1,1 +1,0 @@
-And when the ship was caught, and could not bear up into the wind, we let her drive.

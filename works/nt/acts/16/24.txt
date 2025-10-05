@@ -1,1 +1,0 @@
-Who, having received such a charge, thrust them into the inner prison, and made their feet fast in the stocks.

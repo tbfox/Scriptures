@@ -1,1 +1,0 @@
-Therefore now, O LORD, take, I beseech thee, my life from me; for it is better for me to die than to live.

@@ -1,1 +1,0 @@
-And thou saidst, I shall be a lady for ever: so that thou didst not lay these things to thy heart, neither didst remember the latter end of it.

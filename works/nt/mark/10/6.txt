@@ -1,1 +1,0 @@
-But from the beginning of the creation God made them male and female.

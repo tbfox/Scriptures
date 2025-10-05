@@ -1,1 +1,0 @@
-And the children of Israel went away, and did as the LORD had commanded Moses and Aaron, so did they.

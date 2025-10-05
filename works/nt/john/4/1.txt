@@ -1,1 +1,0 @@
-When therefore the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John,

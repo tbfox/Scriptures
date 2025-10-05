@@ -1,1 +1,0 @@
-Thus the children of Israel were brought under at that time, and the children of Judah prevailed, because they relied upon the LORD God of their fathers.

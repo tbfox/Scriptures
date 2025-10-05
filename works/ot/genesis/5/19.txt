@@ -1,1 +1,0 @@
-And Jared lived after he begat Enoch eight hundred years, and begat sons and daughters:

@@ -1,1 +1,0 @@
-Then said Jesus unto them, Yet a little while am I with you, and then I go unto him that sent me.

@@ -1,1 +1,0 @@
-How are they brought into desolation, as in a moment! they are utterly consumed with terrors.

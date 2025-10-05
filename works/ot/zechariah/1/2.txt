@@ -1,1 +1,0 @@
-The LORD hath been sore displeased with your fathers.

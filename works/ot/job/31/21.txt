@@ -1,1 +1,0 @@
-If I have lifted up my hand against the fatherless, when I saw my help in the gate:

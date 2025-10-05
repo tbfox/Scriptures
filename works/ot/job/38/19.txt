@@ -1,1 +1,0 @@
-Where is the way where light dwelleth? and as for darkness, where is the place thereof,

@@ -1,1 +1,0 @@
-And before they were laid down, she came up unto them upon the roof;

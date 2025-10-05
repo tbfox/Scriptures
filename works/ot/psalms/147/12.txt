@@ -1,1 +1,0 @@
-Praise the LORD, O Jerusalem; praise thy God, O Zion.

@@ -1,1 +1,0 @@
-Pashur, Amariah, Malchijah,

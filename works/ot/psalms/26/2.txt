@@ -1,1 +1,0 @@
-Examine me, O LORD, and prove me; try my reins and my heart.

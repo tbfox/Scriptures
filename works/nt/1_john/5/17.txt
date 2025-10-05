@@ -1,1 +1,0 @@
-All unrighteousness is sin: and there is a sin not unto death.

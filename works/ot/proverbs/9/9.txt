@@ -1,1 +1,0 @@
-Give instruction to a wise man, and he will be yet wiser: teach a just man, and he will increase in learning.

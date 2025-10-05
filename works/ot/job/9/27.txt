@@ -1,1 +1,0 @@
-If I say, I will forget my complaint, I will leave off my heaviness, and comfort myself:

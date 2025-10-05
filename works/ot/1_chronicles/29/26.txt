@@ -1,1 +1,0 @@
-Thus David the son of Jesse reigned over all Israel.

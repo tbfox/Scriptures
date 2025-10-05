@@ -1,1 +1,0 @@
-O God, when thou wentest forth before thy people, when thou didst march through the wilderness; Selah:

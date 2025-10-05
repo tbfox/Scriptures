@@ -1,1 +1,0 @@
-So Solomon thrust out Abiathar from being priest unto the LORD; that he might fulfil the word of the LORD, which he spake concerning the house of Eli in Shiloh.

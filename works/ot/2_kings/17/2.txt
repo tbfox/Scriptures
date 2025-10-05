@@ -1,1 +1,0 @@
-And he did that which was evil in the sight of the LORD, but not as the kings of Israel that were before him.

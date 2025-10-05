@@ -1,1 +1,0 @@
-For he maketh small the drops of water: they pour down rain according to the vapour thereof:

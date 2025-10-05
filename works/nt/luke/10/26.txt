@@ -1,1 +1,0 @@
-He said unto him, What is written in the law? how readest thou?

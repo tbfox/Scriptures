@@ -1,1 +1,0 @@
-Blessed shall be thy basket and thy store.

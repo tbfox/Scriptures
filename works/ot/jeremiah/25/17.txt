@@ -1,1 +1,0 @@
-Then took I the cup at the LORD's hand, and made all the nations to drink, unto whom the LORD had sent me:

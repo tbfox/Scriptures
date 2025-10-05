@@ -1,1 +1,0 @@
-Say unto the king and to the queen, Humble yourselves, sit down: for your principalities shall come down, even the crown of your glory.

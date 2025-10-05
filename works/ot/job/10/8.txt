@@ -1,1 +1,0 @@
-Thine hands have made me and fashioned me together round about; yet thou dost destroy me.

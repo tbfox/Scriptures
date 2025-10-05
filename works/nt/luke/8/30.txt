@@ -1,1 +1,0 @@
-And Jesus asked him, saying, What is thy name? And he said, Legion: because many devils were entered into him.

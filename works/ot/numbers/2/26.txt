@@ -1,1 +1,0 @@
-And his host, and those that were numbered of them, were threescore and two thousand and seven hundred.

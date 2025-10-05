@@ -1,1 +1,0 @@
-Scornful men bring a city into a snare: but wise men turn away wrath.

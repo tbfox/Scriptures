@@ -1,1 +1,0 @@
-Envy thou not the oppressor, and choose none of his ways.

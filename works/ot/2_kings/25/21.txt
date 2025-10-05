@@ -1,1 +1,0 @@
-And the king of Babylon smote them, and slew them at Riblah in the land of Hamath. So Judah was carried away out of their land.

@@ -1,1 +1,0 @@
-Then I cut asunder mine other staff, even Bands, that I might break the brotherhood between Judah and Israel.

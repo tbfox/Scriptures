@@ -1,1 +1,0 @@
-I watch, and am as a sparrow alone upon the house top.

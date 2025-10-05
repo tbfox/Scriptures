@@ -1,1 +1,0 @@
-And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him.

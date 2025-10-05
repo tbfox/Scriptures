@@ -1,1 +1,0 @@
-They made a calf in Horeb, and worshipped the molten image.

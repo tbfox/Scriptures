@@ -1,1 +1,0 @@
-Therefore he lifted up his hand against them, to overthrow them in the wilderness:

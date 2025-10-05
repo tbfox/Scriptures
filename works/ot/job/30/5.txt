@@ -1,1 +1,0 @@
-They were driven forth from among men, (they cried after them as after a thief;)

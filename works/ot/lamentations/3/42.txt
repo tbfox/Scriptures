@@ -1,1 +1,0 @@
-We have transgressed and have rebelled: thou hast not pardoned.

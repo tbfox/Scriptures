@@ -1,1 +1,0 @@
-Then said he unto him, A certain man made a great supper, and bade many:

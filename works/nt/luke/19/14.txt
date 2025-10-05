@@ -1,1 +1,0 @@
-But his citizens hated him, and sent a message after him, saying, We will not have this man to reign over us.

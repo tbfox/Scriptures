@@ -1,1 +1,0 @@
-(The LORD God of your fathers make you a thousand times so many more as ye are, and bless you, as he hath promised you!)

@@ -1,1 +1,0 @@
-And Moses with the elders of Israel commanded the people, saying, Keep all the commandments which I command you this day.

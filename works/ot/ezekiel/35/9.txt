@@ -1,1 +1,0 @@
-I will make thee perpetual desolations, and thy cities shall not return: and ye shall know that I am the LORD.

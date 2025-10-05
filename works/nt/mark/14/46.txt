@@ -1,1 +1,0 @@
-And they laid their hands on him, and took him.

@@ -1,1 +1,0 @@
-If indeed ye will magnify yourselves against me, and plead against me my reproach:

@@ -1,1 +1,0 @@
-And I will multiply the fruit of the tree, and the increase of the field, that ye shall receive no more reproach of famine among the heathen.

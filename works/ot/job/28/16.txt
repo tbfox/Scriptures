@@ -1,1 +1,0 @@
-It cannot be valued with the gold of Ophir, with the precious onyx, or the sapphire.

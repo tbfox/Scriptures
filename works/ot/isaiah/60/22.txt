@@ -1,1 +1,0 @@
-A little one shall become a thousand, and a small one a strong nation: I the LORD will hasten it in his time.

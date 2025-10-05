@@ -1,1 +1,0 @@
-And the servant said, Lord, it is done as thou hast commanded, and yet there is room.

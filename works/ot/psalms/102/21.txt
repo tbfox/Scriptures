@@ -1,1 +1,0 @@
-To declare the name of the LORD in Zion, and his praise in Jerusalem;

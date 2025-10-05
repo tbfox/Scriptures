@@ -1,1 +1,0 @@
-I cried with my whole heart; hear me, O LORD: I will keep thy statutes.

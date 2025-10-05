@@ -1,1 +1,0 @@
-Thou hast also committed fornication with the Egyptians thy neighbours, great of flesh; and hast increased thy whoredoms, to provoke me to anger.

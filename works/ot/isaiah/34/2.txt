@@ -1,1 +1,0 @@
-For the indignation of the LORD is upon all nations, and his fury upon all their armies: he hath utterly destroyed them, he hath delivered them to the slaughter.

@@ -1,1 +1,0 @@
-And I will deliver thee and this city out of the hand of the king of Assyria: and I will defend this city.

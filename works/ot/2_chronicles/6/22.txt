@@ -1,1 +1,0 @@
-If a man sin against his neighbour, and an oath be laid upon him to make him swear, and the oath come before thine altar in this house;

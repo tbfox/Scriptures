@@ -1,1 +1,0 @@
-The sower soweth the word.

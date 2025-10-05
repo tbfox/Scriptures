@@ -1,1 +1,0 @@
-And he that saw it bare record, and his record is true: and he knoweth that he saith true, that ye might believe.

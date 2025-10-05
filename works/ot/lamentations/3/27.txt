@@ -1,1 +1,0 @@
-It is good for a man that he bear the yoke in his youth.

@@ -1,1 +1,0 @@
-And David behaved himself wisely in all his ways; and the LORD was with him.

@@ -1,1 +1,0 @@
-So the heathen shall fear the name of the LORD, and all the kings of the earth thy glory.

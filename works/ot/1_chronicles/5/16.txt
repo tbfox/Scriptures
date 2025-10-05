@@ -1,1 +1,0 @@
-And they dwelt in Gilead in Bashan, and in her towns, and in all the suburbs of Sharon, upon their borders.

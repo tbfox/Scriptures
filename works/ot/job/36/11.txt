@@ -1,1 +1,0 @@
-If they obey and serve him, they shall spend their days in prosperity, and their years in pleasures.

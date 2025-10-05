@@ -1,1 +1,0 @@
-How amiable are thy tabernacles, O LORD of hosts!

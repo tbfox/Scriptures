@@ -1,1 +1,0 @@
-And there they abode long time with the disciples.

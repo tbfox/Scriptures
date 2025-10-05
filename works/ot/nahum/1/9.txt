@@ -1,1 +1,0 @@
-What do ye imagine against the LORD? he will make an utter end: affliction shall not rise up the second time.

@@ -1,1 +1,0 @@
-And he laid his hands upon him, and gave him a charge, as the LORD commanded by the hand of Moses.

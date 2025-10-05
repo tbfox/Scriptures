@@ -1,1 +1,0 @@
-Now learn a parable of the fig tree; When her branch is yet tender, and putteth forth leaves, ye know that summer is near:

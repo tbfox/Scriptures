@@ -1,1 +1,0 @@
-Jetur, Naphish, and Kedemah. These are the sons of Ishmael.

@@ -1,1 +1,0 @@
-And Jesus went out, and departed from the temple: and his disciples came to him for to shew him the buildings of the temple.

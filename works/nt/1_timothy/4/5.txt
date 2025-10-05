@@ -1,1 +1,0 @@
-For it is sanctified by the word of God and prayer.

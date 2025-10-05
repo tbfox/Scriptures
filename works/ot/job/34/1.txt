@@ -1,1 +1,0 @@
-Furthermore Elihu answered and said,

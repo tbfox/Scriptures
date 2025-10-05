@@ -1,1 +1,0 @@
-But with me it is a very small thing that I should be judged of you, or of man's judgment: yea, I judge not mine own self.

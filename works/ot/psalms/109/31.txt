@@ -1,1 +1,0 @@
-For he shall stand at the right hand of the poor, to save him from those that condemn his soul.

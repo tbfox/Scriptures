@@ -1,1 +1,0 @@
-When the people are gathered together, and the kingdoms, to serve the LORD.

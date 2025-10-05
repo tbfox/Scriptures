@@ -1,1 +1,0 @@
-Then would I speak, and not fear him; but it is not so with me.

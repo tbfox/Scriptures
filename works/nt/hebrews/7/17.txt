@@ -1,1 +1,0 @@
-For he testifieth, Thou art a priest for ever after the order of Melchisedec.

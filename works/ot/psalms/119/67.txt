@@ -1,1 +1,0 @@
-Before I was afflicted I went astray: but now have I kept thy word.

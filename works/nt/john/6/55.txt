@@ -1,1 +1,0 @@
-For my flesh is meat indeed, and my blood is drink indeed.

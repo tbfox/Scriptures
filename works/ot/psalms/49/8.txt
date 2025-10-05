@@ -1,1 +1,0 @@
-(For the redemption of their soul is precious, and it ceaseth for ever:)

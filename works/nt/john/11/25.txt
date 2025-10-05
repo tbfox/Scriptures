@@ -1,1 +1,0 @@
-Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:

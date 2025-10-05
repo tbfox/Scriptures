@@ -1,1 +1,0 @@
-He will regard the prayer of the destitute, and not despise their prayer.

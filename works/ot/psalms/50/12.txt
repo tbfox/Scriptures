@@ -1,1 +1,0 @@
-If I were hungry, I would not tell thee: for the world is mine, and the fulness thereof.

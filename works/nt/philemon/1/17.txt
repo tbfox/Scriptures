@@ -1,1 +1,0 @@
-If thou count me therefore a partner, receive him as myself.

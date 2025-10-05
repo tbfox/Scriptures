@@ -1,1 +1,0 @@
-Hereafter shall the Son of man sit on the right hand of the power of God.

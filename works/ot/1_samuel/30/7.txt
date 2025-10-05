@@ -1,1 +1,0 @@
-And David said to Abiathar the priest, Ahimelech's son, I pray thee, bring me hither the ephod. And Abiathar brought thither the ephod to David.

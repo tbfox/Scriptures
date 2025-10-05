@@ -1,1 +1,0 @@
-Who shall ascend into the hill of the LORD? or who shall stand in his holy place?

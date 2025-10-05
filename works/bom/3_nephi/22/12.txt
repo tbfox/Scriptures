@@ -1,1 +1,0 @@
-And I will make thy windows of agates, and thy gates of carbuncles, and all thy borders of pleasant stones.

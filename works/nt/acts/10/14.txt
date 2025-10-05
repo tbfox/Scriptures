@@ -1,1 +1,0 @@
-But Peter said, Not so, Lord; for I have never eaten any thing that is common or unclean.

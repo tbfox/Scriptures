@@ -1,1 +1,0 @@
-Before destruction the heart of man is haughty, and before honour is humility.

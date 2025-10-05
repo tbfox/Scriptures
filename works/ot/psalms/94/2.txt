@@ -1,1 +1,0 @@
-Lift up thyself, thou judge of the earth: render a reward to the proud.

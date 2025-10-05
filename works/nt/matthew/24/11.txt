@@ -1,1 +1,0 @@
-And many false prophets shall rise, and shall deceive many.

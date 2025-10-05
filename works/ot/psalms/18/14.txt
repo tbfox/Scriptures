@@ -1,1 +1,0 @@
-Yea, he sent out his arrows, and scattered them; and he shot out lightnings, and discomfited them.

@@ -1,1 +1,0 @@
-Notwithstanding the land shall be divided by lot: according to the names of the tribes of their fathers they shall inherit.

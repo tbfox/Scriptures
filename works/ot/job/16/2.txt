@@ -1,1 +1,0 @@
-I have heard many such things: miserable comforters are ye all.

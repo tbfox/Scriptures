@@ -1,1 +1,0 @@
-I charge you, O daughters of Jerusalem, if ye find my beloved, that ye tell him, that I am sick of love.

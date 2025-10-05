@@ -1,1 +1,0 @@
-Turn away mine eyes from beholding vanity; and quicken thou me in thy way.

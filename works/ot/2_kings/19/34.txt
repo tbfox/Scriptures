@@ -1,1 +1,0 @@
-For I will defend this city, to save it, for mine own sake, and for my servant David's sake.

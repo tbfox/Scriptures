@@ -1,1 +1,0 @@
-When ye were but few, even a few, and strangers in it.

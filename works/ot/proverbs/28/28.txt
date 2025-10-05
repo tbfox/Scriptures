@@ -1,1 +1,0 @@
-When the wicked rise, men hide themselves: but when they perish, the righteous increase.

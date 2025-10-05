@@ -1,1 +1,0 @@
-And Joshua said, Roll great stones upon the mouth of the cave, and set men by it for to keep them:

@@ -1,1 +1,0 @@
-Let not your heart be troubled: ye believe in God, believe also in me.

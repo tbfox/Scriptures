@@ -1,1 +1,0 @@
-Or as an hidden untimely birth I had not been; as infants which never saw light.

@@ -1,1 +1,0 @@
-And it came to pass, that, when Abraham's servant heard their words, he worshipped the LORD, bowing himself to the earth.

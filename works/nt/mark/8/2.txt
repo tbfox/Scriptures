@@ -1,1 +1,0 @@
-I have compassion on the multitude, because they have now been with me three days, and have nothing to eat:

@@ -1,1 +1,0 @@
-Then opened he their understanding, that they might understand the scriptures,

@@ -1,1 +1,0 @@
-For I have satiated the weary soul, and I have replenished every sorrowful soul.

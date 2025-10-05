@@ -1,1 +1,0 @@
-Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season;

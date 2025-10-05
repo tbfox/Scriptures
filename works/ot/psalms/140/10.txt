@@ -1,1 +1,0 @@
-Let burning coals fall upon them: let them be cast into the fire; into deep pits, that they rise not up again.

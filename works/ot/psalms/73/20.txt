@@ -1,1 +1,0 @@
-As a dream when one awaketh; so, O Lord, when thou awakest, thou shalt despise their image.

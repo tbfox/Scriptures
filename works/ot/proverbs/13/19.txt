@@ -1,1 +1,0 @@
-The desire accomplished is sweet to the soul: but it is abomination to fools to depart from evil.

@@ -1,1 +1,0 @@
-And he that owneth the house shall come and tell the priest, saying, It seemeth to me there is as it were a plague in the house:

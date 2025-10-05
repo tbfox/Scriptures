@@ -1,1 +1,0 @@
-Yet setteth he the poor on high from affliction, and maketh him families like a flock.

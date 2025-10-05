@@ -1,1 +1,0 @@
-And God was displeased with this thing; therefore he smote Israel.

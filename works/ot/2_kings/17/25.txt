@@ -1,1 +1,0 @@
-And so it was at the beginning of their dwelling there, that they feared not the LORD: therefore the LORD sent lions among them, which slew some of them.

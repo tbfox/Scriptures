@@ -1,1 +1,0 @@
-And Samuel said, When thou wast little in thine own sight, wast thou not made the head of the tribes of Israel, and the LORD anointed thee king over Israel?

@@ -1,1 +1,0 @@
-Lest thou shouldest ponder the path of life, her ways are moveable, that thou canst not know them.

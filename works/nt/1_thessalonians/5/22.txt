@@ -1,1 +1,0 @@
-Abstain from all appearance of evil.

@@ -1,1 +1,0 @@
-Therefore he brought down their heart with labour; they fell down, and there was none to help.

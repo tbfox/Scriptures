@@ -1,1 +1,0 @@
-My face will I turn also from them, and they shall pollute my secret place: for the robbers shall enter into it, and defile it.

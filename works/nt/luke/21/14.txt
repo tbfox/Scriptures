@@ -1,1 +1,0 @@
-Settle it therefore in your hearts, not to meditate before what ye shall answer:

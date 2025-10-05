@@ -1,1 +1,0 @@
-But the remainder of the flesh of the sacrifice on the third day shall be burnt with fire.

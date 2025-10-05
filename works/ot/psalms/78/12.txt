@@ -1,1 +1,0 @@
-Marvellous things did he in the sight of their fathers, in the land of Egypt, in the field of Zoan.

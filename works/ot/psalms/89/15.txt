@@ -1,1 +1,0 @@
-Blessed is the people that know the joyful sound: they shall walk, O LORD, in the light of thy countenance.

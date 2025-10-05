@@ -1,1 +1,0 @@
-And Reu lived two and thirty years, and begat Serug:

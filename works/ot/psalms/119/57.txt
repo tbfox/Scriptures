@@ -1,1 +1,0 @@
-Thou art my portion, O LORD: I have said that I would keep thy words.

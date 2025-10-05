@@ -1,1 +1,0 @@
-The world cannot hate you; but me it hateth, because I testify of it, that the works thereof are evil.

@@ -1,1 +1,0 @@
-And brake up for it my decreed place, and set bars and doors,

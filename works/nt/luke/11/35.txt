@@ -1,1 +1,0 @@
-Take heed therefore that the light which is in thee be not darkness.

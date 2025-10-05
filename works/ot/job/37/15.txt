@@ -1,1 +1,0 @@
-Dost thou know when God disposed them, and caused the light of his cloud to shine?

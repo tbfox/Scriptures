@@ -1,1 +1,0 @@
-And as it was in the days of Noe, so shall it be also in the days of the Son of man.

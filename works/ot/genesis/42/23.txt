@@ -1,1 +1,0 @@
-And they knew not that Joseph understood them; for he spake unto them by an interpreter.

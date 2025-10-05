@@ -1,1 +1,0 @@
-Wherefore I beseech you, be ye followers of me.

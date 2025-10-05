@@ -1,1 +1,0 @@
-But Solomon built him an house.

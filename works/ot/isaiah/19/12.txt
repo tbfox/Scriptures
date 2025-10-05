@@ -1,1 +1,0 @@
-Where are they? where are thy wise men? and let them tell thee now, and let them know what the LORD of hosts hath purposed upon Egypt.

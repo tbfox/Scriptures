@@ -1,1 +1,0 @@
-O God, thou knowest my foolishness; and my sins are not hid from thee.

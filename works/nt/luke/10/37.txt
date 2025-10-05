@@ -1,1 +1,0 @@
-And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise.

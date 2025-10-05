@@ -1,1 +1,0 @@
-Only Jonathan the son of Asahel and Jahaziah the son of Tikvah were employed about this matter: and Meshullam and Shabbethai the Levite helped them.

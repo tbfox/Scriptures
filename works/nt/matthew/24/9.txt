@@ -1,1 +1,0 @@
-Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name's sake.

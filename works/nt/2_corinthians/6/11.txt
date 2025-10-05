@@ -1,1 +1,0 @@
-O ye Corinthians, our mouth is open unto you, our heart is enlarged.

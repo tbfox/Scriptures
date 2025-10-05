@@ -1,1 +1,0 @@
-And Judas the brother of James, and Judas Iscariot, which also was the traitor.

@@ -1,1 +1,0 @@
-Every one that is proud in heart is an abomination to the LORD: though hand join in hand, he shall not be unpunished.

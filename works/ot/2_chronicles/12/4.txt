@@ -1,1 +1,0 @@
-And he took the fenced cities which pertained to Judah, and came to Jerusalem.

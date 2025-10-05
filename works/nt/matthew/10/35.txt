@@ -1,1 +1,0 @@
-For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law.

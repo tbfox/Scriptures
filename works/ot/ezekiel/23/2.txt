@@ -1,1 +1,0 @@
-Son of man, there were two women, the daughters of one mother:

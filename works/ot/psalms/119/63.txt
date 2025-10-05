@@ -1,1 +1,0 @@
-I am a companion of all them that fear thee, and of them that keep thy precepts.

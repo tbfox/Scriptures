@@ -1,1 +1,0 @@
-And after him Gabbai, Sallai, nine hundred twenty and eight.

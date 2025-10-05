@@ -1,1 +1,0 @@
-And above all these things put on charity, which is the bond of perfectness.

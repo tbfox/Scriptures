@@ -1,1 +1,0 @@
-Of their flesh shall ye not eat, and their carcase shall ye not touch; they are unclean to you.

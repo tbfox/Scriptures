@@ -1,1 +1,0 @@
-But rather give alms of such things as ye have; and, behold, all things are clean unto you.

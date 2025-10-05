@@ -1,1 +1,0 @@
-Destruction cometh; and they shall seek peace, and there shall be none.

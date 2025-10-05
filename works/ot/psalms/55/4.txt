@@ -1,1 +1,0 @@
-My heart is sore pained within me: and the terrors of death are fallen upon me.

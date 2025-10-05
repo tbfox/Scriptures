@@ -1,1 +1,0 @@
-I said in my haste, All men are liars.

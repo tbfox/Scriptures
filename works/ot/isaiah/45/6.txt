@@ -1,1 +1,0 @@
-That they may know from the rising of the sun, and from the west, that there is none beside me. I am the LORD, and there is none else.

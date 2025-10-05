@@ -1,1 +1,0 @@
-I removed his shoulder from the burden: his hands were delivered from the pots.

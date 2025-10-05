@@ -1,1 +1,0 @@
-Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee.

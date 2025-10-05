@@ -1,1 +1,0 @@
-Not for that we have dominion over your faith, but are helpers of your joy: for by faith ye stand.

@@ -1,1 +1,0 @@
-And it came to pass, that when Jeremiah had made an end of speaking unto all the people all the words of the LORD their God, for which the LORD their God had sent him to them, even all these words,

@@ -1,1 +1,0 @@
-The life is more than meat, and the body is more than raiment.

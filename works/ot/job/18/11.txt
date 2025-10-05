@@ -1,1 +1,0 @@
-Terrors shall make him afraid on every side, and shall drive him to his feet.

@@ -1,1 +1,0 @@
-Behold, I send an Angel before thee, to keep thee in the way, and to bring thee into the place which I have prepared.

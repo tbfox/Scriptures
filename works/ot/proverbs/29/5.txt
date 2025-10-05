@@ -1,1 +1,0 @@
-A man that flattereth his neighbour spreadeth a net for his feet.

@@ -1,1 +1,0 @@
-There the righteous might dispute with him; so should I be delivered for ever from my judge.

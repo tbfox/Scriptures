@@ -1,1 +1,0 @@
-And Joseph answered Pharaoh, saying, It is not in me: God shall give Pharaoh an answer of peace.

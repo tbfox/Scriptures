@@ -1,1 +1,0 @@
-Behold, God is mighty, and despiseth not any: he is mighty in strength and wisdom.

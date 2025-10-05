@@ -1,1 +1,0 @@
-And he did that which was right in the sight of the LORD, yet not like David his father: he did according to all things as Joash his father did.

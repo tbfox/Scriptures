@@ -1,1 +1,0 @@
-Deliver the poor and needy: rid them out of the hand of the wicked.

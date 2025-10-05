@@ -1,1 +1,0 @@
-If the scourge slay suddenly, he will laugh at the trial of the innocent.

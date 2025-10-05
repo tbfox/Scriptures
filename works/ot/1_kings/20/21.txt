@@ -1,1 +1,0 @@
-And the king of Israel went out, and smote the horses and chariots, and slew the Syrians with a great slaughter.

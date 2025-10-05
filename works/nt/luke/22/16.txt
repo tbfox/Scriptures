@@ -1,1 +1,0 @@
-For I say unto you, I will not any more eat thereof, until it be fulfilled in the kingdom of God.

@@ -1,1 +1,0 @@
-And when Jacob saw them, he said, This is God's host: and he called the name of that place Mahanaim.

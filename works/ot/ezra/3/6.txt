@@ -1,1 +1,0 @@
-From the first day of the seventh month began they to offer burnt offerings unto the LORD. But the foundation of the temple of the LORD was not yet laid.

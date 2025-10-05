@@ -1,1 +1,0 @@
-There are not found that returned to give glory to God, save this stranger.

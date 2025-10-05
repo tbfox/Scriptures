@@ -1,1 +1,0 @@
-I have surely built thee an house to dwell in, a settled place for thee to abide in for ever.

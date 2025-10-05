@@ -1,1 +1,0 @@
-Thou shalt be blessed above all people: there shall not be male or female barren among you, or among your cattle.

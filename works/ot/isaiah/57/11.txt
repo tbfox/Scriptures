@@ -1,1 +1,0 @@
-And of whom hast thou been afraid or feared, that thou hast lied, and hast not remembered me, nor laid it to thy heart? have not I held my peace even of old, and thou fearest me not?

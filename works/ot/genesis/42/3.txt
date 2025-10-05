@@ -1,1 +1,0 @@
-And Joseph's ten brethren went down to buy corn in Egypt.

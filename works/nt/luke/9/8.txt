@@ -1,1 +1,0 @@
-And of some, that Elias had appeared; and of others, that one of the old prophets was risen again.

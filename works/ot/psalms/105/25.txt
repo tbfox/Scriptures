@@ -1,1 +1,0 @@
-He turned their heart to hate his people, to deal subtilly with his servants.

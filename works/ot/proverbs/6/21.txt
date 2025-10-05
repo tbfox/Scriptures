@@ -1,1 +1,0 @@
-Bind them continually upon thine heart, and tie them about thy neck.

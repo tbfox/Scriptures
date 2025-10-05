@@ -1,1 +1,0 @@
-Drought and heat consume the snow waters: so doth the grave those which have sinned.

@@ -1,1 +1,0 @@
-And they shall mock him, and shall scourge him, and shall spit upon him, and shall kill him: and the third day he shall rise again.

@@ -1,1 +1,0 @@
-The LORD shall preserve thy going out and thy coming in from this time forth, and even for evermore.

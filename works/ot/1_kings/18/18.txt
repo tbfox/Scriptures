@@ -1,1 +1,0 @@
-And he answered, I have not troubled Israel; but thou, and thy father's house, in that ye have forsaken the commandments of the LORD, and thou hast followed Baalim.

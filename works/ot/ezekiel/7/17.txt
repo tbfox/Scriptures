@@ -1,1 +1,0 @@
-All hands shall be feeble, and all knees shall be weak as water.

@@ -1,1 +1,0 @@
-Or darkness, that thou canst not see; and abundance of waters cover thee.

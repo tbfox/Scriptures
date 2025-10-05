@@ -1,1 +1,0 @@
-And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever.

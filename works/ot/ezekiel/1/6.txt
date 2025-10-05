@@ -1,1 +1,0 @@
-And every one had four faces, and every one had four wings.

@@ -1,1 +1,0 @@
-And afterward I will bring again the captivity of the children of Ammon, saith the LORD.

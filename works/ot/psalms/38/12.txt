@@ -1,1 +1,0 @@
-They also that seek after my life lay snares for me: and they that seek my hurt speak mischievous things, and imagine deceits all the day long.

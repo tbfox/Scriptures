@@ -1,1 +1,0 @@
-Heshbon with her suburbs, Jazer with her suburbs; four cities in all.

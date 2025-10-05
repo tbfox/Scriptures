@@ -1,1 +1,0 @@
-And it came to pass, as he went into the house of one of the chief Pharisees to eat bread on the sabbath day, that they watched him.

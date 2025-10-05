@@ -1,1 +1,0 @@
-On that night could not the king sleep, and he commanded to bring the book of records of the chronicles; and they were read before the king.

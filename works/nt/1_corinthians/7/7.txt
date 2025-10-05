@@ -1,1 +1,0 @@
-For I would that all men were even as I myself. But every man hath his proper gift of God, one after this manner, and another after that.

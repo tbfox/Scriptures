@@ -1,1 +1,0 @@
-And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son.

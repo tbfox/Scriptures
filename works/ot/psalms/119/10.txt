@@ -1,1 +1,0 @@
-With my whole heart have I sought thee: O let me not wander from thy commandments.

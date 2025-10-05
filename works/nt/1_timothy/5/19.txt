@@ -1,1 +1,0 @@
-Against an elder receive not an accusation, but before two or three witnesses.

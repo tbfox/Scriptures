@@ -1,1 +1,0 @@
-Though the root thereof wax old in the earth, and the stock thereof die in the ground;

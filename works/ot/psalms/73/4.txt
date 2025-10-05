@@ -1,1 +1,0 @@
-For there are no bands in their death: but their strength is firm.

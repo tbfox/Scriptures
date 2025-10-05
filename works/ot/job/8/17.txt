@@ -1,1 +1,0 @@
-His roots are wrapped about the heap, and seeth the place of stones.

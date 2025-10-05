@@ -1,1 +1,0 @@
-And David dwelt in the castle; therefore they called it the city of David.

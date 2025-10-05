@@ -1,1 +1,0 @@
-Also we made ordinances for us, to charge ourselves yearly with the third part of a shekel for the service of the house of our God;

@@ -1,1 +1,0 @@
-I will teach you by the hand of God: that which is with the Almighty will I not conceal.

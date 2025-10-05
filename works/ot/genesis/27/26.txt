@@ -1,1 +1,0 @@
-And his father Isaac said unto him, Come near now, and kiss me, my son.

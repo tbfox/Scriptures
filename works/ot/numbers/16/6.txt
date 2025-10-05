@@ -1,1 +1,0 @@
-This do; Take you censers, Korah, and all his company;

@@ -1,1 +1,0 @@
-Now therefore let me alone, that my wrath may wax hot against them, and that I may consume them: and I will make of thee a great nation.

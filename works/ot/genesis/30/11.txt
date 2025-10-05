@@ -1,1 +1,0 @@
-And Leah said, A troop cometh: and she called his name Gad.

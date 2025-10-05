@@ -1,1 +1,0 @@
-And he said to the woman, Thy faith hath saved thee; go in peace.

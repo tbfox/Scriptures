@@ -1,1 +1,0 @@
-But upon mount Zion shall be deliverance, and there shall be holiness; and the house of Jacob shall possess their possessions.

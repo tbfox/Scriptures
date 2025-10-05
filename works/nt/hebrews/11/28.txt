@@ -1,1 +1,0 @@
-Through faith he kept the passover, and the sprinkling of blood, lest he that destroyed the firstborn should touch them.

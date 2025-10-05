@@ -1,1 +1,0 @@
-Then I said, I shall die in my nest, and I shall multiply my days as the sand.

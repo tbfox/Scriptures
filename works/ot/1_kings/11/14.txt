@@ -1,1 +1,0 @@
-And the LORD stirred up an adversary unto Solomon, Hadad the Edomite: he was of the king's seed in Edom.

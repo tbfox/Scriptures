@@ -1,1 +1,0 @@
-Therefore prophesy against them, prophesy, O son of man.

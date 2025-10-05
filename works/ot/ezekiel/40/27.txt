@@ -1,1 +1,0 @@
-And there was a gate in the inner court toward the south: and he measured from gate to gate toward the south an hundred cubits.

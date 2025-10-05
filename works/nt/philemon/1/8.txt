@@ -1,1 +1,0 @@
-Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,

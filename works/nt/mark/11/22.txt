@@ -1,1 +1,0 @@
-And Jesus answering saith unto them, Have faith in God.

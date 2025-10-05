@@ -1,1 +1,0 @@
-I will not drive them out from before thee in one year; lest the land become desolate, and the beast of the field multiply against thee.

@@ -1,1 +1,0 @@
-When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet.

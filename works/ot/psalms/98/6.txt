@@ -1,1 +1,0 @@
-With trumpets and sound of cornet make a joyful noise before the LORD, the King.

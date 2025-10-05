@@ -1,1 +1,0 @@
-All we like sheep have gone astray; we have turned every one to his own way; and the LORD hath laid on him the iniquity of us all.

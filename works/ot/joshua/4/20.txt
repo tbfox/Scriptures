@@ -1,1 +1,0 @@
-And those twelve stones, which they took out of Jordan, did Joshua pitch in Gilgal.

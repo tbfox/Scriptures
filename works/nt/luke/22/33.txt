@@ -1,1 +1,0 @@
-And he said unto him, Lord, I am ready to go with thee, both into prison, and to death.

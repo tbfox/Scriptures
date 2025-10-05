@@ -1,1 +1,0 @@
-And of the sons of Elam; Jeshaiah the son of Athaliah, and with him seventy males.

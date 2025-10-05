@@ -1,1 +1,0 @@
-But them that are without God judgeth. Therefore put away from among yourselves that wicked person.

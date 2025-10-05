@@ -1,1 +1,0 @@
-And they departed from Hashmonah, and encamped at Moseroth.

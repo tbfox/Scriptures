@@ -1,1 +1,0 @@
-For a great door and effectual is opened unto me, and there are many adversaries.

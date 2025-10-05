@@ -1,1 +1,0 @@
-And my heart hath been secretly enticed, or my mouth hath kissed my hand:

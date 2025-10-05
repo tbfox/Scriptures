@@ -1,1 +1,0 @@
-Behold, all ye yourselves have seen it; why then are ye thus altogether vain?

@@ -1,1 +1,0 @@
-The troops of Tema looked, the companies of Sheba waited for them.

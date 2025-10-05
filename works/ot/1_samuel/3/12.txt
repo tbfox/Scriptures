@@ -1,1 +1,0 @@
-In that day I will perform against Eli all things which I have spoken concerning his house: when I begin, I will also make an end.

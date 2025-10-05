@@ -1,1 +1,0 @@
-The bloodthirsty hate the upright: but the just seek his soul.

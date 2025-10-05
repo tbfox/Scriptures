@@ -1,1 +1,0 @@
-Understand, ye brutish among the people: and ye fools, when will ye be wise?

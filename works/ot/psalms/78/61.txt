@@ -1,1 +1,0 @@
-And delivered his strength into captivity, and his glory into the enemy's hand.

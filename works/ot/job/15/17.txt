@@ -1,1 +1,0 @@
-I will shew thee, hear me; and that which I have seen I will declare;

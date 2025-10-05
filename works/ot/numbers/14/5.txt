@@ -1,1 +1,0 @@
-Then Moses and Aaron fell on their faces before all the assembly of the congregation of the children of Israel.

@@ -1,1 +1,0 @@
-They saw it, and so they marvelled; they were troubled, and hasted away.

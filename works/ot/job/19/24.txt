@@ -1,1 +1,0 @@
-That they were graven with an iron pen and lead in the rock for ever!

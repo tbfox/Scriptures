@@ -1,1 +1,0 @@
-That prepareth his heart to seek God, the LORD God of his fathers, though he be not cleansed according to the purification of the sanctuary.

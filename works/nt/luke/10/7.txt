@@ -1,1 +1,0 @@
-And in the same house remain, eating and drinking such things as they give: for the labourer is worthy of his hire. Go not from house to house.

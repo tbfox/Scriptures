@@ -1,1 +1,0 @@
-Why should ye be stricken any more? ye will revolt more and more: the whole head is sick, and the whole heart faint.

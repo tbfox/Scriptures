@@ -1,1 +1,0 @@
-And from Miletus he sent to Ephesus, and called the elders of the church.

@@ -1,1 +1,0 @@
-I have heard a rumour from the LORD, and an ambassador is sent unto the heathen, saying, Gather ye together, and come against her, and rise up to the battle.

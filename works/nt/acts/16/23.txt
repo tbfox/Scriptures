@@ -1,1 +1,0 @@
-And when they had laid many stripes upon them, they cast them into prison, charging the jailor to keep them safely:

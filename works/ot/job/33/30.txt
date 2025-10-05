@@ -1,1 +1,0 @@
-To bring back his soul from the pit, to be enlightened with the light of the living.

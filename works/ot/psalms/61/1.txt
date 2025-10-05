@@ -1,1 +1,0 @@
-Hear my cry, O God; attend unto my prayer.

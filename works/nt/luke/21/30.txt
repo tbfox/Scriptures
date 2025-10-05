@@ -1,1 +1,0 @@
-When they now shoot forth, ye see and know of your own selves that summer is now nigh at hand.

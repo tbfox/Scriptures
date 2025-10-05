@@ -1,1 +1,0 @@
-And the woman which thou sawest is that great city, which reigneth over the kings of the earth.

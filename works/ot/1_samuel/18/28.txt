@@ -1,1 +1,0 @@
-And Saul saw and knew that the LORD was with David, and that Michal Saul's daughter loved him.

@@ -1,1 +1,0 @@
-Blessed is every one that feareth the LORD; that walketh in his ways.

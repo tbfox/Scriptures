@@ -1,1 +1,0 @@
-Ammiel the sixth, Issachar the seventh, Peulthai the eighth: for God blessed him.

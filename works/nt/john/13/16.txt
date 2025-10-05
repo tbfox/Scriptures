@@ -1,1 +1,0 @@
-Verily, verily, I say unto you, The servant is not greater than his lord; neither he that is sent greater than he that sent him.

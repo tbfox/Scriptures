@@ -1,1 +1,0 @@
-Then shall they begin to say to the mountains, Fall on us; and to the hills, Cover us.

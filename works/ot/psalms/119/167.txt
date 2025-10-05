@@ -1,1 +1,0 @@
-My soul hath kept thy testimonies; and I love them exceedingly.

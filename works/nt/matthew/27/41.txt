@@ -1,1 +1,0 @@
-Likewise also the chief priests mocking him, with the scribes and elders, said,

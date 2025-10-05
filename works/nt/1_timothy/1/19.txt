@@ -1,1 +1,0 @@
-Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck:

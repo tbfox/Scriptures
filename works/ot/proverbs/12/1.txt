@@ -1,1 +1,0 @@
-Whoso loveth instruction loveth knowledge: but he that hateth reproof is brutish.

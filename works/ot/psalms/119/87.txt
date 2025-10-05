@@ -1,1 +1,0 @@
-They had almost consumed me upon earth; but I forsook not thy precepts.

@@ -1,1 +1,0 @@
-Princes have persecuted me without a cause: but my heart standeth in awe of thy word.

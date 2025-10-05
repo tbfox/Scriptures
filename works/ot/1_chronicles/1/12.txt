@@ -1,1 +1,0 @@
-And Pathrusim, and Casluhim, (of whom came the Philistines,) and Caphthorim.

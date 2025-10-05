@@ -1,1 +1,0 @@
-And he said unto her, Thy sins are forgiven.

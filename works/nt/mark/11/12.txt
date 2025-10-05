@@ -1,1 +1,0 @@
-And on the morrow, when they were come from Bethany, he was hungry:

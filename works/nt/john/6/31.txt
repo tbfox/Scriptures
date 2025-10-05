@@ -1,1 +1,0 @@
-Our fathers did eat manna in the desert; as it is written, He gave them bread from heaven to eat.

@@ -1,1 +1,0 @@
-They have made all thy ship boards of fir trees of Senir: they have taken cedars from Lebanon to make masts for thee.

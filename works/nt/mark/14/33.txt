@@ -1,1 +1,0 @@
-And he taketh with him Peter and James and John, and began to be sore amazed, and to be very heavy;

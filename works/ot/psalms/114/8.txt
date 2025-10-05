@@ -1,1 +1,0 @@
-Which turned the rock into a standing water, the flint into a fountain of waters.

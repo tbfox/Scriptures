@@ -1,1 +1,0 @@
-And they went, and found as he had said unto them: and they made ready the passover.

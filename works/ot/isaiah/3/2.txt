@@ -1,1 +1,0 @@
-The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient,

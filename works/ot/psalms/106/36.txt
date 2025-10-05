@@ -1,1 +1,0 @@
-And they served their idols: which were a snare unto them.

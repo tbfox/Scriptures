@@ -1,1 +1,0 @@
-All the ways of a man are clean in his own eyes; but the LORD weigheth the spirits.

@@ -1,1 +1,0 @@
-My praise shall be of thee in the great congregation: I will pay my vows before them that fear him.

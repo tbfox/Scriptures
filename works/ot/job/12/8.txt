@@ -1,1 +1,0 @@
-Or speak to the earth, and it shall teach thee: and the fishes of the sea shall declare unto thee.

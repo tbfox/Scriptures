@@ -1,1 +1,0 @@
-I have stuck unto thy testimonies: O LORD, put me not to shame.

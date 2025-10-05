@@ -1,1 +1,0 @@
-That thy foot may be dipped in the blood of thine enemies, and the tongue of thy dogs in the same.

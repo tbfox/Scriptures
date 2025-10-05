@@ -1,1 +1,0 @@
-Lest any should say that I had baptized in mine own name.

@@ -1,1 +1,0 @@
-Nay, my sons; for it is no good report that I hear: ye make the LORD's people to transgress.

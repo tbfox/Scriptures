@@ -1,1 +1,0 @@
-And Isaiah said unto Hezekiah, Hear the word of the LORD.

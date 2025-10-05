@@ -1,1 +1,0 @@
-And I heard another out of the altar say, Even so, Lord God Almighty, true and righteous are thy judgments.

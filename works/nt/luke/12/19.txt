@@ -1,1 +1,0 @@
-And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry.

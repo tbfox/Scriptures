@@ -1,1 +1,0 @@
-I will run the way of thy commandments, when thou shalt enlarge my heart.

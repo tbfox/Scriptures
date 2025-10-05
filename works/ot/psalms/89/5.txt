@@ -1,1 +1,0 @@
-And the heavens shall praise thy wonders, O LORD: thy faithfulness also in the congregation of the saints.

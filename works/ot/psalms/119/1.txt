@@ -1,1 +1,0 @@
-Blessed are the undefiled in the way, who walk in the law of the LORD.

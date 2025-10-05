@@ -1,1 +1,0 @@
-And they lodged round about the house of God, because the charge was upon them, and the opening thereof every morning pertained to them.

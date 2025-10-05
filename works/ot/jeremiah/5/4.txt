@@ -1,1 +1,0 @@
-Therefore I said, Surely these are poor; they are foolish: for they know not the way of the LORD, nor the judgment of their God.

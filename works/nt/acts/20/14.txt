@@ -1,1 +1,0 @@
-And when he met with us at Assos, we took him in, and came to Mitylene.

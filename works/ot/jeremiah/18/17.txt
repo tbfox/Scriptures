@@ -1,1 +1,0 @@
-I will scatter them as with an east wind before the enemy; I will shew them the back, and not the face, in the day of their calamity.

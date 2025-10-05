@@ -1,1 +1,0 @@
-My beloved is mine, and I am his: he feedeth among the lilies.

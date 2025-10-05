@@ -1,1 +1,0 @@
-Then Jeroboam built Shechem in mount Ephraim, and dwelt therein; and went out from thence, and built Penuel.

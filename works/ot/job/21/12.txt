@@ -1,1 +1,0 @@
-They take the timbrel and harp, and rejoice at the sound of the organ.

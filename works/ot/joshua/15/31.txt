@@ -1,1 +1,0 @@
-And Ziklag, and Madmannah, and Sansannah,

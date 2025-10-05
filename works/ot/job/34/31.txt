@@ -1,1 +1,0 @@
-Surely it is meet to be said unto God, I have borne chastisement, I will not offend any more:

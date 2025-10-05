@@ -1,1 +1,0 @@
-If thou shalt hear say in one of thy cities, which the LORD thy God hath given thee to dwell there, saying,

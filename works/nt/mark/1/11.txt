@@ -1,1 +1,0 @@
-And there came a voice from heaven, saying, Thou art my beloved Son, in whom I am well pleased.

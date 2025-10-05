@@ -1,1 +1,0 @@
-Dost thou know the balancings of the clouds, the wondrous works of him which is perfect in knowledge?

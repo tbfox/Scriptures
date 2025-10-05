@@ -1,1 +1,0 @@
-And if thou say in thine heart, Wherefore come these things upon me? For the greatness of thine iniquity are thy skirts discovered, and thy heels made bare.

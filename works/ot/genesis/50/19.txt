@@ -1,1 +1,0 @@
-And Joseph said unto them, Fear not: for am I in the place of God?

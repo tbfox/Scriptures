@@ -1,1 +1,0 @@
-Also they reported his good deeds before me, and uttered my words to him. And Tobiah sent letters to put me in fear.

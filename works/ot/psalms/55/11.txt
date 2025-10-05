@@ -1,1 +1,0 @@
-Wickedness is in the midst thereof: deceit and guile depart not from her streets.

@@ -1,1 +1,0 @@
-The children of Ramah and Gaba, six hundred twenty and one.

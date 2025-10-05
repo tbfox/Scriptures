@@ -1,1 +1,0 @@
-Yea, thou shalt see thy children's children, and peace upon Israel.

@@ -1,1 +1,0 @@
-And it came to pass, while there was war between the house of Saul and the house of David, that Abner made himself strong for the house of Saul.

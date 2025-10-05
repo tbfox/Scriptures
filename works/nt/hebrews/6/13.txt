@@ -1,1 +1,0 @@
-For when God made promise to Abraham, because he could swear by no greater, he sware by himself,

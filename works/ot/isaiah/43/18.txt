@@ -1,1 +1,0 @@
-Remember ye not the former things, neither consider the things of old.

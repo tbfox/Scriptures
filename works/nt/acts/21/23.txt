@@ -1,1 +1,0 @@
-Do therefore this that we say to thee: We have four men which have a vow on them;

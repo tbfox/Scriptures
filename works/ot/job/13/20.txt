@@ -1,1 +1,0 @@
-Only do not two things unto me: then will I not hide myself from thee.

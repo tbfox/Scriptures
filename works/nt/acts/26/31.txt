@@ -1,1 +1,0 @@
-And when they were gone aside, they talked between themselves, saying, This man doeth nothing worthy of death or of bonds.

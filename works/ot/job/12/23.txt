@@ -1,1 +1,0 @@
-He increaseth the nations, and destroyeth them: he enlargeth the nations, and straiteneth them again.

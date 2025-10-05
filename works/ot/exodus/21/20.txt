@@ -1,1 +1,0 @@
-And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished.

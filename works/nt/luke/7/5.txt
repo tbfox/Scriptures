@@ -1,1 +1,0 @@
-For he loveth our nation, and he hath built us a synagogue.

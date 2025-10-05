@@ -1,1 +1,0 @@
-He brought them forth also with silver and gold: and there was not one feeble person among their tribes.

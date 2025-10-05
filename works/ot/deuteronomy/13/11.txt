@@ -1,1 +1,0 @@
-And all Israel shall hear, and fear, and shall do no more any such wickedness as this is among you.

@@ -1,1 +1,0 @@
-Hear now my reasoning, and hearken to the pleadings of my lips.

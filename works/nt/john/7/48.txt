@@ -1,1 +1,0 @@
-Have any of the rulers or of the Pharisees believed on him?

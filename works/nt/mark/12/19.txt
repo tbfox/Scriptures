@@ -1,1 +1,0 @@
-Master, Moses wrote unto us, If a man's brother die, and leave his wife behind him, and leave no children, that his brother should take his wife, and raise up seed unto his brother.

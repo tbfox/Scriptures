@@ -1,1 +1,0 @@
-Then Zedekiah the king said, Behold, he is in your hand: for the king is not he that can do any thing against you.

@@ -1,1 +1,0 @@
-Let the children of Israel also keep the passover at his appointed season.

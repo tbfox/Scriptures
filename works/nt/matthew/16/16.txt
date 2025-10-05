@@ -1,1 +1,0 @@
-And Simon Peter answered and said, Thou art the Christ, the Son of the living God.

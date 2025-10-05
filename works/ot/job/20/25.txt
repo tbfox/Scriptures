@@ -1,1 +1,0 @@
-It is drawn, and cometh out of the body; yea, the glittering sword cometh out of his gall: terrors are upon him.

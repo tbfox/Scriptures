@@ -1,1 +1,0 @@
-Thou shalt truly tithe all the increase of thy seed, that the field bringeth forth year by year.

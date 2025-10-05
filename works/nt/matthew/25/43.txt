@@ -1,1 +1,0 @@
-I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not.

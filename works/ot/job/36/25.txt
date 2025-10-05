@@ -1,1 +1,0 @@
-Every man may see it; man may behold it afar off.

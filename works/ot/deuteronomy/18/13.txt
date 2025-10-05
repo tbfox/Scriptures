@@ -1,1 +1,0 @@
-Thou shalt be perfect with the LORD thy God.

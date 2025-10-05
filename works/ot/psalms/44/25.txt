@@ -1,1 +1,0 @@
-For our soul is bowed down to the dust: our belly cleaveth unto the earth.

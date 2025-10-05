@@ -1,1 +1,0 @@
-Why doth this man thus speak blasphemies? who can forgive sins but God only?

@@ -1,1 +1,0 @@
-Fear, and the pit, and the snare, shall be upon thee, O inhabitant of Moab, saith the LORD.

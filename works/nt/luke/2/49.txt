@@ -1,1 +1,0 @@
-And he said unto them, How is it that ye sought me? wist ye not that I must be about my Father's business?

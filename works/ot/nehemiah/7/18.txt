@@ -1,1 +1,0 @@
-The children of Adonikam, six hundred threescore and seven.

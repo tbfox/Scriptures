@@ -1,1 +1,0 @@
-And there they preached the gospel.

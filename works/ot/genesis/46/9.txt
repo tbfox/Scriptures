@@ -1,1 +1,0 @@
-And the sons of Reuben; Hanoch, and Phallu, and Hezron, and Carmi.

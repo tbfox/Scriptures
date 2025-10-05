@@ -1,1 +1,0 @@
-Hear ye therefore the parable of the sower.

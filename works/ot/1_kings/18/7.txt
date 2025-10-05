@@ -1,1 +1,0 @@
-And as Obadiah was in the way, behold, Elijah met him: and he knew him, and fell on his face, and said, Art thou that my lord Elijah?

@@ -1,1 +1,0 @@
-Nevertheless he cleaved unto the sins of Jeroboam the son of Nebat, which made Israel to sin; he departed not therefrom.

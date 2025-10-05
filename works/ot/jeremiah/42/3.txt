@@ -1,1 +1,0 @@
-That the LORD thy God may shew us the way wherein we may walk, and the thing that we may do.

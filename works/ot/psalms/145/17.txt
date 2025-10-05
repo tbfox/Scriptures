@@ -1,1 +1,0 @@
-The LORD is righteous in all his ways, and holy in all his works.

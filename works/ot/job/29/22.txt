@@ -1,1 +1,0 @@
-After my words they spake not again; and my speech dropped upon them.

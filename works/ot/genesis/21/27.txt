@@ -1,1 +1,0 @@
-And Abraham took sheep and oxen, and gave them unto Abimelech; and both of them made a covenant.

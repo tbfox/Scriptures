@@ -1,1 +1,0 @@
-For this thing I besought the Lord thrice, that it might depart from me.

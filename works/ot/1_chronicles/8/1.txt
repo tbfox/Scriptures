@@ -1,1 +1,0 @@
-Now Benjamin begat Bela his firstborn, Ashbel the second, and Aharah the third,

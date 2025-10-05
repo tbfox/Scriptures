@@ -1,1 +1,0 @@
-It is of the LORD's mercies that we are not consumed, because his compassions fail not.

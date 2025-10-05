@@ -1,1 +1,0 @@
-And when they had nothing to pay, he frankly forgave them both. Tell me therefore, which of them will love him most?

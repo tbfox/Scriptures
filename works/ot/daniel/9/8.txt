@@ -1,1 +1,0 @@
-O Lord, to us belongeth confusion of face, to our kings, to our princes, and to our fathers, because we have sinned against thee.

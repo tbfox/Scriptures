@@ -1,1 +1,0 @@
-Serve the LORD with gladness: come before his presence with singing.

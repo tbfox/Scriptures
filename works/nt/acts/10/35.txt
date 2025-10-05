@@ -1,1 +1,0 @@
-But in every nation he that feareth him, and worketh righteousness, is accepted with him.

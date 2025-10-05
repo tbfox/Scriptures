@@ -1,1 +1,0 @@
-Ahaz his son, Hezekiah his son, Manasseh his son,

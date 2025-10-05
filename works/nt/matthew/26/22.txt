@@ -1,1 +1,0 @@
-And they were exceeding sorrowful, and began every one of them to say unto him, Lord, is it I?

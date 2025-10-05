@@ -1,1 +1,0 @@
-And the scribes which came down from Jerusalem said, He hath Beelzebub, and by the prince of the devils casteth he out devils.

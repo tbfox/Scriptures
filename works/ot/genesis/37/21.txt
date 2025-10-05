@@ -1,1 +1,0 @@
-And Reuben heard it, and he delivered him out of their hands; and said, Let us not kill him.

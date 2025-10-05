@@ -1,1 +1,0 @@
-Of Simeon; Shelumiel the son of Zurishaddai.

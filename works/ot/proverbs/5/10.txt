@@ -1,1 +1,0 @@
-Lest strangers be filled with thy wealth; and thy labours be in the house of a stranger;

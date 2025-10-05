@@ -1,1 +1,0 @@
-He fashioneth their hearts alike; he considereth all their works.

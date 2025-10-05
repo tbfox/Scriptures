@@ -1,1 +1,0 @@
-And the king of Israel said, Alas! that the LORD hath called these three kings together, to deliver them into the hand of Moab!

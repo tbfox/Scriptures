@@ -1,1 +1,0 @@
-And they could not answer him again to these things.

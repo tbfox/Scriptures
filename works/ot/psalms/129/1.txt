@@ -1,1 +1,0 @@
-Many a time have they afflicted me from my youth, may Israel now say:

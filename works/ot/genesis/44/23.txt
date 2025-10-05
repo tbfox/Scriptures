@@ -1,1 +1,0 @@
-And thou saidst unto thy servants, Except your youngest brother come down with you, ye shall see my face no more.

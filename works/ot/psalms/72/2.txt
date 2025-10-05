@@ -1,1 +1,0 @@
-He shall judge thy people with righteousness, and thy poor with judgment.

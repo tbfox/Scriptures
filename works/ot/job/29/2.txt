@@ -1,1 +1,0 @@
-Oh that I were as in months past, as in the days when God preserved me;

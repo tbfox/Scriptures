@@ -1,1 +1,0 @@
-And if ye offer a sacrifice of peace offerings unto the LORD, ye shall offer it at your own will.

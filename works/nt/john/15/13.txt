@@ -1,1 +1,0 @@
-Greater love hath no man than this, that a man lay down his life for his friends.

@@ -1,1 +1,0 @@
-For they are a nation void of counsel, neither is there any understanding in them.

@@ -1,1 +1,0 @@
-LORD, in trouble have they visited thee, they poured out a prayer when thy chastening was upon them.

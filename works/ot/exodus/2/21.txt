@@ -1,1 +1,0 @@
-And Moses was content to dwell with the man: and he gave Moses Zipporah his daughter.

@@ -1,1 +1,0 @@
-And Pharaoh turned and went into his house, neither did he set his heart to this also.

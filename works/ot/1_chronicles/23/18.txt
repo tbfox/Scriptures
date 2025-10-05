@@ -1,1 +1,0 @@
-Of the sons of Izhar; Shelomith the chief.

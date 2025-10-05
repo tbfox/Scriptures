@@ -1,1 +1,0 @@
-He shall cut off the spirit of princes: he is terrible to the kings of the earth.

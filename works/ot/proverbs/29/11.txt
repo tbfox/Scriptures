@@ -1,1 +1,0 @@
-A fool uttereth all his mind: but a wise man keepeth it in till afterwards.

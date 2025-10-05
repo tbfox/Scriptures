@@ -1,1 +1,0 @@
-When they were but a few men in number; yea, very few, and strangers in it.

@@ -1,1 +1,0 @@
-He will deliver his soul from going into the pit, and his life shall see the light.

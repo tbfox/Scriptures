@@ -1,1 +1,0 @@
-So Saul died, and his three sons, and all his house died together.

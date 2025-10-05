@@ -1,1 +1,0 @@
-And he said, Thou shalt not go through. And Edom came out against him with much people, and with a strong hand.

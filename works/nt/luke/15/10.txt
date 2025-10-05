@@ -1,1 +1,0 @@
-Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repenteth.

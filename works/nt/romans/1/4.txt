@@ -1,1 +1,0 @@
-And declared to be the Son of God with power, according to the spirit of holiness, by the resurrection from the dead:

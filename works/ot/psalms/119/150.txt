@@ -1,1 +1,0 @@
-They draw nigh that follow after mischief: they are far from thy law.

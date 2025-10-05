@@ -1,1 +1,0 @@
-The heaven shall reveal his iniquity; and the earth shall rise up against him.

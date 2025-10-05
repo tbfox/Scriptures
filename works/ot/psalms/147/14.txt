@@ -1,1 +1,0 @@
-He maketh peace in thy borders, and filleth thee with the finest of the wheat.

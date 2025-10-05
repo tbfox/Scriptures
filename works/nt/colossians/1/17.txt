@@ -1,1 +1,0 @@
-And he is before all things, and by him all things consist.

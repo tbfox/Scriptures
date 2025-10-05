@@ -1,1 +1,0 @@
-Yea, the fir trees rejoice at thee, and the cedars of Lebanon, saying, Since thou art laid down, no feller is come up against us.

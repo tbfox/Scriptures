@@ -1,1 +1,0 @@
-And she had a sister called Mary, which also sat at Jesus' feet, and heard his word.

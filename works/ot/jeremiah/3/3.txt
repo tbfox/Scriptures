@@ -1,1 +1,0 @@
-Therefore the showers have been withholden, and there hath been no latter rain; and thou hadst a whore's forehead, thou refusedst to be ashamed.

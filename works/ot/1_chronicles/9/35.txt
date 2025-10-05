@@ -1,1 +1,0 @@
-And in Gibeon dwelt the father of Gibeon, Jehiel, whose wife's name was Maachah:

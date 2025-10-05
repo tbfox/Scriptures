@@ -1,1 +1,0 @@
-Ye are not straitened in us, but ye are straitened in your own bowels.

@@ -1,1 +1,0 @@
-Whose harvest the hungry eateth up, and taketh it even out of the thorns, and the robber swalloweth up their substance.

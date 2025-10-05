@@ -1,1 +1,0 @@
-And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities.

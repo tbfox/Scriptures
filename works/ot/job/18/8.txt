@@ -1,1 +1,0 @@
-For he is cast into a net by his own feet, and he walketh upon a snare.

@@ -1,1 +1,0 @@
-And there went great multitudes with him: and he turned, and said unto them,

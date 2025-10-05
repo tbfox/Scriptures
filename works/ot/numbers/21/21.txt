@@ -1,1 +1,0 @@
-And Israel sent messengers unto Sihon king of the Amorites, saying,

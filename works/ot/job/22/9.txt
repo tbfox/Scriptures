@@ -1,1 +1,0 @@
-Thou hast sent widows away empty, and the arms of the fatherless have been broken.

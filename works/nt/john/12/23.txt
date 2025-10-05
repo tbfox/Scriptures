@@ -1,1 +1,0 @@
-And Jesus answered them, saying, The hour is come, that the Son of man should be glorified.

@@ -1,1 +1,0 @@
-Gather up thy wares out of the land, O inhabitant of the fortress.

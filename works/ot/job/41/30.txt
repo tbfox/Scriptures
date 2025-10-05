@@ -1,1 +1,0 @@
-Sharp stones are under him: he spreadeth sharp pointed things upon the mire.

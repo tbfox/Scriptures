@@ -1,1 +1,0 @@
-And Aaron said, Let not the anger of my lord wax hot: thou knowest the people, that they are set on mischief.

@@ -1,1 +1,0 @@
-O God, my heart is fixed; I will sing and give praise, even with my glory.

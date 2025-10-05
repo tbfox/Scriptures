@@ -1,1 +1,0 @@
-And they departed from the presence of the council, rejoicing that they were counted worthy to suffer shame for his name.

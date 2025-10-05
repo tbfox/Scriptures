@@ -1,1 +1,0 @@
-For meat destroy not the work of God. All things indeed are pure; but it is evil for that man who eateth with offence.

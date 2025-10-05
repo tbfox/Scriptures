@@ -1,1 +1,0 @@
-Canst thou fill his skin with barbed irons? or his head with fish spears?

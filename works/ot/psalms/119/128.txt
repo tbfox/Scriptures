@@ -1,1 +1,0 @@
-Therefore I esteem all thy precepts concerning all things to be right; and I hate every false way.

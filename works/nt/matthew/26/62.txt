@@ -1,1 +1,0 @@
-And the high priest arose, and said unto him, Answerest thou nothing? what is it which these witness against thee?

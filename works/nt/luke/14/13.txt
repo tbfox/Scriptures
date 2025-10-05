@@ -1,1 +1,0 @@
-But when thou makest a feast, call the poor, the maimed, the lame, the blind:

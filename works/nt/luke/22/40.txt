@@ -1,1 +1,0 @@
-And when he was at the place, he said unto them, Pray that ye enter not into temptation.

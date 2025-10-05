@@ -1,1 +1,0 @@
-Of this there shall be for the sanctuary five hundred in length, with five hundred in breadth, square round about; and fifty cubits round about for the suburbs thereof.

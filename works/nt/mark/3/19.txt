@@ -1,1 +1,0 @@
-And Judas Iscariot, which also betrayed him: and they went into an house.

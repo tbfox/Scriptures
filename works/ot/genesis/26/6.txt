@@ -1,1 +1,0 @@
-And Isaac dwelt in Gerar:

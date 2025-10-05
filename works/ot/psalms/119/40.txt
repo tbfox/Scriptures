@@ -1,1 +1,0 @@
-Behold, I have longed after thy precepts: quicken me in thy righteousness.

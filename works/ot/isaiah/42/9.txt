@@ -1,1 +1,0 @@
-Behold, the former things are come to pass, and new things do I declare: before they spring forth I tell you of them.

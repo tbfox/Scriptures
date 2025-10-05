@@ -1,1 +1,0 @@
-And a fire was kindled in their company; the flame burned up the wicked.

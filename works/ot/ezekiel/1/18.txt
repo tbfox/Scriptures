@@ -1,1 +1,0 @@
-As for their rings, they were so high that they were dreadful; and their rings were full of eyes round about them four.

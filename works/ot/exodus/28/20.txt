@@ -1,1 +1,0 @@
-And the fourth row a beryl, and an onyx, and a jasper: they shall be set in gold in their inclosings.

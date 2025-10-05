@@ -1,1 +1,0 @@
-The morsel which thou hast eaten shalt thou vomit up, and lose thy sweet words.

@@ -1,1 +1,0 @@
-And the cities that are inhabited shall be laid waste, and the land shall be desolate; and ye shall know that I am the LORD.

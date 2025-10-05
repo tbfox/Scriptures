@@ -1,1 +1,0 @@
-And after they had passed throughout Pisidia, they came to Pamphylia.

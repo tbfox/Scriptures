@@ -1,1 +1,0 @@
-And straightway they forsook their nets, and followed him.

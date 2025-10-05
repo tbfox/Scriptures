@@ -1,1 +1,0 @@
-And the LORD spake by his servants the prophets, saying,

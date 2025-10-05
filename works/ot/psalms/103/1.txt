@@ -1,1 +1,0 @@
-Bless the LORD, O my soul: and all that is within me, bless his holy name.

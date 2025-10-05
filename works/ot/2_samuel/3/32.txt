@@ -1,1 +1,0 @@
-And they buried Abner in Hebron: and the king lifted up his voice, and wept at the grave of Abner; and all the people wept.

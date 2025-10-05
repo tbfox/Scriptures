@@ -1,1 +1,0 @@
-Hear this, all ye people; give ear, all ye inhabitants of the world:

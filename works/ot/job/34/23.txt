@@ -1,1 +1,0 @@
-For he will not lay upon man more than right; that he should enter into judgment with God.

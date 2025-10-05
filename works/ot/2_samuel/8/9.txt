@@ -1,1 +1,0 @@
-When Toi king of Hamath heard that David had smitten all the host of Hadadezer,

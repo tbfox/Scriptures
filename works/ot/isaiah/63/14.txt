@@ -1,1 +1,0 @@
-As a beast goeth down into the valley, the Spirit of the LORD caused him to rest: so didst thou lead thy people, to make thyself a glorious name.

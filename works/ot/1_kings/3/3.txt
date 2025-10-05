@@ -1,1 +1,0 @@
-And Solomon loved the LORD, walking in the statutes of David his father: only he sacrificed and burnt incense in high places.

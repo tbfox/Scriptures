@@ -1,1 +1,0 @@
-And the word of the Lord was published throughout all the region.

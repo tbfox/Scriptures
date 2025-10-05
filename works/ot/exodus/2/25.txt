@@ -1,1 +1,0 @@
-And God looked upon the children of Israel, and God had respect unto them.

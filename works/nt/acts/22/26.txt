@@ -1,1 +1,0 @@
-When the centurion heard that, he went and told the chief captain, saying, Take heed what thou doest: for this man is a Roman.

@@ -1,1 +1,0 @@
-When I was daily with you in the temple, ye stretched forth no hands against me: but this is your hour, and the power of darkness.

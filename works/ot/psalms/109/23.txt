@@ -1,1 +1,0 @@
-I am gone like the shadow when it declineth: I am tossed up and down as the locust.

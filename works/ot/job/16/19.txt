@@ -1,1 +1,0 @@
-Also now, behold, my witness is in heaven, and my record is on high.

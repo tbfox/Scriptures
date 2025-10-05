@@ -1,1 +1,0 @@
-And almost all things are by the law purged with blood; and without shedding of blood is no remission.

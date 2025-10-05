@@ -1,1 +1,0 @@
-And we know that we are of God, and the whole world lieth in wickedness.

@@ -1,1 +1,0 @@
-And Jesus answered and said unto it, No man eat fruit of thee hereafter for ever. And his disciples heard it.

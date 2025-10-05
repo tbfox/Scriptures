@@ -1,1 +1,0 @@
-He will surely reprove you, if ye do secretly accept persons.

@@ -1,1 +1,0 @@
-And Joiada begat Jonathan, and Jonathan begat Jaddua.

@@ -1,1 +1,0 @@
-Now Joab was over all the host of Israel: and Benaiah the son of Jehoiada was over the Cherethites and over the Pelethites:

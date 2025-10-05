@@ -1,1 +1,0 @@
-And they took their journey out of the wilderness of Sin, and encamped in Dophkah.

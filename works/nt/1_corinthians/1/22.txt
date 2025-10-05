@@ -1,1 +1,0 @@
-For the Jews require a sign, and the Greeks seek after wisdom:

@@ -1,1 +1,0 @@
-And Noah was six hundred years old when the flood of waters was upon the earth.

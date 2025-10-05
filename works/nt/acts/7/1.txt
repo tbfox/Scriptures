@@ -1,1 +1,0 @@
-Then said the high priest, Are these things so?

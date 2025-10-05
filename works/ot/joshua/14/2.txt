@@ -1,1 +1,0 @@
-By lot was their inheritance, as the LORD commanded by the hand of Moses, for the nine tribes, and for the half tribe.

@@ -1,1 +1,0 @@
-If he beget a son that is a robber, a shedder of blood, and that doeth the like to any one of these things,

@@ -1,1 +1,0 @@
-Behold, the eye of the LORD is upon them that fear him, upon them that hope in his mercy;

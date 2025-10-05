@@ -1,1 +1,0 @@
-And let him that is in the field not turn back again for to take up his garment.

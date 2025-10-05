@@ -1,1 +1,0 @@
-The proud have forged a lie against me: but I will keep thy precepts with my whole heart.

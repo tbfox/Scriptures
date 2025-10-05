@@ -1,1 +1,0 @@
-Gather yourselves together, yea, gather together, O nation not desired;

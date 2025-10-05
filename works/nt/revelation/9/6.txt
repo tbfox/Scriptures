@@ -1,1 +1,0 @@
-And in those days shall men seek death, and shall not find it; and shall desire to die, and death shall flee from them.

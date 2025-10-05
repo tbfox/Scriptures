@@ -1,1 +1,0 @@
-Hezekiah also had said, What is the sign that I shall go up to the house of the LORD?

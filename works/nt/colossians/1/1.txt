@@ -1,1 +1,0 @@
-Paul, an apostle of Jesus Christ by the will of God, and Timotheus our brother,

@@ -1,1 +1,0 @@
-For it is a shame even to speak of those things which are done of them in secret.

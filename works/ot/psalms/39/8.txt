@@ -1,1 +1,0 @@
-Deliver me from all my transgressions: make me not the reproach of the foolish.

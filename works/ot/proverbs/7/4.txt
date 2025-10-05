@@ -1,1 +1,0 @@
-Say unto wisdom, Thou art my sister; and call understanding thy kinswoman:

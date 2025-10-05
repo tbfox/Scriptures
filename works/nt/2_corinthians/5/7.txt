@@ -1,1 +1,0 @@
-(For we walk by faith, not by sight:)

@@ -1,1 +1,0 @@
-And these things hast thou hid in thine heart: I know that this is with thee.

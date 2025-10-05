@@ -1,1 +1,0 @@
-And they said, We cannot, until all the flocks be gathered together, and till they roll the stone from the well's mouth; then we water the sheep.

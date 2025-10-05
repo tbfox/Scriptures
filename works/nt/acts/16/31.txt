@@ -1,1 +1,0 @@
-And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house.

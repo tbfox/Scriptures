@@ -1,1 +1,0 @@
-Our inheritance is turned to strangers, our houses to aliens.

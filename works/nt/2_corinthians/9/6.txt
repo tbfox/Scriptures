@@ -1,1 +1,0 @@
-But this I say, He which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully.

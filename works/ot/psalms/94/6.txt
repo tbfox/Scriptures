@@ -1,1 +1,0 @@
-They slay the widow and the stranger, and murder the fatherless.

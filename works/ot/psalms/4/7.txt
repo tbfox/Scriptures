@@ -1,1 +1,0 @@
-Thou hast put gladness in my heart, more than in the time that their corn and their wine increased.

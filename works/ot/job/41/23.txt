@@ -1,1 +1,0 @@
-The flakes of his flesh are joined together: they are firm in themselves; they cannot be moved.

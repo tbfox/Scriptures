@@ -1,1 +1,0 @@
-How is Sheshach taken! and how is the praise of the whole earth surprised! how is Babylon become an astonishment among the nations!

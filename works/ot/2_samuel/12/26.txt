@@ -1,1 +1,0 @@
-And Joab fought against Rabbah of the children of Ammon, and took the royal city.

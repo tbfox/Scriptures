@@ -1,1 +1,0 @@
-And Jesus looked round about, and saith unto his disciples, How hardly shall they that have riches enter into the kingdom of God!

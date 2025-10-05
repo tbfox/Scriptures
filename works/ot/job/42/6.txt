@@ -1,1 +1,0 @@
-Wherefore I abhor myself, and repent in dust and ashes.

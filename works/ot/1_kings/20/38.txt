@@ -1,1 +1,0 @@
-So the prophet departed, and waited for the king by the way, and disguised himself with ashes upon his face.

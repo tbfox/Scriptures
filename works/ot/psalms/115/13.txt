@@ -1,1 +1,0 @@
-He will bless them that fear the LORD, both small and great.

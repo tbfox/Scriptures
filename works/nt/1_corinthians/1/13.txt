@@ -1,1 +1,0 @@
-Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?

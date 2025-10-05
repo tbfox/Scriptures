@@ -1,1 +1,0 @@
-And thou shalt make an altar to burn incense upon: of shittim wood shalt thou make it.

@@ -1,1 +1,0 @@
-Marriage is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge.

@@ -1,1 +1,0 @@
-I know that thou canst do every thing, and that no thought can be withholden from thee.

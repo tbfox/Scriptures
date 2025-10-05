@@ -1,1 +1,0 @@
-Thou art beautiful, O my love, as Tirzah, comely as Jerusalem, terrible as an army with banners.

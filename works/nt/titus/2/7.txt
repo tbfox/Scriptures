@@ -1,1 +1,0 @@
-In all things shewing thyself a pattern of good works: in doctrine shewing uncorruptness, gravity, sincerity,

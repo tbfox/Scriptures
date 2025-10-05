@@ -1,1 +1,0 @@
-Yea, thou shalt go forth from him, and thine hands upon thine head: for the LORD hath rejected thy confidences, and thou shalt not prosper in them.

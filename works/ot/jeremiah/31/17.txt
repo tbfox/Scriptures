@@ -1,1 +1,0 @@
-And there is hope in thine end, saith the LORD, that thy children shall come again to their own border.

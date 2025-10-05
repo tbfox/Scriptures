@@ -1,1 +1,0 @@
-And they, when they had heard that he was alive, and had been seen of her, believed not.

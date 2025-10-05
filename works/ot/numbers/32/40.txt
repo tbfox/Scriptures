@@ -1,1 +1,0 @@
-And Moses gave Gilead unto Machir the son of Manasseh; and he dwelt therein.

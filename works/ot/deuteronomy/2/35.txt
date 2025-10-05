@@ -1,1 +1,0 @@
-Only the cattle we took for a prey unto ourselves, and the spoil of the cities which we took.

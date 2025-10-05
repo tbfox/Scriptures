@@ -1,1 +1,0 @@
-And they that were sent went their way, and found even as he had said unto them.

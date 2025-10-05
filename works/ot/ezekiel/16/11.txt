@@ -1,1 +1,0 @@
-I decked thee also with ornaments, and I put bracelets upon thy hands, and a chain on thy neck.

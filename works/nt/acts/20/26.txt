@@ -1,1 +1,0 @@
-Wherefore I take you to record this day, that I am pure from the blood of all men.

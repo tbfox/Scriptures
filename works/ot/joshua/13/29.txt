@@ -1,1 +1,0 @@
-And Moses gave inheritance unto the half tribe of Manasseh: and this was the possession of the half tribe of the children of Manasseh by their families.

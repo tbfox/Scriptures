@@ -1,1 +1,0 @@
-Sing forth the honour of his name: make his praise glorious.

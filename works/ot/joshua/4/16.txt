@@ -1,1 +1,0 @@
-Command the priests that bear the ark of the testimony, that they come up out of Jordan.

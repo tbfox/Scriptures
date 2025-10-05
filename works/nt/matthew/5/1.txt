@@ -1,1 +1,0 @@
-And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:

@@ -1,1 +1,0 @@
-Let not him that is deceived trust in vanity: for vanity shall be his recompence.

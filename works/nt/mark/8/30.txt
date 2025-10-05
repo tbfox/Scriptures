@@ -1,1 +1,0 @@
-And he charged them that they should tell no man of him.

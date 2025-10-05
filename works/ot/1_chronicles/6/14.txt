@@ -1,1 +1,0 @@
-And Azariah begat Seraiah, and Seraiah begat Jehozadak,

@@ -1,1 +1,0 @@
-Seeing then that these things cannot be spoken against, ye ought to be quiet, and to do nothing rashly.

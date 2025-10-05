@@ -1,1 +1,0 @@
-I clothed thee also with broidered work, and shod thee with badgers' skin, and I girded thee about with fine linen, and I covered thee with silk.

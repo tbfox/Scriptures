@@ -1,1 +1,0 @@
-And God spake all these words, saying,

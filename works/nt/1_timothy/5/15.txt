@@ -1,1 +1,0 @@
-For some are already turned aside after Satan.

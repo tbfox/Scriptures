@@ -1,1 +1,0 @@
-Lying lips are abomination to the LORD: but they that deal truly are his delight.

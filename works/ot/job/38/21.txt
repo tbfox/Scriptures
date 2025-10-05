@@ -1,1 +1,0 @@
-Knowest thou it, because thou wast then born? or because the number of thy days is great?

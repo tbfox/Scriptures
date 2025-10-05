@@ -1,1 +1,0 @@
-When Israel went out of Egypt, the house of Jacob from a people of strange language;

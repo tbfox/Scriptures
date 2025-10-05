@@ -1,1 +1,0 @@
-Of the sons also of Bebai; Jehohanan, Hananiah, Zabbai, and Athlai.

@@ -1,1 +1,0 @@
-My little children, let us not love in word, neither in tongue; but in deed and in truth.

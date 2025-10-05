@@ -1,1 +1,0 @@
-But he passing through the midst of them went his way,

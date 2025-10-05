@@ -1,1 +1,0 @@
-And it came to pass, as they sat at the table, that the word of the LORD came unto the prophet that brought him back:

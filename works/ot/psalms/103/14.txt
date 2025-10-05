@@ -1,1 +1,0 @@
-For he knoweth our frame; he remembereth that we are dust.

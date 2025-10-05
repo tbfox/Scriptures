@@ -1,1 +1,0 @@
-And the king of Assyria did carry away Israel unto Assyria, and put them in Halah and in Habor by the river of Gozan, and in the cities of the Medes:

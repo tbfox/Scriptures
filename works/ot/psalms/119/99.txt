@@ -1,1 +1,0 @@
-I have more understanding than all my teachers: for thy testimonies are my meditation.

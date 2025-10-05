@@ -1,1 +1,0 @@
-And his sons walked not in his ways, but turned aside after lucre, and took bribes, and perverted judgment.

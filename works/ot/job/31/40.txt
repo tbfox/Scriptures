@@ -1,1 +1,0 @@
-Let thistles grow instead of wheat, and cockle instead of barley. The words of Job are ended.

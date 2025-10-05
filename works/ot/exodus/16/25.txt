@@ -1,1 +1,0 @@
-And Moses said, Eat that to day; for to day is a sabbath unto the LORD: to day ye shall not find it in the field.

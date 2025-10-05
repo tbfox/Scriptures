@@ -1,1 +1,0 @@
-That they may keep thee from the strange woman, from the stranger which flattereth with her words.

@@ -1,1 +1,0 @@
-And I will scatter you among the heathen, and will draw out a sword after you: and your land shall be desolate, and your cities waste.

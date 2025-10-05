@@ -1,1 +1,0 @@
-They shall be even an abomination unto you; ye shall not eat of their flesh, but ye shall have their carcases in abomination.

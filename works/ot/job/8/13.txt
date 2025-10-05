@@ -1,1 +1,0 @@
-So are the paths of all that forget God; and the hypocrite's hope shall perish:

@@ -1,1 +1,0 @@
-A foolish son is a grief to his father, and bitterness to her that bare him.

@@ -1,1 +1,0 @@
-And it came to pass in the evening, that he took Leah his daughter, and brought her to him; and he went in unto her.

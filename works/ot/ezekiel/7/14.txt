@@ -1,1 +1,0 @@
-They have blown the trumpet, even to make all ready; but none goeth to the battle: for my wrath is upon all the multitude thereof.

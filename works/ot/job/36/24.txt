@@ -1,1 +1,0 @@
-Remember that thou magnify his work, which men behold.

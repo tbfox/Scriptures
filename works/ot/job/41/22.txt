@@ -1,1 +1,0 @@
-In his neck remaineth strength, and sorrow is turned into joy before him.

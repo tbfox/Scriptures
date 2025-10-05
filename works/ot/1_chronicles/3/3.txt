@@ -1,1 +1,0 @@
-The fifth, Shephatiah of Abital: the sixth, Ithream by Eglah his wife.

@@ -1,1 +1,0 @@
-His flesh is consumed away, that it cannot be seen; and his bones that were not seen stick out.

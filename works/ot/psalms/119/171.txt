@@ -1,1 +1,0 @@
-My lips shall utter praise, when thou hast taught me thy statutes.

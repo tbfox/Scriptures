@@ -1,1 +1,0 @@
-And the chief priests and scribes stood and vehemently accused him.

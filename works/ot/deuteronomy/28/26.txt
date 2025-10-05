@@ -1,1 +1,0 @@
-And thy carcase shall be meat unto all fowls of the air, and unto the beasts of the earth, and no man shall fray them away.

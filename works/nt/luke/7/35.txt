@@ -1,1 +1,0 @@
-But wisdom is justified of all her children.

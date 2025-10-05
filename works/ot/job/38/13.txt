@@ -1,1 +1,0 @@
-That it might take hold of the ends of the earth, that the wicked might be shaken out of it?

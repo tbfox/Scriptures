@@ -1,1 +1,0 @@
-Thou art my hiding place and my shield: I hope in thy word.

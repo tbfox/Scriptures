@@ -1,1 +1,0 @@
-And the thing was known to Mordecai, who told it unto Esther the queen; and Esther certified the king thereof in Mordecai's name.

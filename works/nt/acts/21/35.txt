@@ -1,1 +1,0 @@
-And when he came upon the stairs, so it was, that he was borne of the soldiers for the violence of the people.

@@ -1,1 +1,0 @@
-Blessed is the nation whose God is the LORD; and the people whom he hath chosen for his own inheritance.

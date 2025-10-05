@@ -1,1 +1,0 @@
-For he knew who should betray him; therefore said he, Ye are not all clean.

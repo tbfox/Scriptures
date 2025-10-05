@@ -1,1 +1,0 @@
-For it is not possible that the blood of bulls and of goats should take away sins.

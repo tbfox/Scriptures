@@ -1,1 +1,0 @@
-Hear ye the word of the LORD, O house of Jacob, and all the families of the house of Israel:

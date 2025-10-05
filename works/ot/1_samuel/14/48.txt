@@ -1,1 +1,0 @@
-And he gathered an host, and smote the Amalekites, and delivered Israel out of the hands of them that spoiled them.

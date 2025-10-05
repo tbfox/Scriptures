@@ -1,1 +1,0 @@
-And he believed in the LORD; and he counted it to him for righteousness.

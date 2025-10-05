@@ -1,1 +1,0 @@
-As the lily among thorns, so is my love among the daughters.

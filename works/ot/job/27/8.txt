@@ -1,1 +1,0 @@
-For what is the hope of the hypocrite, though he hath gained, when God taketh away his soul?

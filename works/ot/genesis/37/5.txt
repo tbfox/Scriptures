@@ -1,1 +1,0 @@
-And Joseph dreamed a dream, and he told it his brethren: and they hated him yet the more.

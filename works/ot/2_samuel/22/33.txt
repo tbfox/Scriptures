@@ -1,1 +1,0 @@
-God is my strength and power: and he maketh my way perfect.

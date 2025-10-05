@@ -1,1 +1,0 @@
-On these two commandments hang all the law and the prophets.

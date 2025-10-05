@@ -1,1 +1,0 @@
-For an odious woman when she is married; and an handmaid that is heir to her mistress.

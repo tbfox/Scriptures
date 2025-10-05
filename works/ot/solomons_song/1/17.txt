@@ -1,1 +1,0 @@
-The beams of our house are cedar, and our rafters of fir.

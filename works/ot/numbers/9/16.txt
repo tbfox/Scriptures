@@ -1,1 +1,0 @@
-So it was alway: the cloud covered it by day, and the appearance of fire by night.

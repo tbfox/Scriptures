@@ -1,1 +1,0 @@
-Do thy diligence to come shortly unto me:

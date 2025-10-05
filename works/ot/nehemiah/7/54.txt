@@ -1,1 +1,0 @@
-The children of Bazlith, the children of Mehida, the children of Harsha,

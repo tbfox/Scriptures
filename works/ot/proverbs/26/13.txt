@@ -1,1 +1,0 @@
-The slothful man saith, There is a lion in the way; a lion is in the streets.

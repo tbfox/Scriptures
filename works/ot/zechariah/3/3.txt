@@ -1,1 +1,0 @@
-Now Joshua was clothed with filthy garments, and stood before the angel.

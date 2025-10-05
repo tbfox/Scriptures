@@ -1,1 +1,0 @@
-And Shebuel the son of Gershom, the son of Moses, was ruler of the treasures.

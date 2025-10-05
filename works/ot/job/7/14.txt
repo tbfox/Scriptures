@@ -1,1 +1,0 @@
-Then thou scarest me with dreams, and terrifiest me through visions:

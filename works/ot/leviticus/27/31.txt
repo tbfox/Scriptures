@@ -1,1 +1,0 @@
-And if a man will at all redeem ought of his tithes, he shall add thereto the fifth part thereof.

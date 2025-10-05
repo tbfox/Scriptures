@@ -1,1 +1,0 @@
-And the chief priests and all the council sought for witness against Jesus to put him to death; and found none.

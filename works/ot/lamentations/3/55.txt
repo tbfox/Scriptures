@@ -1,1 +1,0 @@
-I called upon thy name, O LORD, out of the low dungeon.

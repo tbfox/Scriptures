@@ -1,1 +1,0 @@
-Therefore they sought again to take him: but he escaped out of their hand,

@@ -1,1 +1,0 @@
-And ye shall dwell with us: and the land shall be before you; dwell and trade ye therein, and get you possessions therein.

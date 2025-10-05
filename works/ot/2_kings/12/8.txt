@@ -1,1 +1,0 @@
-And the priests consented to receive no more money of the people, neither to repair the breaches of the house.

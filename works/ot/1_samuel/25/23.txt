@@ -1,1 +1,0 @@
-And when Abigail saw David, she hasted, and lighted off the ass, and fell before David on her face, and bowed herself to the ground,

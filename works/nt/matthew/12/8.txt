@@ -1,1 +1,0 @@
-For the Son of man is Lord even of the sabbath day.

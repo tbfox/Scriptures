@@ -1,1 +1,0 @@
-And it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations.

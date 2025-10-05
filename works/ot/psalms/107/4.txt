@@ -1,1 +1,0 @@
-They wandered in the wilderness in a solitary way; they found no city to dwell in.

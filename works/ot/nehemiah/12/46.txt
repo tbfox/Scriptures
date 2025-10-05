@@ -1,1 +1,0 @@
-For in the days of David and Asaph of old there were chief of the singers, and songs of praise and thanksgiving unto God.

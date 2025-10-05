@@ -1,1 +1,0 @@
-A froward heart shall depart from me: I will not know a wicked person.

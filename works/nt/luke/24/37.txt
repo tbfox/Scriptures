@@ -1,1 +1,0 @@
-But they were terrified and affrighted, and supposed that they had seen a spirit.

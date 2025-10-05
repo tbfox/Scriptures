@@ -1,1 +1,0 @@
-And saying, If thou be the king of the Jews, save thyself.

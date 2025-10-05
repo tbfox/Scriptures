@@ -1,1 +1,0 @@
-Behold, they shall surely gather together, but not by me: whosoever shall gather together against thee shall fall for thy sake.

@@ -1,1 +1,0 @@
-Can a maid forget her ornaments, or a bride her attire? yet my people have forgotten me days without number.

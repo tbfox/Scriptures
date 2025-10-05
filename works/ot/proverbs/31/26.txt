@@ -1,1 +1,0 @@
-She openeth her mouth with wisdom; and in her tongue is the law of kindness.

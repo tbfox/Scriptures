@@ -1,1 +1,0 @@
-And when he hath found it, he layeth it on his shoulders, rejoicing.

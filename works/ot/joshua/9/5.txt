@@ -1,1 +1,0 @@
-And old shoes and clouted upon their feet, and old garments upon them; and all the bread of their provision was dry and mouldy.

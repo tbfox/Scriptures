@@ -1,1 +1,0 @@
-Then will I also walk contrary unto you, and will punish you yet seven times for your sins.

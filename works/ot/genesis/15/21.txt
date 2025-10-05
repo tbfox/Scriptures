@@ -1,1 +1,0 @@
-And the Amorites, and the Canaanites, and the Girgashites, and the Jebusites.

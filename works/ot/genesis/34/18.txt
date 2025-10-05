@@ -1,1 +1,0 @@
-And their words pleased Hamor, and Shechem Hamor's son.

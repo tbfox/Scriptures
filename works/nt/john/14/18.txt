@@ -1,1 +1,0 @@
-I will not leave you comfortless: I will come to you.

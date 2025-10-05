@@ -1,1 +1,0 @@
-O LORD, correct me, but with judgment; not in thine anger, lest thou bring me to nothing.

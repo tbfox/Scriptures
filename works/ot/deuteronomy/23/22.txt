@@ -1,1 +1,0 @@
-But if thou shalt forbear to vow, it shall be no sin in thee.

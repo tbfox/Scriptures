@@ -1,1 +1,0 @@
-When I made the cloud the garment thereof, and thick darkness a swaddlingband for it,

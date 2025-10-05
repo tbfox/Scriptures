@@ -1,1 +1,0 @@
-Make no friendship with an angry man; and with a furious man thou shalt not go:

@@ -1,1 +1,0 @@
-And when he had said this, he breathed on them, and saith unto them, Receive ye the Holy Ghost:

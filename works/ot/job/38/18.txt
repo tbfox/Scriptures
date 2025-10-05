@@ -1,1 +1,0 @@
-Hast thou perceived the breadth of the earth? declare if thou knowest it all.

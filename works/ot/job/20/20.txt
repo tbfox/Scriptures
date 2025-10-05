@@ -1,1 +1,0 @@
-Surely he shall not feel quietness in his belly, he shall not save of that which he desired.

@@ -1,1 +1,0 @@
-And they departed into a desert place by ship privately.

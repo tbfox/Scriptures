@@ -1,1 +1,0 @@
-Of the priests: Jedaiah the son of Joiarib, Jachin.

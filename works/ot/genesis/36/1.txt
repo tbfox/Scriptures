@@ -1,1 +1,0 @@
-Now these are the generations of Esau, who is Edom.

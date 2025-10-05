@@ -1,1 +1,0 @@
-And he said, An hundred measures of oil. And he said unto him, Take thy bill, and sit down quickly, and write fifty.

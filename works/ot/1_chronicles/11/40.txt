@@ -1,1 +1,0 @@
-Ira the Ithrite, Gareb the Ithrite,

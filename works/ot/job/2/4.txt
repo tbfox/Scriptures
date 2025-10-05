@@ -1,1 +1,0 @@
-And Satan answered the LORD, and said, Skin for skin, yea, all that a man hath will he give for his life.

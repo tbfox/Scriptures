@@ -1,1 +1,0 @@
-After these things Paul departed from Athens, and came to Corinth;

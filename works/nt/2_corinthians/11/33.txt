@@ -1,1 +1,0 @@
-And through a window in a basket was I let down by the wall, and escaped his hands.

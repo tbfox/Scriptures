@@ -1,1 +1,0 @@
-And it came to pass a long time after that the LORD had given rest unto Israel from all their enemies round about, that Joshua waxed old and stricken in age.

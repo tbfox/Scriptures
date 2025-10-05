@@ -1,1 +1,0 @@
-And God said unto Balaam, Thou shalt not go with them; thou shalt not curse the people: for they are blessed.

@@ -1,1 +1,0 @@
-If a false witness rise up against any man to testify against him that which is wrong;

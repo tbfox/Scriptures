@@ -1,1 +1,0 @@
-Blessed be the LORD: for he hath shewed me his marvellous kindness in a strong city.

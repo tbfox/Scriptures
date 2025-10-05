@@ -1,1 +1,0 @@
-Noah, Shem, Ham, and Japheth.

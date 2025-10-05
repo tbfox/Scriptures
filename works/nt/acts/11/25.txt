@@ -1,1 +1,0 @@
-Then departed Barnabas to Tarsus, for to seek Saul:

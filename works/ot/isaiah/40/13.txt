@@ -1,1 +1,0 @@
-Who hath directed the Spirit of the LORD, or being his counsellor hath taught him?

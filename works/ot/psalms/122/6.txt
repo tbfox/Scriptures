@@ -1,1 +1,0 @@
-Pray for the peace of Jerusalem: they shall prosper that love thee.

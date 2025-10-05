@@ -1,1 +1,0 @@
-The LORD shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.

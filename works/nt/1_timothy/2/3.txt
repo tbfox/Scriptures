@@ -1,1 +1,0 @@
-For this is good and acceptable in the sight of God our Saviour;

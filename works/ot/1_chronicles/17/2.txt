@@ -1,1 +1,0 @@
-Then Nathan said unto David, Do all that is in thine heart; for God is with thee.

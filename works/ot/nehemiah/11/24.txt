@@ -1,1 +1,0 @@
-And Pethahiah the son of Meshezabeel, of the children of Zerah the son of Judah, was at the king's hand in all matters concerning the people.

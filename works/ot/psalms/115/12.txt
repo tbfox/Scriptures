@@ -1,1 +1,0 @@
-The LORD hath been mindful of us: he will bless us; he will bless the house of Israel; he will bless the house of Aaron.

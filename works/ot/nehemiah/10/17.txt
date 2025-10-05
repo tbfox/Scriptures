@@ -1,1 +1,0 @@
-Ater, Hizkijah, Azzur,

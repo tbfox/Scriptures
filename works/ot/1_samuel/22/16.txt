@@ -1,1 +1,0 @@
-And the king said, Thou shalt surely die, Ahimelech, thou, and all thy father's house.

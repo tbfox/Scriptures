@@ -1,1 +1,0 @@
-Serug, Nahor, Terah,

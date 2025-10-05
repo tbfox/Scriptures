@@ -1,1 +1,0 @@
-He hath shewed his people the power of his works, that he may give them the heritage of the heathen.

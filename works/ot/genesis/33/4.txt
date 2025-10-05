@@ -1,1 +1,0 @@
-And Esau ran to meet him, and embraced him, and fell on his neck, and kissed him: and they wept.

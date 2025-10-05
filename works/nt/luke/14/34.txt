@@ -1,1 +1,0 @@
-Salt is good: but if the salt have lost his savour, wherewith shall it be seasoned?

@@ -1,1 +1,0 @@
-I believed, therefore have I spoken: I was greatly afflicted:

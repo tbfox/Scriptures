@@ -1,1 +1,0 @@
-So Joshua ascended from Gilgal, he, and all the people of war with him, and all the mighty men of valour.

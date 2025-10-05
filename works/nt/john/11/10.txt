@@ -1,1 +1,0 @@
-But if a man walk in the night, he stumbleth, because there is no light in him.

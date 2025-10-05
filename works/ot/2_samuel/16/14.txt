@@ -1,1 +1,0 @@
-And the king, and all the people that were with him, came weary, and refreshed themselves there.

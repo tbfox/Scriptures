@@ -1,1 +1,0 @@
-So I came to Jerusalem, and was there three days.

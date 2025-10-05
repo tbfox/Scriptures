@@ -1,1 +1,0 @@
-There is a generation that curseth their father, and doth not bless their mother.

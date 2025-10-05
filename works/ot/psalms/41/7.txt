@@ -1,1 +1,0 @@
-All that hate me whisper together against me: against me do they devise my hurt.

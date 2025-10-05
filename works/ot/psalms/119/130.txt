@@ -1,1 +1,0 @@
-The entrance of thy words giveth light; it giveth understanding unto the simple.

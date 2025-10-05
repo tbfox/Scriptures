@@ -1,1 +1,0 @@
-Train up a child in the way he should go: and when he is old, he will not depart from it.

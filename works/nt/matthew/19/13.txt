@@ -1,1 +1,0 @@
-Then were there brought unto him little children, that he should put his hands on them, and pray: and the disciples rebuked them.

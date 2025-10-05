@@ -1,1 +1,0 @@
-The sons of Jehieli; Zetham, and Joel his brother, which were over the treasures of the house of the LORD.

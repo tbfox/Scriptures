@@ -1,1 +1,0 @@
-O how love I thy law! it is my meditation all the day.

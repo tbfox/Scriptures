@@ -1,1 +1,0 @@
-I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart.

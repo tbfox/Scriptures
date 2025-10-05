@@ -1,1 +1,0 @@
-He runneth upon him, even on his neck, upon the thick bosses of his bucklers:

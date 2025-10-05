@@ -1,1 +1,0 @@
-The king's daughter is all glorious within: her clothing is of wrought gold.

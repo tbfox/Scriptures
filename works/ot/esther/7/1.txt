@@ -1,1 +1,0 @@
-So the king and Haman came to banquet with Esther the queen.

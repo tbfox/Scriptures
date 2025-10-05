@@ -1,1 +1,0 @@
-The elder unto the wellbeloved Gaius, whom I love in the truth.

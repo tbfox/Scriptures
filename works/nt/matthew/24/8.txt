@@ -1,1 +1,0 @@
-All these are the beginning of sorrows.

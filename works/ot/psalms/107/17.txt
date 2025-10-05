@@ -1,1 +1,0 @@
-Fools because of their transgression, and because of their iniquities, are afflicted.

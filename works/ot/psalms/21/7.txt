@@ -1,1 +1,0 @@
-For the king trusteth in the LORD, and through the mercy of the most High he shall not be moved.

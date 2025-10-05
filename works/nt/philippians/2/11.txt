@@ -1,1 +1,0 @@
-And that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.

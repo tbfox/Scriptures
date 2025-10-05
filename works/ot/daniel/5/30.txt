@@ -1,1 +1,0 @@
-In that night was Belshazzar the king of the Chaldeans slain.

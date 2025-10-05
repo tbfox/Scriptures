@@ -1,1 +1,0 @@
-We will go into his tabernacles: we will worship at his footstool.

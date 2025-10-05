@@ -1,1 +1,0 @@
-Thus saith the LORD, What iniquity have your fathers found in me, that they are gone far from me, and have walked after vanity, and are become vain?

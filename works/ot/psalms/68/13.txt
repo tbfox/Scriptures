@@ -1,1 +1,0 @@
-Though ye have lien among the pots, yet shall ye be as the wings of a dove covered with silver, and her feathers with yellow gold.

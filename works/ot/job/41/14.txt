@@ -1,1 +1,0 @@
-Who can open the doors of his face? his teeth are terrible round about.

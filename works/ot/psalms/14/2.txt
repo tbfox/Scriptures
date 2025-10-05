@@ -1,1 +1,0 @@
-The LORD looked down from heaven upon the children of men, to see if there were any that did understand, and seek God.

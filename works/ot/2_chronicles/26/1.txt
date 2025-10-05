@@ -1,1 +1,0 @@
-Then all the people of Judah took Uzziah, who was sixteen years old, and made him king in the room of his father Amaziah.

@@ -1,1 +1,0 @@
-In my distress I cried unto the LORD, and he heard me.

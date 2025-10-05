@@ -1,1 +1,0 @@
-Even in laughter the heart is sorrowful; and the end of that mirth is heaviness.

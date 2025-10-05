@@ -1,1 +1,0 @@
-But he that doeth wrong shall receive for the wrong which he hath done: and there is no respect of persons.

@@ -1,1 +1,0 @@
-Whom we preach, warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus:

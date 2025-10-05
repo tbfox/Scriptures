@@ -1,1 +1,0 @@
-My days are swifter than a weaver's shuttle, and are spent without hope.

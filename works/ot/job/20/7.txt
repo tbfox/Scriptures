@@ -1,1 +1,0 @@
-Yet he shall perish for ever like his own dung: they which have seen him shall say, Where is he?

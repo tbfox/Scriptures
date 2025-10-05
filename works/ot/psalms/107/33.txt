@@ -1,1 +1,0 @@
-He turneth rivers into a wilderness, and the watersprings into dry ground;

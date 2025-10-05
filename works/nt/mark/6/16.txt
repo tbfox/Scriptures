@@ -1,1 +1,0 @@
-But when Herod heard thereof, he said, It is John, whom I beheaded: he is risen from the dead.

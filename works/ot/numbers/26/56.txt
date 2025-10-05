@@ -1,1 +1,0 @@
-According to the lot shall the possession thereof be divided between many and few.

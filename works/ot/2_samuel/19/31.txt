@@ -1,1 +1,0 @@
-And Barzillai the Gileadite came down from Rogelim, and went over Jordan with the king, to conduct him over Jordan.

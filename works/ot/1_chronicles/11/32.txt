@@ -1,1 +1,0 @@
-Hurai of the brooks of Gaash, Abiel the Arbathite,

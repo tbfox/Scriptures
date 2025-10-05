@@ -1,1 +1,0 @@
-Then lifted I up mine eyes, and saw, and behold four horns.

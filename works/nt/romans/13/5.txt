@@ -1,1 +1,0 @@
-Wherefore ye must needs be subject, not only for wrath, but also for conscience sake.

@@ -1,1 +1,0 @@
-And Pharaoh commanded his men concerning him: and they sent him away, and his wife, and all that he had.

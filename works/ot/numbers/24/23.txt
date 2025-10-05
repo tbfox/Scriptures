@@ -1,1 +1,0 @@
-And he took up his parable, and said, Alas, who shall live when God doeth this!

@@ -1,1 +1,0 @@
-If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation.

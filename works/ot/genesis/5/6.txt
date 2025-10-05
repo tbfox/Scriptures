@@ -1,1 +1,0 @@
-And Seth lived an hundred and five years, and begat Enos:

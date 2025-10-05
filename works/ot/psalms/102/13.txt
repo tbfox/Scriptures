@@ -1,1 +1,0 @@
-Thou shalt arise, and have mercy upon Zion: for the time to favour her, yea, the set time, is come.

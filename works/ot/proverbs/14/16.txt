@@ -1,1 +1,0 @@
-A wise man feareth, and departeth from evil: but the fool rageth, and is confident.

@@ -1,1 +1,0 @@
-And landing at Syracuse, we tarried there three days.

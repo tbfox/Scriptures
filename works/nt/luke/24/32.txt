@@ -1,1 +1,0 @@
-And they said one to another, Did not our heart burn within us, while he talked with us by the way, and while he opened to us the scriptures?

@@ -1,1 +1,0 @@
-And whosoever liveth and believeth in me shall never die. Believest thou this?

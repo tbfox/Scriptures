@@ -1,1 +1,0 @@
-Neither with you only do I make this covenant and this oath;

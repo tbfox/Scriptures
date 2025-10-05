@@ -1,1 +1,0 @@
-And their words seemed to them as idle tales, and they believed them not.

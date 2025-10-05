@@ -1,1 +1,0 @@
-Give ear to my prayer, O God; and hide not thyself from my supplication.

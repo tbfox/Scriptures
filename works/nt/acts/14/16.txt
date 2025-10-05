@@ -1,1 +1,0 @@
-Who in times past suffered all nations to walk in their own ways.

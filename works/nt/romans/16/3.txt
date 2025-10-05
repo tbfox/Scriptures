@@ -1,1 +1,0 @@
-Greet Priscilla and Aquila my helpers in Christ Jesus:

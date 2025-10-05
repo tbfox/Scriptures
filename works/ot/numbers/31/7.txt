@@ -1,1 +1,0 @@
-And they warred against the Midianites, as the LORD commanded Moses; and they slew all the males.

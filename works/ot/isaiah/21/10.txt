@@ -1,1 +1,0 @@
-O my threshing, and the corn of my floor: that which I have heard of the LORD of hosts, the God of Israel, have I declared unto you.

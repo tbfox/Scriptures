@@ -1,1 +1,0 @@
-God brought them out of Egypt; he hath as it were the strength of an unicorn.

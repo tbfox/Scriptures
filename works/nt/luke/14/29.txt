@@ -1,1 +1,0 @@
-Lest haply, after he hath laid the foundation, and is not able to finish it, all that behold it begin to mock him,

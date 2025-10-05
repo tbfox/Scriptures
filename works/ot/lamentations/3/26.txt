@@ -1,1 +1,0 @@
-It is good that a man should both hope and quietly wait for the salvation of the LORD.

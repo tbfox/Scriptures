@@ -1,1 +1,0 @@
-Avoiding this, that no man should blame us in this abundance which is administered by us:

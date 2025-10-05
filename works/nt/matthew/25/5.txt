@@ -1,1 +1,0 @@
-While the bridegroom tarried, they all slumbered and slept.

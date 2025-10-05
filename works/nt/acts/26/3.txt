@@ -1,1 +1,0 @@
-Especially because I know thee to be expert in all customs and questions which are among the Jews: wherefore I beseech thee to hear me patiently.

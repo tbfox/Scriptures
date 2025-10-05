@@ -1,1 +1,0 @@
-If now thou hast understanding, hear this: hearken to the voice of my words.

@@ -1,1 +1,0 @@
-And he said, Throw her down. So they threw her down: and some of her blood was sprinkled on the wall, and on the horses: and he trode her under foot.

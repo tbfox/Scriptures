@@ -1,1 +1,0 @@
-When they heard that, they were cut to the heart, and took counsel to slay them.

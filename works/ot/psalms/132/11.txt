@@ -1,1 +1,0 @@
-The LORD hath sworn in truth unto David; he will not turn from it; Of the fruit of thy body will I set upon thy throne.

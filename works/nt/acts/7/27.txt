@@ -1,1 +1,0 @@
-But he that did his neighbour wrong thrust him away, saying, Who made thee a ruler and a judge over us?

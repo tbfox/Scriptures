@@ -1,1 +1,0 @@
-But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren.

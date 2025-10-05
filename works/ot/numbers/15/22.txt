@@ -1,1 +1,0 @@
-And if ye have erred, and not observed all these commandments, which the LORD hath spoken unto Moses,

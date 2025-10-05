@@ -1,1 +1,0 @@
-Comfort your hearts, and stablish you in every good word and work.

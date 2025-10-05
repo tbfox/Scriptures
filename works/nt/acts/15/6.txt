@@ -1,1 +1,0 @@
-And the apostles and elders came together for to consider of this matter.

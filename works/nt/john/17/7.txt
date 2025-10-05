@@ -1,1 +1,0 @@
-Now they have known that all things whatsoever thou hast given me are of thee.

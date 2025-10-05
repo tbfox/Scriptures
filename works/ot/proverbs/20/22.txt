@@ -1,1 +1,0 @@
-Say not thou, I will recompense evil; but wait on the LORD, and he shall save thee.

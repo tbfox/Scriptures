@@ -1,1 +1,0 @@
-Of the Levites, Hashabiah the son of Kemuel: of the Aaronites, Zadok:

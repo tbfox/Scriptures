@@ -1,1 +1,0 @@
-For David, after he had served his own generation by the will of God, fell on sleep, and was laid unto his fathers, and saw corruption:

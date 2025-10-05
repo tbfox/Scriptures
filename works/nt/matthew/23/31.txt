@@ -1,1 +1,0 @@
-Wherefore ye be witnesses unto yourselves, that ye are the children of them which killed the prophets.

@@ -1,1 +1,0 @@
-And there arose certain, and bare false witness against him, saying,

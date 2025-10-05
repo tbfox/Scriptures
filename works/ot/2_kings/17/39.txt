@@ -1,1 +1,0 @@
-But the LORD your God ye shall fear; and he shall deliver you out of the hand of all your enemies.

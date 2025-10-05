@@ -1,1 +1,0 @@
-And changed his prison garments: and he did eat bread continually before him all the days of his life.

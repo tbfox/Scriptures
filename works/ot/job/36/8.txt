@@ -1,1 +1,0 @@
-And if they be bound in fetters, and be holden in cords of affliction;

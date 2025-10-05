@@ -1,1 +1,0 @@
-Beside those things that are without, that which cometh upon me daily, the care of all the churches.

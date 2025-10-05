@@ -1,1 +1,0 @@
-And I saw a strong angel proclaiming with a loud voice, Who is worthy to open the book, and to loose the seals thereof?

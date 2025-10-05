@@ -1,1 +1,0 @@
-For God sent not his Son into the world to condemn the world; but that the world through him might be saved.

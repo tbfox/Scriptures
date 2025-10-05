@@ -1,1 +1,0 @@
-And he said unto him, What is thy name? And he said, Jacob.

@@ -1,1 +1,0 @@
-Yea, the hind also calved in the field, and forsook it, because there was no grass.

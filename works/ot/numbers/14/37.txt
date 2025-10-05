@@ -1,1 +1,0 @@
-Even those men that did bring up the evil report upon the land, died by the plague before the LORD.

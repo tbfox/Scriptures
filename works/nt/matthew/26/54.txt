@@ -1,1 +1,0 @@
-But how then shall the scriptures be fulfilled, that thus it must be?

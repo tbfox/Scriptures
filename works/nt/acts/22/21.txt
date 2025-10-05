@@ -1,1 +1,0 @@
-And he said unto me, Depart: for I will send thee far hence unto the Gentiles.

@@ -1,1 +1,0 @@
-And the glory of the LORD came into the house by the way of the gate whose prospect is toward the east.

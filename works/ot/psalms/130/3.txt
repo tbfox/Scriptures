@@ -1,1 +1,0 @@
-If thou, LORD, shouldest mark iniquities, O Lord, who shall stand?

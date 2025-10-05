@@ -1,1 +1,0 @@
-And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ.

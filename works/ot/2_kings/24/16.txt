@@ -1,1 +1,0 @@
-And all the men of might, even seven thousand, and craftsmen and smiths a thousand, all that were strong and apt for war, even them the king of Babylon brought captive to Babylon.

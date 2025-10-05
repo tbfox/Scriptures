@@ -1,1 +1,0 @@
-And in the house his disciples asked him again of the same matter.

@@ -1,1 +1,0 @@
-Cease, my son, to hear the instruction that causeth to err from the words of knowledge.

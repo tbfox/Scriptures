@@ -1,1 +1,0 @@
-For they have refreshed my spirit and yours: therefore acknowledge ye them that are such.

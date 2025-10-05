@@ -1,1 +1,0 @@
-Hearken; Behold, there went out a sower to sow:

@@ -1,1 +1,0 @@
-And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully:

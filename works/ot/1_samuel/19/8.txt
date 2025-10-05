@@ -1,1 +1,0 @@
-And there was war again: and David went out, and fought with the Philistines, and slew them with a great slaughter; and they fled from him.

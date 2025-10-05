@@ -1,1 +1,0 @@
-And all the pins of the tabernacle, and of the court round about, were of brass.

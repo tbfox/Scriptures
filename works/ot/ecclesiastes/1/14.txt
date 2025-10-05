@@ -1,1 +1,0 @@
-I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit.

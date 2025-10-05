@@ -1,1 +1,0 @@
-And many of them said, He hath a devil, and is mad; why hear ye him?

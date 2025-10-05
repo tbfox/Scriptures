@@ -1,1 +1,0 @@
-So the priests and the prophets and all the people heard Jeremiah speaking these words in the house of the LORD.

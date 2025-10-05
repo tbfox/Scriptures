@@ -1,1 +1,0 @@
-Make thy face to shine upon thy servant; and teach me thy statutes.

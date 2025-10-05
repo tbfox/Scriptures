@@ -1,1 +1,0 @@
-His seed shall endure for ever, and his throne as the sun before me.

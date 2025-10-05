@@ -1,1 +1,0 @@
-Let the stars of the twilight thereof be dark; let it look for light, but have none; neither let it see the dawning of the day:

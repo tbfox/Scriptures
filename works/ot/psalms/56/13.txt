@@ -1,1 +1,0 @@
-For thou hast delivered my soul from death: wilt not thou deliver my feet from falling, that I may walk before God in the light of the living?

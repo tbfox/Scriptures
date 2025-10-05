@@ -1,1 +1,0 @@
-And he sent out arrows, and scattered them; lightning, and discomfited them.

@@ -1,1 +1,0 @@
-That the hypocrite reign not, lest the people be ensnared.

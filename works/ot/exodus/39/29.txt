@@ -1,1 +1,0 @@
-And a girdle of fine twined linen, and blue, and purple, and scarlet, of needlework; as the LORD commanded Moses.

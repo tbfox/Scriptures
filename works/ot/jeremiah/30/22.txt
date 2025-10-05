@@ -1,1 +1,0 @@
-And ye shall be my people, and I will be your God.

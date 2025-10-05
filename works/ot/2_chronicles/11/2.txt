@@ -1,1 +1,0 @@
-But the word of the LORD came to Shemaiah the man of God, saying,

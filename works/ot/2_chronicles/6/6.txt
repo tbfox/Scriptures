@@ -1,1 +1,0 @@
-But I have chosen Jerusalem, that my name might be there; and have chosen David to be over my people Israel.

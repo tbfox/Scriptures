@@ -1,1 +1,0 @@
-And again he stooped down, and wrote on the ground.

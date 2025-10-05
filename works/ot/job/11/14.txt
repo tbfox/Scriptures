@@ -1,1 +1,0 @@
-If iniquity be in thine hand, put it far away, and let not wickedness dwell in thy tabernacles.

@@ -1,1 +1,0 @@
-Of Iddo, Zechariah; of Ginnethon, Meshullam;

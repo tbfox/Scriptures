@@ -1,1 +1,0 @@
-But that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith.

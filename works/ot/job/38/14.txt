@@ -1,1 +1,0 @@
-It is turned as clay to the seal; and they stand as a garment.

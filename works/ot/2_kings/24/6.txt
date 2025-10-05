@@ -1,1 +1,0 @@
-So Jehoiakim slept with his fathers: and Jehoiachin his son reigned in his stead.

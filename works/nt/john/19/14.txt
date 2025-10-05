@@ -1,1 +1,0 @@
-And it was the preparation of the passover, and about the sixth hour: and he saith unto the Jews, Behold your King!

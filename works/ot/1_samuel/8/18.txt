@@ -1,1 +1,0 @@
-And ye shall cry out in that day because of your king which ye shall have chosen you; and the LORD will not hear you in that day.

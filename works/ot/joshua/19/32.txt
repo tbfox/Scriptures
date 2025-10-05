@@ -1,1 +1,0 @@
-The sixth lot came out to the children of Naphtali, even for the children of Naphtali according to their families.

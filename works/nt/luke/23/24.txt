@@ -1,1 +1,0 @@
-And Pilate gave sentence that it should be as they required.

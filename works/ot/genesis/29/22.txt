@@ -1,1 +1,0 @@
-And Laban gathered together all the men of the place, and made a feast.

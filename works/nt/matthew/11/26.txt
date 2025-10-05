@@ -1,1 +1,0 @@
-Even so, Father: for so it seemed good in thy sight.

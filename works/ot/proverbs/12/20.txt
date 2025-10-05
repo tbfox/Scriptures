@@ -1,1 +1,0 @@
-Deceit is in the heart of them that imagine evil: but to the counsellors of peace is joy.

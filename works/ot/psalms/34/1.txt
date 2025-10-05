@@ -1,1 +1,0 @@
-I will bless the LORD at all times: his praise shall continually be in my mouth.

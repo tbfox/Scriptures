@@ -1,1 +1,0 @@
-And Jesus answered him, The first of all the commandments is, Hear, O Israel; The Lord our God is one Lord:

@@ -1,1 +1,0 @@
-Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God.

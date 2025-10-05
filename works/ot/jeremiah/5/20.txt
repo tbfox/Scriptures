@@ -1,1 +1,0 @@
-Declare this in the house of Jacob, and publish it in Judah, saying,

@@ -1,1 +1,0 @@
-And now, behold, we are in thine hand: as it seemeth good and right unto thee to do unto us, do.

@@ -1,1 +1,0 @@
-So the poor hath hope, and iniquity stoppeth her mouth.

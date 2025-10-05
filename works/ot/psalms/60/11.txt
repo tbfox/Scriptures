@@ -1,1 +1,0 @@
-Give us help from trouble: for vain is the help of man.

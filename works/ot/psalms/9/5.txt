@@ -1,1 +1,0 @@
-Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever.

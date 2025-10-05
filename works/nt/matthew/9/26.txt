@@ -1,1 +1,0 @@
-And the fame hereof went abroad into all that land.

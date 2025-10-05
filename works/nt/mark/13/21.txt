@@ -1,1 +1,0 @@
-And then if any man shall say to you, Lo, here is Christ; or, lo, he is there; believe him not:

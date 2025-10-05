@@ -1,1 +1,0 @@
-Whereas thou camest but yesterday, should I this day make thee go up and down with us? seeing I go whither I may, return thou, and take back thy brethren: mercy and truth be with thee.

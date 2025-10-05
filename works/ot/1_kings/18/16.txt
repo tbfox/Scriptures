@@ -1,1 +1,0 @@
-So Obadiah went to meet Ahab, and told him: and Ahab went to meet Elijah.

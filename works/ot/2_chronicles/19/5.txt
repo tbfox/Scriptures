@@ -1,1 +1,0 @@
-And he set judges in the land throughout all the fenced cities of Judah, city by city,

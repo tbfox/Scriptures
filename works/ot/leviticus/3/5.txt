@@ -1,1 +1,0 @@
-And Aaron's sons shall burn it on the altar upon the burnt sacrifice, which is upon the wood that is on the fire: it is an offering made by fire, of a sweet savour unto the LORD.

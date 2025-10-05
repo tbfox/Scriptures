@@ -1,1 +1,0 @@
-And the children of Israel remembered not the LORD their God, who had delivered them out of the hands of all their enemies on every side:

@@ -1,1 +1,0 @@
-They have hands, but they handle not: feet have they, but they walk not: neither speak they through their throat.

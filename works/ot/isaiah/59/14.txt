@@ -1,1 +1,0 @@
-And judgment is turned away backward, and justice standeth afar off: for truth is fallen in the street, and equity cannot enter.

@@ -1,1 +1,0 @@
-And when this people, or the prophet, or a priest, shall ask thee, saying, What is the burden of the LORD? thou shalt then say unto them, What burden? I will even forsake you, saith the LORD.

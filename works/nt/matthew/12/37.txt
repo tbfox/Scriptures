@@ -1,1 +1,0 @@
-For by thy words thou shalt be justified, and by thy words thou shalt be condemned.

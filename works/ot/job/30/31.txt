@@ -1,1 +1,0 @@
-My harp also is turned to mourning, and my organ into the voice of them that weep.

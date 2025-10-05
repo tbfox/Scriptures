@@ -1,1 +1,0 @@
-But the Levites were not numbered among the children of Israel; as the LORD commanded Moses.

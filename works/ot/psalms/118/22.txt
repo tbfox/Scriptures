@@ -1,1 +1,0 @@
-The stone which the builders refused is become the head stone of the corner.

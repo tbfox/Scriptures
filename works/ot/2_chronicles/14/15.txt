@@ -1,1 +1,0 @@
-They smote also the tents of cattle, and carried away sheep and camels in abundance, and returned to Jerusalem.

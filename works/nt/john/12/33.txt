@@ -1,1 +1,0 @@
-This he said, signifying what death he should die.

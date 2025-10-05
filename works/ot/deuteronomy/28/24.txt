@@ -1,1 +1,0 @@
-The LORD shall make the rain of thy land powder and dust: from heaven shall it come down upon thee, until thou be destroyed.

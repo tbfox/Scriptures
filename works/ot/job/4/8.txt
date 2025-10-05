@@ -1,1 +1,0 @@
-Even as I have seen, they that plow iniquity, and sow wickedness, reap the same.

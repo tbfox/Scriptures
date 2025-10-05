@@ -1,1 +1,0 @@
-And Gath, and Mareshah, and Ziph,

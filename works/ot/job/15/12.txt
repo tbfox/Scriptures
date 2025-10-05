@@ -1,1 +1,0 @@
-Why doth thine heart carry thee away? and what do thy eyes wink at,

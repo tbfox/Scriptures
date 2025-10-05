@@ -1,1 +1,0 @@
-That thou mayest give him rest from the days of adversity, until the pit be digged for the wicked.

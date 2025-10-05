@@ -1,1 +1,0 @@
-I will gather them that are sorrowful for the solemn assembly, who are of thee, to whom the reproach of it was a burden.

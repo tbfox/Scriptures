@@ -1,1 +1,0 @@
-And he shall bring upon them their own iniquity, and shall cut them off in their own wickedness; yea, the LORD our God shall cut them off.

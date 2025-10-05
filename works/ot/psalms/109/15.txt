@@ -1,1 +1,0 @@
-Let them be before the LORD continually, that he may cut off the memory of them from the earth.

@@ -1,1 +1,0 @@
-The word of the LORD came also unto me, saying,

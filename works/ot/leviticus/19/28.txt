@@ -1,1 +1,0 @@
-Ye shall not make any cuttings in your flesh for the dead, nor print any marks upon you: I am the LORD.

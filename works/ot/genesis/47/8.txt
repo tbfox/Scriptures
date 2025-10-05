@@ -1,1 +1,0 @@
-And Pharaoh said unto Jacob, How old art thou?

@@ -1,1 +1,0 @@
-Wherefore, Job, I pray thee, hear my speeches, and hearken to all my words.

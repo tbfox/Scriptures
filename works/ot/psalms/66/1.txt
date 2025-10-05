@@ -1,1 +1,0 @@
-Make a joyful noise unto God, all ye lands:

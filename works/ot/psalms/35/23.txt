@@ -1,1 +1,0 @@
-Stir up thyself, and awake to my judgment, even unto my cause, my God and my Lord.

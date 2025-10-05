@@ -1,1 +1,0 @@
-But I will tarry at Ephesus until Pentecost.

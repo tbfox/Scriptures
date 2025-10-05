@@ -1,1 +1,0 @@
-Of the sons of Hashum; Mattenai, Mattathah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei.

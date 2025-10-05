@@ -1,1 +1,0 @@
-Turn thee unto me, and have mercy upon me; for I am desolate and afflicted.

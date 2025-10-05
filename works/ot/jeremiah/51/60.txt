@@ -1,1 +1,0 @@
-So Jeremiah wrote in a book all the evil that should come upon Babylon, even all these words that are written against Babylon.

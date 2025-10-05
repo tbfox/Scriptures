@@ -1,1 +1,0 @@
-So now the LORD God of Israel hath dispossessed the Amorites from before his people Israel, and shouldest thou possess it?

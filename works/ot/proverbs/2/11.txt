@@ -1,1 +1,0 @@
-Discretion shall preserve thee, understanding shall keep thee:

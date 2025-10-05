@@ -1,1 +1,0 @@
-When Leah saw that she had left bearing, she took Zilpah her maid, and gave her Jacob to wife.

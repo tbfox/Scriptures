@@ -1,1 +1,0 @@
-But where shall wisdom be found? and where is the place of understanding?

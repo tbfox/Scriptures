@@ -1,1 +1,0 @@
-Verily I say unto you, This generation shall not pass away, till all be fulfilled.

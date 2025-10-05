@@ -1,1 +1,0 @@
-After him repaired Binnui the son of Henadad another piece, from the house of Azariah unto the turning of the wall, even unto the corner.

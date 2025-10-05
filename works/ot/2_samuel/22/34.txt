@@ -1,1 +1,0 @@
-He maketh my feet like hinds' feet: and setteth me upon my high places.

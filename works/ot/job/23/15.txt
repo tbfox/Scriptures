@@ -1,1 +1,0 @@
-Therefore am I troubled at his presence: when I consider, I am afraid of him.

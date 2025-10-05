@@ -1,1 +1,0 @@
-Maaziah, Bilgai, Shemaiah: these were the priests.

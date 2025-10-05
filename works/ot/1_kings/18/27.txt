@@ -1,1 +1,0 @@
-And it came to pass at noon, that Elijah mocked them, and said, Cry aloud: for he is a god; either he is talking, or he is pursuing, or he is in a journey, or peradventure he sleepeth, and must be awaked.

@@ -1,1 +1,0 @@
-But he shall say, I tell you, I know you not whence ye are; depart from me, all ye workers of iniquity.

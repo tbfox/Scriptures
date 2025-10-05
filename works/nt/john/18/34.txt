@@ -1,1 +1,0 @@
-Jesus answered him, Sayest thou this thing of thyself, or did others tell it thee of me?

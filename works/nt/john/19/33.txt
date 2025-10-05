@@ -1,1 +1,0 @@
-But when they came to Jesus, and saw that he was dead already, they brake not his legs:

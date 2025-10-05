@@ -1,1 +1,0 @@
-And I will execute judgments upon Moab; and they shall know that I am the LORD.

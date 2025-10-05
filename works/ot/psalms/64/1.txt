@@ -1,1 +1,0 @@
-Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.

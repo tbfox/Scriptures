@@ -1,1 +1,0 @@
-And Israel journeyed, and spread his tent beyond the tower of Edar.

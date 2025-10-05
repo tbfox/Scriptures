@@ -1,1 +1,0 @@
-A wise son heareth his father's instruction: but a scorner heareth not rebuke.

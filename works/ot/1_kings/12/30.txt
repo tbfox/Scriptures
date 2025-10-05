@@ -1,1 +1,0 @@
-And this thing became a sin: for the people went to worship before the one, even unto Dan.

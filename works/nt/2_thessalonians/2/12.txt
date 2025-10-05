@@ -1,1 +1,0 @@
-That they all might be damned who believed not the truth, but had pleasure in unrighteousness.

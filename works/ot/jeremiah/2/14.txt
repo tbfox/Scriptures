@@ -1,1 +1,0 @@
-Is Israel a servant? is he a homeborn slave? why is he spoiled?

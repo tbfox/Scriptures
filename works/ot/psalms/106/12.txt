@@ -1,1 +1,0 @@
-Then believed they his words; they sang his praise.

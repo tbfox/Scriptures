@@ -1,1 +1,0 @@
-Thus did Noah; according to all that God commanded him, so did he.

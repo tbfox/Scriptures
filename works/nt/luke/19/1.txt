@@ -1,1 +1,0 @@
-And Jesus entered and passed through Jericho.

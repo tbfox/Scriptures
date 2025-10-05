@@ -1,1 +1,0 @@
-He shall not strive, nor cry; neither shall any man hear his voice in the streets.

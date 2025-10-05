@@ -1,1 +1,0 @@
-But other fell into good ground, and brought forth fruit, some an hundredfold, some sixtyfold, some thirtyfold.

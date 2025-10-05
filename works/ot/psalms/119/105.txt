@@ -1,1 +1,0 @@
-Thy word is a lamp unto my feet, and a light unto my path.

@@ -1,1 +1,0 @@
-Thou that makest thy boast of the law, through breaking the law dishonourest thou God?

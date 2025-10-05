@@ -1,1 +1,0 @@
-They were children of fools, yea, children of base men: they were viler than the earth.

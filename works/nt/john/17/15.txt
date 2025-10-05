@@ -1,1 +1,0 @@
-I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil.

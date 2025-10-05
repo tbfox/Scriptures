@@ -1,1 +1,0 @@
-For he hath looked down from the height of his sanctuary; from heaven did the LORD behold the earth;

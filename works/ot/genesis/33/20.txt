@@ -1,1 +1,0 @@
-And he erected there an altar, and called it El-elohe-Israel.

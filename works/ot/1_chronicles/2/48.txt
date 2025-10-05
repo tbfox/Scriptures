@@ -1,1 +1,0 @@
-Maachah, Caleb's concubine, bare Sheber, and Tirhanah.

@@ -1,1 +1,0 @@
-Howbeit I believed not their words, until I came, and mine eyes had seen it: and, behold, the one half of the greatness of thy wisdom was not told me: for thou exceedest the fame that I heard.

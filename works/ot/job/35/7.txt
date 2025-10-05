@@ -1,1 +1,0 @@
-If thou be righteous, what givest thou him? or what receiveth he of thine hand?

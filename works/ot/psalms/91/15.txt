@@ -1,1 +1,0 @@
-He shall call upon me, and I will answer him: I will be with him in trouble; I will deliver him, and honour him.

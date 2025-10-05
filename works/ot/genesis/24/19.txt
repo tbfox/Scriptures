@@ -1,1 +1,0 @@
-And when she had done giving him drink, she said, I will draw water for thy camels also, until they have done drinking.

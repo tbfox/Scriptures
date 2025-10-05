@@ -1,1 +1,0 @@
-And they slew a bullock, and brought the child to Eli.

@@ -1,1 +1,0 @@
-And they said, There is no hope: but we will walk after our own devices, and we will every one do the imagination of his evil heart.

@@ -1,1 +1,0 @@
-And I was very angry when I heard their cry and these words.

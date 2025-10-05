@@ -1,1 +1,0 @@
-They are corrupt, and speak wickedly concerning oppression: they speak loftily.

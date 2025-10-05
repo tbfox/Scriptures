@@ -1,1 +1,0 @@
-She also lieth in wait as for a prey, and increaseth the transgressors among men.

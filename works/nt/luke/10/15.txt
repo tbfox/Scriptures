@@ -1,1 +1,0 @@
-And thou, Capernaum, which art exalted to heaven, shalt be thrust down to hell.

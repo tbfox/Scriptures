@@ -1,1 +1,0 @@
-Wilt thou trust him, because his strength is great? or wilt thou leave thy labour to him?

@@ -1,1 +1,0 @@
-Who giveth rain upon the earth, and sendeth waters upon the fields:

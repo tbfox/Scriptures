@@ -1,1 +1,0 @@
-The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.

@@ -1,1 +1,0 @@
-Because of thine indignation and thy wrath: for thou hast lifted me up, and cast me down.

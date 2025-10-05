@@ -1,1 +1,0 @@
-Hell and destruction are never full; so the eyes of man are never satisfied.

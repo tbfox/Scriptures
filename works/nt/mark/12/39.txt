@@ -1,1 +1,0 @@
-And the chief seats in the synagogues, and the uppermost rooms at feasts:

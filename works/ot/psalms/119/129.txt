@@ -1,1 +1,0 @@
-Thy testimonies are wonderful: therefore doth my soul keep them.

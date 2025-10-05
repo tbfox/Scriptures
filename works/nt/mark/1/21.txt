@@ -1,1 +1,0 @@
-And they went into Capernaum; and straightway on the sabbath day he entered into the synagogue, and taught.

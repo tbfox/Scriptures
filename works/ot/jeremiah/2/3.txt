@@ -1,1 +1,0 @@
-Israel was holiness unto the LORD, and the firstfruits of his increase: all that devour him shall offend; evil shall come upon them, saith the LORD.

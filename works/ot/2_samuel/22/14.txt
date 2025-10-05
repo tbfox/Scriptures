@@ -1,1 +1,0 @@
-The LORD thundered from heaven, and the most High uttered his voice.

@@ -1,1 +1,0 @@
-In Judah is God known: his name is great in Israel.

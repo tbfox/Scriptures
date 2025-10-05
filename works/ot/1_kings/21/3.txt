@@ -1,1 +1,0 @@
-And Naboth said to Ahab, The LORD forbid it me, that I should give the inheritance of my fathers unto thee.

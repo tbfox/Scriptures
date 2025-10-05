@@ -1,1 +1,0 @@
-And he spake a parable unto them, Can the blind lead the blind? shall they not both fall into the ditch?

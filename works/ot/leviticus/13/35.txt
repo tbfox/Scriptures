@@ -1,1 +1,0 @@
-But if the scall spread much in the skin after his cleansing;

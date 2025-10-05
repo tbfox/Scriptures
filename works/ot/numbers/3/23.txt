@@ -1,1 +1,0 @@
-The families of the Gershonites shall pitch behind the tabernacle westward.

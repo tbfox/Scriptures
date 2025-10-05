@@ -1,1 +1,0 @@
-And Leah said, God hath given me my hire, because I have given my maiden to my husband: and she called his name Issachar.

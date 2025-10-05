@@ -1,1 +1,0 @@
-Two women shall be grinding together; the one shall be taken, and the other left.

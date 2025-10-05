@@ -1,1 +1,0 @@
-Then Paul stood up, and beckoning with his hand said, Men of Israel, and ye that fear God, give audience.

@@ -1,1 +1,0 @@
-I am my beloved's, and his desire is toward me.

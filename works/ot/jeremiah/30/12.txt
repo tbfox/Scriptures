@@ -1,1 +1,0 @@
-For thus saith the LORD, Thy bruise is incurable, and thy wound is grievous.

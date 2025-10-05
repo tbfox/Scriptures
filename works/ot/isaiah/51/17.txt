@@ -1,1 +1,0 @@
-Awake, awake, stand up, O Jerusalem, which hast drunk at the hand of the LORD the cup of his fury; thou hast drunken the dregs of the cup of trembling, and wrung them out.

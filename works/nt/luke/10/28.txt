@@ -1,1 +1,0 @@
-And he said unto him, Thou hast answered right: this do, and thou shalt live.

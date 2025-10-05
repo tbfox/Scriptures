@@ -1,1 +1,0 @@
-That being justified by his grace, we should be made heirs according to the hope of eternal life.

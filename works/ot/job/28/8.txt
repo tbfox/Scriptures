@@ -1,1 +1,0 @@
-The lion's whelps have not trodden it, nor the fierce lion passed by it.

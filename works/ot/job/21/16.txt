@@ -1,1 +1,0 @@
-Lo, their good is not in their hand: the counsel of the wicked is far from me.

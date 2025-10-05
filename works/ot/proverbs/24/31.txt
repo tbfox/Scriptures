@@ -1,1 +1,0 @@
-And, lo, it was all grown over with thorns, and nettles had covered the face thereof, and the stone wall thereof was broken down.

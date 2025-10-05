@@ -1,1 +1,0 @@
-Until I find out a place for the LORD, an habitation for the mighty God of Jacob.

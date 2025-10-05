@@ -1,1 +1,0 @@
-When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:

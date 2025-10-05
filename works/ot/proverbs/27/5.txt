@@ -1,1 +1,0 @@
-Open rebuke is better than secret love.

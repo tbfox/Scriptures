@@ -1,1 +1,0 @@
-And he said unto them, This is my blood of the new testament, which is shed for many.

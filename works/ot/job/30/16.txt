@@ -1,1 +1,0 @@
-And now my soul is poured out upon me; the days of affliction have taken hold upon me.

@@ -1,1 +1,0 @@
-But I will take the kingdom out of his son's hand, and will give it unto thee, even ten tribes.

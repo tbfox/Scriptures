@@ -1,1 +1,0 @@
-I will sing of mercy and judgment: unto thee, O LORD, will I sing.

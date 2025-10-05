@@ -1,1 +1,0 @@
-Then they also which are fallen asleep in Christ are perished.

@@ -1,1 +1,0 @@
-Many seek the ruler's favour; but every man's judgment cometh from the LORD.

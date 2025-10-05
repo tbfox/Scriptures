@@ -1,1 +1,0 @@
-And both the singers and the porters kept the ward of their God, and the ward of the purification, according to the commandment of David, and of Solomon his son.

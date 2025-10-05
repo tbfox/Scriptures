@@ -1,1 +1,0 @@
-Hear, ye children, the instruction of a father, and attend to know understanding.

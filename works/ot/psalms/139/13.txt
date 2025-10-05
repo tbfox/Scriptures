@@ -1,1 +1,0 @@
-For thou hast possessed my reins: thou hast covered me in my mother's womb.

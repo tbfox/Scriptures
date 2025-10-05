@@ -1,1 +1,0 @@
-But they gave that to the workmen, and repaired therewith the house of the LORD.

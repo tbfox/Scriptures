@@ -1,1 +1,0 @@
-The whole congregation together was forty and two thousand three hundred and threescore,

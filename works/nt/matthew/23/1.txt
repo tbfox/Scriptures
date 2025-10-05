@@ -1,1 +1,0 @@
-Then spake Jesus to the multitude, and to his disciples,

@@ -1,1 +1,0 @@
-The rod and reproof give wisdom: but a child left to himself bringeth his mother to shame.

@@ -1,1 +1,0 @@
-Rejoice in the LORD, ye righteous; and give thanks at the remembrance of his holiness.

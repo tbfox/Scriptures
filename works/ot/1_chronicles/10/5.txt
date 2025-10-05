@@ -1,1 +1,0 @@
-And when his armourbearer saw that Saul was dead, he fell likewise on the sword, and died.

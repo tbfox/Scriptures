@@ -1,1 +1,0 @@
-And his servants spake yet more against the LORD God, and against his servant Hezekiah.

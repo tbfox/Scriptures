@@ -1,1 +1,0 @@
-Yet have I set my king upon my holy hill of Zion.

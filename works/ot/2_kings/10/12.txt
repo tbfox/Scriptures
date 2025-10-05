@@ -1,1 +1,0 @@
-And he arose and departed, and came to Samaria. And as he was at the shearing house in the way,

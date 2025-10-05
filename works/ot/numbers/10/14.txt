@@ -1,1 +1,0 @@
-In the first place went the standard of the camp of the children of Judah according to their armies: and over his host was Nahshon the son of Amminadab.

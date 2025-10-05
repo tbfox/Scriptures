@@ -1,1 +1,0 @@
-And he goeth up into a mountain, and calleth unto him whom he would: and they came unto him.

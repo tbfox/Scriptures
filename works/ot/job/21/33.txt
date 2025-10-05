@@ -1,1 +1,0 @@
-The clods of the valley shall be sweet unto him, and every man shall draw after him, as there are innumerable before him.

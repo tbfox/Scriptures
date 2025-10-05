@@ -1,1 +1,0 @@
-He hath fenced up my way that I cannot pass, and he hath set darkness in my paths.

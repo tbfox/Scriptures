@@ -1,1 +1,0 @@
-For our God is a consuming fire.

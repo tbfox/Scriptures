@@ -1,1 +1,0 @@
-O give thanks unto the LORD; for he is good: for his mercy endureth for ever.

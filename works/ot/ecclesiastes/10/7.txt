@@ -1,1 +1,0 @@
-I have seen servants upon horses, and princes walking as servants upon the earth.

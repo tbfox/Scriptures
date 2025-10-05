@@ -1,1 +1,0 @@
-And when Hezekiah and the princes came and saw the heaps, they blessed the LORD, and his people Israel.

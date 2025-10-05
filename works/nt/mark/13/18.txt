@@ -1,1 +1,0 @@
-And pray ye that your flight be not in the winter.

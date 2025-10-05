@@ -1,1 +1,0 @@
-And the servants of Amon conspired against him, and slew the king in his own house.

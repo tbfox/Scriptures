@@ -1,1 +1,0 @@
-O God, why hast thou cast us off for ever? why doth thine anger smoke against the sheep of thy pasture?

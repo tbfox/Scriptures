@@ -1,1 +1,0 @@
-Of the sons of Kohath; Uriel the chief, and his brethren an hundred and twenty:

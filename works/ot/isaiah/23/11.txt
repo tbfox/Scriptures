@@ -1,1 +1,0 @@
-He stretched out his hand over the sea, he shook the kingdoms: the LORD hath given a commandment against the merchant city, to destroy the strong holds thereof.

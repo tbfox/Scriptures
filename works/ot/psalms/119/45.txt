@@ -1,1 +1,0 @@
-And I will walk at liberty: for I seek thy precepts.

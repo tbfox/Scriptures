@@ -1,1 +1,0 @@
-Whilst their children remember their altars and their groves by the green trees upon the high hills.

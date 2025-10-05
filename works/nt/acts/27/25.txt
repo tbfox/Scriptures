@@ -1,1 +1,0 @@
-Wherefore, sirs, be of good cheer: for I believe God, that it shall be even as it was told me.

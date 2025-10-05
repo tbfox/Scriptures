@@ -1,1 +1,0 @@
-His own iniquities shall take the wicked himself, and he shall be holden with the cords of his sins.

@@ -1,1 +1,0 @@
-Who hath given him a charge over the earth? or who hath disposed the whole world?

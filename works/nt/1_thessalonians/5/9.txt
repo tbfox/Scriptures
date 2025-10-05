@@ -1,1 +1,0 @@
-For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,

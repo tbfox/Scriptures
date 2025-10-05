@@ -1,1 +1,0 @@
-He will not suffer me to take my breath, but filleth me with bitterness.

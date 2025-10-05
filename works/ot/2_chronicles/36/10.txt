@@ -1,1 +1,0 @@
-And when the year was expired, king Nebuchadnezzar sent, and brought him to Babylon, with the goodly vessels of the house of the LORD, and made Zedekiah his brother king over Judah and Jerusalem.

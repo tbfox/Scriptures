@@ -1,1 +1,0 @@
-Thou liftest me up to the wind; thou causest me to ride upon it, and dissolvest my substance.

@@ -1,1 +1,0 @@
-Baanah the son of Hushai was in Asher and in Aloth:

@@ -1,1 +1,0 @@
-And they all wept sore, and fell on Paul's neck, and kissed him,

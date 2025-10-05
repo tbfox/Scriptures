@@ -1,1 +1,0 @@
-Saying, This man began to build, and was not able to finish.

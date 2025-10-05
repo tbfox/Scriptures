@@ -1,1 +1,0 @@
-In whose hand is the soul of every living thing, and the breath of all mankind.

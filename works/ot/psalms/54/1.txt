@@ -1,1 +1,0 @@
-Save me, O God, by thy name, and judge me by thy strength.

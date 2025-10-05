@@ -1,1 +1,0 @@
-And it came to pass on the morrow, that the people rose early, and built there an altar, and offered burnt offerings and peace offerings.

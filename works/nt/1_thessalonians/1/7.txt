@@ -1,1 +1,0 @@
-So that ye were ensamples to all that believe in Macedonia and Achaia.

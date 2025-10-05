@@ -1,1 +1,0 @@
-And the Beerothites fled to Gittaim, and were sojourners there until this day.)

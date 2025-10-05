@@ -1,1 +1,0 @@
-Of judgment, because the prince of this world is judged.

@@ -1,1 +1,0 @@
-And when he humbled himself, the wrath of the LORD turned from him, that he would not destroy him altogether: and also in Judah things went well.

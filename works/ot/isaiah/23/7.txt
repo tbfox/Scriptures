@@ -1,1 +1,0 @@
-Is this your joyous city, whose antiquity is of ancient days? her own feet shall carry her afar off to sojourn.

@@ -1,1 +1,0 @@
-And Solomon's son was Rehoboam, Abia his son, Asa his son, Jehoshaphat his son,

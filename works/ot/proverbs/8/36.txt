@@ -1,1 +1,0 @@
-But he that sinneth against me wrongeth his own soul: all they that hate me love death.

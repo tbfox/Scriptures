@@ -1,1 +1,0 @@
-And David the king came and sat before the LORD, and said, Who am I, O LORD God, and what is mine house, that thou hast brought me hitherto?

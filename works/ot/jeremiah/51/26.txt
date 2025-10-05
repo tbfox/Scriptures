@@ -1,1 +1,0 @@
-And they shall not take of thee a stone for a corner, nor a stone for foundations; but thou shalt be desolate for ever, saith the LORD.

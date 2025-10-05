@@ -1,1 +1,0 @@
-And the glory which thou gavest me I have given them; that they may be one, even as we are one:

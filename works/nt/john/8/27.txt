@@ -1,1 +1,0 @@
-They understood not that he spake to them of the Father.

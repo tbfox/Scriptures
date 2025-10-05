@@ -1,1 +1,0 @@
-Then I went down to the potter's house, and, behold, he wrought a work on the wheels.

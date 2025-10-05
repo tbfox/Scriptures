@@ -1,1 +1,0 @@
-How sweet are thy words unto my taste! yea, sweeter than honey to my mouth!

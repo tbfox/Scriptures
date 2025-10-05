@@ -1,1 +1,0 @@
-And when we had finished our course from Tyre, we came to Ptolemais, and saluted the brethren, and abode with them one day.

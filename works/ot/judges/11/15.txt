@@ -1,1 +1,0 @@
-And said unto him, Thus saith Jephthah, Israel took not away the land of Moab, nor the land of the children of Ammon:

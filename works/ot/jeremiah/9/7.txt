@@ -1,1 +1,0 @@
-Therefore thus saith the LORD of hosts, Behold, I will melt them, and try them; for how shall I do for the daughter of my people?

@@ -1,1 +1,0 @@
-And Solomon said unto God, Thou hast shewed great mercy unto David my father, and hast made me to reign in his stead.

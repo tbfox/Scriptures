@@ -1,1 +1,0 @@
-But as a wife that committeth adultery, which taketh strangers instead of her husband!

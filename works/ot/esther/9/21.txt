@@ -1,1 +1,0 @@
-To stablish this among them, that they should keep the fourteenth day of the month Adar, and the fifteenth day of the same, yearly,

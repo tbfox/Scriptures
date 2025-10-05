@@ -1,1 +1,0 @@
-If his loins have not blessed me, and if he were not warmed with the fleece of my sheep;

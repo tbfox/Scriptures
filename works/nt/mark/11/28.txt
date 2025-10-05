@@ -1,1 +1,0 @@
-And say unto him, By what authority doest thou these things? and who gave thee this authority to do these things?

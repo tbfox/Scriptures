@@ -1,1 +1,0 @@
-And the gate of the inner court was over against the gate toward the north, and toward the east; and he measured from gate to gate an hundred cubits.

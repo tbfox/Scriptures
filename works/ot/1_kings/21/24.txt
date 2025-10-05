@@ -1,1 +1,0 @@
-Him that dieth of Ahab in the city the dogs shall eat; and him that dieth in the field shall the fowls of the air eat.

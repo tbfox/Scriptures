@@ -1,1 +1,0 @@
-And when Athaliah heard the noise of the guard and of the people, she came to the people into the temple of the LORD.

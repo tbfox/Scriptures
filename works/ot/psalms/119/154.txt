@@ -1,1 +1,0 @@
-Plead my cause, and deliver me: quicken me according to thy word.

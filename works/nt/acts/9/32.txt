@@ -1,1 +1,0 @@
-And it came to pass, as Peter passed throughout all quarters, he came down also to the saints which dwelt at Lydda.

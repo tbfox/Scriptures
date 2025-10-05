@@ -1,1 +1,0 @@
-And thou shalt put the mercy seat above upon the ark; and in the ark thou shalt put the testimony that I shall give thee.

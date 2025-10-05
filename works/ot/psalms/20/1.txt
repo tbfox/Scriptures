@@ -1,1 +1,0 @@
-The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;

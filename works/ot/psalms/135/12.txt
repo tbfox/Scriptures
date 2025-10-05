@@ -1,1 +1,0 @@
-And gave their land for an heritage, an heritage unto Israel his people.

@@ -1,1 +1,0 @@
-But be not ye called Rabbi: for one is your Master, even Christ; and all ye are brethren.

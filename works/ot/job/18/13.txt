@@ -1,1 +1,0 @@
-It shall devour the strength of his skin: even the firstborn of death shall devour his strength.

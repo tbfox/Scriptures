@@ -1,1 +1,0 @@
-I have rejoiced in the way of thy testimonies, as much as in all riches.

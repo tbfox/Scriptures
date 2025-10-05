@@ -1,1 +1,0 @@
-And the Arvadite, and the Zemarite, and the Hamathite.

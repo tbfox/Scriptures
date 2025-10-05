@@ -1,1 +1,0 @@
-As the LORD commanded Moses, so he numbered them in the wilderness of Sinai.

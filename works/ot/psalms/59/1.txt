@@ -1,1 +1,0 @@
-Deliver me from mine enemies, O my God: defend me from them that rise up against me.

@@ -1,1 +1,0 @@
-Thou hast trodden down all them that err from thy statutes: for their deceit is falsehood.

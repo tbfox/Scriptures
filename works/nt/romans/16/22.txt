@@ -1,1 +1,0 @@
-I Tertius, who wrote this epistle, salute you in the Lord.

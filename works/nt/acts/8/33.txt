@@ -1,1 +1,0 @@
-In his humiliation his judgment was taken away: and who shall declare his generation? for his life is taken from the earth.

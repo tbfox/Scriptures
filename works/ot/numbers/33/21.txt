@@ -1,1 +1,0 @@
-And they removed from Libnah, and pitched at Rissah.

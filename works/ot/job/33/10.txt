@@ -1,1 +1,0 @@
-Behold, he findeth occasions against me, he counteth me for his enemy,

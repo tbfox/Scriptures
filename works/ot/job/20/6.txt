@@ -1,1 +1,0 @@
-Though his excellency mount up to the heavens, and his head reach unto the clouds;

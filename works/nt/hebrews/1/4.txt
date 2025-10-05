@@ -1,1 +1,0 @@
-Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.

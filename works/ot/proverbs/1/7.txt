@@ -1,1 +1,0 @@
-The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction.

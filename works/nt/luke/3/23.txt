@@ -1,1 +1,0 @@
-And Jesus himself began to be about thirty years of age, being (as was supposed) the son of Joseph, which was the son of Heli,

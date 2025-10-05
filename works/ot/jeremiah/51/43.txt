@@ -1,1 +1,0 @@
-Her cities are a desolation, a dry land, and a wilderness, a land wherein no man dwelleth, neither doth any son of man pass thereby.

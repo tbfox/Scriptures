@@ -1,1 +1,0 @@
-And they shall be afraid and ashamed of Ethiopia their expectation, and of Egypt their glory.

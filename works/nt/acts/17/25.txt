@@ -1,1 +1,0 @@
-Neither is worshipped with men's hands, as though he needed any thing, seeing he giveth to all life, and breath, and all things;

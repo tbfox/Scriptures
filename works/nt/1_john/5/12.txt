@@ -1,1 +1,0 @@
-He that hath the Son hath life; and he that hath not the Son of God hath not life.

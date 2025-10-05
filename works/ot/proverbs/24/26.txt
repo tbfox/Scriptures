@@ -1,1 +1,0 @@
-Every man shall kiss his lips that giveth a right answer.

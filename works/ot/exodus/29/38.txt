@@ -1,1 +1,0 @@
-Now this is that which thou shalt offer upon the altar; two lambs of the first year day by day continually.

@@ -1,1 +1,0 @@
-And Joseph gathered corn as the sand of the sea, very much, until he left numbering; for it was without number.

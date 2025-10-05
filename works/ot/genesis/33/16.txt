@@ -1,1 +1,0 @@
-So Esau returned that day on his way unto Seir.

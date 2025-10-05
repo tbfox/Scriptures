@@ -1,1 +1,0 @@
-And he made an hanging for the tabernacle door of blue, and purple, and scarlet, and fine twined linen, of needlework;

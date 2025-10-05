@@ -1,1 +1,0 @@
-And they laid hands on them, and put them in hold unto the next day: for it was now eventide.

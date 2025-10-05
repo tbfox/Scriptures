@@ -1,1 +1,0 @@
-Ishmerai also, and Jezliah, and Jobab, the sons of Elpaal;

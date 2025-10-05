@@ -1,1 +1,0 @@
-So we see that they could not enter in because of unbelief.

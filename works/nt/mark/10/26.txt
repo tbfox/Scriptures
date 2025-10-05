@@ -1,1 +1,0 @@
-And they were astonished out of measure, saying among themselves, Who then can be saved?

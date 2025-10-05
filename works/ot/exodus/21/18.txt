@@ -1,1 +1,0 @@
-And if men strive together, and one smite another with a stone, or with his fist, and he die not, but keepeth his bed:

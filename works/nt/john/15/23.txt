@@ -1,1 +1,0 @@
-He that hateth me hateth my Father also.

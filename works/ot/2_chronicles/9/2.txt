@@ -1,1 +1,0 @@
-And Solomon told her all her questions: and there was nothing hid from Solomon which he told her not.

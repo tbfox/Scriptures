@@ -1,1 +1,0 @@
-Being forty days tempted of the devil. And in those days he did eat nothing: and when they were ended, he afterward hungered.

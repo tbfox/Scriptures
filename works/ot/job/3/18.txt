@@ -1,1 +1,0 @@
-There the prisoners rest together; they hear not the voice of the oppressor.

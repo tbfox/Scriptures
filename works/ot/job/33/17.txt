@@ -1,1 +1,0 @@
-That he may withdraw man from his purpose, and hide pride from man.

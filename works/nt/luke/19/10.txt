@@ -1,1 +1,0 @@
-For the Son of man is come to seek and to save that which was lost.

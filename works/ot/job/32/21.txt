@@ -1,1 +1,0 @@
-Let me not, I pray you, accept any man's person, neither let me give flattering titles unto man.

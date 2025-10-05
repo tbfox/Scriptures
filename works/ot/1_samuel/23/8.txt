@@ -1,1 +1,0 @@
-And Saul called all the people together to war, to go down to Keilah, to besiege David and his men.

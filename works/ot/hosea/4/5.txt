@@ -1,1 +1,0 @@
-Therefore shalt thou fall in the day, and the prophet also shall fall with thee in the night, and I will destroy thy mother.

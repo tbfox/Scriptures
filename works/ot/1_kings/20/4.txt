@@ -1,1 +1,0 @@
-And the king of Israel answered and said, My lord, O king, according to thy saying, I am thine, and all that I have.

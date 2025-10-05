@@ -1,1 +1,0 @@
-Having the glory of God: and her light was like unto a stone most precious, even like a jasper stone, clear as crystal;

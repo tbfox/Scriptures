@@ -1,1 +1,0 @@
-Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men.

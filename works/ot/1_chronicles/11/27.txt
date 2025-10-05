@@ -1,1 +1,0 @@
-Shammoth the Harorite, Helez the Pelonite,

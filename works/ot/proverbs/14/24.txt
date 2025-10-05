@@ -1,1 +1,0 @@
-The crown of the wise is their riches: but the foolishness of fools is folly.

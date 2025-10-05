@@ -1,1 +1,0 @@
-For what hath the wise more than the fool? what hath the poor, that knoweth to walk before the living?

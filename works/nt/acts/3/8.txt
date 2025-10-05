@@ -1,1 +1,0 @@
-And he leaping up stood, and walked, and entered with them into the temple, walking, and leaping, and praising God.

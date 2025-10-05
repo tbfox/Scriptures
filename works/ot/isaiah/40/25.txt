@@ -1,1 +1,0 @@
-To whom then will ye liken me, or shall I be equal? saith the Holy One.

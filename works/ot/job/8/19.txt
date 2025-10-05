@@ -1,1 +1,0 @@
-Behold, this is the joy of his way, and out of the earth shall others grow.

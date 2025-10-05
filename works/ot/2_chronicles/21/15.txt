@@ -1,1 +1,0 @@
-And thou shalt have great sickness by disease of thy bowels, until thy bowels fall out by reason of the sickness day by day.

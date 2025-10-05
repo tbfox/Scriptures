@@ -1,1 +1,0 @@
-But ask now the beasts, and they shall teach thee; and the fowls of the air, and they shall tell thee:

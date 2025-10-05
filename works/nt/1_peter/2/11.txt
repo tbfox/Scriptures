@@ -1,1 +1,0 @@
-Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;

@@ -1,1 +1,0 @@
-Moreover take thou up a lamentation for the princes of Israel,

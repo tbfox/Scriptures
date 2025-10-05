@@ -1,1 +1,0 @@
-And Jesus answering said unto him, Simon, I have somewhat to say unto thee. And he saith, Master, say on.

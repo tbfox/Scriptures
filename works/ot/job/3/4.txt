@@ -1,1 +1,0 @@
-Let that day be darkness; let not God regard it from above, neither let the light shine upon it.

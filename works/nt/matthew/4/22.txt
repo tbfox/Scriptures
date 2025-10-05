@@ -1,1 +1,0 @@
-And they immediately left the ship and their father, and followed him.

@@ -1,1 +1,0 @@
-And there were born unto him seven sons and three daughters.

@@ -1,1 +1,0 @@
-And when he had thus spoken, he went before, ascending up to Jerusalem.

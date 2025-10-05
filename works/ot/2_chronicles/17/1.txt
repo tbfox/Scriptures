@@ -1,1 +1,0 @@
-And Jehoshaphat his son reigned in his stead, and strengthened himself against Israel.

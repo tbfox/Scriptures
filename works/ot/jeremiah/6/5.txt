@@ -1,1 +1,0 @@
-Arise, and let us go by night, and let us destroy her palaces.

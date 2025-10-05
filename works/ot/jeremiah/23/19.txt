@@ -1,1 +1,0 @@
-Behold, a whirlwind of the LORD is gone forth in fury, even a grievous whirlwind: it shall fall grievously upon the head of the wicked.

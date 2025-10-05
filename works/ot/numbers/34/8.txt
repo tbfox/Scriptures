@@ -1,1 +1,0 @@
-From mount Hor ye shall point out your border unto the entrance of Hamath; and the goings forth of the border shall be to Zedad:

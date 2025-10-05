@@ -1,1 +1,0 @@
-The son of Shallum, the son of Zadok, the son of Ahitub,

@@ -1,1 +1,0 @@
-Is there any number of his armies? and upon whom doth not his light arise?

@@ -1,1 +1,0 @@
-And this is the record, that God hath given to us eternal life, and this life is in his Son.

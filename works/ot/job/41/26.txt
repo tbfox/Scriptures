@@ -1,1 +1,0 @@
-The sword of him that layeth at him cannot hold: the spear, the dart, nor the habergeon.

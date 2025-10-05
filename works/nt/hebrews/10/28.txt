@@ -1,1 +1,0 @@
-He that despised Moses' law died without mercy under two or three witnesses:

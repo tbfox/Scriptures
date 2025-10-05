@@ -1,1 +1,0 @@
-He gave them hail for rain, and flaming fire in their land.

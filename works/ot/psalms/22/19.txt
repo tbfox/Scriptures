@@ -1,1 +1,0 @@
-But be not thou far from me, O LORD: O my strength, haste thee to help me.

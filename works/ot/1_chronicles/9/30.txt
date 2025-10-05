@@ -1,1 +1,0 @@
-And some of the sons of the priests made the ointment of the spices.

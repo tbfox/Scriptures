@@ -1,1 +1,0 @@
-The word that the LORD spake against Babylon and against the land of the Chaldeans by Jeremiah the prophet.

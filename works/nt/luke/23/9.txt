@@ -1,1 +1,0 @@
-Then he questioned with him in many words; but he answered him nothing.

@@ -1,1 +1,0 @@
-Who smote great nations, and slew mighty kings;

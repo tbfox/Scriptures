@@ -1,1 +1,0 @@
-And all the kings of Arabia, and all the kings of the mingled people that dwell in the desert,

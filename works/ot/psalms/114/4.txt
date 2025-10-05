@@ -1,1 +1,0 @@
-The mountains skipped like rams, and the little hills like lambs.

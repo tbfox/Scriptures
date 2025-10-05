@@ -1,1 +1,0 @@
-And it came to pass, when all the people were clean passed over Jordan, that the LORD spake unto Joshua, saying,

@@ -1,1 +1,0 @@
-For they were about five thousand men. And he said to his disciples, Make them sit down by fifties in a company.

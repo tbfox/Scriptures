@@ -1,1 +1,0 @@
-And the name of the second river is Gihon: the same is it that compasseth the whole land of Ethiopia.

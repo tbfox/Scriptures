@@ -1,1 +1,0 @@
-Say I these things as a man? or saith not the law the same also?

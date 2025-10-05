@@ -1,1 +1,0 @@
-For thou bringest certain strange things to our ears: we would know therefore what these things mean.

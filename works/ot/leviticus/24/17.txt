@@ -1,1 +1,0 @@
-And he that killeth any man shall surely be put to death.

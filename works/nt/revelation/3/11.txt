@@ -1,1 +1,0 @@
-Behold, I come quickly: hold that fast which thou hast, that no man take thy crown.

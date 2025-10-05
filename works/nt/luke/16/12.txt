@@ -1,1 +1,0 @@
-And if ye have not been faithful in that which is another man's, who shall give you that which is your own?

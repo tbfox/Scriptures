@@ -1,1 +1,0 @@
-The glory of the LORD shall endure for ever: the LORD shall rejoice in his works.

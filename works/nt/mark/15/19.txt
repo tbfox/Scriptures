@@ -1,1 +1,0 @@
-And they smote him on the head with a reed, and did spit upon him, and bowing their knees worshipped him.

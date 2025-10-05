@@ -1,1 +1,0 @@
-For now will I break his yoke from off thee, and will burst thy bonds in sunder.

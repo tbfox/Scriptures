@@ -1,1 +1,0 @@
-And do this thing, Take the kings away, every man out of his place, and put captains in their rooms:

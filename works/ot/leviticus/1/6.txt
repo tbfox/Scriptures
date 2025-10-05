@@ -1,1 +1,0 @@
-And he shall flay the burnt offering, and cut it into his pieces.

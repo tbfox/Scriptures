@@ -1,1 +1,0 @@
-Why leap ye, ye high hills? this is the hill which God desireth to dwell in; yea, the LORD will dwell in it for ever.

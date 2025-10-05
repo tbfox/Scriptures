@@ -1,1 +1,0 @@
-And the woman bare a son, and called his name Samson: and the child grew, and the LORD blessed him.

@@ -1,1 +1,0 @@
-Though the LORD be high, yet hath he respect unto the lowly: but the proud he knoweth afar off.

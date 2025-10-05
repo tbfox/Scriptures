@@ -1,1 +1,0 @@
-He looseth the bond of kings, and girdeth their loins with a girdle.

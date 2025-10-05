@@ -1,1 +1,0 @@
-Let there be none to extend mercy unto him: neither let there be any to favour his fatherless children.

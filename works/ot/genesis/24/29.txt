@@ -1,1 +1,0 @@
-And Rebekah had a brother, and his name was Laban: and Laban ran out unto the man, unto the well.

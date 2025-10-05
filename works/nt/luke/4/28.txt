@@ -1,1 +1,0 @@
-And all they in the synagogue, when they heard these things, were filled with wrath,

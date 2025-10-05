@@ -1,1 +1,0 @@
-Then shall the offering of Judah and Jerusalem be pleasant unto the LORD, as in the days of old, and as in former years.

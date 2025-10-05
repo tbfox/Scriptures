@@ -1,1 +1,0 @@
-He that hath a froward heart findeth no good: and he that hath a perverse tongue falleth into mischief.

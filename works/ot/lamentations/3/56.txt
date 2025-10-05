@@ -1,1 +1,0 @@
-Thou hast heard my voice: hide not thine ear at my breathing, at my cry.

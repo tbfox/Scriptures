@@ -1,1 +1,0 @@
-He openeth also their ear to discipline, and commandeth that they return from iniquity.

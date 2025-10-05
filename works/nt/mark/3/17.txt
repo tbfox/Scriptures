@@ -1,1 +1,0 @@
-And James the son of Zebedee, and John the brother of James; and he surnamed them Boanerges, which is, The sons of thunder:

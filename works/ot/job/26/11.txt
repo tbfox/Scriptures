@@ -1,1 +1,0 @@
-The pillars of heaven tremble and are astonished at his reproof.

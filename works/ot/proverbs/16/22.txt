@@ -1,1 +1,0 @@
-Understanding is a wellspring of life unto him that hath it: but the instruction of fools is folly.

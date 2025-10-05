@@ -1,1 +1,0 @@
-Comfort ye, comfort ye my people, saith your God.

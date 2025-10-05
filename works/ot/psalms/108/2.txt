@@ -1,1 +1,0 @@
-Awake, psaltery and harp: I myself will awake early.

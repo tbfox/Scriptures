@@ -1,1 +1,0 @@
-Jesus saith unto him, If I will that he tarry till I come, what is that to thee? follow thou me.

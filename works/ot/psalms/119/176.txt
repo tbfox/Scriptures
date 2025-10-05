@@ -1,1 +1,0 @@
-I have gone astray like a lost sheep; seek thy servant; for I do not forget thy commandments.

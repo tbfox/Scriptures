@@ -1,1 +1,0 @@
-To proclaim the acceptable year of the LORD, and the day of vengeance of our God; to comfort all that mourn;

@@ -1,1 +1,0 @@
-My zeal hath consumed me, because mine enemies have forgotten thy words.

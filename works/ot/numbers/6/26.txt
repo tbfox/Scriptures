@@ -1,1 +1,0 @@
-The LORD lift up his countenance upon thee, and give thee peace.

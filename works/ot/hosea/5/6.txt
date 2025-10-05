@@ -1,1 +1,0 @@
-They shall go with their flocks and with their herds to seek the LORD; but they shall not find him; he hath withdrawn himself from them.

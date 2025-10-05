@@ -1,1 +1,0 @@
-And Jeroboam's wife arose, and departed, and came to Tirzah: and when she came to the threshold of the door, the child died;

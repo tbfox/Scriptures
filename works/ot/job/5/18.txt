@@ -1,1 +1,0 @@
-For he maketh sore, and bindeth up: he woundeth, and his hands make whole.

@@ -1,1 +1,0 @@
-And from Mattanah to Nahaliel: and from Nahaliel to Bamoth:

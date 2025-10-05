@@ -1,1 +1,0 @@
-He scorneth the multitude of the city, neither regardeth he the crying of the driver.

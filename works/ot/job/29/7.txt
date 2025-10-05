@@ -1,1 +1,0 @@
-When I went out to the gate through the city, when I prepared my seat in the street!

@@ -1,1 +1,0 @@
-And moreover I saw under the sun the place of judgment, that wickedness was there; and the place of righteousness, that iniquity was there.

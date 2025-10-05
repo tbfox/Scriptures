@@ -1,1 +1,0 @@
-None of you shall approach to any that is near of kin to him, to uncover their nakedness: I am the LORD.

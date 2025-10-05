@@ -1,1 +1,0 @@
-Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty.

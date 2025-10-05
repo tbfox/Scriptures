@@ -1,1 +1,0 @@
-There was nothing in the ark save the two tables which Moses put therein at Horeb, when the LORD made a covenant with the children of Israel, when they came out of Egypt.

@@ -1,1 +1,0 @@
-So these three men ceased to answer Job, because he was righteous in his own eyes.

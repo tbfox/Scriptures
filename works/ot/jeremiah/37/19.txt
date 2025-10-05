@@ -1,1 +1,0 @@
-Where are now your prophets which prophesied unto you, saying, The king of Babylon shall not come against you, nor against this land?

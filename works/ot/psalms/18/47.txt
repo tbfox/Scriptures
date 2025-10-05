@@ -1,1 +1,0 @@
-It is God that avengeth me, and subdueth the people under me.

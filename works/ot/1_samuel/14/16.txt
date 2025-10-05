@@ -1,1 +1,0 @@
-And the watchmen of Saul in Gibeah of Benjamin looked; and, behold, the multitude melted away, and they went on beating down one another.

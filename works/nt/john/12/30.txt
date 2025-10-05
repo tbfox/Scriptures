@@ -1,1 +1,0 @@
-Jesus answered and said, This voice came not because of me, but for your sakes.

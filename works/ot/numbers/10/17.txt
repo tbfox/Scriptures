@@ -1,1 +1,0 @@
-And the tabernacle was taken down; and the sons of Gershon and the sons of Merari set forward, bearing the tabernacle.

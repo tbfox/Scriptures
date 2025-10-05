@@ -1,1 +1,0 @@
-Shall they escape by iniquity? in thine anger cast down the people, O God.

@@ -1,1 +1,0 @@
-A glorious high throne from the beginning is the place of our sanctuary.

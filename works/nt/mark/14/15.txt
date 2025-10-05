@@ -1,1 +1,0 @@
-And he will shew you a large upper room furnished and prepared: there make ready for us.

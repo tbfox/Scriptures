@@ -1,1 +1,0 @@
-Therefore was the wrath of the LORD kindled against his people, insomuch that he abhorred his own inheritance.

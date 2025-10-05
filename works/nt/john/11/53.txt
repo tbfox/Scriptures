@@ -1,1 +1,0 @@
-Then from that day forth they took counsel together for to put him to death.

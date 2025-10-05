@@ -1,1 +1,0 @@
-Dan shall judge his people, as one of the tribes of Israel.

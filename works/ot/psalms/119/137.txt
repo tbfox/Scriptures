@@ -1,1 +1,0 @@
-Righteous art thou, O LORD, and upright are thy judgments.

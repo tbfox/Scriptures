@@ -1,1 +1,0 @@
-Thy hands have made me and fashioned me: give me understanding, that I may learn thy commandments.

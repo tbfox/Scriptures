@@ -1,1 +1,0 @@
-And Satan stood up against Israel, and provoked David to number Israel.

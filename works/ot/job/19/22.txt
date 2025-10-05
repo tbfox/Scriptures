@@ -1,1 +1,0 @@
-Why do ye persecute me as God, and are not satisfied with my flesh?

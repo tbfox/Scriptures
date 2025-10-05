@@ -1,1 +1,0 @@
-And I myself will fight against you with an outstretched hand and with a strong arm, even in anger, and in fury, and in great wrath.

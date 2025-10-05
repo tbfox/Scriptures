@@ -1,1 +1,0 @@
-And Arphaxad begat Salah; and Salah begat Eber.

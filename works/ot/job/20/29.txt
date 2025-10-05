@@ -1,1 +1,0 @@
-This is the portion of a wicked man from God, and the heritage appointed unto him by God.

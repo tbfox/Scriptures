@@ -1,1 +1,0 @@
-For by wise counsel thou shalt make thy war: and in multitude of counsellors there is safety.

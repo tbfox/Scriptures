@@ -1,1 +1,0 @@
-And Elijah said unto Ahab, Get thee up, eat and drink; for there is a sound of abundance of rain.

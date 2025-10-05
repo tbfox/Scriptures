@@ -1,1 +1,0 @@
-The poor and the deceitful man meet together: the LORD lighteneth both their eyes.

@@ -1,1 +1,0 @@
-Some remove the landmarks; they violently take away flocks, and feed thereof.

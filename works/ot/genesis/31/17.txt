@@ -1,1 +1,0 @@
-Then Jacob rose up, and set his sons and his wives upon camels;

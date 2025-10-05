@@ -1,1 +1,0 @@
-Quench not the Spirit.

@@ -1,1 +1,0 @@
-Therefore I said, Hearken to me; I also will shew mine opinion.

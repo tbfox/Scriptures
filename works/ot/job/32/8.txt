@@ -1,1 +1,0 @@
-But there is a spirit in man: and the inspiration of the Almighty giveth them understanding.

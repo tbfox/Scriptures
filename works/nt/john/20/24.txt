@@ -1,1 +1,0 @@
-But Thomas, one of the twelve, called Didymus, was not with them when Jesus came.

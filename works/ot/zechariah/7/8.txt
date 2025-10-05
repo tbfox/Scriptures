@@ -1,1 +1,0 @@
-And the word of the LORD came unto Zechariah, saying,

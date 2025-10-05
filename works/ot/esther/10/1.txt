@@ -1,1 +1,0 @@
-And the king Ahasuerus laid a tribute upon the land, and upon the isles of the sea.

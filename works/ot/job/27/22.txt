@@ -1,1 +1,0 @@
-For God shall cast upon him, and not spare: he would fain flee out of his hand.

@@ -1,1 +1,0 @@
-And Baalath, and Tadmor in the wilderness, in the land,

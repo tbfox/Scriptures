@@ -1,1 +1,0 @@
-Seeing his days are determined, the number of his months are with thee, thou hast appointed his bounds that he cannot pass;

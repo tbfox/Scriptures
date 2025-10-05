@@ -1,1 +1,0 @@
-Who cut up mallows by the bushes, and juniper roots for their meat.

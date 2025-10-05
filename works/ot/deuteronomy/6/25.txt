@@ -1,1 +1,0 @@
-And it shall be our righteousness, if we observe to do all these commandments before the LORD our God, as he hath commanded us.

@@ -1,1 +1,0 @@
-At the last it biteth like a serpent, and stingeth like an adder.

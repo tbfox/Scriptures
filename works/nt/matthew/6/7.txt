@@ -1,1 +1,0 @@
-But when ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking.

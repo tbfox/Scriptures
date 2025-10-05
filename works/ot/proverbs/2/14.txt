@@ -1,1 +1,0 @@
-Who rejoice to do evil, and delight in the frowardness of the wicked;

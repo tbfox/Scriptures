@@ -1,1 +1,0 @@
-Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;

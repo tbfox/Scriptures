@@ -1,1 +1,0 @@
-And in the morning, as they passed by, they saw the fig tree dried up from the roots.

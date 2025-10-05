@@ -1,1 +1,0 @@
-I stretch forth my hands unto thee: my soul thirsteth after thee, as a thirsty land. Selah.

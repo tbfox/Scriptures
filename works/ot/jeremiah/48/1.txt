@@ -1,1 +1,0 @@
-Against Moab thus saith the LORD of hosts, the God of Israel; Woe unto Nebo! for it is spoiled: Kiriathaim is confounded and taken: Misgab is confounded and dismayed.

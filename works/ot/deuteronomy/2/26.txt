@@ -1,1 +1,0 @@
-And I sent messengers out of the wilderness of Kedemoth unto Sihon king of Heshbon with words of peace, saying,

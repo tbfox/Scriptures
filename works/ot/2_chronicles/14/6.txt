@@ -1,1 +1,0 @@
-And he built fenced cities in Judah: for the land had rest, and he had no war in those years; because the LORD had given him rest.

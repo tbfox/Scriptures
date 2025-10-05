@@ -1,1 +1,0 @@
-On the next day much people that were come to the feast, when they heard that Jesus was coming to Jerusalem,

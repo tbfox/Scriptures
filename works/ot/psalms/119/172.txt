@@ -1,1 +1,0 @@
-My tongue shall speak of thy word: for all thy commandments are righteousness.

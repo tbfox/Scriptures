@@ -1,1 +1,0 @@
-And Paul dwelt two whole years in his own hired house, and received all that came in unto him,

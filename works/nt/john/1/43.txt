@@ -1,1 +1,0 @@
-The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me.

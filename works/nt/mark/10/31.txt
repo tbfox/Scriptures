@@ -1,1 +1,0 @@
-But many that are first shall be last; and the last first.

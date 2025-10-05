@@ -1,1 +1,0 @@
-Behold, I set before you this day a blessing and a curse;

@@ -1,1 +1,0 @@
-Shall not his excellency make you afraid? and his dread fall upon you?

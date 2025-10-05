@@ -1,1 +1,0 @@
-Bear ye one another's burdens, and so fulfil the law of Christ.

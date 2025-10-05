@@ -1,1 +1,0 @@
-In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth;

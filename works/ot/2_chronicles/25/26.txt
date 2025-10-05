@@ -1,1 +1,0 @@
-Now the rest of the acts of Amaziah, first and last, behold, are they not written in the book of the kings of Judah and Israel?

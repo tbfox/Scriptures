@@ -1,1 +1,0 @@
-And when the governor had read the letter, he asked of what province he was. And when he understood that he was of Cilicia;

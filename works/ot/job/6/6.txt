@@ -1,1 +1,0 @@
-Can that which is unsavoury be eaten without salt? or is there any taste in the white of an egg?

@@ -1,1 +1,0 @@
-And the LORD said unto Moses, The man shall be surely put to death: all the congregation shall stone him with stones without the camp.

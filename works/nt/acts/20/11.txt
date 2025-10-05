@@ -1,1 +1,0 @@
-When he therefore was come up again, and had broken bread, and eaten, and talked a long while, even till break of day, so he departed.

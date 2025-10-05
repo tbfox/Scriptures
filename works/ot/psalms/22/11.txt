@@ -1,1 +1,0 @@
-Be not far from me; for trouble is near; for there is none to help.

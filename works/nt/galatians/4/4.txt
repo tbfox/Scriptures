@@ -1,1 +1,0 @@
-But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,

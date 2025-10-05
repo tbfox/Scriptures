@@ -1,1 +1,0 @@
-And Solomon sent to Huram the king of Tyre, saying, As thou didst deal with David my father, and didst send him cedars to build him an house to dwell therein, even so deal with me.

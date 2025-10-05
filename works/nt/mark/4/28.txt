@@ -1,1 +1,0 @@
-For the earth bringeth forth fruit of herself; first the blade, then the ear, after that the full corn in the ear.

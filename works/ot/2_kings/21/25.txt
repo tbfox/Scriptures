@@ -1,1 +1,0 @@
-Now the rest of the acts of Amon which he did, are they not written in the book of the chronicles of the kings of Judah?

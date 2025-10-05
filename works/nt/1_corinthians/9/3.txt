@@ -1,1 +1,0 @@
-Mine answer to them that do examine me is this,

@@ -1,1 +1,0 @@
-And after that he gave unto them judges about the space of four hundred and fifty years, until Samuel the prophet.

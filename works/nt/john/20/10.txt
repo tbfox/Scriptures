@@ -1,1 +1,0 @@
-Then the disciples went away again unto their own home.

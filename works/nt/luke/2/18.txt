@@ -1,1 +1,0 @@
-And all they that heard it wondered at those things which were told them by the shepherds.

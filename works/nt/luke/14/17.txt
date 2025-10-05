@@ -1,1 +1,0 @@
-And sent his servant at supper time to say to them that were bidden, Come; for all things are now ready.

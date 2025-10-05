@@ -1,1 +1,0 @@
-Thou, which hast shewed me great and sore troubles, shalt quicken me again, and shalt bring me up again from the depths of the earth.

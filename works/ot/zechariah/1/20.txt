@@ -1,1 +1,0 @@
-And the LORD shewed me four carpenters.

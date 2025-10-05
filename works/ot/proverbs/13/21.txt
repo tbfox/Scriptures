@@ -1,1 +1,0 @@
-Evil pursueth sinners: but to the righteous good shall be repayed.

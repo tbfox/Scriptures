@@ -1,1 +1,0 @@
-And again, I will put my trust in him. And again, Behold I and the children which God hath given me.

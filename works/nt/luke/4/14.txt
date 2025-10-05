@@ -1,1 +1,0 @@
-And Jesus returned in the power of the Spirit into Galilee: and there went out a fame of him through all the region round about.

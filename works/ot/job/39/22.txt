@@ -1,1 +1,0 @@
-He mocketh at fear, and is not affrighted; neither turneth he back from the sword.

@@ -1,1 +1,0 @@
-For it was the king's commandment concerning them, that a certain portion should be for the singers, due for every day.

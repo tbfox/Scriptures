@@ -1,1 +1,0 @@
-Be merciful unto me, O Lord: for I cry unto thee daily.

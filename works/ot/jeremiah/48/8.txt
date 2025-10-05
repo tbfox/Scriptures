@@ -1,1 +1,0 @@
-And the spoiler shall come upon every city, and no city shall escape: the valley also shall perish, and the plain shall be destroyed, as the LORD hath spoken.

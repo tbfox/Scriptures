@@ -1,1 +1,0 @@
-Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,

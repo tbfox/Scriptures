@@ -1,1 +1,0 @@
-Where no counsel is, the people fall: but in the multitude of counsellors there is safety.

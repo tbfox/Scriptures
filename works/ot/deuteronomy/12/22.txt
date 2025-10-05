@@ -1,1 +1,0 @@
-Even as the roebuck and the hart is eaten, so thou shalt eat them: the unclean and the clean shall eat of them alike.

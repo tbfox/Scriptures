@@ -1,1 +1,0 @@
-Thou therefore, my son, be strong in the grace that is in Christ Jesus.

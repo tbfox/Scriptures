@@ -1,1 +1,0 @@
-For the zeal of thine house hath eaten me up; and the reproaches of them that reproached thee are fallen upon me.

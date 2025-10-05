@@ -1,1 +1,0 @@
-The simple inherit folly: but the prudent are crowned with knowledge.

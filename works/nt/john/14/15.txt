@@ -1,1 +1,0 @@
-If ye love me, keep my commandments.

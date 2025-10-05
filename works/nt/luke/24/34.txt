@@ -1,1 +1,0 @@
-Saying, The Lord is risen indeed, and hath appeared to Simon.

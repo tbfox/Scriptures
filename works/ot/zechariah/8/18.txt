@@ -1,1 +1,0 @@
-And the word of the LORD of hosts came unto me, saying,

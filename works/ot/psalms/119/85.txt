@@ -1,1 +1,0 @@
-The proud have digged pits for me, which are not after thy law.

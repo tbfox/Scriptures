@@ -1,1 +1,0 @@
-With the ancient is wisdom; and in length of days understanding.

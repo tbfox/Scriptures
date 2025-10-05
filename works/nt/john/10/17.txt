@@ -1,1 +1,0 @@
-Therefore doth my Father love me, because I lay down my life, that I might take it again.

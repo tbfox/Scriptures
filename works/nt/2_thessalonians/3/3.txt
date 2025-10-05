@@ -1,1 +1,0 @@
-But the Lord is faithful, who shall stablish you, and keep you from evil.

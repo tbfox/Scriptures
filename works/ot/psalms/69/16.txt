@@ -1,1 +1,0 @@
-Hear me, O LORD; for thy lovingkindness is good: turn unto me according to the multitude of thy tender mercies.

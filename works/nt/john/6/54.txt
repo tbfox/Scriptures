@@ -1,1 +1,0 @@
-Whoso eateth my flesh, and drinketh my blood, hath eternal life; and I will raise him up at the last day.

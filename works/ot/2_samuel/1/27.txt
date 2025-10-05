@@ -1,1 +1,0 @@
-How are the mighty fallen, and the weapons of war perished!

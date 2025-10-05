@@ -1,1 +1,0 @@
-And smote all the firstborn in Egypt; the chief of their strength in the tabernacles of Ham:

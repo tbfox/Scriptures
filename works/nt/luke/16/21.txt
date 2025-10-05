@@ -1,1 +1,0 @@
-And desiring to be fed with the crumbs which fell from the rich man's table: moreover the dogs came and licked his sores.

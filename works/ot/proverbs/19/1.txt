@@ -1,1 +1,0 @@
-Better is the poor that walketh in his integrity, than he that is perverse in his lips, and is a fool.

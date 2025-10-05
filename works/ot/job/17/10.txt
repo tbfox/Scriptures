@@ -1,1 +1,0 @@
-But as for you all, do ye return, and come now: for I cannot find one wise man among you.

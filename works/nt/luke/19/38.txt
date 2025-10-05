@@ -1,1 +1,0 @@
-Saying, Blessed be the King that cometh in the name of the Lord: peace in heaven, and glory in the highest.

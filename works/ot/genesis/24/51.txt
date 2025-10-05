@@ -1,1 +1,0 @@
-Behold, Rebekah is before thee, take her, and go, and let her be thy master's son's wife, as the LORD hath spoken.

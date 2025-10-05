@@ -1,1 +1,0 @@
-And they shall take of the blood, and strike it on the two side posts and on the upper door post of the houses, wherein they shall eat it.

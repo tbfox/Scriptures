@@ -1,1 +1,0 @@
-Behold, God will not cast away a perfect man, neither will he help the evil doers:

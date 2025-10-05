@@ -1,1 +1,0 @@
-Turn us again, O LORD God of hosts, cause thy face to shine; and we shall be saved.

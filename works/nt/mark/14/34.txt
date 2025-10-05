@@ -1,1 +1,0 @@
-And saith unto them, My soul is exceeding sorrowful unto death: tarry ye here, and watch.

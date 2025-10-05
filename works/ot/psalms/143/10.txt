@@ -1,1 +1,0 @@
-Teach me to do thy will; for thou art my God: thy spirit is good; lead me into the land of uprightness.

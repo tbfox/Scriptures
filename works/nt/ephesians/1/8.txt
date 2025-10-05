@@ -1,1 +1,0 @@
-Wherein he hath abounded toward us in all wisdom and prudence;

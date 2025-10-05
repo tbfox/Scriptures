@@ -1,1 +1,0 @@
-And she went and did according to the saying of Elijah: and she, and he, and her house, did eat many days.

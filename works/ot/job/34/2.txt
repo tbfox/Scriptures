@@ -1,1 +1,0 @@
-Hear my words, O ye wise men; and give ear unto me, ye that have knowledge.

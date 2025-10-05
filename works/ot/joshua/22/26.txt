@@ -1,1 +1,0 @@
-Therefore we said, Let us now prepare to build us an altar, not for burnt offering, nor for sacrifice:

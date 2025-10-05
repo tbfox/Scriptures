@@ -1,1 +1,0 @@
-And thou shalt make upon the breastplate chains at the ends of wreathen work of pure gold.

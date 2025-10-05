@@ -1,1 +1,0 @@
-And the seed of Israel separated themselves from all strangers, and stood and confessed their sins, and the iniquities of their fathers.

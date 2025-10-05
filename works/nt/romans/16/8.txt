@@ -1,1 +1,0 @@
-Greet Amplias my beloved in the Lord.

@@ -1,1 +1,0 @@
-Therefore thus saith the LORD of hosts, the God of Israel; Behold, I will set my face against you for evil, and to cut off all Judah.

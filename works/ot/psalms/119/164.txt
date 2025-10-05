@@ -1,1 +1,0 @@
-Seven times a day do I praise thee because of thy righteous judgments.

@@ -1,1 +1,0 @@
-Who also hath gone about to profane the temple: whom we took, and would have judged according to our law.

@@ -1,1 +1,0 @@
-And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaketh better things than that of Abel.

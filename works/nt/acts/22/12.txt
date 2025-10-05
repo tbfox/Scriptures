@@ -1,1 +1,0 @@
-And one Ananias, a devout man according to the law, having a good report of all the Jews which dwelt there,

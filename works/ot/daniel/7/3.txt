@@ -1,1 +1,0 @@
-And four great beasts came up from the sea, diverse one from another.

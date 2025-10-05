@@ -1,1 +1,0 @@
-And she caught him by his garment, saying, Lie with me: and he left his garment in her hand, and fled, and got him out.

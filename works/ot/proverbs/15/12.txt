@@ -1,1 +1,0 @@
-A scorner loveth not one that reproveth him: neither will he go unto the wise.

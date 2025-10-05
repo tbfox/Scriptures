@@ -1,1 +1,0 @@
-Pass through thy land as a river, O daughter of Tarshish: there is no more strength.

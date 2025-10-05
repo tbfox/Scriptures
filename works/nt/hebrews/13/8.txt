@@ -1,1 +1,0 @@
-Jesus Christ the same yesterday, and to day, and for ever.

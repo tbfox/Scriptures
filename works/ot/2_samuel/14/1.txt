@@ -1,1 +1,0 @@
-Now Joab the son of Zeruiah perceived that the king's heart was toward Absalom.

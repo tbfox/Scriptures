@@ -1,1 +1,0 @@
-He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus.

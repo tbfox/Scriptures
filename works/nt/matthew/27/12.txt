@@ -1,1 +1,0 @@
-And when he was accused of the chief priests and elders, he answered nothing.

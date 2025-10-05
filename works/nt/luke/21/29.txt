@@ -1,1 +1,0 @@
-And he spake to them a parable; Behold the fig tree, and all the trees;

@@ -1,1 +1,0 @@
-Whence then cometh wisdom? and where is the place of understanding?

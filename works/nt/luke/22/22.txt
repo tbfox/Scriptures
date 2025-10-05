@@ -1,1 +1,0 @@
-And truly the Son of man goeth, as it was determined: but woe unto that man by whom he is betrayed!

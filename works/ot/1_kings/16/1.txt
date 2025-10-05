@@ -1,1 +1,0 @@
-Then the word of the LORD came to Jehu the son of Hanani against Baasha, saying,

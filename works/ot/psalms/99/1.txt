@@ -1,1 +1,0 @@
-The LORD reigneth; let the people tremble: he sitteth between the cherubims; let the earth be moved.

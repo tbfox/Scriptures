@@ -1,1 +1,0 @@
-Then Agrippa said unto Paul, Almost thou persuadest me to be a Christian.

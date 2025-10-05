@@ -1,1 +1,0 @@
-Miamin, Maadiah, Bilgah,

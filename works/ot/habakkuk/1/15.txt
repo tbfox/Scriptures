@@ -1,1 +1,0 @@
-They take up all of them with the angle, they catch them in their net, and gather them in their drag: therefore they rejoice and are glad.

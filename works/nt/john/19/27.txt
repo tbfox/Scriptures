@@ -1,1 +1,0 @@
-Then saith he to the disciple, Behold thy mother! And from that hour that disciple took her unto his own home.

@@ -1,1 +1,0 @@
-Shall mortal man be more just than God? shall a man be more pure than his maker?

@@ -1,1 +1,0 @@
-But six hundred men turned and fled to the wilderness unto the rock Rimmon, and abode in the rock Rimmon four months.

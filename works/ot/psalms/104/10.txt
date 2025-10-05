@@ -1,1 +1,0 @@
-He sendeth the springs into the valleys, which run among the hills.

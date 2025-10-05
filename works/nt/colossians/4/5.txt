@@ -1,1 +1,0 @@
-Walk in wisdom toward them that are without, redeeming the time.

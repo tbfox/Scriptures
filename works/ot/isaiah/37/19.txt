@@ -1,1 +1,0 @@
-And have cast their gods into the fire: for they were no gods, but the work of men's hands, wood and stone: therefore they have destroyed them.

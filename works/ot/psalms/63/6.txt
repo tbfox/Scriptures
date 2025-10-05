@@ -1,1 +1,0 @@
-When I remember thee upon my bed, and meditate on thee in the night watches.

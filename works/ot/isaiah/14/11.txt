@@ -1,1 +1,0 @@
-Thy pomp is brought down to the grave, and the noise of thy viols: the worm is spread under thee, and the worms cover thee.

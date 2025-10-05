@@ -1,1 +1,0 @@
-And they tempted God in their heart by asking meat for their lust.

@@ -1,1 +1,0 @@
-But with an overrunning flood he will make an utter end of the place thereof, and darkness shall pursue his enemies.

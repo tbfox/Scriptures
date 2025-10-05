@@ -1,1 +1,0 @@
-And he departed thence, and entered into a certain man's house, named Justus, one that worshipped God, whose house joined hard to the synagogue.

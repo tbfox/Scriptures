@@ -1,1 +1,0 @@
-Then said they unto him, Who art thou? And Jesus saith unto them, Even the same that I said unto you from the beginning.

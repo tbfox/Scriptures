@@ -1,1 +1,0 @@
-And he said unto them, Go ye into all the world, and preach the gospel to every creature.

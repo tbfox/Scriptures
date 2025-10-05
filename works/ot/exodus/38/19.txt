@@ -1,1 +1,0 @@
-And their pillars were four, and their sockets of brass four; their hooks of silver, and the overlaying of their chapiters and their fillets of silver.

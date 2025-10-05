@@ -1,1 +1,0 @@
-Thou art good, and doest good; teach me thy statutes.

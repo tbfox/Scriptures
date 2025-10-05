@@ -1,1 +1,0 @@
-Sing and rejoice, O daughter of Zion: for, lo, I come, and I will dwell in the midst of thee, saith the LORD.

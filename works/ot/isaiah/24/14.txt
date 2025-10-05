@@ -1,1 +1,0 @@
-They shall lift up their voice, they shall sing for the majesty of the LORD, they shall cry aloud from the sea.

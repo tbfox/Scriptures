@@ -1,1 +1,0 @@
-And seek not ye what ye shall eat, or what ye shall drink, neither be ye of doubtful mind.

@@ -1,1 +1,0 @@
-O Israel, thou hast destroyed thyself; but in me is thine help.

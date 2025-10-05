@@ -1,1 +1,0 @@
-Zadok his son, Ahimaaz his son.

@@ -1,1 +1,0 @@
-Thou hast commanded us to keep thy precepts diligently.

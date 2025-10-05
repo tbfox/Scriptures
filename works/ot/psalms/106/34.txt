@@ -1,1 +1,0 @@
-They did not destroy the nations, concerning whom the LORD commanded them:

@@ -1,1 +1,0 @@
-Then let me sow, and let another eat; yea, let my offspring be rooted out.

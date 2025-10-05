@@ -1,1 +1,0 @@
-That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth;

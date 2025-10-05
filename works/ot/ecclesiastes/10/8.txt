@@ -1,1 +1,0 @@
-He that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him.

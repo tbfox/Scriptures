@@ -1,1 +1,0 @@
-For the LORD is our judge, the LORD is our lawgiver, the LORD is our king; he will save us.

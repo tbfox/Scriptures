@@ -1,1 +1,0 @@
-None is so fierce that dare stir him up: who then is able to stand before me?

@@ -1,1 +1,0 @@
-When the wicked cometh, then cometh also contempt, and with ignominy reproach.

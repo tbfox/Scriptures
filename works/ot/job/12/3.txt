@@ -1,1 +1,0 @@
-But I have understanding as well as you; I am not inferior to you: yea, who knoweth not such things as these?

@@ -1,1 +1,0 @@
-The Lord said, I will bring again from Bashan, I will bring my people again from the depths of the sea:

@@ -1,1 +1,0 @@
-He hath made his wonderful works to be remembered: the LORD is gracious and full of compassion.

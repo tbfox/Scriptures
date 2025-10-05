@@ -1,1 +1,0 @@
-Quicken me, O LORD, for thy name's sake: for thy righteousness' sake bring my soul out of trouble.

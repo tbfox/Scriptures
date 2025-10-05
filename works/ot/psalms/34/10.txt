@@ -1,1 +1,0 @@
-The young lions do lack, and suffer hunger: but they that seek the LORD shall not want any good thing.

@@ -1,1 +1,0 @@
-That ye submit yourselves unto such, and to every one that helpeth with us, and laboureth.

@@ -1,1 +1,0 @@
-That they may know that this is thy hand; that thou, LORD, hast done it.

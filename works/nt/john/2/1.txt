@@ -1,1 +1,0 @@
-And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:

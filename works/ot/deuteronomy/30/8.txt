@@ -1,1 +1,0 @@
-And thou shalt return and obey the voice of the LORD, and do all his commandments which I command thee this day.

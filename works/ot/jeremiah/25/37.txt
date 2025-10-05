@@ -1,1 +1,0 @@
-And the peaceable habitations are cut down because of the fierce anger of the LORD.

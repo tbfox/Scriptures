@@ -1,1 +1,0 @@
-And he turned him unto his disciples, and said privately, Blessed are the eyes which see the things that ye see:

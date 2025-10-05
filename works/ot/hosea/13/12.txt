@@ -1,1 +1,0 @@
-The iniquity of Ephraim is bound up; his sin is hid.

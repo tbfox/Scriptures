@@ -1,1 +1,0 @@
-And they shall know that I am the LORD, when I shall scatter them among the nations, and disperse them in the countries.

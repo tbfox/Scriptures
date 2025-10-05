@@ -1,1 +1,0 @@
-Then took they him, and led him, and brought him into the high priest's house. And Peter followed afar off.

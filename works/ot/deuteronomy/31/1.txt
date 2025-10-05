@@ -1,1 +1,0 @@
-And Moses went and spake these words unto all Israel.

@@ -1,1 +1,0 @@
-And Heshbon with her suburbs, and Jazer with her suburbs.

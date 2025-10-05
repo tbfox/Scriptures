@@ -1,1 +1,0 @@
-For these be the days of vengeance, that all things which are written may be fulfilled.

@@ -1,1 +1,0 @@
-And the children of Israel set forward, and pitched in Oboth.

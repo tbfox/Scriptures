@@ -1,1 +1,0 @@
-There was then no king in Edom: a deputy was king.

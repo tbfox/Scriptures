@@ -1,1 +1,0 @@
-And the children of Anah were these; Dishon, and Aholibamah the daughter of Anah.

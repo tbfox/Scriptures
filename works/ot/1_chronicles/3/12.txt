@@ -1,1 +1,0 @@
-Amaziah his son, Azariah his son, Jotham his son,

@@ -1,1 +1,0 @@
-And of thy mercy cut off mine enemies, and destroy all them that afflict my soul: for I am thy servant.

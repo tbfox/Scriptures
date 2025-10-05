@@ -1,1 +1,0 @@
-I was dumb, I opened not my mouth; because thou didst it.

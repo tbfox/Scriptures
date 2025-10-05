@@ -1,1 +1,0 @@
-Nevertheless they did flatter him with their mouth, and they lied unto him with their tongues.

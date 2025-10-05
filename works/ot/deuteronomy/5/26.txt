@@ -1,1 +1,0 @@
-For who is there of all flesh, that hath heard the voice of the living God speaking out of the midst of the fire, as we have, and lived?

@@ -1,1 +1,0 @@
-Thy testimonies have I taken as an heritage for ever: for they are the rejoicing of my heart.

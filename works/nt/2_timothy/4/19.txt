@@ -1,1 +1,0 @@
-Salute Prisca and Aquila, and the household of Onesiphorus.

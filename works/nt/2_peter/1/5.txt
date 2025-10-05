@@ -1,1 +1,0 @@
-And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;

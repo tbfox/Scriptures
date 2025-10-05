@@ -1,1 +1,0 @@
-And a tenth part of an ephah of flour for a meat offering, mingled with the fourth part of an hin of beaten oil.

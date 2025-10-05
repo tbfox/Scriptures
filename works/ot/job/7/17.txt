@@ -1,1 +1,0 @@
-What is man, that thou shouldest magnify him? and that thou shouldest set thine heart upon him?

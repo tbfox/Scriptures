@@ -1,1 +1,0 @@
-A voice of crying shall be from Horonaim, spoiling and great destruction.

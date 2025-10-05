@@ -1,1 +1,0 @@
-And all Naphtali, and the land of Ephraim, and Manasseh, and all the land of Judah, unto the utmost sea,

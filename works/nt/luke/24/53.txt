@@ -1,1 +1,0 @@
-And were continually in the temple, praising and blessing God. Amen.

@@ -1,1 +1,0 @@
-And I appoint unto you a kingdom, as my Father hath appointed unto me;

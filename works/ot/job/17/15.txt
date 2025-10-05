@@ -1,1 +1,0 @@
-And where is now my hope? as for my hope, who shall see it?

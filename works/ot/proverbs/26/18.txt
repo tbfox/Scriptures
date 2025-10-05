@@ -1,1 +1,0 @@
-As a mad man who casteth firebrands, arrows, and death,

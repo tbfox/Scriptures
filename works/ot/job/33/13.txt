@@ -1,1 +1,0 @@
-Why dost thou strive against him? for he giveth not account of any of his matters.

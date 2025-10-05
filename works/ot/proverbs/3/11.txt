@@ -1,1 +1,0 @@
-My son, despise not the chastening of the LORD; neither be weary of his correction:

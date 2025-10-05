@@ -1,1 +1,0 @@
-Now Annas had sent him bound unto Caiaphas the high priest.

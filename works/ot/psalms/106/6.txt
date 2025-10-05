@@ -1,1 +1,0 @@
-We have sinned with our fathers, we have committed iniquity, we have done wickedly.

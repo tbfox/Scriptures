@@ -1,1 +1,0 @@
-The lot is cast into the lap; but the whole disposing thereof is of the LORD.

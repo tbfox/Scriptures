@@ -1,1 +1,0 @@
-Is not thy wickedness great? and thine iniquities infinite?

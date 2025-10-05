@@ -1,1 +1,0 @@
-But I determined this with myself, that I would not come again to you in heaviness.

@@ -1,1 +1,0 @@
-The LORD spake also unto me again, saying,

@@ -1,1 +1,0 @@
-And God remembered Rachel, and God hearkened to her, and opened her womb.

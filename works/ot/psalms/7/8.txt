@@ -1,1 +1,0 @@
-The LORD shall judge the people: judge me, O LORD, according to my righteousness, and according to mine integrity that is in me.

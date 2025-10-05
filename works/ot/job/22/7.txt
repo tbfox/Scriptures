@@ -1,1 +1,0 @@
-Thou hast not given water to the weary to drink, and thou hast withholden bread from the hungry.

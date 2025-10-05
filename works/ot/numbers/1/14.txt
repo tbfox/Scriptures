@@ -1,1 +1,0 @@
-Of Gad; Eliasaph the son of Deuel.

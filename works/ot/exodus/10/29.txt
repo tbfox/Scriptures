@@ -1,1 +1,0 @@
-And Moses said, Thou hast spoken well, I will see thy face again no more.

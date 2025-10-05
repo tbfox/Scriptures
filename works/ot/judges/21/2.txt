@@ -1,1 +1,0 @@
-And the people came to the house of God, and abode there till even before God, and lifted up their voices, and wept sore;

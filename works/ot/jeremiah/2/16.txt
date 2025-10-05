@@ -1,1 +1,0 @@
-Also the children of Noph and Tahapanes have broken the crown of thy head.

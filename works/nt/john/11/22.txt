@@ -1,1 +1,0 @@
-But I know, that even now, whatsoever thou wilt ask of God, God will give it thee.

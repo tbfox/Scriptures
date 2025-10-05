@@ -1,1 +1,0 @@
-Concerning zeal, persecuting the church; touching the righteousness which is in the law, blameless.

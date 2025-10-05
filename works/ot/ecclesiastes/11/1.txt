@@ -1,1 +1,0 @@
-Cast thy bread upon the waters: for thou shalt find it after many days.

@@ -1,1 +1,0 @@
-Again, the kingdom of heaven is like unto a merchant man, seeking goodly pearls:

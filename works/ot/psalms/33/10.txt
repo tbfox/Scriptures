@@ -1,1 +1,0 @@
-The LORD bringeth the counsel of the heathen to nought: he maketh the devices of the people of none effect.

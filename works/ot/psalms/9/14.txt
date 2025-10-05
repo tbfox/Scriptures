@@ -1,1 +1,0 @@
-That I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation.

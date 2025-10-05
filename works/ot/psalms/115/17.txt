@@ -1,1 +1,0 @@
-The dead praise not the LORD, neither any that go down into silence.

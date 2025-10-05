@@ -1,1 +1,0 @@
-And he bought a parcel of a field, where he had spread his tent, at the hand of the children of Hamor, Shechem's father, for an hundred pieces of money.

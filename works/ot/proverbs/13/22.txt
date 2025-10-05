@@ -1,1 +1,0 @@
-A good man leaveth an inheritance to his children's children: and the wealth of the sinner is laid up for the just.

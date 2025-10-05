@@ -1,1 +1,0 @@
-Surely thou didst set them in slippery places: thou castedst them down into destruction.

@@ -1,1 +1,0 @@
-Go to the ant, thou sluggard; consider her ways, and be wise:

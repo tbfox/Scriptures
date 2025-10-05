@@ -1,1 +1,0 @@
-Thou shalt not deliver unto his master the servant which is escaped from his master unto thee:

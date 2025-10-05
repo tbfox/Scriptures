@@ -1,1 +1,0 @@
-Men do therefore fear him: he respecteth not any that are wise of heart.

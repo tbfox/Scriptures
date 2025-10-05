@@ -1,1 +1,0 @@
-It stood still, but I could not discern the form thereof: an image was before mine eyes, there was silence, and I heard a voice, saying,

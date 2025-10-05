@@ -1,1 +1,0 @@
-Will he reserve his anger for ever? will he keep it to the end? Behold, thou hast spoken and done evil things as thou couldest.

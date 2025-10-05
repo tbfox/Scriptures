@@ -1,1 +1,0 @@
-And Pilate, when he had called together the chief priests and the rulers and the people,

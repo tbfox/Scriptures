@@ -1,1 +1,0 @@
-The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light.

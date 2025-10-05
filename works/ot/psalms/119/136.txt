@@ -1,1 +1,0 @@
-Rivers of waters run down mine eyes, because they keep not thy law.

@@ -1,1 +1,0 @@
-And when he was come near, he beheld the city, and wept over it,

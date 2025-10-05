@@ -1,1 +1,0 @@
-Slay them not, lest my people forget: scatter them by thy power; and bring them down, O Lord our shield.

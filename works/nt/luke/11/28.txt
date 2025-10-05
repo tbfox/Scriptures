@@ -1,1 +1,0 @@
-But he said, Yea rather, blessed are they that hear the word of God, and keep it.

@@ -1,1 +1,0 @@
-And he shall take a wife in her virginity.

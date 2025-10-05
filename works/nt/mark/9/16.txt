@@ -1,1 +1,0 @@
-And he asked the scribes, What question ye with them?

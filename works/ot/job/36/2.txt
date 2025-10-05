@@ -1,1 +1,0 @@
-Suffer me a little, and I will shew thee that I have yet to speak on God's behalf.

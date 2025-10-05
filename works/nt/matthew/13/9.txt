@@ -1,1 +1,0 @@
-Who hath ears to hear, let him hear.

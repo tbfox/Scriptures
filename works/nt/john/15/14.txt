@@ -1,1 +1,0 @@
-Ye are my friends, if ye do whatsoever I command you.

@@ -1,1 +1,0 @@
-As far as the east is from the west, so far hath he removed our transgressions from us.

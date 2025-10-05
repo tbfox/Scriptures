@@ -1,1 +1,0 @@
-And Sarah said, God hath made me to laugh, so that all that hear will laugh with me.

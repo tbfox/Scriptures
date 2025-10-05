@@ -1,1 +1,0 @@
-For he saith to the snow, Be thou on the earth; likewise to the small rain, and to the great rain of his strength.

@@ -1,1 +1,0 @@
-And there were seven sons of one Sceva, a Jew, and chief of the priests, which did so.

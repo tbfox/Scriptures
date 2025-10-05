@@ -1,1 +1,0 @@
-The sons of Naphtali; Jahziel, and Guni, and Jezer, and Shallum, the sons of Bilhah.

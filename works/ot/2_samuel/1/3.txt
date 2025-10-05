@@ -1,1 +1,0 @@
-And David said unto him, From whence comest thou? And he said unto him, Out of the camp of Israel am I escaped.

@@ -1,1 +1,0 @@
-And these are the names of the sons of Gershon by their families; Libni, and Shimei.

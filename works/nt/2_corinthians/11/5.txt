@@ -1,1 +1,0 @@
-For I suppose I was not a whit behind the very chiefest apostles.

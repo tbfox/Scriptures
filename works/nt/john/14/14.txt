@@ -1,1 +1,0 @@
-If ye shall ask any thing in my name, I will do it.

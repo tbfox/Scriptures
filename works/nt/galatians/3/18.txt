@@ -1,1 +1,0 @@
-For if the inheritance be of the law, it is no more of promise: but God gave it to Abraham by promise.

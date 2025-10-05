@@ -1,1 +1,0 @@
-At the end of twelve months he walked in the palace of the kingdom of Babylon.

@@ -1,1 +1,0 @@
-And the man that committeth adultery with another man's wife, even he that committeth adultery with his neighbour's wife, the adulterer and the adulteress shall surely be put to death.

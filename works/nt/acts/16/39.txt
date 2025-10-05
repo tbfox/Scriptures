@@ -1,1 +1,0 @@
-And they came and besought them, and brought them out, and desired them to depart out of the city.

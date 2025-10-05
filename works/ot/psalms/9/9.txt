@@ -1,1 +1,0 @@
-The LORD also will be a refuge for the oppressed, a refuge in times of trouble.

@@ -1,1 +1,0 @@
-The Kenites, and the Kenizzites, and the Kadmonites,

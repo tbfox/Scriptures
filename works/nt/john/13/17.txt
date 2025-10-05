@@ -1,1 +1,0 @@
-If ye know these things, happy are ye if ye do them.

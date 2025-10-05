@@ -1,1 +1,0 @@
-And as one of them opened his sack to give his ass provender in the inn, he espied his money; for, behold, it was in his sack's mouth.

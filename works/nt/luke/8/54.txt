@@ -1,1 +1,0 @@
-And he put them all out, and took her by the hand, and called, saying, Maid, arise.

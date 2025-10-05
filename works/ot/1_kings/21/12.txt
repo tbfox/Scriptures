@@ -1,1 +1,0 @@
-They proclaimed a fast, and set Naboth on high among the people.

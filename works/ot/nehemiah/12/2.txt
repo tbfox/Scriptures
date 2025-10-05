@@ -1,1 +1,0 @@
-Amariah, Malluch, Hattush,

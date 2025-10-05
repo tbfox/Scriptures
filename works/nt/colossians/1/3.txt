@@ -1,1 +1,0 @@
-We give thanks to God and the Father of our Lord Jesus Christ, praying always for you,

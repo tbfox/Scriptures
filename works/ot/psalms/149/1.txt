@@ -1,1 +1,0 @@
-Praise ye the LORD. Sing unto the LORD a new song, and his praise in the congregation of saints.

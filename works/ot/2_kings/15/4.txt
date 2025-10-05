@@ -1,1 +1,0 @@
-Save that the high places were not removed: the people sacrificed and burnt incense still on the high places.

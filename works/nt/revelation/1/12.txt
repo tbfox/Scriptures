@@ -1,1 +1,0 @@
-And I turned to see the voice that spake with me. And being turned, I saw seven golden candlesticks;

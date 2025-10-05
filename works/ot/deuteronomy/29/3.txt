@@ -1,1 +1,0 @@
-The great temptations which thine eyes have seen, the signs, and those great miracles:

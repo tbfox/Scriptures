@@ -1,1 +1,0 @@
-(Which he had promised afore by his prophets in the holy scriptures,)

@@ -1,1 +1,0 @@
-I will hear what God the LORD will speak: for he will speak peace unto his people, and to his saints: but let them not turn again to folly.

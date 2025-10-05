@@ -1,1 +1,0 @@
-Or, Deliver me from the enemy's hand? or, Redeem me from the hand of the mighty?

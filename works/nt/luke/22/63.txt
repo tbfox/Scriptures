@@ -1,1 +1,0 @@
-And the men that held Jesus mocked him, and smote him.

@@ -1,1 +1,0 @@
-Prepare the table, watch in the watchtower, eat, drink: arise, ye princes, and anoint the shield.

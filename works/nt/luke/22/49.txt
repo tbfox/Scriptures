@@ -1,1 +1,0 @@
-When they which were about him saw what would follow, they said unto him, Lord, shall we smite with the sword?

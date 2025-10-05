@@ -1,1 +1,0 @@
-The labour of the foolish wearieth every one of them, because he knoweth not how to go to the city.

@@ -1,1 +1,0 @@
-He that believeth and is baptized shall be saved; but he that believeth not shall be damned.

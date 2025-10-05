@@ -1,1 +1,0 @@
-And the LORD said unto Moses in Midian, Go, return into Egypt: for all the men are dead which sought thy life.

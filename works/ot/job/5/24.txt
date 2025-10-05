@@ -1,1 +1,0 @@
-And thou shalt know that thy tabernacle shall be in peace; and thou shalt visit thy habitation, and shalt not sin.

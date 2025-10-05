@@ -1,1 +1,0 @@
-They would none of my counsel: they despised all my reproof.

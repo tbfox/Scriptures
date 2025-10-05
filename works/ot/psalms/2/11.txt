@@ -1,1 +1,0 @@
-Serve the LORD with fear, and rejoice with trembling.

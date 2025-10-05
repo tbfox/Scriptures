@@ -1,1 +1,0 @@
-The statutes of the LORD are right, rejoicing the heart: the commandment of the LORD is pure, enlightening the eyes.

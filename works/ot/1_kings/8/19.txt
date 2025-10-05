@@ -1,1 +1,0 @@
-Nevertheless thou shalt not build the house; but thy son that shall come forth out of thy loins, he shall build the house unto my name.

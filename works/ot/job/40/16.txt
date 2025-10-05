@@ -1,1 +1,0 @@
-Lo now, his strength is in his loins, and his force is in the navel of his belly.

@@ -1,1 +1,0 @@
-For I was envious at the foolish, when I saw the prosperity of the wicked.

@@ -1,1 +1,0 @@
-And the women answered one another as they played, and said, Saul hath slain his thousands, and David his ten thousands.

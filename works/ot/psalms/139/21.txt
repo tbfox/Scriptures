@@ -1,1 +1,0 @@
-Do not I hate them, O LORD, that hate thee? and am not I grieved with those that rise up against thee?

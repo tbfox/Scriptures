@@ -1,1 +1,0 @@
-I thank my God, I speak with tongues more than ye all:

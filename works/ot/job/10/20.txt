@@ -1,1 +1,0 @@
-Are not my days few? cease then, and let me alone, that I may take comfort a little,

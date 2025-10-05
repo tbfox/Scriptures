@@ -1,1 +1,0 @@
-My skin is black upon me, and my bones are burned with heat.

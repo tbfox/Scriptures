@@ -1,1 +1,0 @@
-All the saints salute you.

@@ -1,1 +1,0 @@
-In those days the LORD began to cut Israel short: and Hazael smote them in all the coasts of Israel;

@@ -1,1 +1,0 @@
-Take away the wicked from before the king, and his throne shall be established in righteousness.

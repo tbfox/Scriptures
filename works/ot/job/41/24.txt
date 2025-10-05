@@ -1,1 +1,0 @@
-His heart is as firm as a stone; yea, as hard as a piece of the nether millstone.

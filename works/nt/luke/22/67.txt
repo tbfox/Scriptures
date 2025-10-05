@@ -1,1 +1,0 @@
-Art thou the Christ? tell us. And he said unto them, If I tell you, ye will not believe:

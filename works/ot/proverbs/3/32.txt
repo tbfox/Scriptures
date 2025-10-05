@@ -1,1 +1,0 @@
-For the froward is abomination to the LORD: but his secret is with the righteous.

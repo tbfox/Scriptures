@@ -1,1 +1,0 @@
-So that he forsook the tabernacle of Shiloh, the tent which he placed among men;

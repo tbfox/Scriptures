@@ -1,1 +1,0 @@
-And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods.

@@ -1,1 +1,0 @@
-And the angel of the LORD called unto Abraham out of heaven the second time,

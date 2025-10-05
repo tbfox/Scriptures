@@ -1,1 +1,0 @@
-Great peace have they which love thy law: and nothing shall offend them.

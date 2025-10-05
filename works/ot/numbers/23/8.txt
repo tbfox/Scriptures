@@ -1,1 +1,0 @@
-How shall I curse, whom God hath not cursed? or how shall I defy, whom the LORD hath not defied?

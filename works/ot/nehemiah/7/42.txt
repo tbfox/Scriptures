@@ -1,1 +1,0 @@
-The children of Harim, a thousand and seventeen.

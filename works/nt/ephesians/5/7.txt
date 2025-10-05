@@ -1,1 +1,0 @@
-Be not ye therefore partakers with them.

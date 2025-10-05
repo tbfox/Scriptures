@@ -1,1 +1,0 @@
-And when he had spent all, there arose a mighty famine in that land; and he began to be in want.

@@ -1,1 +1,0 @@
-Ye judge after the flesh; I judge no man.

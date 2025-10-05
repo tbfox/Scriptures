@@ -1,1 +1,0 @@
-A greyhound; an he goat also; and a king, against whom there is no rising up.

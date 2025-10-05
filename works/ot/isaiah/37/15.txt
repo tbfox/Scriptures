@@ -1,1 +1,0 @@
-And Hezekiah prayed unto the LORD, saying,

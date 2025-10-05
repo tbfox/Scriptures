@@ -1,1 +1,0 @@
-Seraiah, Azariah, Jeremiah,

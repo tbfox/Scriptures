@@ -1,1 +1,0 @@
-Acquaint now thyself with him, and be at peace: thereby good shall come unto thee.

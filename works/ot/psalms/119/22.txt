@@ -1,1 +1,0 @@
-Remove from me reproach and contempt; for I have kept thy testimonies.

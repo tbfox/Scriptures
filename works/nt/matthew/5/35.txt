@@ -1,1 +1,0 @@
-Nor by the earth; for it is his footstool: neither by Jerusalem; for it is the city of the great King.

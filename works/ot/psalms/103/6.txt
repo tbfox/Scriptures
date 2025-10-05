@@ -1,1 +1,0 @@
-The LORD executeth righteousness and judgment for all that are oppressed.

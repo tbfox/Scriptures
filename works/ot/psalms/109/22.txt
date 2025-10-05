@@ -1,1 +1,0 @@
-For I am poor and needy, and my heart is wounded within me.

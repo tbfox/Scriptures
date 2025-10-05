@@ -1,1 +1,0 @@
-But now he hath made me weary: thou hast made desolate all my company.

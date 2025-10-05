@@ -1,1 +1,0 @@
-But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion on him,

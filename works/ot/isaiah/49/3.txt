@@ -1,1 +1,0 @@
-And said unto me, Thou art my servant, O Israel, in whom I will be glorified.

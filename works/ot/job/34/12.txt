@@ -1,1 +1,0 @@
-Yea, surely God will not do wickedly, neither will the Almighty pervert judgment.

@@ -1,1 +1,0 @@
-Let my prayer be set forth before thee as incense; and the lifting up of my hands as the evening sacrifice.

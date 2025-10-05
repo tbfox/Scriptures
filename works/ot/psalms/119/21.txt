@@ -1,1 +1,0 @@
-Thou hast rebuked the proud that are cursed, which do err from thy commandments.

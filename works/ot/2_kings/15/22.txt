@@ -1,1 +1,0 @@
-And Menahem slept with his fathers; and Pekahiah his son reigned in his stead.

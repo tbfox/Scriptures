@@ -1,1 +1,0 @@
-And thou shalt take two onyx stones, and grave on them the names of the children of Israel:

@@ -1,1 +1,0 @@
-But ye should say, Why persecute we him, seeing the root of the matter is found in me?

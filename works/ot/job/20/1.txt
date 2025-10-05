@@ -1,1 +1,0 @@
-Then answered Zophar the Naamathite, and said,

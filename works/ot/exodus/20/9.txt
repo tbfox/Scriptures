@@ -1,1 +1,0 @@
-Six days shalt thou labour, and do all thy work:

@@ -1,1 +1,0 @@
-I am come a light into the world, that whosoever believeth on me should not abide in darkness.

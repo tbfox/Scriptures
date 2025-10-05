@@ -1,1 +1,0 @@
-Alexander the coppersmith did me much evil: the Lord reward him according to his works:

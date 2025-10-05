@@ -1,1 +1,0 @@
-She dwelleth and abideth on the rock, upon the crag of the rock, and the strong place.

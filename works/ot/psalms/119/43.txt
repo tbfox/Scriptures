@@ -1,1 +1,0 @@
-And take not the word of truth utterly out of my mouth; for I have hoped in thy judgments.

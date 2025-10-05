@@ -1,1 +1,0 @@
-Behold, the day of the LORD cometh, and thy spoil shall be divided in the midst of thee.

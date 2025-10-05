@@ -1,1 +1,0 @@
-I am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears.

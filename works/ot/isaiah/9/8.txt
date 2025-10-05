@@ -1,1 +1,0 @@
-The Lord sent a word into Jacob, and it hath lighted upon Israel.

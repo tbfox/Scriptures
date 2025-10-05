@@ -1,1 +1,0 @@
-Therefore speak I to them in parables: because they seeing see not; and hearing they hear not, neither do they understand.

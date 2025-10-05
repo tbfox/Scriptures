@@ -1,1 +1,0 @@
-For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure unto him.

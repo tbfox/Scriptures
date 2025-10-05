@@ -1,1 +1,0 @@
-He then having received the sop went immediately out: and it was night.

@@ -1,1 +1,0 @@
-The just man walketh in his integrity: his children are blessed after him.

@@ -1,1 +1,0 @@
-The king of Tappuah, one; the king of Hepher, one;

@@ -1,1 +1,0 @@
-And Michal took an image, and laid it in the bed, and put a pillow of goats' hair for his bolster, and covered it with a cloth.

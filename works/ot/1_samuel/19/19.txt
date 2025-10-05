@@ -1,1 +1,0 @@
-And it was told Saul, saying, Behold, David is at Naioth in Ramah.

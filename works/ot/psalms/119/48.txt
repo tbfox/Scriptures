@@ -1,1 +1,0 @@
-My hands also will I lift up unto thy commandments, which I have loved; and I will meditate in thy statutes.

@@ -1,1 +1,0 @@
-Then delivered he him therefore unto them to be crucified. And they took Jesus, and led him away.

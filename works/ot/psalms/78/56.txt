@@ -1,1 +1,0 @@
-Yet they tempted and provoked the most high God, and kept not his testimonies:

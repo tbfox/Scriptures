@@ -1,1 +1,0 @@
-Apply thine heart unto instruction, and thine ears to the words of knowledge.

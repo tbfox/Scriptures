@@ -1,1 +1,0 @@
-Blessed be the LORD, who hath not given us as a prey to their teeth.

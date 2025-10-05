@@ -1,1 +1,0 @@
-For our light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory;

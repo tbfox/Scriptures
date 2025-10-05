@@ -1,1 +1,0 @@
-And the second is like, namely this, Thou shalt love thy neighbour as thyself. There is none other commandment greater than these.

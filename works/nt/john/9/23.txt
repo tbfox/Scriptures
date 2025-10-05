@@ -1,1 +1,0 @@
-Therefore said his parents, He is of age; ask him.

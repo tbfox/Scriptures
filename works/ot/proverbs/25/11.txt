@@ -1,1 +1,0 @@
-A word fitly spoken is like apples of gold in pictures of silver.

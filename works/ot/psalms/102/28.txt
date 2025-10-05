@@ -1,1 +1,0 @@
-The children of thy servants shall continue, and their seed shall be established before thee.

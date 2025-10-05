@@ -1,1 +1,0 @@
-And the oracle he prepared in the house within, to set there the ark of the covenant of the LORD.

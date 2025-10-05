@@ -1,1 +1,0 @@
-And heal the sick that are therein, and say unto them, The kingdom of God is come nigh unto you.

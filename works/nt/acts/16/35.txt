@@ -1,1 +1,0 @@
-And when it was day, the magistrates sent the serjeants, saying, Let those men go.

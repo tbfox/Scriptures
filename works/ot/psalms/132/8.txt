@@ -1,1 +1,0 @@
-Arise, O LORD, into thy rest; thou, and the ark of thy strength.

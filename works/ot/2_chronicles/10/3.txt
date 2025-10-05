@@ -1,1 +1,0 @@
-And they sent and called him. So Jeroboam and all Israel came and spake to Rehoboam, saying,

@@ -1,1 +1,0 @@
-I will give thee thanks in the great congregation: I will praise thee among much people.

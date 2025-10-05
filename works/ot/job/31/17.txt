@@ -1,1 +1,0 @@
-Or have eaten my morsel myself alone, and the fatherless hath not eaten thereof;

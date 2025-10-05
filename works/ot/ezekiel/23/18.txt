@@ -1,1 +1,0 @@
-So she discovered her whoredoms, and discovered her nakedness: then my mind was alienated from her, like as my mind was alienated from her sister.

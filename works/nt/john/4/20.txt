@@ -1,1 +1,0 @@
-Our fathers worshipped in this mountain; and ye say, that in Jerusalem is the place where men ought to worship.

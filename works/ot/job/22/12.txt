@@ -1,1 +1,0 @@
-Is not God in the height of heaven? and behold the height of the stars, how high they are!

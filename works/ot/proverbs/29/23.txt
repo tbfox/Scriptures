@@ -1,1 +1,0 @@
-A man's pride shall bring him low: but honour shall uphold the humble in spirit.

@@ -1,1 +1,0 @@
-The LORD is far from the wicked: but he heareth the prayer of the righteous.

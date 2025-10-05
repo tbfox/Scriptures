@@ -1,1 +1,0 @@
-But Abijah waxed mighty, and married fourteen wives, and begat twenty and two sons, and sixteen daughters.

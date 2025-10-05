@@ -1,1 +1,0 @@
-And had commanded him concerning this thing, that he should not go after other gods: but he kept not that which the LORD commanded.

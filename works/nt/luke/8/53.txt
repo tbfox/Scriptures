@@ -1,1 +1,0 @@
-And they laughed him to scorn, knowing that she was dead.

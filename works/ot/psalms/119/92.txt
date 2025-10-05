@@ -1,1 +1,0 @@
-Unless thy law had been my delights, I should then have perished in mine affliction.

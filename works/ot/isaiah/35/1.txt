@@ -1,1 +1,0 @@
-The wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose.

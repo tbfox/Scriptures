@@ -1,1 +1,0 @@
-I made haste, and delayed not to keep thy commandments.

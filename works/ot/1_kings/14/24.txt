@@ -1,1 +1,0 @@
-And there were also sodomites in the land: and they did according to all the abominations of the nations which the LORD cast out before the children of Israel.

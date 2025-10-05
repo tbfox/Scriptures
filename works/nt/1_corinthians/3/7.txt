@@ -1,1 +1,0 @@
-So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase.

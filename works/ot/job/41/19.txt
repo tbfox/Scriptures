@@ -1,1 +1,0 @@
-Out of his mouth go burning lamps, and sparks of fire leap out.

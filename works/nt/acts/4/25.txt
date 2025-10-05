@@ -1,1 +1,0 @@
-Who by the mouth of thy servant David hast said, Why did the heathen rage, and the people imagine vain things?

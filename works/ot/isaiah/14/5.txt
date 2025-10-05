@@ -1,1 +1,0 @@
-The LORD hath broken the staff of the wicked, and the sceptre of the rulers.

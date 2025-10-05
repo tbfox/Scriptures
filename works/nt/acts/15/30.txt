@@ -1,1 +1,0 @@
-So when they were dismissed, they came to Antioch: and when they had gathered the multitude together, they delivered the epistle:

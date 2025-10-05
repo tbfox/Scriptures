@@ -1,1 +1,0 @@
-I went mourning without the sun: I stood up, and I cried in the congregation.

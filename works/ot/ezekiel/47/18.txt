@@ -1,1 +1,0 @@
-And the east side ye shall measure from Hauran, and from Damascus, and from Gilead, and from the land of Israel by Jordan, from the border unto the east sea. And this is the east side.

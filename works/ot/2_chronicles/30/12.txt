@@ -1,1 +1,0 @@
-Also in Judah the hand of God was to give them one heart to do the commandment of the king and of the princes, by the word of the LORD.

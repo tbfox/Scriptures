@@ -1,1 +1,0 @@
-Burning for burning, wound for wound, stripe for stripe.

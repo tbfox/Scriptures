@@ -1,1 +1,0 @@
-And all the days of Seth were nine hundred and twelve years: and he died.

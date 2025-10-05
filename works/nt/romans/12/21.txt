@@ -1,1 +1,0 @@
-Be not overcome of evil, but overcome evil with good.

@@ -1,1 +1,0 @@
-All the congregation of Israel shall keep it.

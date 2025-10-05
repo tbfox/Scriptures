@@ -1,1 +1,0 @@
-And the gold of that land is good: there is bdellium and the onyx stone.

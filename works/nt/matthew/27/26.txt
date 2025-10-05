@@ -1,1 +1,0 @@
-Then released he Barabbas unto them: and when he had scourged Jesus, he delivered him to be crucified.

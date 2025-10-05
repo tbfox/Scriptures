@@ -1,1 +1,0 @@
-Is not this thy fear, thy confidence, thy hope, and the uprightness of thy ways?

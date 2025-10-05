@@ -1,1 +1,0 @@
-And Micaiah said, As the LORD liveth, what the LORD saith unto me, that will I speak.

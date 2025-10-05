@@ -1,1 +1,0 @@
-Behold, every one that useth proverbs shall use this proverb against thee, saying, As is the mother, so is her daughter.

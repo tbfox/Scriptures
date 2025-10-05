@@ -1,1 +1,0 @@
-And thou shalt bring the Levites before the LORD: and the children of Israel shall put their hands upon the Levites:

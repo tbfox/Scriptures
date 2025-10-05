@@ -1,1 +1,0 @@
-Simeon and Levi are brethren; instruments of cruelty are in their habitations.

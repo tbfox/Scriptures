@@ -1,1 +1,0 @@
-Thomas saith unto him, Lord, we know not whither thou goest; and how can we know the way?

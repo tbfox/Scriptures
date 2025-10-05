@@ -1,1 +1,0 @@
-Happy shall he be, that taketh and dasheth thy little ones against the stones.

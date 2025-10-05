@@ -1,1 +1,0 @@
-Or what shall a man give in exchange for his soul?

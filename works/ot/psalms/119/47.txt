@@ -1,1 +1,0 @@
-And I will delight myself in thy commandments, which I have loved.

@@ -1,1 +1,0 @@
-Having a form of godliness, but denying the power thereof: from such turn away.

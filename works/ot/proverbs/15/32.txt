@@ -1,1 +1,0 @@
-He that refuseth instruction despiseth his own soul: but he that heareth reproof getteth understanding.

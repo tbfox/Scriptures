@@ -1,1 +1,0 @@
-Greet all the brethren with an holy kiss.

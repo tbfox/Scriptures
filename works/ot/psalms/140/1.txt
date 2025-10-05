@@ -1,1 +1,0 @@
-Deliver me, O LORD, from the evil man: preserve me from the violent man;

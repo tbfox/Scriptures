@@ -1,1 +1,0 @@
-Now Hiram king of Tyre sent messengers to David, and timber of cedars, with masons and carpenters, to build him an house.

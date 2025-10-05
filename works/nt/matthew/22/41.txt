@@ -1,1 +1,0 @@
-While the Pharisees were gathered together, Jesus asked them,

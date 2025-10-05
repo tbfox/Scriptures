@@ -1,1 +1,0 @@
-Neither shalt thou steal.

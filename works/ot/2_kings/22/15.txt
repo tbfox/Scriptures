@@ -1,1 +1,0 @@
-And she said unto them, Thus saith the LORD God of Israel, Tell the man that sent you to me,

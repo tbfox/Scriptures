@@ -1,1 +1,0 @@
-For whosoever shall do the will of God, the same is my brother, and my sister, and mother.

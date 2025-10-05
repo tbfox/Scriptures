@@ -1,1 +1,0 @@
-But he, willing to justify himself, said unto Jesus, And who is my neighbour?

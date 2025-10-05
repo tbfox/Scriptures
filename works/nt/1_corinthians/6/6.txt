@@ -1,1 +1,0 @@
-But brother goeth to law with brother, and that before the unbelievers.

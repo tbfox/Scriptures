@@ -1,1 +1,0 @@
-Moreover the LORD answered Job, and said,

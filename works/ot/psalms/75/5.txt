@@ -1,1 +1,0 @@
-Lift not up your horn on high: speak not with a stiff neck.

@@ -1,1 +1,0 @@
-For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.

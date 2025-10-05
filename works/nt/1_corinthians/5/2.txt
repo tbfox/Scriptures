@@ -1,1 +1,0 @@
-And ye are puffed up, and have not rather mourned, that he that hath done this deed might be taken away from among you.

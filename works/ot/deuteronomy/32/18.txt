@@ -1,1 +1,0 @@
-Of the Rock that begat thee thou art unmindful, and hast forgotten God that formed thee.

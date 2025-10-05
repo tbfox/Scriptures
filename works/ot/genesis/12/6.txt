@@ -1,1 +1,0 @@
-And Abram passed through the land unto the place of Sichem, unto the plain of Moreh. And the Canaanite was then in the land.

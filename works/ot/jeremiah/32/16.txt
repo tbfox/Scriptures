@@ -1,1 +1,0 @@
-Now when I had delivered the evidence of the purchase unto Baruch the son of Neriah, I prayed unto the LORD, saying,

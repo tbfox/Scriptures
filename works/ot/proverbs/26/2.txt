@@ -1,1 +1,0 @@
-As the bird by wandering, as the swallow by flying, so the curse causeless shall not come.

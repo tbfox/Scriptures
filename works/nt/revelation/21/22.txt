@@ -1,1 +1,0 @@
-And I saw no temple therein: for the Lord God Almighty and the Lamb are the temple of it.

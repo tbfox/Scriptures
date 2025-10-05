@@ -1,1 +1,0 @@
-The king's wrath is as the roaring of a lion; but his favour is as dew upon the grass.

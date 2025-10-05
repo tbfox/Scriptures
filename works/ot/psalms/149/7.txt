@@ -1,1 +1,0 @@
-To execute vengeance upon the heathen, and punishments upon the people;

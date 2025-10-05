@@ -1,1 +1,0 @@
-Benaiah the Pirathonite, Hiddai of the brooks of Gaash,

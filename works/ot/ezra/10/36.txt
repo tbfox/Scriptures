@@ -1,1 +1,0 @@
-Vaniah, Meremoth, Eliashib,

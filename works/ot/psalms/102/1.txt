@@ -1,1 +1,0 @@
-Hear my prayer, O LORD, and let my cry come unto thee.

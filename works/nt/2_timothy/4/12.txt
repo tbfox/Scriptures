@@ -1,1 +1,0 @@
-And Tychicus have I sent to Ephesus.

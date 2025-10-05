@@ -1,1 +1,0 @@
-Of the sons of Elizaphan; Shemaiah the chief, and his brethren two hundred:

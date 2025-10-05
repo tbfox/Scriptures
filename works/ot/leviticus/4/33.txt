@@ -1,1 +1,0 @@
-And he shall lay his hand upon the head of the sin offering, and slay it for a sin offering in the place where they kill the burnt offering.

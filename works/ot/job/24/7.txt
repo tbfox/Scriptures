@@ -1,1 +1,0 @@
-They cause the naked to lodge without clothing, that they have no covering in the cold.

@@ -1,1 +1,0 @@
-The bands of the wicked have robbed me: but I have not forgotten thy law.

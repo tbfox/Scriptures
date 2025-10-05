@@ -1,1 +1,0 @@
-Then he that had received the five talents went and traded with the same, and made them other five talents.

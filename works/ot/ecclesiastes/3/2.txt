@@ -1,1 +1,0 @@
-A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted;

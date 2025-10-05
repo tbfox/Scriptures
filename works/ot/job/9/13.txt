@@ -1,1 +1,0 @@
-If God will not withdraw his anger, the proud helpers do stoop under him.

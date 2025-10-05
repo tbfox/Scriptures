@@ -1,1 +1,0 @@
-Jesus saith unto them, Have ye understood all these things? They say unto him, Yea, Lord.

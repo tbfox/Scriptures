@@ -1,1 +1,0 @@
-When thou art come into the land which the LORD thy God giveth thee, thou shalt not learn to do after the abominations of those nations.

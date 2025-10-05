@@ -1,1 +1,0 @@
-And he said, I beseech thee, shew me thy glory.

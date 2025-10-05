@@ -1,1 +1,0 @@
-Do all things without murmurings and disputings:

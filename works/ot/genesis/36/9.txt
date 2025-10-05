@@ -1,1 +1,0 @@
-And these are the generations of Esau the father of the Edomites in mount Seir:

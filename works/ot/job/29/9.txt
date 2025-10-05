@@ -1,1 +1,0 @@
-The princes refrained talking, and laid their hand on their mouth.

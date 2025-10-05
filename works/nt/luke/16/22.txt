@@ -1,1 +1,0 @@
-And it came to pass, that the beggar died, and was carried by the angels into Abraham's bosom: the rich man also died, and was buried;

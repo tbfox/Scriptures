@@ -1,1 +1,0 @@
-And Obed begat Jesse, and Jesse begat David.

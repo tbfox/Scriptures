@@ -1,1 +1,0 @@
-For he hath said, It profiteth a man nothing that he should delight himself with God.

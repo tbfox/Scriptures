@@ -1,1 +1,0 @@
-Since we heard of your faith in Christ Jesus, and of the love which ye have to all the saints,

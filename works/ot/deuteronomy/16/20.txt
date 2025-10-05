@@ -1,1 +1,0 @@
-That which is altogether just shalt thou follow, that thou mayest live, and inherit the land which the LORD thy God giveth thee.

@@ -1,1 +1,0 @@
-Take heed to thyself that thou offer not thy burnt offerings in every place that thou seest:

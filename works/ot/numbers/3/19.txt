@@ -1,1 +1,0 @@
-And the sons of Kohath by their families; Amram, and Izehar, Hebron, and Uzziel.

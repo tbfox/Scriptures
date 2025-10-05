@@ -1,1 +1,0 @@
-And the LORD spake unto Gad, David's seer, saying,

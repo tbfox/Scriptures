@@ -1,1 +1,0 @@
-I cried unto God with my voice, even unto God with my voice; and he gave ear unto me.

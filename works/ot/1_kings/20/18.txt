@@ -1,1 +1,0 @@
-And he said, Whether they be come out for peace, take them alive; or whether they be come out for war, take them alive.

@@ -1,1 +1,0 @@
-Hold not thy peace, O God of my praise;

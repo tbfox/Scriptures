@@ -1,1 +1,0 @@
-I rejoice at thy word, as one that findeth great spoil.

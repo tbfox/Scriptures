@@ -1,1 +1,0 @@
-For I am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better:

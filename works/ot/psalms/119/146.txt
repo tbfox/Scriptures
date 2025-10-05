@@ -1,1 +1,0 @@
-I cried unto thee; save me, and I shall keep thy testimonies.

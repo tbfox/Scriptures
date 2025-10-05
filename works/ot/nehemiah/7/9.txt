@@ -1,1 +1,0 @@
-The children of Shephatiah, three hundred seventy and two.

@@ -1,1 +1,0 @@
-Then Saul took three thousand chosen men out of all Israel, and went to seek David and his men upon the rocks of the wild goats.

@@ -1,1 +1,0 @@
-Gomer, and all his bands; the house of Togarmah of the north quarters, and all his bands: and many people with thee.

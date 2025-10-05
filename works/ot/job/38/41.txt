@@ -1,1 +1,0 @@
-Who provideth for the raven his food? when his young ones cry unto God, they wander for lack of meat.

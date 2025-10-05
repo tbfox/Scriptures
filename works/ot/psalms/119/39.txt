@@ -1,1 +1,0 @@
-Turn away my reproach which I fear: for thy judgments are good.

@@ -1,1 +1,0 @@
-And the ten bases, and ten lavers on the bases;

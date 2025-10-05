@@ -1,1 +1,0 @@
-They also do no iniquity: they walk in his ways.

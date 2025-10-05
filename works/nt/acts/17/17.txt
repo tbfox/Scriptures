@@ -1,1 +1,0 @@
-Therefore disputed he in the synagogue with the Jews, and with the devout persons, and in the market daily with them that met with him.

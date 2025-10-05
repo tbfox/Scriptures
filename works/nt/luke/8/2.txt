@@ -1,1 +1,0 @@
-And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven devils,

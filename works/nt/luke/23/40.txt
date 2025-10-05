@@ -1,1 +1,0 @@
-But the other answering rebuked him, saying, Dost not thou fear God, seeing thou art in the same condemnation?

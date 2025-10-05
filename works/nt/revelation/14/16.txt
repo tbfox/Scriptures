@@ -1,1 +1,0 @@
-And he that sat on the cloud thrust in his sickle on the earth; and the earth was reaped.

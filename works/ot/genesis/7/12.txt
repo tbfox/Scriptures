@@ -1,1 +1,0 @@
-And the rain was upon the earth forty days and forty nights.

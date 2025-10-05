@@ -1,1 +1,0 @@
-They conceive mischief, and bring forth vanity, and their belly prepareth deceit.

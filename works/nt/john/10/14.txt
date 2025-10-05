@@ -1,1 +1,0 @@
-I am the good shepherd, and know my sheep, and am known of mine.

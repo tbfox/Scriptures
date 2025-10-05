@@ -1,1 +1,0 @@
-I am come in my Father's name, and ye receive me not: if another shall come in his own name, him ye will receive.

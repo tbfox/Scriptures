@@ -1,1 +1,0 @@
-Be not desirous of his dainties: for they are deceitful meat.

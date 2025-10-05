@@ -1,1 +1,0 @@
-And thou shalt set the Levites before Aaron, and before his sons, and offer them for an offering unto the LORD.

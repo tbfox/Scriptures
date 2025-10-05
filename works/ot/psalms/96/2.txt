@@ -1,1 +1,0 @@
-Sing unto the LORD, bless his name; shew forth his salvation from day to day.

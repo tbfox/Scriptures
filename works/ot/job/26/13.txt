@@ -1,1 +1,0 @@
-By his spirit he hath garnished the heavens; his hand hath formed the crooked serpent.

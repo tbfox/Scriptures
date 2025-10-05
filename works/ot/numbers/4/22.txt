@@ -1,1 +1,0 @@
-Take also the sum of the sons of Gershon, throughout the houses of their fathers, by their families;

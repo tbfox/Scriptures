@@ -1,1 +1,0 @@
-According to all that the LORD commanded Moses, so the children of Israel made all the work.

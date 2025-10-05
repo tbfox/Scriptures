@@ -1,1 +1,0 @@
-Till he fill thy mouth with laughing, and thy lips with rejoicing.

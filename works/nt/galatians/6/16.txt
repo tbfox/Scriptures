@@ -1,1 +1,0 @@
-And as many as walk according to this rule, peace be on them, and mercy, and upon the Israel of God.

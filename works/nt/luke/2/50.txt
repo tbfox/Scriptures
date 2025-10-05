@@ -1,1 +1,0 @@
-And they understood not the saying which he spake unto them.

@@ -1,1 +1,0 @@
-Hereby ye shall be proved: By the life of Pharaoh ye shall not go forth hence, except your youngest brother come hither.

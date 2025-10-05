@@ -1,1 +1,0 @@
-Who will bring me into the strong city? who will lead me into Edom?

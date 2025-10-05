@@ -1,1 +1,0 @@
-The sons of Moses were, Gershom, and Eliezer.

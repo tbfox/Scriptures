@@ -1,1 +1,0 @@
-The law of thy mouth is better unto me than thousands of gold and silver.

@@ -1,1 +1,0 @@
-And he must needs go through Samaria.

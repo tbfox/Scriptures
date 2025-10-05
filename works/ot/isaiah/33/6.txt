@@ -1,1 +1,0 @@
-And wisdom and knowledge shall be the stability of thy times, and strength of salvation: the fear of the LORD is his treasure.

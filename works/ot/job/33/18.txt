@@ -1,1 +1,0 @@
-He keepeth back his soul from the pit, and his life from perishing by the sword.

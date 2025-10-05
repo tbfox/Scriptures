@@ -1,1 +1,0 @@
-Jesus said unto him, Let the dead bury their dead: but go thou and preach the kingdom of God.

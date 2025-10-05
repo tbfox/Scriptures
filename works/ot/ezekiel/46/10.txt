@@ -1,1 +1,0 @@
-And the prince in the midst of them, when they go in, shall go in; and when they go forth, shall go forth.

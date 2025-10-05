@@ -1,1 +1,0 @@
-Saying, I will declare thy name unto my brethren, in the midst of the church will I sing praise unto thee.

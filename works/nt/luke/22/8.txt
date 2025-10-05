@@ -1,1 +1,0 @@
-And he sent Peter and John, saying, Go and prepare us the passover, that we may eat.

@@ -1,1 +1,0 @@
-Then he found another man, and said, Smite me, I pray thee. And the man smote him, so that in smiting he wounded him.

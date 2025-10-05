@@ -1,1 +1,0 @@
-But she had brought them up to the roof of the house, and hid them with the stalks of flax, which she had laid in order upon the roof.

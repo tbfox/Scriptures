@@ -1,1 +1,0 @@
-Go and tell Hananiah, saying, Thus saith the LORD; Thou hast broken the yokes of wood; but thou shalt make for them yokes of iron.

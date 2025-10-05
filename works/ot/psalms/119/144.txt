@@ -1,1 +1,0 @@
-The righteousness of thy testimonies is everlasting: give me understanding, and I shall live.

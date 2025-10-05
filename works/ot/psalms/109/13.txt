@@ -1,1 +1,0 @@
-Let his posterity be cut off; and in the generation following let their name be blotted out.

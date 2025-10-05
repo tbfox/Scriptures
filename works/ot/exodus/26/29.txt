@@ -1,1 +1,0 @@
-And thou shalt overlay the boards with gold, and make their rings of gold for places for the bars: and thou shalt overlay the bars with gold.

@@ -1,1 +1,0 @@
-And he left all, rose up, and followed him.

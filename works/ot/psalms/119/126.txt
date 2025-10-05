@@ -1,1 +1,0 @@
-It is time for thee, LORD, to work: for they have made void thy law.

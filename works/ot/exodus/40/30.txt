@@ -1,1 +1,0 @@
-And he set the laver between the tent of the congregation and the altar, and put water there, to wash withal.

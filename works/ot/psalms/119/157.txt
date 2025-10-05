@@ -1,1 +1,0 @@
-Many are my persecutors and mine enemies; yet do I not decline from thy testimonies.

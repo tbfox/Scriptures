@@ -1,1 +1,0 @@
-And all mine are thine, and thine are mine; and I am glorified in them.

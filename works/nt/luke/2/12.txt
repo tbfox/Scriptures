@@ -1,1 +1,0 @@
-And this shall be a sign unto you; Ye shall find the babe wrapped in swaddling clothes, lying in a manger.

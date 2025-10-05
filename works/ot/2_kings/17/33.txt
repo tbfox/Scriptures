@@ -1,1 +1,0 @@
-They feared the LORD, and served their own gods, after the manner of the nations whom they carried away from thence.

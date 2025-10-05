@@ -1,1 +1,0 @@
-He maketh me to lie down in green pastures: he leadeth me beside the still waters.

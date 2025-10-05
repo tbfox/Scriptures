@@ -1,1 +1,0 @@
-And when Simon saw that through laying on of the apostles' hands the Holy Ghost was given, he offered them money,

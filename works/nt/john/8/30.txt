@@ -1,1 +1,0 @@
-As he spake these words, many believed on him.

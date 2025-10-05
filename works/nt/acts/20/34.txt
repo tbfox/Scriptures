@@ -1,1 +1,0 @@
-Yea, ye yourselves know, that these hands have ministered unto my necessities, and to them that were with me.

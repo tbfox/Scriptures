@@ -1,1 +1,0 @@
-Blessed are they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city.

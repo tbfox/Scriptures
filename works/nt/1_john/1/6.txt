@@ -1,1 +1,0 @@
-If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth:

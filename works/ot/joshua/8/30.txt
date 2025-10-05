@@ -1,1 +1,0 @@
-Then Joshua built an altar unto the LORD God of Israel in mount Ebal,

@@ -1,1 +1,0 @@
-Making the word of God of none effect through your tradition, which ye have delivered: and many such like things do ye.

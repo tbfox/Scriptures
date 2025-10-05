@@ -1,1 +1,0 @@
-But pray ye that your flight be not in the winter, neither on the sabbath day:

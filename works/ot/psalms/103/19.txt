@@ -1,1 +1,0 @@
-The LORD hath prepared his throne in the heavens; and his kingdom ruleth over all.

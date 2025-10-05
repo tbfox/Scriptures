@@ -1,1 +1,0 @@
-And herein is that saying true, One soweth, and another reapeth.

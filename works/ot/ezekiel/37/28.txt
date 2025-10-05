@@ -1,1 +1,0 @@
-And the heathen shall know that I the LORD do sanctify Israel, when my sanctuary shall be in the midst of them for evermore.

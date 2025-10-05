@@ -1,1 +1,0 @@
-Blessed are they that mourn: for they shall be comforted.

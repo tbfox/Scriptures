@@ -1,1 +1,0 @@
-For they verily for a few days chastened us after their own pleasure; but he for our profit, that we might be partakers of his holiness.

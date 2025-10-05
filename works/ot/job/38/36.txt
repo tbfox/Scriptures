@@ -1,1 +1,0 @@
-Who hath put wisdom in the inward parts? or who hath given understanding to the heart?

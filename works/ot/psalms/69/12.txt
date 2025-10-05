@@ -1,1 +1,0 @@
-They that sit in the gate speak against me; and I was the song of the drunkards.

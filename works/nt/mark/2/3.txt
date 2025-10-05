@@ -1,1 +1,0 @@
-And they come unto him, bringing one sick of the palsy, which was borne of four.

@@ -1,1 +1,0 @@
-And thou shalt shew thy son in that day, saying, This is done because of that which the LORD did unto me when I came forth out of Egypt.

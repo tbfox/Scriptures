@@ -1,1 +1,0 @@
-Thou shalt eat it before the LORD thy God year by year in the place which the LORD shall choose, thou and thy household.

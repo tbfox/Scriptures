@@ -1,1 +1,0 @@
-And he said unto him, If thy presence go not with me, carry us not up hence.

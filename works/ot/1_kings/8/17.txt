@@ -1,1 +1,0 @@
-And it was in the heart of David my father to build an house for the name of the LORD God of Israel.

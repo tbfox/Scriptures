@@ -1,1 +1,0 @@
-And they took their bones, and buried them under a tree at Jabesh, and fasted seven days.

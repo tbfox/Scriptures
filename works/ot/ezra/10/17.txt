@@ -1,1 +1,0 @@
-And they made an end with all the men that had taken strange wives by the first day of the first month.

@@ -1,1 +1,0 @@
-Notwithstanding it pleased Silas to abide there still.

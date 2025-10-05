@@ -1,1 +1,0 @@
-A righteous man regardeth the life of his beast: but the tender mercies of the wicked are cruel.

@@ -1,1 +1,0 @@
-Then Job answered the LORD, and said,

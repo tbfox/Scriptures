@@ -1,1 +1,0 @@
-And he said, Verily I say unto you, No prophet is accepted in his own country.

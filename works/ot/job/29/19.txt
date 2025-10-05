@@ -1,1 +1,0 @@
-My root was spread out by the waters, and the dew lay all night upon my branch.

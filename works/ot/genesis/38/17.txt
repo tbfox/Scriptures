@@ -1,1 +1,0 @@
-And he said, I will send thee a kid from the flock. And she said, Wilt thou give me a pledge, till thou send it?

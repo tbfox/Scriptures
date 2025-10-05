@@ -1,1 +1,0 @@
-Jesus saith unto him, Rise, take up thy bed, and walk.

@@ -1,1 +1,0 @@
-And the king said, What have I to do with you, ye sons of Zeruiah? so let him curse, because the LORD hath said unto him, Curse David. Who shall then say, Wherefore hast thou done so?

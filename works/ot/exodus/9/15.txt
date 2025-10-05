@@ -1,1 +1,0 @@
-For now I will stretch out my hand, that I may smite thee and thy people with pestilence; and thou shalt be cut off from the earth.

@@ -1,1 +1,0 @@
-And all the congregation lifted up their voice, and cried; and the people wept that night.

@@ -1,1 +1,0 @@
-Now shall the isles tremble in the day of thy fall; yea, the isles that are in the sea shall be troubled at thy departure.

@@ -1,1 +1,0 @@
-But neither he, nor his servants, nor the people of the land, did hearken unto the words of the LORD, which he spake by the prophet Jeremiah.

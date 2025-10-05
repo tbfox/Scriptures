@@ -1,1 +1,0 @@
-Then said he, Unto what is the kingdom of God like? and whereunto shall I resemble it?

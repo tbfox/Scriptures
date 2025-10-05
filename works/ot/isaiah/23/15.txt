@@ -1,1 +1,0 @@
-And it shall come to pass in that day, that Tyre shall be forgotten seventy years, according to the days of one king: after the end of seventy years shall Tyre sing as an harlot.

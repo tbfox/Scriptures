@@ -1,1 +1,0 @@
-Those that were numbered of them, even of the tribe of Reuben, were forty and six thousand and five hundred.

@@ -1,1 +1,0 @@
-If a thief be found breaking up, and be smitten that he die, there shall no blood be shed for him.

@@ -1,1 +1,0 @@
-The LORD also spake unto Joshua, saying,

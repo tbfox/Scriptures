@@ -1,1 +1,0 @@
-Though he spare it, and forsake it not; but keep it still within his mouth:

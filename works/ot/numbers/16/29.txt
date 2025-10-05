@@ -1,1 +1,0 @@
-If these men die the common death of all men, or if they be visited after the visitation of all men; then the LORD hath not sent me.

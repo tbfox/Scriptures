@@ -1,1 +1,0 @@
-Now Philip was of Bethsaida, the city of Andrew and Peter.

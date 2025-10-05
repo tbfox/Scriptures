@@ -1,1 +1,0 @@
-And the doors had two leaves apiece, two turning leaves; two leaves for the one door, and two leaves for the other door.

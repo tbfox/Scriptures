@@ -1,1 +1,0 @@
-And the idols he shall utterly abolish.

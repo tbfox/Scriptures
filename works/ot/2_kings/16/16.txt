@@ -1,1 +1,0 @@
-Thus did Urijah the priest, according to all that king Ahaz commanded.

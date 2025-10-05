@@ -1,1 +1,0 @@
-And the plenty shall not be known in the land by reason of that famine following; for it shall be very grievous.

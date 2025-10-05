@@ -1,1 +1,0 @@
-Now he hath not directed his words against me: neither will I answer him with your speeches.

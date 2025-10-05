@@ -1,1 +1,0 @@
-He hath cast me into the mire, and I am become like dust and ashes.

@@ -1,1 +1,0 @@
-And this is the law of the sacrifice of peace offerings, which he shall offer unto the LORD.

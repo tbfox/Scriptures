@@ -1,1 +1,0 @@
-The labour of the righteous tendeth to life: the fruit of the wicked to sin.

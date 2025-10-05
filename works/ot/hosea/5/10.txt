@@ -1,1 +1,0 @@
-The princes of Judah were like them that remove the bound: therefore I will pour out my wrath upon them like water.

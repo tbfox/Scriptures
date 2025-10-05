@@ -1,1 +1,0 @@
-For whom the LORD loveth he correcteth; even as a father the son in whom he delighteth.

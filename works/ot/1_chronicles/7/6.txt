@@ -1,1 +1,0 @@
-The sons of Benjamin; Bela, and Becher, and Jediael, three.

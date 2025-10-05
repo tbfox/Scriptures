@@ -1,1 +1,0 @@
-But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness;

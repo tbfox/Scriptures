@@ -1,1 +1,0 @@
-And Enoch lived sixty and five years, and begat Methuselah:

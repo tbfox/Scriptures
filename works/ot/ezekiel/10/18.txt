@@ -1,1 +1,0 @@
-Then the glory of the LORD departed from off the threshold of the house, and stood over the cherubims.

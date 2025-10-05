@@ -1,1 +1,0 @@
-If he called them gods, unto whom the word of God came, and the scripture cannot be broken;

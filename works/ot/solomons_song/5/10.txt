@@ -1,1 +1,0 @@
-My beloved is white and ruddy, the chiefest among ten thousand.

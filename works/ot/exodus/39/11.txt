@@ -1,1 +1,0 @@
-And the second row, an emerald, a sapphire, and a diamond.

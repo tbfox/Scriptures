@@ -1,1 +1,0 @@
-Many bulls have compassed me: strong bulls of Bashan have beset me round.

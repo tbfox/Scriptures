@@ -1,1 +1,0 @@
-Behold, he putteth no trust in his saints; yea, the heavens are not clean in his sight.

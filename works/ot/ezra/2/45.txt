@@ -1,1 +1,0 @@
-The children of Lebanah, the children of Hagabah, the children of Akkub,

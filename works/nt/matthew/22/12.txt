@@ -1,1 +1,0 @@
-And he saith unto him, Friend, how camest thou in hither not having a wedding garment? And he was speechless.

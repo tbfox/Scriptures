@@ -1,1 +1,0 @@
-So shall ye divide this land unto you according to the tribes of Israel.

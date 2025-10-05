@@ -1,1 +1,0 @@
-Then again Abraham took a wife, and her name was Keturah.

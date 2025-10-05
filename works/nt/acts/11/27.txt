@@ -1,1 +1,0 @@
-And in these days came prophets from Jerusalem unto Antioch.

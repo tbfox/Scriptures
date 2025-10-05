@@ -1,1 +1,0 @@
-She is more precious than rubies: and all the things thou canst desire are not to be compared unto her.

@@ -1,1 +1,0 @@
-And he cometh to Bethsaida; and they bring a blind man unto him, and besought him to touch him.

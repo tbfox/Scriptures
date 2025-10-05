@@ -1,1 +1,0 @@
-Truly my soul waiteth upon God: from him cometh my salvation.

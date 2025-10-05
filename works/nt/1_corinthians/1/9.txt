@@ -1,1 +1,0 @@
-God is faithful, by whom ye were called unto the fellowship of his Son Jesus Christ our Lord.

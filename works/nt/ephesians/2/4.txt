@@ -1,1 +1,0 @@
-But God, who is rich in mercy, for his great love wherewith he loved us,

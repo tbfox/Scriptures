@@ -1,1 +1,0 @@
-Then said I unto her that was old in adulteries, Will they now commit whoredoms with her, and she with them?

@@ -1,1 +1,0 @@
-And of the sons of Pashur; Elioenai, Maaseiah, Ishmael, Nethaneel, Jozabad, and Elasah.

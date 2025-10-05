@@ -1,1 +1,0 @@
-And they said unto her, There is none of thy kindred that is called by this name.

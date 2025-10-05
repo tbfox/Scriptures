@@ -1,1 +1,0 @@
-I have waited for thy salvation, O LORD.

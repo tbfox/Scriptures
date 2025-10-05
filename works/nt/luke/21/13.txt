@@ -1,1 +1,0 @@
-And it shall turn to you for a testimony.

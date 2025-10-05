@@ -1,1 +1,0 @@
-And straightway he preached Christ in the synagogues, that he is the Son of God.

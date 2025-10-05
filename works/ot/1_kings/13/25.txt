@@ -1,1 +1,0 @@
-And, behold, men passed by, and saw the carcase cast in the way, and the lion standing by the carcase: and they came and told it in the city where the old prophet dwelt.

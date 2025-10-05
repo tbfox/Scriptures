@@ -1,1 +1,0 @@
-At midnight I will rise to give thanks unto thee because of thy righteous judgments.

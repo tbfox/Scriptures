@@ -1,1 +1,0 @@
-And the LORD appeared unto him, and said, Go not down into Egypt; dwell in the land which I shall tell thee of:

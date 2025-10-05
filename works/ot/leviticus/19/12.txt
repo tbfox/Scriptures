@@ -1,1 +1,0 @@
-And ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: I am the LORD.

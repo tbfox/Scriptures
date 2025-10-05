@@ -1,1 +1,0 @@
-And all the city was moved, and the people ran together: and they took Paul, and drew him out of the temple: and forthwith the doors were shut.

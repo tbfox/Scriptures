@@ -1,1 +1,0 @@
-Debate thy cause with thy neighbour himself; and discover not a secret to another:

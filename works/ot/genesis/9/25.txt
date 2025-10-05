@@ -1,1 +1,0 @@
-And he said, Cursed be Canaan; a servant of servants shall he be unto his brethren.

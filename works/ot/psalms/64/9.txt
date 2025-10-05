@@ -1,1 +1,0 @@
-And all men shall fear, and shall declare the work of God; for they shall wisely consider of his doing.

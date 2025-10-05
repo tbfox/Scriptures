@@ -1,1 +1,0 @@
-And when the LORD thy God hath delivered it into thine hands, thou shalt smite every male thereof with the edge of the sword:

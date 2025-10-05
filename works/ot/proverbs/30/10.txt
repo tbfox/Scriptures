@@ -1,1 +1,0 @@
-Accuse not a servant unto his master, lest he curse thee, and thou be found guilty.

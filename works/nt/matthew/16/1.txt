@@ -1,1 +1,0 @@
-The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven.

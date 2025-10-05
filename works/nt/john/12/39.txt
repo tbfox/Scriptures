@@ -1,1 +1,0 @@
-Therefore they could not believe, because that Esaias said again,

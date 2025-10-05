@@ -1,1 +1,0 @@
-And ye shall dwell in the land that I gave to your fathers; and ye shall be my people, and I will be your God.

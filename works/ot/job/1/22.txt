@@ -1,1 +1,0 @@
-In all this Job sinned not, nor charged God foolishly.

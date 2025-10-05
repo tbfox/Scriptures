@@ -1,1 +1,0 @@
-These have one mind, and shall give their power and strength unto the beast.

@@ -1,1 +1,0 @@
-For the work of a man shall he render unto him, and cause every man to find according to his ways.

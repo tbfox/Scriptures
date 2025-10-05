@@ -1,1 +1,0 @@
-Hearken unto this, O Job: stand still, and consider the wondrous works of God.

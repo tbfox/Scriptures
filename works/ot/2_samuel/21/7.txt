@@ -1,1 +1,0 @@
-But the king spared Mephibosheth, the son of Jonathan the son of Saul, because of the LORD's oath that was between them, between David and Jonathan the son of Saul.

@@ -1,1 +1,0 @@
-And this was done three times: and all were drawn up again into heaven.

@@ -1,1 +1,0 @@
-O clap your hands, all ye people; shout unto God with the voice of triumph.

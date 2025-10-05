@@ -1,1 +1,0 @@
-And every earthen vessel, whereinto any of them falleth, whatsoever is in it shall be unclean; and ye shall break it.

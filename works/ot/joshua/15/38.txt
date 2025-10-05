@@ -1,1 +1,0 @@
-And Dilean, and Mizpeh, and Joktheel,

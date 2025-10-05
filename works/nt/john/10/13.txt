@@ -1,1 +1,0 @@
-The hireling fleeth, because he is an hireling, and careth not for the sheep.

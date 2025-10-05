@@ -1,1 +1,0 @@
-How fair and how pleasant art thou, O love, for delights!

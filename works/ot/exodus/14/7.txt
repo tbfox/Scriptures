@@ -1,1 +1,0 @@
-And he took six hundred chosen chariots, and all the chariots of Egypt, and captains over every one of them.

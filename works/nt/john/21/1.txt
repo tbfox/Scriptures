@@ -1,1 +1,0 @@
-After these things Jesus shewed himself again to the disciples at the sea of Tiberias; and on this wise shewed he himself.

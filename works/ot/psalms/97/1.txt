@@ -1,1 +1,0 @@
-The LORD reigneth; let the earth rejoice; let the multitude of isles be glad thereof.

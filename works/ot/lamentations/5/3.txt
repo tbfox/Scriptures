@@ -1,1 +1,0 @@
-We are orphans and fatherless, our mothers are as widows.

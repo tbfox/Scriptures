@@ -1,1 +1,0 @@
-He loveth transgression that loveth strife: and he that exalteth his gate seeketh destruction.

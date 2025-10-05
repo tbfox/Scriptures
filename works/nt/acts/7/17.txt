@@ -1,1 +1,0 @@
-But when the time of the promise drew nigh, which God had sworn to Abraham, the people grew and multiplied in Egypt,

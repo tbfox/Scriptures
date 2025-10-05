@@ -1,1 +1,0 @@
-Surely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence.

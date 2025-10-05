@@ -1,1 +1,0 @@
-And again he said, Whereunto shall I liken the kingdom of God?

@@ -1,1 +1,0 @@
-And as they sat and did eat, Jesus said, Verily I say unto you, One of you which eateth with me shall betray me.

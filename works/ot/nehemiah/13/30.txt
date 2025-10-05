@@ -1,1 +1,0 @@
-Thus cleansed I them from all strangers, and appointed the wards of the priests and the Levites, every one in his business;

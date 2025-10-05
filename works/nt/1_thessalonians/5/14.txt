@@ -1,1 +1,0 @@
-Now we exhort you, brethren, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all men.

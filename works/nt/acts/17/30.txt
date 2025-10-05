@@ -1,1 +1,0 @@
-And the times of this ignorance God winked at; but now commandeth all men every where to repent:

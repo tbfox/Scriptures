@@ -1,1 +1,0 @@
-And Attai begat Nathan, and Nathan begat Zabad,

@@ -1,1 +1,0 @@
-We know that we have passed from death unto life, because we love the brethren. He that loveth not his brother abideth in death.

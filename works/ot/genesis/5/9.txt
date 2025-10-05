@@ -1,1 +1,0 @@
-And Enos lived ninety years, and begat Cainan:

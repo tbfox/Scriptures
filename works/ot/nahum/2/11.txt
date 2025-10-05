@@ -1,1 +1,0 @@
-Where is the dwelling of the lions, and the feedingplace of the young lions, where the lion, even the old lion, walked, and the lion's whelp, and none made them afraid?

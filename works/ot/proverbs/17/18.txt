@@ -1,1 +1,0 @@
-A man void of understanding striketh hands, and becometh surety in the presence of his friend.

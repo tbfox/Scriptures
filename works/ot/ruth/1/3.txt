@@ -1,1 +1,0 @@
-And Elimelech Naomi's husband died; and she was left, and her two sons.

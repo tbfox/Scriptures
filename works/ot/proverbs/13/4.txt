@@ -1,1 +1,0 @@
-The soul of the sluggard desireth, and hath nothing: but the soul of the diligent shall be made fat.

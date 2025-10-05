@@ -1,1 +1,0 @@
-The LORD shall reign for ever, even thy God, O Zion, unto all generations. Praise ye the LORD.

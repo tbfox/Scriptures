@@ -1,1 +1,0 @@
-I will love thee, O LORD, my strength.

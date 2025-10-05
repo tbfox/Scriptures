@@ -1,1 +1,0 @@
-Abraham saith unto him, They have Moses and the prophets; let them hear them.

@@ -1,1 +1,0 @@
-Brethren, I speak after the manner of men; Though it be but a man's covenant, yet if it be confirmed, no man disannulleth, or addeth thereto.

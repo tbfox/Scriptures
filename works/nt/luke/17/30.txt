@@ -1,1 +1,0 @@
-Even thus shall it be in the day when the Son of man is revealed.

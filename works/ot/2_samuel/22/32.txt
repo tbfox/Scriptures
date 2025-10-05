@@ -1,1 +1,0 @@
-For who is God, save the LORD? and who is a rock, save our God?

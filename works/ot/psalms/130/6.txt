@@ -1,1 +1,0 @@
-My soul waiteth for the Lord more than they that watch for the morning: I say, more than they that watch for the morning.

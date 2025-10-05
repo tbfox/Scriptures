@@ -1,1 +1,0 @@
-Though thou shouldest bray a fool in a mortar among wheat with a pestle, yet will not his foolishness depart from him.

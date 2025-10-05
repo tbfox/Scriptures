@@ -1,1 +1,0 @@
-Ye are blessed of the LORD which made heaven and earth.

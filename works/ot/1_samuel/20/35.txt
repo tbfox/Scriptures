@@ -1,1 +1,0 @@
-And it came to pass in the morning, that Jonathan went out into the field at the time appointed with David, and a little lad with him.

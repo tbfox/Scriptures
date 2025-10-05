@@ -1,1 +1,0 @@
-He maketh the barren woman to keep house, and to be a joyful mother of children. Praise ye the LORD.

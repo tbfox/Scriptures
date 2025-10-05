@@ -1,1 +1,0 @@
-And now, little children, abide in him; that, when he shall appear, we may have confidence, and not be ashamed before him at his coming.

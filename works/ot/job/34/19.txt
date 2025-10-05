@@ -1,1 +1,0 @@
-How much less to him that accepteth not the persons of princes, nor regardeth the rich more than the poor? for they all are the work of his hands.

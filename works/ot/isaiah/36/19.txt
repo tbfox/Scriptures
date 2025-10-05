@@ -1,1 +1,0 @@
-Where are the gods of Hamath and Arphad? where are the gods of Sepharvaim? and have they delivered Samaria out of my hand?

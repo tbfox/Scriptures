@@ -1,1 +1,0 @@
-And Ram begat Amminadab; and Amminadab begat Nahshon, prince of the children of Judah;

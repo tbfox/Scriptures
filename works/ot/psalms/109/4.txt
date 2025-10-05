@@ -1,1 +1,0 @@
-For my love they are my adversaries: but I give myself unto prayer.

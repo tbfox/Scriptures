@@ -1,1 +1,0 @@
-And as he said these things unto them, the scribes and the Pharisees began to urge him vehemently, and to provoke him to speak of many things:

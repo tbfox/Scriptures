@@ -1,1 +1,0 @@
-And as for me also, mine eye shall not spare, neither will I have pity, but I will recompense their way upon their head.

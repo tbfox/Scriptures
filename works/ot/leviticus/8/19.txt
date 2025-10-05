@@ -1,1 +1,0 @@
-And he killed it; and Moses sprinkled the blood upon the altar round about.

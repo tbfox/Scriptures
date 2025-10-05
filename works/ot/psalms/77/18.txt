@@ -1,1 +1,0 @@
-The voice of thy thunder was in the heaven: the lightnings lightened the world: the earth trembled and shook.

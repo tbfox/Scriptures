@@ -1,1 +1,0 @@
-Hearken unto me now therefore, O ye children, and attend to the words of my mouth.

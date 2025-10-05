@@ -1,1 +1,0 @@
-Be ye therefore merciful, as your Father also is merciful.

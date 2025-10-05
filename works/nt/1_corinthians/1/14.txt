@@ -1,1 +1,0 @@
-I thank God that I baptized none of you, but Crispus and Gaius;

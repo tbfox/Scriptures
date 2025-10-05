@@ -1,1 +1,0 @@
-These things I command you, that ye love one another.

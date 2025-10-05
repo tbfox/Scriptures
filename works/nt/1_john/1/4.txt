@@ -1,1 +1,0 @@
-And these things write we unto you, that your joy may be full.

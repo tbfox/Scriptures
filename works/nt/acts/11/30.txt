@@ -1,1 +1,0 @@
-Which also they did, and sent it to the elders by the hands of Barnabas and Saul.

@@ -1,1 +1,0 @@
-Now these things were our examples, to the intent we should not lust after evil things, as they also lusted.

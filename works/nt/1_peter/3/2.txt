@@ -1,1 +1,0 @@
-While they behold your chaste conversation coupled with fear.

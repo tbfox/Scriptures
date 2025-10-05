@@ -1,1 +1,0 @@
-Yea, ye overwhelm the fatherless, and ye dig a pit for your friend.

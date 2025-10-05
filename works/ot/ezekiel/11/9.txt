@@ -1,1 +1,0 @@
-And I will bring you out of the midst thereof, and deliver you into the hands of strangers, and will execute judgments among you.

@@ -1,1 +1,0 @@
-And there came of the children of Benjamin and Judah to the hold unto David.

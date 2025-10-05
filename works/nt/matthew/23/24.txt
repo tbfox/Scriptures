@@ -1,1 +1,0 @@
-Ye blind guides, which strain at a gnat, and swallow a camel.

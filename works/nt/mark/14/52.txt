@@ -1,1 +1,0 @@
-And he left the linen cloth, and fled from them naked.

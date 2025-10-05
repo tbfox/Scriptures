@@ -1,1 +1,0 @@
-Have all the workers of iniquity no knowledge? who eat up my people as they eat bread, and call not upon the LORD.

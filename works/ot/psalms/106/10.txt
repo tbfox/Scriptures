@@ -1,1 +1,0 @@
-And he saved them from the hand of him that hated them, and redeemed them from the hand of the enemy.

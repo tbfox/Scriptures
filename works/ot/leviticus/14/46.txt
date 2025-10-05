@@ -1,1 +1,0 @@
-Moreover he that goeth into the house all the while that it is shut up shall be unclean until the even.

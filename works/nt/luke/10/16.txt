@@ -1,1 +1,0 @@
-He that heareth you heareth me; and he that despiseth you despiseth me; and he that despiseth me despiseth him that sent me.

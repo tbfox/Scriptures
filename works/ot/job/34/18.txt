@@ -1,1 +1,0 @@
-Is it fit to say to a king, Thou art wicked? and to princes, Ye are ungodly?

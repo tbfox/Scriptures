@@ -1,1 +1,0 @@
-Ye worship ye know not what: we know what we worship: for salvation is of the Jews.

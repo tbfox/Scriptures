@@ -1,1 +1,0 @@
-Of the sons of Gershom, Shebuel was the chief.

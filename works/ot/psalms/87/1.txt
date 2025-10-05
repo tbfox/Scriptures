@@ -1,1 +1,0 @@
-His foundation is in the holy mountains.

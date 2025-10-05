@@ -1,1 +1,0 @@
-I will greatly praise the LORD with my mouth; yea, I will praise him among the multitude.

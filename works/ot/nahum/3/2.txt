@@ -1,1 +1,0 @@
-The noise of a whip, and the noise of the rattling of the wheels, and of the pransing horses, and of the jumping chariots.

@@ -1,1 +1,0 @@
-But after that I am risen, I will go before you into Galilee.

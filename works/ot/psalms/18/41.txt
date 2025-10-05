@@ -1,1 +1,0 @@
-They cried, but there was none to save them: even unto the LORD, but he answered them not.

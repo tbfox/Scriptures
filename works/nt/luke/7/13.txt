@@ -1,1 +1,0 @@
-And when the Lord saw her, he had compassion on her, and said unto her, Weep not.

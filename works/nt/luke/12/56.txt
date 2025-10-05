@@ -1,1 +1,0 @@
-Ye hypocrites, ye can discern the face of the sky and of the earth; but how is it that ye do not discern this time?

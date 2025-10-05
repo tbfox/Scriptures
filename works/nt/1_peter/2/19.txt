@@ -1,1 +1,0 @@
-For this is thankworthy, if a man for conscience toward God endure grief, suffering wrongfully.

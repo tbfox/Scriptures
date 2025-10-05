@@ -1,1 +1,0 @@
-His breath kindleth coals, and a flame goeth out of his mouth.

@@ -1,1 +1,0 @@
-And with many such parables spake he the word unto them, as they were able to hear it.

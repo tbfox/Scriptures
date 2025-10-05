@@ -1,1 +1,0 @@
-And he did that which was right in the sight of the LORD: he did according to all that his father Uzziah had done.

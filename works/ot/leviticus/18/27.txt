@@ -1,1 +1,0 @@
-(For all these abominations have the men of the land done, which were before you, and the land is defiled;)

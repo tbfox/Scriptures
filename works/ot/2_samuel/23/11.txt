@@ -1,1 +1,0 @@
-And after him was Shammah the son of Agee the Hararite. And the Philistines were gathered together into a troop, where was a piece of ground full of lentiles: and the people fled from the Philistines.

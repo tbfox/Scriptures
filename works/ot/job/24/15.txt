@@ -1,1 +1,0 @@
-The eye also of the adulterer waiteth for the twilight, saying, No eye shall see me: and disguiseth his face.

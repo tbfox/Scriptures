@@ -1,1 +1,0 @@
-Then answered Eliphaz the Temanite, and said,

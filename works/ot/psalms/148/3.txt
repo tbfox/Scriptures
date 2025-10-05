@@ -1,1 +1,0 @@
-Praise ye him, sun and moon: praise him, all ye stars of light.

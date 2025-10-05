@@ -1,1 +1,0 @@
-Thy wickedness may hurt a man as thou art; and thy righteousness may profit the son of man.

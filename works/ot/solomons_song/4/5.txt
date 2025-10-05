@@ -1,1 +1,0 @@
-Thy two breasts are like two young roes that are twins, which feed among the lilies.

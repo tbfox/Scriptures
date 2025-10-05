@@ -1,1 +1,0 @@
-All the sons of Perez that dwelt at Jerusalem were four hundred threescore and eight valiant men.

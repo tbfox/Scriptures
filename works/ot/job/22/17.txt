@@ -1,1 +1,0 @@
-Which said unto God, Depart from us: and what can the Almighty do for them?

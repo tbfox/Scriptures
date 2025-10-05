@@ -1,1 +1,0 @@
-Not slothful in business; fervent in spirit; serving the Lord;

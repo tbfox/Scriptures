@@ -1,1 +1,0 @@
-A prayer of Habakkuk the prophet upon Shigionoth.

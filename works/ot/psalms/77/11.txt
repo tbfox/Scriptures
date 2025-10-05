@@ -1,1 +1,0 @@
-I will remember the works of the LORD: surely I will remember thy wonders of old.

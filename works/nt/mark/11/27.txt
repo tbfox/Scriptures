@@ -1,1 +1,0 @@
-And they come again to Jerusalem: and as he was walking in the temple, there come to him the chief priests, and the scribes, and the elders,

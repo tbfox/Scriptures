@@ -1,1 +1,0 @@
-I am counted with them that go down into the pit: I am as a man that hath no strength:

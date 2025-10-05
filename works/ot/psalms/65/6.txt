@@ -1,1 +1,0 @@
-Which by his strength setteth fast the mountains; being girded with power:

@@ -1,1 +1,0 @@
-Behold, the LORD's hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:

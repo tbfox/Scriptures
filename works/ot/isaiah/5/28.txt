@@ -1,1 +1,0 @@
-Whose arrows are sharp, and all their bows bent, their horses' hoofs shall be counted like flint, and their wheels like a whirlwind:

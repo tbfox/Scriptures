@@ -1,1 +1,0 @@
-And as soon as she saw them with her eyes, she doted upon them, and sent messengers unto them into Chaldea.

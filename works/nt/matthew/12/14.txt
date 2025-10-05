@@ -1,1 +1,0 @@
-Then the Pharisees went out, and held a council against him, how they might destroy him.

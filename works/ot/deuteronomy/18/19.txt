@@ -1,1 +1,0 @@
-And it shall come to pass, that whosoever will not hearken unto my words which he shall speak in my name, I will require it of him.

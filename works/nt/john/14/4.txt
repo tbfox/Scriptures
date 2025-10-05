@@ -1,1 +1,0 @@
-And whither I go ye know, and the way ye know.

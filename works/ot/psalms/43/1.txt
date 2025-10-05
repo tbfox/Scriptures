@@ -1,1 +1,0 @@
-Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.

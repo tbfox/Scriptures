@@ -1,1 +1,0 @@
-And the sons of Samuel; the firstborn Vashni, and Abiah.

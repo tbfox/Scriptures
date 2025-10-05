@@ -1,1 +1,0 @@
-And when the Pharisee saw it, he marvelled that he had not first washed before dinner.

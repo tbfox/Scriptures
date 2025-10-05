@@ -1,1 +1,0 @@
-Then shall they know that I am the LORD, when I have laid the land most desolate because of all their abominations which they have committed.

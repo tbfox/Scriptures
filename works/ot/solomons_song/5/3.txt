@@ -1,1 +1,0 @@
-I have put off my coat; how shall I put it on? I have washed my feet; how shall I defile them?

@@ -1,1 +1,0 @@
-And if he shall come in the second watch, or come in the third watch, and find them so, blessed are those servants.

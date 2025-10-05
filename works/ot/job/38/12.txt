@@ -1,1 +1,0 @@
-Hast thou commanded the morning since thy days; and caused the dayspring to know his place;

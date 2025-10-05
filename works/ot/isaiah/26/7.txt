@@ -1,1 +1,0 @@
-The way of the just is uprightness: thou, most upright, dost weigh the path of the just.

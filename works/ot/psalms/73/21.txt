@@ -1,1 +1,0 @@
-Thus my heart was grieved, and I was pricked in my reins.

@@ -1,1 +1,0 @@
-And I said, My strength and my hope is perished from the LORD:

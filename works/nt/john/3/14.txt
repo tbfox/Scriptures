@@ -1,1 +1,0 @@
-And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:

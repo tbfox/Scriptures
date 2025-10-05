@@ -1,1 +1,0 @@
-And every creeping thing that flieth is unclean unto you: they shall not be eaten.

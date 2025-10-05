@@ -1,1 +1,0 @@
-A fool despiseth his father's instruction: but he that regardeth reproof is prudent.

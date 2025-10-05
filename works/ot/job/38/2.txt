@@ -1,1 +1,0 @@
-Who is this that darkeneth counsel by words without knowledge?

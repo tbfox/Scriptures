@@ -1,1 +1,0 @@
-Bread corn is bruised; because he will not ever be threshing it, nor break it with the wheel of his cart, nor bruise it with his horsemen.

@@ -1,1 +1,0 @@
-Moreover thou shalt not lie carnally with thy neighbour's wife, to defile thyself with her.

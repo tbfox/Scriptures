@@ -1,1 +1,0 @@
-The high priest then asked Jesus of his disciples, and of his doctrine.

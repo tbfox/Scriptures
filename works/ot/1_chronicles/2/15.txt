@@ -1,1 +1,0 @@
-Ozem the sixth, David the seventh:

@@ -1,1 +1,0 @@
-Now there were seven brethren: and the first took a wife, and dying left no seed.

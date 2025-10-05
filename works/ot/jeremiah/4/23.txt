@@ -1,1 +1,0 @@
-I beheld the earth, and, lo, it was without form, and void; and the heavens, and they had no light.

@@ -1,1 +1,0 @@
-And make ye marriages with us, and give your daughters unto us, and take our daughters unto you.

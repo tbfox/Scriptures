@@ -1,1 +1,0 @@
-And he said, Lord, I believe. And he worshipped him.

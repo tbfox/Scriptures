@@ -1,1 +1,0 @@
-Let the prophets speak two or three, and let the other judge.

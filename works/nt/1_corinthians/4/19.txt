@@ -1,1 +1,0 @@
-But I will come to you shortly, if the Lord will, and will know, not the speech of them which are puffed up, but the power.

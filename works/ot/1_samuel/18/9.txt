@@ -1,1 +1,0 @@
-And Saul eyed David from that day and forward.

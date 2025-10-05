@@ -1,1 +1,0 @@
-Yea, they sacrificed their sons and their daughters unto devils,

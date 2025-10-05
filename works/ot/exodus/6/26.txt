@@ -1,1 +1,0 @@
-These are that Aaron and Moses, to whom the LORD said, Bring out the children of Israel from the land of Egypt according to their armies.

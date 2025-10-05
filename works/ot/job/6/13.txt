@@ -1,1 +1,0 @@
-Is not my help in me? and is wisdom driven quite from me?

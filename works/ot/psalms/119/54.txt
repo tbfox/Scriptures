@@ -1,1 +1,0 @@
-Thy statutes have been my songs in the house of my pilgrimage.

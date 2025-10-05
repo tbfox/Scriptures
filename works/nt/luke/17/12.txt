@@ -1,1 +1,0 @@
-And as he entered into a certain village, there met him ten men that were lepers, which stood afar off:

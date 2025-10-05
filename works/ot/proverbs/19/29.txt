@@ -1,1 +1,0 @@
-Judgments are prepared for scorners, and stripes for the back of fools.

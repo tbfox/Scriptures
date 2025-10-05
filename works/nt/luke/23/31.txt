@@ -1,1 +1,0 @@
-For if they do these things in a green tree, what shall be done in the dry?

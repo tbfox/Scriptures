@@ -1,1 +1,0 @@
-Greet Mary, who bestowed much labour on us.

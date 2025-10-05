@@ -1,1 +1,0 @@
-His children shall seek to please the poor, and his hands shall restore their goods.

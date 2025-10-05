@@ -1,1 +1,0 @@
-And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name.

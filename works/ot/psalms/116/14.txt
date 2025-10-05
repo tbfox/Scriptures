@@ -1,1 +1,0 @@
-I will pay my vows unto the LORD now in the presence of all his people.

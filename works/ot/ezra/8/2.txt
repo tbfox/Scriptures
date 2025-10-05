@@ -1,1 +1,0 @@
-Of the sons of Phinehas; Gershom: of the sons of Ithamar; Daniel: of the sons of David; Hattush.

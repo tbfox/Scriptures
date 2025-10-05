@@ -1,1 +1,0 @@
-Thou makest darkness, and it is night: wherein all the beasts of the forest do creep forth.

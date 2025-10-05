@@ -1,1 +1,0 @@
-Neither shall they say, Lo here! or, lo there! for, behold, the kingdom of God is within you.

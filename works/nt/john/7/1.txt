@@ -1,1 +1,0 @@
-After these things Jesus walked in Galilee: for he would not walk in Jewry, because the Jews sought to kill him.

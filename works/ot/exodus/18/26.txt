@@ -1,1 +1,0 @@
-And they judged the people at all seasons: the hard causes they brought unto Moses, but every small matter they judged themselves.

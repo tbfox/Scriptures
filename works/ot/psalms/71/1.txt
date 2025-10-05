@@ -1,1 +1,0 @@
-In thee, O LORD, do I put my trust: let me never be put to confusion.

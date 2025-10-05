@@ -1,1 +1,0 @@
-And the whole earth was of one language, and of one speech.

@@ -1,1 +1,0 @@
-In stripes, in imprisonments, in tumults, in labours, in watchings, in fastings;

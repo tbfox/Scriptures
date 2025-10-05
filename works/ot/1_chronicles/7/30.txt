@@ -1,1 +1,0 @@
-The sons of Asher; Imnah, and Isuah, and Ishuai, and Beriah, and Serah their sister.

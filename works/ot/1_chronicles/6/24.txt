@@ -1,1 +1,0 @@
-Tahath his son, Uriel his son, Uzziah his son, and Shaul his son.

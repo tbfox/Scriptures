@@ -1,1 +1,0 @@
-And all wept, and bewailed her: but he said, Weep not; she is not dead, but sleepeth.

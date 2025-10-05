@@ -1,1 +1,0 @@
-Plead my cause, O LORD, with them that strive with me: fight against them that fight against me.

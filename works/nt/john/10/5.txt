@@ -1,1 +1,0 @@
-And a stranger will they not follow, but will flee from him: for they know not the voice of strangers.

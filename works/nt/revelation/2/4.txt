@@ -1,1 +1,0 @@
-Nevertheless I have somewhat against thee, because thou hast left thy first love.

@@ -1,1 +1,0 @@
-Have mercy upon me, O LORD; for I am weak: O LORD, heal me; for my bones are vexed.

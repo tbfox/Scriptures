@@ -1,1 +1,0 @@
-And every thing that she lieth upon in her separation shall be unclean: every thing also that she sitteth upon shall be unclean.

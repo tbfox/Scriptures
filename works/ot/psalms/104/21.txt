@@ -1,1 +1,0 @@
-The young lions roar after their prey, and seek their meat from God.

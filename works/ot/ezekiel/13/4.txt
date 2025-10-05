@@ -1,1 +1,0 @@
-O Israel, thy prophets are like the foxes in the deserts.

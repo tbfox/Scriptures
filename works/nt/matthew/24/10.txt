@@ -1,1 +1,0 @@
-And then shall many be offended, and shall betray one another, and shall hate one another.

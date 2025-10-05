@@ -1,1 +1,0 @@
-Thou shalt not lie with mankind, as with womankind: it is abomination.

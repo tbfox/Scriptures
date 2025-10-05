@@ -1,1 +1,0 @@
-Who are they among all the gods of the countries, that have delivered their country out of mine hand, that the LORD should deliver Jerusalem out of mine hand?

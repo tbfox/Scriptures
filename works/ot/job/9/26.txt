@@ -1,1 +1,0 @@
-They are passed away as the swift ships: as the eagle that hasteth to the prey.

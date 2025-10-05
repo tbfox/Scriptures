@@ -1,1 +1,0 @@
-The son of Jahath, the son of Gershom, the son of Levi.

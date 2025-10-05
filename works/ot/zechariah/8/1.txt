@@ -1,1 +1,0 @@
-Again the word of the LORD of hosts came to me, saying,

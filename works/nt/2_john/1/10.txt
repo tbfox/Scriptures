@@ -1,1 +1,0 @@
-If there come any unto you, and bring not this doctrine, receive him not into your house, neither bid him God speed:

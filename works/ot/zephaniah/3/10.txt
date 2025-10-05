@@ -1,1 +1,0 @@
-From beyond the rivers of Ethiopia my suppliants, even the daughter of my dispersed, shall bring mine offering.

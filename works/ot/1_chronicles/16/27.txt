@@ -1,1 +1,0 @@
-Glory and honour are in his presence; strength and gladness are in his place.

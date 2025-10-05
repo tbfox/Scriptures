@@ -1,1 +1,0 @@
-But he saveth the poor from the sword, from their mouth, and from the hand of the mighty.

@@ -1,1 +1,0 @@
-And he answered and said unto them, My mother and my brethren are these which hear the word of God, and do it.

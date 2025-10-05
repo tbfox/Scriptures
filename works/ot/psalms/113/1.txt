@@ -1,1 +1,0 @@
-Praise ye the LORD. Praise, O ye servants of the LORD, praise the name of the LORD.

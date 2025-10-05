@@ -1,1 +1,0 @@
-Speak unto the children of Israel, saying, Ye shall eat no manner of fat, of ox, or of sheep, or of goat.

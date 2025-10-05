@@ -1,1 +1,0 @@
-Knowing this first, that there shall come in the last days scoffers, walking after their own lusts,

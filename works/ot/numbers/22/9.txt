@@ -1,1 +1,0 @@
-And God came unto Balaam, and said, What men are these with thee?

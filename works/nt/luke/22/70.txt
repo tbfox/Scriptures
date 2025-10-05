@@ -1,1 +1,0 @@
-Then said they all, Art thou then the Son of God? And he said unto them, Ye say that I am.

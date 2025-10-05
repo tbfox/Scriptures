@@ -1,1 +1,0 @@
-Now therefore hearken unto me, O ye children: for blessed are they that keep my ways.

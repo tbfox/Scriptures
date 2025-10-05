@@ -1,1 +1,0 @@
-Deal with thy servant according unto thy mercy, and teach me thy statutes.

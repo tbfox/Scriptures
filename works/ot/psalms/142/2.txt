@@ -1,1 +1,0 @@
-I poured out my complaint before him; I shewed before him my trouble.

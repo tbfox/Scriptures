@@ -1,1 +1,0 @@
-Salvation is far from the wicked: for they seek not thy statutes.

@@ -1,1 +1,0 @@
-Why boastest thou thyself in mischief, O mighty man? the goodness of God endureth continually.

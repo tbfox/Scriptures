@@ -1,1 +1,0 @@
-Meraioth begat Amariah, and Amariah begat Ahitub,

@@ -1,1 +1,0 @@
-The wind shall eat up all thy pastors, and thy lovers shall go into captivity: surely then shalt thou be ashamed and confounded for all thy wickedness.

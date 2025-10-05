@@ -1,1 +1,0 @@
-Then Peter opened his mouth, and said, Of a truth I perceive that God is no respecter of persons:

@@ -1,1 +1,0 @@
-But that we write unto them, that they abstain from pollutions of idols, and from fornication, and from things strangled, and from blood.

@@ -1,1 +1,0 @@
-I have coveted no man's silver, or gold, or apparel.

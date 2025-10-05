@@ -1,1 +1,0 @@
-For this is the message that ye heard from the beginning, that we should love one another.

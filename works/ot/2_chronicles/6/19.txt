@@ -1,1 +1,0 @@
-Have respect therefore to the prayer of thy servant, and to his supplication, O LORD my God, to hearken unto the cry and the prayer which thy servant prayeth before thee:

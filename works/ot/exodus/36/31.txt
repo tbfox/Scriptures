@@ -1,1 +1,0 @@
-And he made bars of shittim wood; five for the boards of the one side of the tabernacle,

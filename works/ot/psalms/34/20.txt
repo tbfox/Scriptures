@@ -1,1 +1,0 @@
-He keepeth all his bones: not one of them is broken.

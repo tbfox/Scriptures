@@ -1,1 +1,0 @@
-And all Judah stood before the LORD, with their little ones, their wives, and their children.

@@ -1,1 +1,0 @@
-For he said unto him, Come out of the man, thou unclean spirit.

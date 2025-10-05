@@ -1,1 +1,0 @@
-Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;

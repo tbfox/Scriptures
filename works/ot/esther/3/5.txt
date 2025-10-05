@@ -1,1 +1,0 @@
-And when Haman saw that Mordecai bowed not, nor did him reverence, then was Haman full of wrath.

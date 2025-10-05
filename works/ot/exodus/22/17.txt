@@ -1,1 +1,0 @@
-If her father utterly refuse to give her unto him, he shall pay money according to the dowry of virgins.

@@ -1,1 +1,0 @@
-Let Israel now say, that his mercy endureth for ever.

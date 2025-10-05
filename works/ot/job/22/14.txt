@@ -1,1 +1,0 @@
-Thick clouds are a covering to him, that he seeth not; and he walketh in the circuit of heaven.

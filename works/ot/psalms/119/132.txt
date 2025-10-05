@@ -1,1 +1,0 @@
-Look thou upon me, and be merciful unto me, as thou usest to do unto those that love thy name.

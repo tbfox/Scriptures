@@ -1,1 +1,0 @@
-I have wounded them that they were not able to rise: they are fallen under my feet.

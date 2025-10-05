@@ -1,1 +1,0 @@
-And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem.

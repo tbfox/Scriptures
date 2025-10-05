@@ -1,1 +1,0 @@
-All this came upon the king Nebuchadnezzar.

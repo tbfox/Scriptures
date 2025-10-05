@@ -1,1 +1,0 @@
-Hear ye the word which the LORD speaketh unto you, O house of Israel:

@@ -1,1 +1,0 @@
-Of the tribe of Asher, Sethur the son of Michael.

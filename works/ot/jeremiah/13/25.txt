@@ -1,1 +1,0 @@
-This is thy lot, the portion of thy measures from me, saith the LORD; because thou hast forgotten me, and trusted in falsehood.

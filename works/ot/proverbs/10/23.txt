@@ -1,1 +1,0 @@
-It is as sport to a fool to do mischief: but a man of understanding hath wisdom.

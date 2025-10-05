@@ -1,1 +1,0 @@
-And God said unto Abraham, Thou shalt keep my covenant therefore, thou, and thy seed after thee in their generations.

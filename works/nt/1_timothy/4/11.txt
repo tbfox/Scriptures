@@ -1,1 +1,0 @@
-These things command and teach.

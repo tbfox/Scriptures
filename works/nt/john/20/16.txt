@@ -1,1 +1,0 @@
-Jesus saith unto her, Mary. She turned herself, and saith unto him, Rabboni; which is to say, Master.

@@ -1,1 +1,0 @@
-Behold, while thou yet talkest there with the king, I also will come in after thee, and confirm thy words.

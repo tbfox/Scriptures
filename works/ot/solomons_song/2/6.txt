@@ -1,1 +1,0 @@
-His left hand is under my head, and his right hand doth embrace me.

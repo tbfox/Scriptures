@@ -1,1 +1,0 @@
-And to godliness brotherly kindness; and to brotherly kindness charity.

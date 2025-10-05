@@ -1,1 +1,0 @@
-But ye have an unction from the Holy One, and ye know all things.

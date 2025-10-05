@@ -1,1 +1,0 @@
-Thus saith the LORD my God; Feed the flock of the slaughter;

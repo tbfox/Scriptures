@@ -1,1 +1,0 @@
-Rejoice with them that do rejoice, and weep with them that weep.

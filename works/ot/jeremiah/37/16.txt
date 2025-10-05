@@ -1,1 +1,0 @@
-When Jeremiah was entered into the dungeon, and into the cabins, and Jeremiah had remained there many days;

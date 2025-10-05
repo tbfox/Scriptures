@@ -1,1 +1,0 @@
-And she said, Behold, thy sister in law is gone back unto her people, and unto her gods: return thou after thy sister in law.

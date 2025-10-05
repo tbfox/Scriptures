@@ -1,1 +1,0 @@
-For Christ is the end of the law for righteousness to every one that believeth.

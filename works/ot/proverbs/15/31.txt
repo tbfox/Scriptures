@@ -1,1 +1,0 @@
-The ear that heareth the reproof of life abideth among the wise.

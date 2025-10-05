@@ -1,1 +1,0 @@
-For he hath broken the gates of brass, and cut the bars of iron in sunder.

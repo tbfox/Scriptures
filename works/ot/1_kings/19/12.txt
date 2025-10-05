@@ -1,1 +1,0 @@
-And after the earthquake a fire; but the LORD was not in the fire: and after the fire a still small voice.

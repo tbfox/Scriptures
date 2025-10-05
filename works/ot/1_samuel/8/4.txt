@@ -1,1 +1,0 @@
-Then all the elders of Israel gathered themselves together, and came to Samuel unto Ramah,

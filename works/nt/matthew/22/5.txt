@@ -1,1 +1,0 @@
-But they made light of it, and went their ways, one to his farm, another to his merchandise:

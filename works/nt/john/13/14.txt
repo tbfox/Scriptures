@@ -1,1 +1,0 @@
-If I then, your Lord and Master, have washed your feet; ye also ought to wash one another's feet.

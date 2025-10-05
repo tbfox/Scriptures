@@ -1,1 +1,0 @@
-But it displeased Jonah exceedingly, and he was very angry.

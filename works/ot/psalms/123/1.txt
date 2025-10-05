@@ -1,1 +1,0 @@
-Unto thee lift I up mine eyes, O thou that dwellest in the heavens.

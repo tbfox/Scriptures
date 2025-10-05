@@ -1,1 +1,0 @@
-My days are past, my purposes are broken off, even the thoughts of my heart.

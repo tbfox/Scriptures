@@ -1,1 +1,0 @@
-And Ahishar was over the household: and Adoniram the son of Abda was over the tribute.

@@ -1,1 +1,0 @@
-This is the water of Meribah; because the children of Israel strove with the LORD, and he was sanctified in them.

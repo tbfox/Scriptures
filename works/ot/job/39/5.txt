@@ -1,1 +1,0 @@
-Who hath sent out the wild ass free? or who hath loosed the bands of the wild ass?

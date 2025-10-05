@@ -1,1 +1,0 @@
-Then spake Jeremiah unto all the princes and to all the people, saying, The LORD sent me to prophesy against this house and against this city all the words that ye have heard.

@@ -1,1 +1,0 @@
-And he informed me, and talked with me, and said, O Daniel, I am now come forth to give thee skill and understanding.

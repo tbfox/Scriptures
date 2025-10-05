@@ -1,1 +1,0 @@
-Why do ye not understand my speech? even because ye cannot hear my word.

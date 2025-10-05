@@ -1,1 +1,0 @@
-And he said likewise to him, Be thou also over five cities.

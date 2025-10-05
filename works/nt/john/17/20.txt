@@ -1,1 +1,0 @@
-Neither pray I for these alone, but for them also which shall believe on me through their word;

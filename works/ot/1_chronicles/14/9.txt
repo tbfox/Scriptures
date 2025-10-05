@@ -1,1 +1,0 @@
-And the Philistines came and spread themselves in the valley of Rephaim.

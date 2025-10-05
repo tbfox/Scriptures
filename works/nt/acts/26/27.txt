@@ -1,1 +1,0 @@
-King Agrippa, believest thou the prophets? I know that thou believest.

@@ -1,1 +1,0 @@
-But he spake the more vehemently, If I should die with thee, I will not deny thee in any wise. Likewise also said they all.

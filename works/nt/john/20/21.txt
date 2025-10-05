@@ -1,1 +1,0 @@
-Then said Jesus to them again, Peace be unto you: as my Father hath sent me, even so send I you.

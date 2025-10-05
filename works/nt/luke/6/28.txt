@@ -1,1 +1,0 @@
-Bless them that curse you, and pray for them which despitefully use you.

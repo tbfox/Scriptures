@@ -1,1 +1,0 @@
-And said, Cornelius, thy prayer is heard, and thine alms are had in remembrance in the sight of God.

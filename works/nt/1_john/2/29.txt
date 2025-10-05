@@ -1,1 +1,0 @@
-If ye know that he is righteous, ye know that every one that doeth righteousness is born of him.

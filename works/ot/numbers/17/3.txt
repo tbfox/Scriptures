@@ -1,1 +1,0 @@
-And thou shalt write Aaron's name upon the rod of Levi: for one rod shall be for the head of the house of their fathers.

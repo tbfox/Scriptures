@@ -1,1 +1,0 @@
-Treasures of wickedness profit nothing: but righteousness delivereth from death.

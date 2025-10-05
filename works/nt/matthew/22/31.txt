@@ -1,1 +1,0 @@
-But as touching the resurrection of the dead, have ye not read that which was spoken unto you by God, saying,

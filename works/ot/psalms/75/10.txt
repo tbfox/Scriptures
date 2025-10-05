@@ -1,1 +1,0 @@
-All the horns of the wicked also will I cut off; but the horns of the righteous shall be exalted.

@@ -1,1 +1,0 @@
-And these are the names of the children of Israel, which came into Egypt, Jacob and his sons: Reuben, Jacob's firstborn.

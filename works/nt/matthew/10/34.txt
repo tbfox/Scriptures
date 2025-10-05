@@ -1,1 +1,0 @@
-Think not that I am come to send peace on earth: I came not to send peace, but a sword.

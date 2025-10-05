@@ -1,1 +1,0 @@
-And he shall kill the one of the birds in an earthen vessel over running water:

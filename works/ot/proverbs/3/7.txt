@@ -1,1 +1,0 @@
-Be not wise in thine own eyes: fear the LORD, and depart from evil.

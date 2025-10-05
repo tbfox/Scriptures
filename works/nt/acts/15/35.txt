@@ -1,1 +1,0 @@
-Paul also and Barnabas continued in Antioch, teaching and preaching the word of the Lord, with many others also.

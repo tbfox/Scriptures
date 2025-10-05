@@ -1,1 +1,0 @@
-I am as a wonder unto many; but thou art my strong refuge.

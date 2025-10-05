@@ -1,1 +1,0 @@
-And, behold, there came a leper and worshipped him, saying, Lord, if thou wilt, thou canst make me clean.

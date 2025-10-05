@@ -1,1 +1,0 @@
-But Joshua the son of Nun, and Caleb the son of Jephunneh, which were of the men that went to search the land, lived still.

@@ -1,1 +1,0 @@
-And having in a readiness to revenge all disobedience, when your obedience is fulfilled.

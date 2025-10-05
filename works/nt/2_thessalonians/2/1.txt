@@ -1,1 +1,0 @@
-Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto him,

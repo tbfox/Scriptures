@@ -1,1 +1,0 @@
-With my lips have I declared all the judgments of thy mouth.

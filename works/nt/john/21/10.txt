@@ -1,1 +1,0 @@
-Jesus saith unto them, Bring of the fish which ye have now caught.

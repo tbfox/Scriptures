@@ -1,1 +1,0 @@
-This man went unto Pilate, and begged the body of Jesus.

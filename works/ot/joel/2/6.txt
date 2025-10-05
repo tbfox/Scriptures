@@ -1,1 +1,0 @@
-Before their face the people shall be much pained: all faces shall gather blackness.

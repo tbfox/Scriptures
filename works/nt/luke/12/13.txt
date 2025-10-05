@@ -1,1 +1,0 @@
-And one of the company said unto him, Master, speak to my brother, that he divide the inheritance with me.

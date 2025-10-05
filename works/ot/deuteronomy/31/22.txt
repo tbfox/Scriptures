@@ -1,1 +1,0 @@
-Moses therefore wrote this song the same day, and taught it the children of Israel.

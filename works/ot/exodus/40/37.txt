@@ -1,1 +1,0 @@
-But if the cloud were not taken up, then they journeyed not till the day that it was taken up.

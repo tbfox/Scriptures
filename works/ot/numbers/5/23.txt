@@ -1,1 +1,0 @@
-And the priest shall write these curses in a book, and he shall blot them out with the bitter water:

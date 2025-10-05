@@ -1,1 +1,0 @@
-What will ye do in the solemn day, and in the day of the feast of the LORD?

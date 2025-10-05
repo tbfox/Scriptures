@@ -1,1 +1,0 @@
-So Solomon built the house, and finished it.

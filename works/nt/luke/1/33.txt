@@ -1,1 +1,0 @@
-And he shall reign over the house of Jacob for ever; and of his kingdom there shall be no end.

@@ -1,1 +1,0 @@
-Endeavouring to keep the unity of the Spirit in the bond of peace.

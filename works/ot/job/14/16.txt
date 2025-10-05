@@ -1,1 +1,0 @@
-For now thou numberest my steps: dost thou not watch over my sin?

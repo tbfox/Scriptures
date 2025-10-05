@@ -1,1 +1,0 @@
-The children of Keros, the children of Sia, the children of Padon,

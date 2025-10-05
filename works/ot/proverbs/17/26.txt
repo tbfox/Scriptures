@@ -1,1 +1,0 @@
-Also to punish the just is not good, nor to strike princes for equity.

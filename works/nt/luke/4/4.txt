@@ -1,1 +1,0 @@
-And Jesus answered him, saying, It is written, That man shall not live by bread alone, but by every word of God.

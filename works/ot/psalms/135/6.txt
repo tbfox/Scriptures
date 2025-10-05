@@ -1,1 +1,0 @@
-Whatsoever the LORD pleased, that did he in heaven, and in earth, in the seas, and all deep places.

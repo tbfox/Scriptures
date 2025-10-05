@@ -1,1 +1,0 @@
-The sons of Merari were Mahli and Mushi: the sons of Jaaziah; Beno.

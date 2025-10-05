@@ -1,1 +1,0 @@
-And all the congregation of the children of Israel departed from the presence of Moses.

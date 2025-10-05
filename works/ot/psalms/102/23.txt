@@ -1,1 +1,0 @@
-He weakened my strength in the way; he shortened my days.

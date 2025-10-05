@@ -1,1 +1,0 @@
-Therefore let us not sleep, as do others; but let us watch and be sober.

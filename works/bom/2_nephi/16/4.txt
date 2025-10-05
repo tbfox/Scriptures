@@ -1,1 +1,0 @@
-And the posts of the door moved at the voice of him that cried, and the house was filled with smoke.

@@ -1,1 +1,0 @@
-And the stars of heaven shall fall, and the powers that are in heaven shall be shaken.

@@ -1,1 +1,0 @@
-And Jezreel, and Jokdeam, and Zanoah,

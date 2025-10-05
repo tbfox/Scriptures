@@ -1,1 +1,0 @@
-Open thou mine eyes, that I may behold wondrous things out of thy law.

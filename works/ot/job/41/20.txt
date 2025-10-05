@@ -1,1 +1,0 @@
-Out of his nostrils goeth smoke, as out of a seething pot or caldron.

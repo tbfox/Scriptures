@@ -1,1 +1,0 @@
-Also by watering he wearieth the thick cloud: he scattereth his bright cloud:

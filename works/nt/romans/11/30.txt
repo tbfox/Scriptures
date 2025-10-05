@@ -1,1 +1,0 @@
-For as ye in times past have not believed God, yet have now obtained mercy through their unbelief:

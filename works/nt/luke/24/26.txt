@@ -1,1 +1,0 @@
-Ought not Christ to have suffered these things, and to enter into his glory?

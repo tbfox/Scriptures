@@ -1,1 +1,0 @@
-And there are three that bear witness in earth, the Spirit, and the water, and the blood: and these three agree in one.

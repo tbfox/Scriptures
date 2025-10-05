@@ -1,1 +1,0 @@
-And the sons of Zebulun; Sered, and Elon, and Jahleel.

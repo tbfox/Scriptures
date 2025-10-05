@@ -1,1 +1,0 @@
-Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding.

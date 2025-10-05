@@ -1,1 +1,0 @@
-Happy is that people, that is in such a case: yea, happy is that people, whose God is the LORD.

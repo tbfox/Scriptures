@@ -1,1 +1,0 @@
-Then the devil leaveth him, and, behold, angels came and ministered unto him.

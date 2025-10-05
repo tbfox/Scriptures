@@ -1,1 +1,0 @@
-And Ahijah caught the new garment that was on him, and rent it in twelve pieces:

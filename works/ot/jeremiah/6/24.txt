@@ -1,1 +1,0 @@
-We have heard the fame thereof: our hands wax feeble: anguish hath taken hold of us, and pain, as of a woman in travail.

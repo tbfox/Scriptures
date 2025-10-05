@@ -1,1 +1,0 @@
-Our necks are under persecution: we labour, and have no rest.

@@ -1,1 +1,0 @@
-Wisdom crieth without; she uttereth her voice in the streets:

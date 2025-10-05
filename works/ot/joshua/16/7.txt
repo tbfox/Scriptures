@@ -1,1 +1,0 @@
-And it went down from Janohah to Ataroth, and to Naarath, and came to Jericho, and went out at Jordan.

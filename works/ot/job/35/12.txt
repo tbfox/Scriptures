@@ -1,1 +1,0 @@
-There they cry, but none giveth answer, because of the pride of evil men.

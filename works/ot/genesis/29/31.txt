@@ -1,1 +1,0 @@
-And when the LORD saw that Leah was hated, he opened her womb: but Rachel was barren.

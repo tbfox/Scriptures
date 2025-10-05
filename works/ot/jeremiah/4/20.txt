@@ -1,1 +1,0 @@
-Destruction upon destruction is cried; for the whole land is spoiled: suddenly are my tents spoiled, and my curtains in a moment.

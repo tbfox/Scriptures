@@ -1,1 +1,0 @@
-But speak thou the things which become sound doctrine:

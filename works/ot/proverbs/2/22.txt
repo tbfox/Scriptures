@@ -1,1 +1,0 @@
-But the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it.

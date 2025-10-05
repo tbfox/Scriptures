@@ -1,1 +1,0 @@
-But the end of all things is at hand: be ye therefore sober, and watch unto prayer.

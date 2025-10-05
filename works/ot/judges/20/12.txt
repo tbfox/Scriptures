@@ -1,1 +1,0 @@
-And the tribes of Israel sent men through all the tribe of Benjamin, saying, What wickedness is this that is done among you?

@@ -1,1 +1,0 @@
-Then they went out of the city, and came unto him.

@@ -1,1 +1,0 @@
-God standeth in the congregation of the mighty; he judgeth among the gods.

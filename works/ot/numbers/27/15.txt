@@ -1,1 +1,0 @@
-And Moses spake unto the LORD, saying,

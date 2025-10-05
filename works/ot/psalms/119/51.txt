@@ -1,1 +1,0 @@
-The proud have had me greatly in derision: yet have I not declined from thy law.

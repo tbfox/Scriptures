@@ -1,1 +1,0 @@
-Thou shalt not revile the gods, nor curse the ruler of thy people.

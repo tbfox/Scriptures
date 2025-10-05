@@ -1,1 +1,0 @@
-Then said Jeremiah, It is false; I fall not away to the Chaldeans. But he hearkened not to him: so Irijah took Jeremiah, and brought him to the princes.

@@ -1,1 +1,0 @@
-Seven years old was Jehoash when he began to reign.

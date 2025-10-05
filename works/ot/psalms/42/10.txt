@@ -1,1 +1,0 @@
-As with a sword in my bones, mine enemies reproach me; while they say daily unto me, Where is thy God?

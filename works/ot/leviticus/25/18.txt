@@ -1,1 +1,0 @@
-Wherefore ye shall do my statutes, and keep my judgments, and do them; and ye shall dwell in the land in safety.

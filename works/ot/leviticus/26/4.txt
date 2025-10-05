@@ -1,1 +1,0 @@
-Then I will give you rain in due season, and the land shall yield her increase, and the trees of the field shall yield their fruit.

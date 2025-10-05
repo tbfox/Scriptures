@@ -1,1 +1,0 @@
-If by any means I might attain unto the resurrection of the dead.

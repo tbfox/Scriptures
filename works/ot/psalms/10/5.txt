@@ -1,1 +1,0 @@
-His ways are always grievous; thy judgments are far above out of his sight: as for all his enemies, he puffeth at them.

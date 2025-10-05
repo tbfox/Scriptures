@@ -1,1 +1,0 @@
-Sing unto the LORD, praise ye the LORD: for he hath delivered the soul of the poor from the hand of evildoers.

@@ -1,1 +1,0 @@
-Jesus cried and said, He that believeth on me, believeth not on me, but on him that sent me.

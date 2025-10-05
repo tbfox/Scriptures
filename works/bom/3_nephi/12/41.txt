@@ -1,1 +1,0 @@
-And whosoever shall compel thee to go a mile, go with him twain.

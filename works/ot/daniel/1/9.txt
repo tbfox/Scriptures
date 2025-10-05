@@ -1,1 +1,0 @@
-Now God had brought Daniel into favour and tender love with the prince of the eunuchs.

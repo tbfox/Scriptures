@@ -1,1 +1,0 @@
-And the remnant of the sodomites, which remained in the days of his father Asa, he took out of the land.

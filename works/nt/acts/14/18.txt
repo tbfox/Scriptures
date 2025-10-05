@@ -1,1 +1,0 @@
-And with these sayings scarce restrained they the people, that they had not done sacrifice unto them.

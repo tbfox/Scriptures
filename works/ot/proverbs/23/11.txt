@@ -1,1 +1,0 @@
-For their redeemer is mighty; he shall plead their cause with thee.

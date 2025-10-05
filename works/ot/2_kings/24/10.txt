@@ -1,1 +1,0 @@
-At that time the servants of Nebuchadnezzar king of Babylon came up against Jerusalem, and the city was besieged.

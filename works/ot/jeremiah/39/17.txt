@@ -1,1 +1,0 @@
-But I will deliver thee in that day, saith the LORD: and thou shalt not be given into the hand of the men of whom thou art afraid.

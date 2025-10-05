@@ -1,1 +1,0 @@
-Then Moses severed three cities on this side Jordan toward the sunrising;

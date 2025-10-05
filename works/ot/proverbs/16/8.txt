@@ -1,1 +1,0 @@
-Better is a little with righteousness than great revenues without right.

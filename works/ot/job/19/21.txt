@@ -1,1 +1,0 @@
-Have pity upon me, have pity upon me, O ye my friends; for the hand of God hath touched me.

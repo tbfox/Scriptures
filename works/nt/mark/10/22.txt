@@ -1,1 +1,0 @@
-And he was sad at that saying, and went away grieved: for he had great possessions.

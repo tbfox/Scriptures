@@ -1,1 +1,0 @@
-He opened the rock, and the waters gushed out; they ran in the dry places like a river.

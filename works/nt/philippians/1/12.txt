@@ -1,1 +1,0 @@
-But I would ye should understand, brethren, that the things which happened unto me have fallen out rather unto the furtherance of the gospel;

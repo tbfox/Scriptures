@@ -1,1 +1,0 @@
-The LORD is merciful and gracious, slow to anger, and plenteous in mercy.

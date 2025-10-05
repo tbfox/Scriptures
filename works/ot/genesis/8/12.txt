@@ -1,1 +1,0 @@
-And he stayed yet other seven days; and sent forth the dove; which returned not again unto him any more.

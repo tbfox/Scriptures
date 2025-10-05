@@ -1,1 +1,0 @@
-But Jesus answered them, My Father worketh hitherto, and I work.

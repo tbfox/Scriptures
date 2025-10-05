@@ -1,1 +1,0 @@
-Oh that one would hear me! behold, my desire is, that the Almighty would answer me, and that mine adversary had written a book.

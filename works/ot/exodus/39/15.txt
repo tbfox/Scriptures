@@ -1,1 +1,0 @@
-And they made upon the breastplate chains at the ends, of wreathen work of pure gold.

@@ -1,1 +1,0 @@
-Praise ye the LORD. I will praise the LORD with my whole heart, in the assembly of the upright, and in the congregation.

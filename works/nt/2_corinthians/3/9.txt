@@ -1,1 +1,0 @@
-For if the ministration of condemnation be glory, much more doth the ministration of righteousness exceed in glory.

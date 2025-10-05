@@ -1,1 +1,0 @@
-And said unto them, What will ye give me, and I will deliver him unto you? And they covenanted with him for thirty pieces of silver.

@@ -1,1 +1,0 @@
-And Azariah begat Amariah, and Amariah begat Ahitub,

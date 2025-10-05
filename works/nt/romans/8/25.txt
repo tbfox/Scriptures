@@ -1,1 +1,0 @@
-But if we hope for that we see not, then do we with patience wait for it.

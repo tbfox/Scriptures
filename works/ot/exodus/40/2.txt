@@ -1,1 +1,0 @@
-On the first day of the first month shalt thou set up the tabernacle of the tent of the congregation.

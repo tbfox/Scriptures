@@ -1,1 +1,0 @@
-Thou hast borne thy lewdness and thine abominations, saith the LORD.

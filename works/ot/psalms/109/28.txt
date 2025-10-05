@@ -1,1 +1,0 @@
-Let them curse, but bless thou: when they arise, let them be ashamed; but let thy servant rejoice.

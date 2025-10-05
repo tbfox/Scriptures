@@ -1,1 +1,0 @@
-Let the people praise thee, O God; let all the people praise thee.

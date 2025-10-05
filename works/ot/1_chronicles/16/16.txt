@@ -1,1 +1,0 @@
-Even of the covenant which he made with Abraham, and of his oath unto Isaac;

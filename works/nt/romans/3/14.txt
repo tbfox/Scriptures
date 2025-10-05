@@ -1,1 +1,0 @@
-Whose mouth is full of cursing and bitterness:

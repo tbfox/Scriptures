@@ -1,1 +1,0 @@
-He discovereth deep things out of darkness, and bringeth out to light the shadow of death.

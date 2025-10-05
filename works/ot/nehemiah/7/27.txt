@@ -1,1 +1,0 @@
-The men of Anathoth, an hundred twenty and eight.

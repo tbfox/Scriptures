@@ -1,1 +1,0 @@
-Produce your cause, saith the LORD; bring forth your strong reasons, saith the King of Jacob.

@@ -1,1 +1,0 @@
-And he said unto them, I beheld Satan as lightning fall from heaven.

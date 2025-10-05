@@ -1,1 +1,0 @@
-They are destroyed from morning to evening: they perish for ever without any regarding it.

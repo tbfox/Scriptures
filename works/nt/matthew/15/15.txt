@@ -1,1 +1,0 @@
-Then answered Peter and said unto him, Declare unto us this parable.

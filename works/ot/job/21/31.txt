@@ -1,1 +1,0 @@
-Who shall declare his way to his face? and who shall repay him what he hath done?

@@ -1,1 +1,0 @@
-And when the chief Shepherd shall appear, ye shall receive a crown of glory that fadeth not away.

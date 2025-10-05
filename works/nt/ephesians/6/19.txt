@@ -1,1 +1,0 @@
-And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel,

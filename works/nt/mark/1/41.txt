@@ -1,1 +1,0 @@
-And Jesus, moved with compassion, put forth his hand, and touched him, and saith unto him, I will; be thou clean.

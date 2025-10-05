@@ -1,1 +1,0 @@
-And the sons of Bela were, Addar, and Gera, and Abihud,

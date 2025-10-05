@@ -1,1 +1,0 @@
-And burned the house of the LORD, and the king's house; and all the houses of Jerusalem, and all the houses of the great men, burned he with fire:

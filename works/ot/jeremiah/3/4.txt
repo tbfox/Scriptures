@@ -1,1 +1,0 @@
-Wilt thou not from this time cry unto me, My father, thou art the guide of my youth?

@@ -1,1 +1,0 @@
-And he did that which was evil in the sight of the LORD: he departed not from all the sins of Jeroboam the son of Nebat, who made Israel to sin.

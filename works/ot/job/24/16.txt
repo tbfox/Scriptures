@@ -1,1 +1,0 @@
-In the dark they dig through houses, which they had marked for themselves in the daytime: they know not the light.

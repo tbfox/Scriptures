@@ -1,1 +1,0 @@
-Although thou sayest thou shalt not see him, yet judgment is before him; therefore trust thou in him.

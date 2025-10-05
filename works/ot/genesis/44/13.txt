@@ -1,1 +1,0 @@
-Then they rent their clothes, and laded every man his ass, and returned to the city.

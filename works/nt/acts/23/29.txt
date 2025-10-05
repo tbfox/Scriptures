@@ -1,1 +1,0 @@
-Whom I perceived to be accused of questions of their law, but to have nothing laid to his charge worthy of death or of bonds.

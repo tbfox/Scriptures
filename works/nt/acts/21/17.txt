@@ -1,1 +1,0 @@
-And when we were come to Jerusalem, the brethren received us gladly.

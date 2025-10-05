@@ -1,1 +1,0 @@
-This was the Lord's doing, and it is marvellous in our eyes?

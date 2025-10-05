@@ -1,1 +1,0 @@
-Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law.

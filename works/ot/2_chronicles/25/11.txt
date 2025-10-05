@@ -1,1 +1,0 @@
-And Amaziah strengthened himself, and led forth his people, and went to the valley of salt, and smote of the children of Seir ten thousand.

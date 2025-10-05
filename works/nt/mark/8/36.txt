@@ -1,1 +1,0 @@
-For what shall it profit a man, if he shall gain the whole world, and lose his own soul?

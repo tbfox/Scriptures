@@ -1,1 +1,0 @@
-I have peace offerings with me; this day have I payed my vows.

@@ -1,1 +1,0 @@
-And whosoever doth not bear his cross, and come after me, cannot be my disciple.

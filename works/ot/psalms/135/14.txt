@@ -1,1 +1,0 @@
-For the LORD will judge his people, and he will repent himself concerning his servants.

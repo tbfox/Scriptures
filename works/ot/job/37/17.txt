@@ -1,1 +1,0 @@
-How thy garments are warm, when he quieteth the earth by the south wind?

@@ -1,1 +1,0 @@
-Therefore, ye shepherds, hear the word of the LORD;

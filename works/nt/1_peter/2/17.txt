@@ -1,1 +1,0 @@
-Honour all men. Love the brotherhood. Fear God. Honour the king.

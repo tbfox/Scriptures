@@ -1,1 +1,0 @@
-And Joseph came in unto them in the morning, and looked upon them, and, behold, they were sad.

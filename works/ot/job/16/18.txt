@@ -1,1 +1,0 @@
-O earth, cover not thou my blood, and let my cry have no place.

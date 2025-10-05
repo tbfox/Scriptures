@@ -1,1 +1,0 @@
-All thy garments smell of myrrh, and aloes, and cassia, out of the ivory palaces, whereby they have made thee glad.

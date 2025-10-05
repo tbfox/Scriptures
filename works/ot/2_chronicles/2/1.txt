@@ -1,1 +1,0 @@
-And Solomon determined to build an house for the name of the LORD, and an house for his kingdom.

@@ -1,1 +1,0 @@
-He sendeth out his word, and melteth them: he causeth his wind to blow, and the waters flow.

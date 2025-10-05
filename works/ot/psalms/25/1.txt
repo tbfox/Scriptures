@@ -1,1 +1,0 @@
-Unto thee, O LORD, do I lift up my soul.

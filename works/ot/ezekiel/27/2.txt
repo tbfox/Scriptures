@@ -1,1 +1,0 @@
-Now, thou son of man, take up a lamentation for Tyrus;

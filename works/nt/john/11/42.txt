@@ -1,1 +1,0 @@
-And I knew that thou hearest me always: but because of the people which stand by I said it, that they may believe that thou hast sent me.

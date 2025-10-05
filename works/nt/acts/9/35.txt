@@ -1,1 +1,0 @@
-And all that dwelt at Lydda and Saron saw him, and turned to the Lord.

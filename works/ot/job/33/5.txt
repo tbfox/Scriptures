@@ -1,1 +1,0 @@
-If thou canst answer me, set thy words in order before me, stand up.

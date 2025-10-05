@@ -1,1 +1,0 @@
-I will not give sleep to mine eyes, or slumber to mine eyelids,

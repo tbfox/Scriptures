@@ -1,1 +1,0 @@
-Zion heard, and was glad; and the daughters of Judah rejoiced because of thy judgments, O LORD.

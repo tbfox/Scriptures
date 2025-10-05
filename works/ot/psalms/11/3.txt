@@ -1,1 +1,0 @@
-If the foundations be destroyed, what can the righteous do?

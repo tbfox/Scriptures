@@ -1,1 +1,0 @@
-And thou shalt put the mitre upon his head, and put the holy crown upon the mitre.

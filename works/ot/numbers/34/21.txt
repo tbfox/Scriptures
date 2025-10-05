@@ -1,1 +1,0 @@
-Of the tribe of Benjamin, Elidad the son of Chislon.

@@ -1,1 +1,0 @@
-They pluck the fatherless from the breast, and take a pledge of the poor.

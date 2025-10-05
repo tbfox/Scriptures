@@ -1,1 +1,0 @@
-Because they rebelled against the words of God, and contemned the counsel of the most High:

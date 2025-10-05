@@ -1,1 +1,0 @@
-In the beginning of the reign of Jehoiakim the son of Josiah king of Judah came this word from the LORD, saying,

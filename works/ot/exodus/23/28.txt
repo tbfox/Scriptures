@@ -1,1 +1,0 @@
-And I will send hornets before thee, which shall drive out the Hivite, the Canaanite, and the Hittite, from before thee.

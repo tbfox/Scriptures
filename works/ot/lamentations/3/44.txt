@@ -1,1 +1,0 @@
-Thou hast covered thyself with a cloud, that our prayer should not pass through.

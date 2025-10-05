@@ -1,1 +1,0 @@
-And there was in their synagogue a man with an unclean spirit; and he cried out,

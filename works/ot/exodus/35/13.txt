@@ -1,1 +1,0 @@
-The table, and his staves, and all his vessels, and the shewbread,

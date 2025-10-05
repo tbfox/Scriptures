@@ -1,1 +1,0 @@
-And the people asked him, saying, What shall we do then?

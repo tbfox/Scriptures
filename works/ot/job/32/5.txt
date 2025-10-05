@@ -1,1 +1,0 @@
-When Elihu saw that there was no answer in the mouth of these three men, then his wrath was kindled.

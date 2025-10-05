@@ -1,1 +1,0 @@
-And Abraham said, I will swear.

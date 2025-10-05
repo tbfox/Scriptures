@@ -1,1 +1,0 @@
-If so be that being clothed we shall not be found naked.

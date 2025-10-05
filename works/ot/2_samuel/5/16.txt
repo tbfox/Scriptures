@@ -1,1 +1,0 @@
-And Elishama, and Eliada, and Eliphalet.

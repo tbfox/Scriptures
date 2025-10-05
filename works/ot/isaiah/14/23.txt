@@ -1,1 +1,0 @@
-I will also make it a possession for the bittern, and pools of water: and I will sweep it with the besom of destruction, saith the LORD of hosts.

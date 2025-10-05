@@ -1,1 +1,0 @@
-And thou shalt be blessed; for they cannot recompense thee: for thou shalt be recompensed at the resurrection of the just.

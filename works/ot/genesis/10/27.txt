@@ -1,1 +1,0 @@
-And Hadoram, and Uzal, and Diklah,

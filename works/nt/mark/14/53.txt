@@ -1,1 +1,0 @@
-And they led Jesus away to the high priest: and with him were assembled all the chief priests and the elders and the scribes.

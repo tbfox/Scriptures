@@ -1,1 +1,0 @@
-And Tyrus did build herself a strong hold, and heaped up silver as the dust, and fine gold as the mire of the streets.

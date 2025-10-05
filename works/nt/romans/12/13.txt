@@ -1,1 +1,0 @@
-Distributing to the necessity of saints; given to hospitality.

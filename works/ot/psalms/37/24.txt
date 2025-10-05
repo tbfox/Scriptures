@@ -1,1 +1,0 @@
-Though he fall, he shall not be utterly cast down: for the LORD upholdeth him with his hand.

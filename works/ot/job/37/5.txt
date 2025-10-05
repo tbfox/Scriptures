@@ -1,1 +1,0 @@
-God thundereth marvellously with his voice; great things doeth he, which we cannot comprehend.

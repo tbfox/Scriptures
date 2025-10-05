@@ -1,1 +1,0 @@
-He shall shake off his unripe grape as the vine, and shall cast off his flower as the olive.

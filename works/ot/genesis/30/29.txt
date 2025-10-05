@@ -1,1 +1,0 @@
-And he said unto him, Thou knowest how I have served thee, and how thy cattle was with me.

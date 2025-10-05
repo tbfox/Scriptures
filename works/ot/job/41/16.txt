@@ -1,1 +1,0 @@
-One is so near to another, that no air can come between them.

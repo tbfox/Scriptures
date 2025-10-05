@@ -1,1 +1,0 @@
-And fear came upon every soul: and many wonders and signs were done by the apostles.

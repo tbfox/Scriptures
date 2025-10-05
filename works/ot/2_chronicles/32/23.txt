@@ -1,1 +1,0 @@
-And many brought gifts unto the LORD to Jerusalem, and presents to Hezekiah king of Judah: so that he was magnified in the sight of all nations from thenceforth.

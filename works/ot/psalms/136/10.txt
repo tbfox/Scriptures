@@ -1,1 +1,0 @@
-To him that smote Egypt in their firstborn: for his mercy endureth for ever:

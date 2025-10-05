@@ -1,1 +1,0 @@
-And he lighted the lamps before the LORD; as the LORD commanded Moses.

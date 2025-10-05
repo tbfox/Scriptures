@@ -1,1 +1,0 @@
-Then the deputy, when he saw what was done, believed, being astonished at the doctrine of the Lord.

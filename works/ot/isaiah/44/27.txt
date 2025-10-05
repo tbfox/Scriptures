@@ -1,1 +1,0 @@
-That saith to the deep, Be dry, and I will dry up thy rivers:

@@ -1,1 +1,0 @@
-As he loved cursing, so let it come unto him: as he delighted not in blessing, so let it be far from him.

@@ -1,1 +1,0 @@
-And when these things begin to come to pass, then look up, and lift up your heads; for your redemption draweth nigh.

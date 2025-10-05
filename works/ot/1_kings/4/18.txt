@@ -1,1 +1,0 @@
-Shimei the son of Elah, in Benjamin:

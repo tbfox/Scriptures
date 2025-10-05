@@ -1,1 +1,0 @@
-So then they that are in the flesh cannot please God.

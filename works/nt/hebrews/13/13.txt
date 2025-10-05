@@ -1,1 +1,0 @@
-Let us go forth therefore unto him without the camp, bearing his reproach.

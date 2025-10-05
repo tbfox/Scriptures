@@ -1,1 +1,0 @@
-And they took their journey from Succoth, and encamped in Etham, in the edge of the wilderness.

@@ -1,1 +1,0 @@
-If any man defile the temple of God, him shall God destroy; for the temple of God is holy, which temple ye are.

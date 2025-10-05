@@ -1,1 +1,0 @@
-If there be a messenger with him, an interpreter, one among a thousand, to shew unto man his uprightness:

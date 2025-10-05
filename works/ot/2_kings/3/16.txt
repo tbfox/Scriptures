@@ -1,1 +1,0 @@
-And he said, Thus saith the LORD, Make this valley full of ditches.

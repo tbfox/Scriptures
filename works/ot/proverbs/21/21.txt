@@ -1,1 +1,0 @@
-He that followeth after righteousness and mercy findeth life, righteousness, and honour.

@@ -1,1 +1,0 @@
-I would seek unto God, and unto God would I commit my cause:

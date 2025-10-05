@@ -1,1 +1,0 @@
-And Samuel called the people together unto the LORD to Mizpeh;

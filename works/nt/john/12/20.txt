@@ -1,1 +1,0 @@
-And there were certain Greeks among them that came up to worship at the feast:

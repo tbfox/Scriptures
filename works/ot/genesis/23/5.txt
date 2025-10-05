@@ -1,1 +1,0 @@
-And the children of Heth answered Abraham, saying unto him,

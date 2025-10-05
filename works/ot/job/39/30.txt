@@ -1,1 +1,0 @@
-Her young ones also suck up blood: and where the slain are, there is she.

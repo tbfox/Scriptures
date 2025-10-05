@@ -1,1 +1,0 @@
-He wandereth abroad for bread, saying, Where is it? he knoweth that the day of darkness is ready at his hand.

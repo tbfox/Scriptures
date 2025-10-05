@@ -1,1 +1,0 @@
-When they heard these things, they were cut to the heart, and they gnashed on him with their teeth.

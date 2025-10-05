@@ -1,1 +1,0 @@
-Moreover the LORD shall raise him up a king over Israel, who shall cut off the house of Jeroboam that day: but what? even now.

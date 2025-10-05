@@ -1,1 +1,0 @@
-And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him.

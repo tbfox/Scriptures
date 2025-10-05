@@ -1,1 +1,0 @@
-I beheld, and, lo, the fruitful place was a wilderness, and all the cities thereof were broken down at the presence of the LORD, and by his fierce anger.

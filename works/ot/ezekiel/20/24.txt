@@ -1,1 +1,0 @@
-Because they had not executed my judgments, but had despised my statutes, and had polluted my sabbaths, and their eyes were after their fathers' idols.

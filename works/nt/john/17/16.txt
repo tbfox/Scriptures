@@ -1,1 +1,0 @@
-They are not of the world, even as I am not of the world.

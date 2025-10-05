@@ -1,1 +1,0 @@
-My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring?

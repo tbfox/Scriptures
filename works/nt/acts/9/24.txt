@@ -1,1 +1,0 @@
-But their laying await was known of Saul. And they watched the gates day and night to kill him.

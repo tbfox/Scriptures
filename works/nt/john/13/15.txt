@@ -1,1 +1,0 @@
-For I have given you an example, that ye should do as I have done to you.

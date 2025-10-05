@@ -1,1 +1,0 @@
-So king Solomon exceeded all the kings of the earth for riches and for wisdom.

@@ -1,1 +1,0 @@
-And the skin of the bullock, and all his flesh, with his head, and with his legs, and his inwards, and his dung,

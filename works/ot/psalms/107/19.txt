@@ -1,1 +1,0 @@
-Then they cry unto the LORD in their trouble, and he saveth them out of their distresses.

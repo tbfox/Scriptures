@@ -1,1 +1,0 @@
-For God speaketh once, yea twice, yet man perceiveth it not.

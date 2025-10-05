@@ -1,1 +1,0 @@
-And he said, Whereunto shall we liken the kingdom of God? or with what comparison shall we compare it?

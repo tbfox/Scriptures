@@ -1,1 +1,0 @@
-Pleasant words are as an honeycomb, sweet to the soul, and health to the bones.

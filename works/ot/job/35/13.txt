@@ -1,1 +1,0 @@
-Surely God will not hear vanity, neither will the Almighty regard it.

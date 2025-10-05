@@ -1,1 +1,0 @@
-And the magicians of Egypt did so with their enchantments: and Pharaoh's heart was hardened, neither did he hearken unto them; as the LORD had said.

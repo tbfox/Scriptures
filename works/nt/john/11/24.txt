@@ -1,1 +1,0 @@
-Martha saith unto him, I know that he shall rise again in the resurrection at the last day.

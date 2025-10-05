@@ -1,1 +1,0 @@
-And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,

@@ -1,1 +1,0 @@
-Seeing it is hid from the eyes of all living, and kept close from the fowls of the air.

@@ -1,1 +1,0 @@
-Duke Aholibamah, duke Elah, duke Pinon,

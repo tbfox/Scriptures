@@ -1,1 +1,0 @@
-For it hath pleased them of Macedonia and Achaia to make a certain contribution for the poor saints which are at Jerusalem.

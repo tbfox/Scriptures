@@ -1,1 +1,0 @@
-Ye have compassed this mountain long enough: turn you northward.

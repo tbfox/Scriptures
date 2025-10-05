@@ -1,1 +1,0 @@
-A fruitful land into barrenness, for the wickedness of them that dwell therein.

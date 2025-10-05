@@ -1,1 +1,0 @@
-And take your father and your households, and come unto me: and I will give you the good of the land of Egypt, and ye shall eat the fat of the land.

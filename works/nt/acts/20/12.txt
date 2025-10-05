@@ -1,1 +1,0 @@
-And they brought the young man alive, and were not a little comforted.

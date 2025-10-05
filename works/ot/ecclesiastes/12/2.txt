@@ -1,1 +1,0 @@
-While the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain:

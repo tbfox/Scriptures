@@ -1,1 +1,0 @@
-As for these things which ye behold, the days will come, in the which there shall not be left one stone upon another, that shall not be thrown down.

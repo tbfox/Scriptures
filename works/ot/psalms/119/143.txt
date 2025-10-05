@@ -1,1 +1,0 @@
-Trouble and anguish have taken hold on me: yet thy commandments are my delights.

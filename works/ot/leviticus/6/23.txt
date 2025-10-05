@@ -1,1 +1,0 @@
-For every meat offering for the priest shall be wholly burnt: it shall not be eaten.

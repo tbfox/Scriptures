@@ -1,1 +1,0 @@
-While he thus spake, there came a cloud, and overshadowed them: and they feared as they entered into the cloud.

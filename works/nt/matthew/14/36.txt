@@ -1,1 +1,0 @@
-And besought him that they might only touch the hem of his garment: and as many as touched were made perfectly whole.

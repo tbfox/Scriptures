@@ -1,1 +1,0 @@
-Yea, he loved the people; all his saints are in thy hand: and they sat down at thy feet; every one shall receive of thy words.

@@ -1,1 +1,0 @@
-Yet he filled their houses with good things: but the counsel of the wicked is far from me.

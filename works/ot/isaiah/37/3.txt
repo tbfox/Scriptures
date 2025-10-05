@@ -1,1 +1,0 @@
-And they said unto him, Thus saith Hezekiah, This day is a day of trouble, and of rebuke, and of blasphemy: for the children are come to the birth, and there is not strength to bring forth.

@@ -1,1 +1,0 @@
-And she answered and said unto him, Yes, Lord: yet the dogs under the table eat of the children's crumbs.

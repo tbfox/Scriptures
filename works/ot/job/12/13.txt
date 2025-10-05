@@ -1,1 +1,0 @@
-With him is wisdom and strength, he hath counsel and understanding.

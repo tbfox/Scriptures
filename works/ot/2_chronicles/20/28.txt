@@ -1,1 +1,0 @@
-And they came to Jerusalem with psalteries and harps and trumpets unto the house of the LORD.

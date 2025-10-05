@@ -1,1 +1,0 @@
-And let them sacrifice the sacrifices of thanksgiving, and declare his works with rejoicing.

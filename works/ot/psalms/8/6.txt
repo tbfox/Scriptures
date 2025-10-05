@@ -1,1 +1,0 @@
-Thou madest him to have dominion over the works of thy hands; thou hast put all things under his feet:

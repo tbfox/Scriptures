@@ -1,1 +1,0 @@
-And the anointing oil, and sweet incense for the holy place: according to all that I have commanded thee shall they do.

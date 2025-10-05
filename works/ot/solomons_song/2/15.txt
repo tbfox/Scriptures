@@ -1,1 +1,0 @@
-Take us the foxes, the little foxes, that spoil the vines: for our vines have tender grapes.

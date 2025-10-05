@@ -1,1 +1,0 @@
-And there was no water for the congregation: and they gathered themselves together against Moses and against Aaron.

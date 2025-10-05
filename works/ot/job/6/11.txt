@@ -1,1 +1,0 @@
-What is my strength, that I should hope? and what is mine end, that I should prolong my life?

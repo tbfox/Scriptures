@@ -1,1 +1,0 @@
-A soft answer turneth away wrath: but grievous words stir up anger.

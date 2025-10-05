@@ -1,1 +1,0 @@
-And Hashabiah, and with him Jeshaiah of the sons of Merari, his brethren and their sons, twenty;

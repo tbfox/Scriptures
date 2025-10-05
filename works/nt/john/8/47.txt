@@ -1,1 +1,0 @@
-He that is of God heareth God's words: ye therefore hear them not, because ye are not of God.

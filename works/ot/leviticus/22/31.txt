@@ -1,1 +1,0 @@
-Therefore shall ye keep my commandments, and do them: I am the LORD.

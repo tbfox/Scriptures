@@ -1,1 +1,0 @@
-I know, O LORD, that thy judgments are right, and that thou in faithfulness hast afflicted me.

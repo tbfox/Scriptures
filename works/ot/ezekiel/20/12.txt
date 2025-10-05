@@ -1,1 +1,0 @@
-Moreover also I gave them my sabbaths, to be a sign between me and them, that they might know that I am the LORD that sanctify them.

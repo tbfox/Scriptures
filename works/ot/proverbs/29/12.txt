@@ -1,1 +1,0 @@
-If a ruler hearken to lies, all his servants are wicked.

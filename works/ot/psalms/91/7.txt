@@ -1,1 +1,0 @@
-A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee.

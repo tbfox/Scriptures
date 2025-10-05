@@ -1,1 +1,0 @@
-He sent a man before them, even Joseph, who was sold for a servant:

@@ -1,1 +1,0 @@
-The LORD taketh pleasure in them that fear him, in those that hope in his mercy.

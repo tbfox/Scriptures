@@ -1,1 +1,0 @@
-He made also posts of threescore cubits, even unto the post of the court round about the gate.

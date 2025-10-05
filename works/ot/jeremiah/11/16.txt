@@ -1,1 +1,0 @@
-The LORD called thy name, A green olive tree, fair, and of goodly fruit: with the noise of a great tumult he hath kindled fire upon it, and the branches of it are broken.

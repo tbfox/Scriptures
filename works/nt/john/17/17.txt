@@ -1,1 +1,0 @@
-Sanctify them through thy truth: thy word is truth.

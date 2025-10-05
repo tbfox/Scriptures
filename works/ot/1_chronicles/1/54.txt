@@ -1,1 +1,0 @@
-Duke Magdiel, duke Iram. These are the dukes of Edom.

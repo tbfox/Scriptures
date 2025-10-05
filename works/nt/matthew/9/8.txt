@@ -1,1 +1,0 @@
-But when the multitudes saw it, they marvelled, and glorified God, which had given such power unto men.

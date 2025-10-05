@@ -1,1 +1,0 @@
-Seek the LORD, and his strength: seek his face evermore.

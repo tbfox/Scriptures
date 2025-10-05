@@ -1,1 +1,0 @@
-And into whatsoever city ye enter, and they receive you, eat such things as are set before you:

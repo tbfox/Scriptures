@@ -1,1 +1,0 @@
-And Leah conceived again, and bare Jacob the sixth son.

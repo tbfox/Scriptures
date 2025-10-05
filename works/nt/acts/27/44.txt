@@ -1,1 +1,0 @@
-And the rest, some on boards, and some on broken pieces of the ship. And so it came to pass, that they escaped all safe to land.

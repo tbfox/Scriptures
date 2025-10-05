@@ -1,1 +1,0 @@
-But the LORD was with Joseph, and shewed him mercy, and gave him favour in the sight of the keeper of the prison.

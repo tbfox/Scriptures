@@ -1,1 +1,0 @@
-Then I turned, and lifted up mine eyes, and looked, and behold a flying roll.

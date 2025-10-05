@@ -1,1 +1,0 @@
-There be four things which are little upon the earth, but they are exceeding wise:

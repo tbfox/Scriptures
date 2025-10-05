@@ -1,1 +1,0 @@
-But ye, brethren, are not in darkness, that that day should overtake you as a thief.

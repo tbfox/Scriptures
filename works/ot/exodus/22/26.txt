@@ -1,1 +1,0 @@
-If thou at all take thy neighbour's raiment to pledge, thou shalt deliver it unto him by that the sun goeth down:

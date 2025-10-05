@@ -1,1 +1,0 @@
-He then lying on Jesus' breast saith unto him, Lord, who is it?

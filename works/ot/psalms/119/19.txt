@@ -1,1 +1,0 @@
-I am a stranger in the earth: hide not thy commandments from me.

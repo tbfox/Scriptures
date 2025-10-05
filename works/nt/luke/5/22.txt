@@ -1,1 +1,0 @@
-But when Jesus perceived their thoughts, he answering said unto them, What reason ye in your hearts?

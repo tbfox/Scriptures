@@ -1,1 +1,0 @@
-By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten son,

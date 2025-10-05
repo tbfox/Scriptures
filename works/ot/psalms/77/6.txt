@@ -1,1 +1,0 @@
-I call to remembrance my song in the night: I commune with mine own heart: and my spirit made diligent search.

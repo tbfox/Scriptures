@@ -1,1 +1,0 @@
-But I will declare for ever; I will sing praises to the God of Jacob.

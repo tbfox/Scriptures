@@ -1,1 +1,0 @@
-The heavens declare the glory of God; and the firmament sheweth his handywork.

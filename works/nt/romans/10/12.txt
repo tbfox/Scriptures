@@ -1,1 +1,0 @@
-For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him.

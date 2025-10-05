@@ -1,1 +1,0 @@
-Now when these things were thus ordained, the priests went always into the first tabernacle, accomplishing the service of God.

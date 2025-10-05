@@ -1,1 +1,0 @@
-But he spake of the temple of his body.

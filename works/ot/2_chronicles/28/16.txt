@@ -1,1 +1,0 @@
-At that time did king Ahaz send unto the kings of Assyria to help him.

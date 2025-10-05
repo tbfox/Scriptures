@@ -1,1 +1,0 @@
-Now there are diversities of gifts, but the same Spirit.

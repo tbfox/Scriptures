@@ -1,1 +1,0 @@
-Consider how I love thy precepts: quicken me, O LORD, according to thy lovingkindness.

@@ -1,1 +1,0 @@
-So they drew up Jeremiah with cords, and took him up out of the dungeon: and Jeremiah remained in the court of the prison.

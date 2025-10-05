@@ -1,1 +1,0 @@
-Salute Urbane, our helper in Christ, and Stachys my beloved.

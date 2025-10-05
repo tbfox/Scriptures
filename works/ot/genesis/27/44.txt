@@ -1,1 +1,0 @@
-And tarry with him a few days, until thy brother's fury turn away;

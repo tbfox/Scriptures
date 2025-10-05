@@ -1,1 +1,0 @@
-Thus saith the LORD of hosts; It shall yet come to pass, that there shall come people, and the inhabitants of many cities:

@@ -1,1 +1,0 @@
-And hereby we do know that we know him, if we keep his commandments.

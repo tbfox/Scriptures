@@ -1,1 +1,0 @@
-And when Jesus saw her, he called her to him, and said unto her, Woman, thou art loosed from thine infirmity.

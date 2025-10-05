@@ -1,1 +1,0 @@
-Be ye afraid of the sword: for wrath bringeth the punishments of the sword, that ye may know there is a judgment.

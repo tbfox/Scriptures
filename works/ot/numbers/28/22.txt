@@ -1,1 +1,0 @@
-And one goat for a sin offering, to make an atonement for you.

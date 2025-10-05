@@ -1,1 +1,0 @@
-Hath any of the gods of the nations delivered at all his land out of the hand of the king of Assyria?

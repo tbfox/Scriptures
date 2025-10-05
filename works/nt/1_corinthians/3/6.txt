@@ -1,1 +1,0 @@
-I have planted, Apollos watered; but God gave the increase.

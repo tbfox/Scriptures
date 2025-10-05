@@ -1,1 +1,0 @@
-And I am very sore displeased with the heathen that are at ease: for I was but a little displeased, and they helped forward the affliction.

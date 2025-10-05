@@ -1,1 +1,0 @@
-Thy lips are like a thread of scarlet, and thy speech is comely: thy temples are like a piece of a pomegranate within thy locks.

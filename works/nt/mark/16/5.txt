@@ -1,1 +1,0 @@
-And entering into the sepulchre, they saw a young man sitting on the right side, clothed in a long white garment; and they were affrighted.

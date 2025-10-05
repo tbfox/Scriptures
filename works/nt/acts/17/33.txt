@@ -1,1 +1,0 @@
-So Paul departed from among them.

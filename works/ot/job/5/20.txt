@@ -1,1 +1,0 @@
-In famine he shall redeem thee from death: and in war from the power of the sword.

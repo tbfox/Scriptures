@@ -1,1 +1,0 @@
-What man is like Job, who drinketh up scorning like water?

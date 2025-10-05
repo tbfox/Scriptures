@@ -1,1 +1,0 @@
-Did not I weep for him that was in trouble? was not my soul grieved for the poor?

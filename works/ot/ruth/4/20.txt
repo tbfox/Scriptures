@@ -1,1 +1,0 @@
-And Amminadab begat Nahshon, and Nahshon begat Salmon,

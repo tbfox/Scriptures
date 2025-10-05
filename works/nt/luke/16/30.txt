@@ -1,1 +1,0 @@
-And he said, Nay, father Abraham: but if one went unto them from the dead, they will repent.

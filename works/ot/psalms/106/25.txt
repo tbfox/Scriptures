@@ -1,1 +1,0 @@
-But murmured in their tents, and hearkened not unto the voice of the LORD.

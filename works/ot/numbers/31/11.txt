@@ -1,1 +1,0 @@
-And they took all the spoil, and all the prey, both of men and of beasts.

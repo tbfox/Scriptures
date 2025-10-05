@@ -1,1 +1,0 @@
-I am the good shepherd: the good shepherd giveth his life for the sheep.

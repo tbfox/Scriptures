@@ -1,1 +1,0 @@
-My soul cleaveth unto the dust: quicken thou me according to thy word.

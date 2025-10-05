@@ -1,1 +1,0 @@
-And when they had ordained them elders in every church, and had prayed with fasting, they commended them to the Lord, on whom they believed.

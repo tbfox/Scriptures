@@ -1,1 +1,0 @@
-And Stephen, full of faith and power, did great wonders and miracles among the people.

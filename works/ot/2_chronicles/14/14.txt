@@ -1,1 +1,0 @@
-And they smote all the cities round about Gerar; for the fear of the LORD came upon them: and they spoiled all the cities; for there was exceeding much spoil in them.

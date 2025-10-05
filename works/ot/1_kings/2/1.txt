@@ -1,1 +1,0 @@
-Now the days of David drew nigh that he should die; and he charged Solomon his son, saying,

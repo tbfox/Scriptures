@@ -1,1 +1,0 @@
-I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.

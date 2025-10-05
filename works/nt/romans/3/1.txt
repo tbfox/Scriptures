@@ -1,1 +1,0 @@
-What advantage then hath the Jew? or what profit is there of circumcision?

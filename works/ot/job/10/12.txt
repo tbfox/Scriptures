@@ -1,1 +1,0 @@
-Thou hast granted me life and favour, and thy visitation hath preserved my spirit.

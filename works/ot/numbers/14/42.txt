@@ -1,1 +1,0 @@
-Go not up, for the LORD is not among you; that ye be not smitten before your enemies.

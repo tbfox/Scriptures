@@ -1,1 +1,0 @@
-Known unto God are all his works from the beginning of the world.

@@ -1,1 +1,0 @@
-Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?

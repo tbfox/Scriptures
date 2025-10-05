@@ -1,1 +1,0 @@
-Let the wicked fall into their own nets, whilst that I withal escape.

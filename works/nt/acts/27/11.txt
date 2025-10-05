@@ -1,1 +1,0 @@
-Nevertheless the centurion believed the master and the owner of the ship, more than those things which were spoken by Paul.

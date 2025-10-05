@@ -1,1 +1,0 @@
-This is the third time I am coming to you. In the mouth of two or three witnesses shall every word be established.

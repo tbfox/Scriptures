@@ -1,1 +1,0 @@
-Wherefore hear the word of the LORD, ye scornful men, that rule this people which is in Jerusalem.

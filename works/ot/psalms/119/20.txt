@@ -1,1 +1,0 @@
-My soul breaketh for the longing that it hath unto thy judgments at all times.

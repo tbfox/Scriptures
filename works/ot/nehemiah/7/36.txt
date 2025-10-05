@@ -1,1 +1,0 @@
-The children of Jericho, three hundred forty and five.

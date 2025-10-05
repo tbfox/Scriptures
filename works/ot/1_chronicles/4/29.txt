@@ -1,1 +1,0 @@
-And at Bilhah, and at Ezem, and at Tolad,

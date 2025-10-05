@@ -1,1 +1,0 @@
-Remember the word unto thy servant, upon which thou hast caused me to hope.

@@ -1,1 +1,0 @@
-And they spit upon him, and took the reed, and smote him on the head.

@@ -1,1 +1,0 @@
-Then Peter and the other apostles answered and said, We ought to obey God rather than men.

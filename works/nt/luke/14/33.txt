@@ -1,1 +1,0 @@
-So likewise, whosoever he be of you that forsaketh not all that he hath, he cannot be my disciple.

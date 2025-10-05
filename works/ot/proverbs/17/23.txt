@@ -1,1 +1,0 @@
-A wicked man taketh a gift out of the bosom to pervert the ways of judgment.

@@ -1,1 +1,0 @@
-For I mean not that other men be eased, and ye burdened:

@@ -1,1 +1,0 @@
-So these young men of the princes of the provinces came out of the city, and the army which followed them.

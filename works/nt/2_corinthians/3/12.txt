@@ -1,1 +1,0 @@
-Seeing then that we have such hope, we use great plainness of speech:

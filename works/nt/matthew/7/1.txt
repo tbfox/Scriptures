@@ -1,1 +1,0 @@
-Judge not, that ye be not judged.

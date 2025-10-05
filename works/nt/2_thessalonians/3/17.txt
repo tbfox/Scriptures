@@ -1,1 +1,0 @@
-The salutation of Paul with mine own hand, which is the token in every epistle: so I write.

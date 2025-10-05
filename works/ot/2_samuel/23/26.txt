@@ -1,1 +1,0 @@
-Helez the Paltite, Ira the son of Ikkesh the Tekoite,

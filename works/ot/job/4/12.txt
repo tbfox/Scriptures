@@ -1,1 +1,0 @@
-Now a thing was secretly brought to me, and mine ear received a little thereof.

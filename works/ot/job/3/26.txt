@@ -1,1 +1,0 @@
-I was not in safety, neither had I rest, neither was I quiet; yet trouble came.

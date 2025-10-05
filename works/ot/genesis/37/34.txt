@@ -1,1 +1,0 @@
-And Jacob rent his clothes, and put sackcloth upon his loins, and mourned for his son many days.

@@ -1,1 +1,0 @@
-Jesus answered them, Do ye now believe?

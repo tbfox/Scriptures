@@ -1,1 +1,0 @@
-And I am glad for your sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him.

@@ -1,1 +1,0 @@
-Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.

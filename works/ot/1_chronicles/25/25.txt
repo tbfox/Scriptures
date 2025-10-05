@@ -1,1 +1,0 @@
-The eighteenth to Hanani, he, his sons, and his brethren, were twelve:

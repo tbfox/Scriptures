@@ -1,1 +1,0 @@
-Happy is the man that feareth alway: but he that hardeneth his heart shall fall into mischief.

@@ -1,1 +1,0 @@
-In whose hands is mischief, and their right hand is full of bribes.

@@ -1,1 +1,0 @@
-Thus shall they be unto thee with whom thou hast laboured, even thy merchants, from thy youth: they shall wander every one to his quarter; none shall save thee.

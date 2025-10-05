@@ -1,1 +1,0 @@
-The snare is laid for him in the ground, and a trap for him in the way.

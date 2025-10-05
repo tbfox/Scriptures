@@ -1,1 +1,0 @@
-On the second day Nethaneel the son of Zuar, prince of Issachar, did offer:

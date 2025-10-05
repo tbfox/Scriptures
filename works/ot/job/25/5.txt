@@ -1,1 +1,0 @@
-Behold even to the moon, and it shineth not; yea, the stars are not pure in his sight.

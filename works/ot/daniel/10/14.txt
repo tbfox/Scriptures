@@ -1,1 +1,0 @@
-Now I am come to make thee understand what shall befall thy people in the latter days: for yet the vision is for many days.

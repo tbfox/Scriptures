@@ -1,1 +1,0 @@
-When I washed my steps with butter, and the rock poured me out rivers of oil;

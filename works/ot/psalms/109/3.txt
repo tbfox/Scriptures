@@ -1,1 +1,0 @@
-They compassed me about also with words of hatred; and fought against me without a cause.

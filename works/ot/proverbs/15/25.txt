@@ -1,1 +1,0 @@
-The LORD will destroy the house of the proud: but he will establish the border of the widow.

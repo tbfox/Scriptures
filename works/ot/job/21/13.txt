@@ -1,1 +1,0 @@
-They spend their days in wealth, and in a moment go down to the grave.

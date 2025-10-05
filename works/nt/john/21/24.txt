@@ -1,1 +1,0 @@
-This is the disciple which testifieth of these things, and wrote these things: and we know that his testimony is true.

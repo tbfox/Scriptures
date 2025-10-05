@@ -1,1 +1,0 @@
-A several tenth deal for one lamb, throughout the seven lambs:

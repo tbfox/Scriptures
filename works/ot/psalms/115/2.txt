@@ -1,1 +1,0 @@
-Wherefore should the heathen say, Where is now their God?

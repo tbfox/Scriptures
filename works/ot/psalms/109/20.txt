@@ -1,1 +1,0 @@
-Let this be the reward of mine adversaries from the LORD, and of them that speak evil against my soul.

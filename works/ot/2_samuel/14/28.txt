@@ -1,1 +1,0 @@
-So Absalom dwelt two full years in Jerusalem, and saw not the king's face.

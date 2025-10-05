@@ -1,1 +1,0 @@
-But Jesus beheld them, and said unto them, With men this is impossible; but with God all things are possible.

@@ -1,1 +1,0 @@
-Shallum, Amariah, and Joseph.

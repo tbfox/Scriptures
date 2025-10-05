@@ -1,1 +1,0 @@
-They hate him that rebuketh in the gate, and they abhor him that speaketh uprightly.

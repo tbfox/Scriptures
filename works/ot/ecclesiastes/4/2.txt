@@ -1,1 +1,0 @@
-Wherefore I praised the dead which are already dead more than the living which are yet alive.

@@ -1,1 +1,0 @@
-Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you.

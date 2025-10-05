@@ -1,1 +1,0 @@
-The words of king Lemuel, the prophecy that his mother taught him.

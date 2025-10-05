@@ -1,1 +1,0 @@
-And he said unto them, The kings of the Gentiles exercise lordship over them; and they that exercise authority upon them are called benefactors.

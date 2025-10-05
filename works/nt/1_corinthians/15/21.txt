@@ -1,1 +1,0 @@
-For since by man came death, by man came also the resurrection of the dead.

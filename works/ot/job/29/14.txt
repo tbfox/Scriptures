@@ -1,1 +1,0 @@
-I put on righteousness, and it clothed me: my judgment was as a robe and a diadem.

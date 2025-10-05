@@ -1,1 +1,0 @@
-And of Joiarib, Mattenai; of Jedaiah, Uzzi;

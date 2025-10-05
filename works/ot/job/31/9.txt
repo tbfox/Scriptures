@@ -1,1 +1,0 @@
-If mine heart have been deceived by a woman, or if I have laid wait at my neighbour's door;

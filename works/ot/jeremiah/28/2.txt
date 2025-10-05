@@ -1,1 +1,0 @@
-Thus speaketh the LORD of hosts, the God of Israel, saying, I have broken the yoke of the king of Babylon.

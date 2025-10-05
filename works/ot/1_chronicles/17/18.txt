@@ -1,1 +1,0 @@
-What can David speak more to thee for the honour of thy servant? for thou knowest thy servant.

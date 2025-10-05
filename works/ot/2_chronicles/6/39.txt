@@ -1,1 +1,0 @@
-Then hear thou from the heavens, even from thy dwelling place, their prayer and their supplications, and maintain their cause, and forgive thy people which have sinned against thee.

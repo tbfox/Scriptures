@@ -1,1 +1,0 @@
-Thy word have I hid in mine heart, that I might not sin against thee.

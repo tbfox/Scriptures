@@ -1,1 +1,0 @@
-And one of the malefactors which were hanged railed on him, saying, If thou be Christ, save thyself and us.

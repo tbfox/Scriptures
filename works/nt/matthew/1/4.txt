@@ -1,1 +1,0 @@
-And Aram begat Aminadab; and Aminadab begat Naasson; and Naasson begat Salmon;

@@ -1,1 +1,0 @@
-Your words have been stout against me, saith the LORD. Yet ye say, What have we spoken so much against thee?

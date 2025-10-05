@@ -1,1 +1,0 @@
-He deviseth mischief upon his bed; he setteth himself in a way that is not good; he abhorreth not evil.

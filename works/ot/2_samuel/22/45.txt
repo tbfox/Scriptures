@@ -1,1 +1,0 @@
-Strangers shall submit themselves unto me: as soon as they hear, they shall be obedient unto me.

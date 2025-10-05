@@ -1,1 +1,0 @@
-And again he sent another; and him they killed, and many others; beating some, and killing some.

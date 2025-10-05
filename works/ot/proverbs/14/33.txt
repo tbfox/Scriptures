@@ -1,1 +1,0 @@
-Wisdom resteth in the heart of him that hath understanding: but that which is in the midst of fools is made known.

@@ -1,1 +1,0 @@
-And when they heard it, they glorified the Lord, and said unto him, Thou seest, brother, how many thousands of Jews there are which believe; and they are all zealous of the law:

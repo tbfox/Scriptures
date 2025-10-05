@@ -1,1 +1,0 @@
-There is that maketh himself rich, yet hath nothing: there is that maketh himself poor, yet hath great riches.

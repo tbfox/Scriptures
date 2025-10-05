@@ -1,1 +1,0 @@
-And always, night and day, he was in the mountains, and in the tombs, crying, and cutting himself with stones.

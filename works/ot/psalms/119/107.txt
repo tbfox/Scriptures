@@ -1,1 +1,0 @@
-I am afflicted very much: quicken me, O LORD, according unto thy word.

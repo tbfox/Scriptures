@@ -1,1 +1,0 @@
-And Jesus answering said, Were there not ten cleansed? but where are the nine?

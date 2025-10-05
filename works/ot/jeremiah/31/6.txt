@@ -1,1 +1,0 @@
-For there shall be a day, that the watchmen upon the mount Ephraim shall cry, Arise ye, and let us go up to Zion unto the LORD our God.

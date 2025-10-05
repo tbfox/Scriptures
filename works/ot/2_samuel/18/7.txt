@@ -1,1 +1,0 @@
-Where the people of Israel were slain before the servants of David, and there was there a great slaughter that day of twenty thousand men.

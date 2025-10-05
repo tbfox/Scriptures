@@ -1,1 +1,0 @@
-I will wash mine hands in innocency: so will I compass thine altar, O LORD:

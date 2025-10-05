@@ -1,1 +1,0 @@
-And I have declared unto them thy name, and will declare it: that the love wherewith thou hast loved me may be in them, and I in them.

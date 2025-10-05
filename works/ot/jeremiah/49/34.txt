@@ -1,1 +1,0 @@
-The word of the LORD that came to Jeremiah the prophet against Elam in the beginning of the reign of Zedekiah king of Judah, saying,

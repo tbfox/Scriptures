@@ -1,1 +1,0 @@
-Every male among the priests shall eat thereof: it shall be eaten in the holy place: it is most holy.

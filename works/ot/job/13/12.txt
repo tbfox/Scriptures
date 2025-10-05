@@ -1,1 +1,0 @@
-Your remembrances are like unto ashes, your bodies to bodies of clay.

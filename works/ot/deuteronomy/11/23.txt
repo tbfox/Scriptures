@@ -1,1 +1,0 @@
-Then will the LORD drive out all these nations from before you, and ye shall possess greater nations and mightier than yourselves.

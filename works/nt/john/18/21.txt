@@ -1,1 +1,0 @@
-Why askest thou me? ask them which heard me, what I have said unto them: behold, they know what I said.

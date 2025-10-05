@@ -1,1 +1,0 @@
-And thou shalt roast and eat it in the place which the LORD thy God shall choose: and thou shalt turn in the morning, and go unto thy tents.

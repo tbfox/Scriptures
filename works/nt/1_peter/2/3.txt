@@ -1,1 +1,0 @@
-If so be ye have tasted that the Lord is gracious.

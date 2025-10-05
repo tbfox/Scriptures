@@ -1,1 +1,0 @@
-Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty:

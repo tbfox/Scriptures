@@ -1,1 +1,0 @@
-All nations compassed me about: but in the name of the LORD will I destroy them.

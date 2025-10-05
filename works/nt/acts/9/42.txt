@@ -1,1 +1,0 @@
-And it was known throughout all Joppa; and many believed in the Lord.

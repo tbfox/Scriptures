@@ -1,1 +1,0 @@
-Concerning thy testimonies, I have known of old that thou hast founded them for ever.

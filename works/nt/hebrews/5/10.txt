@@ -1,1 +1,0 @@
-Called of God an high priest after the order of Melchisedec.

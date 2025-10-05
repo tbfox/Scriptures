@@ -1,1 +1,0 @@
-And when Elisha was come into the house, behold, the child was dead, and laid upon his bed.

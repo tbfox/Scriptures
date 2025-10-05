@@ -1,1 +1,0 @@
-And for Aaron's sons thou shalt make coats, and thou shalt make for them girdles, and bonnets shalt thou make for them, for glory and for beauty.

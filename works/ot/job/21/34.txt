@@ -1,1 +1,0 @@
-How then comfort ye me in vain, seeing in your answers there remaineth falsehood?

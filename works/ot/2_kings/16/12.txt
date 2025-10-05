@@ -1,1 +1,0 @@
-And when the king was come from Damascus, the king saw the altar: and the king approached to the altar, and offered thereon.

@@ -1,1 +1,0 @@
-Erastus abode at Corinth: but Trophimus have I left at Miletum sick.

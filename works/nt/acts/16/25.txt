@@ -1,1 +1,0 @@
-And at midnight Paul and Silas prayed, and sang praises unto God: and the prisoners heard them.

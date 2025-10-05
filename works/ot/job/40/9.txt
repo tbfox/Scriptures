@@ -1,1 +1,0 @@
-Hast thou an arm like God? or canst thou thunder with a voice like him?

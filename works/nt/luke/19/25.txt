@@ -1,1 +1,0 @@
-(And they said unto him, Lord, he hath ten pounds.)

@@ -1,1 +1,0 @@
-Remember these, O Jacob and Israel; for thou art my servant: I have formed thee; thou art my servant: O Israel, thou shalt not be forgotten of me.

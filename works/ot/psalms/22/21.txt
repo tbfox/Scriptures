@@ -1,1 +1,0 @@
-Save me from the lion's mouth: for thou hast heard me from the horns of the unicorns.

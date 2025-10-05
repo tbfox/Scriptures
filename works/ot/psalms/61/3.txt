@@ -1,1 +1,0 @@
-For thou hast been a shelter for me, and a strong tower from the enemy.

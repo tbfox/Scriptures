@@ -1,1 +1,0 @@
-I cried to thee, O LORD; and unto the LORD I made supplication.

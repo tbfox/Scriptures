@@ -1,1 +1,0 @@
-Of the sons of Bani; Maadai, Amram, and Uel,

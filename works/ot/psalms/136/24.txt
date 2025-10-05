@@ -1,1 +1,0 @@
-And hath redeemed us from our enemies: for his mercy endureth for ever.

@@ -1,1 +1,0 @@
-And thou shalt swear, The LORD liveth, in truth, in judgment, and in righteousness; and the nations shall bless themselves in him, and in him shall they glory.

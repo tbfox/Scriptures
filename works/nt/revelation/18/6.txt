@@ -1,1 +1,0 @@
-Reward her even as she rewarded you, and double unto her double according to her works: in the cup which she hath filled fill to her double.

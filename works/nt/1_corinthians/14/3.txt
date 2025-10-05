@@ -1,1 +1,0 @@
-But he that prophesieth speaketh unto men to edification, and exhortation, and comfort.

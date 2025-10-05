@@ -1,1 +1,0 @@
-But my people would not hearken to my voice; and Israel would none of me.

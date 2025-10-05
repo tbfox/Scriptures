@@ -1,1 +1,0 @@
-And when Moses heard that, he was content.

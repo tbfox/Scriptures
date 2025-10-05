@@ -1,1 +1,0 @@
-And their father said unto them, What way went he? For his sons had seen what way the man of God went, which came from Judah.

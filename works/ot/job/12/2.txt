@@ -1,1 +1,0 @@
-No doubt but ye are the people, and wisdom shall die with you.

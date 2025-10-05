@@ -1,1 +1,0 @@
-Ibhar also, and Elishama, and Eliphelet,

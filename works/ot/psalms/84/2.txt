@@ -1,1 +1,0 @@
-My soul longeth, yea, even fainteth for the courts of the LORD: my heart and my flesh crieth out for the living God.

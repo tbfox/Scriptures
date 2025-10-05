@@ -1,1 +1,0 @@
-For he knoweth vain men: he seeth wickedness also; will he not then consider it?

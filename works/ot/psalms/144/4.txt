@@ -1,1 +1,0 @@
-Man is like to vanity: his days are as a shadow that passeth away.

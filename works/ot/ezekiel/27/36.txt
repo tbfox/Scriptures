@@ -1,1 +1,0 @@
-The merchants among the people shall hiss at thee; thou shalt be a terror, and never shalt be any more.

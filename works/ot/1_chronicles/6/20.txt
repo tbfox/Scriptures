@@ -1,1 +1,0 @@
-Of Gershom; Libni his son, Jahath his son, Zimmah his son,

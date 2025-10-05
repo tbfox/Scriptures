@@ -1,1 +1,0 @@
-He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.

@@ -1,1 +1,0 @@
-Seeing it is a righteous thing with God to recompense tribulation to them that trouble you;

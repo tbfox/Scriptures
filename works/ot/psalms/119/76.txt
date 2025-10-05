@@ -1,1 +1,0 @@
-Let, I pray thee, thy merciful kindness be for my comfort, according to thy word unto thy servant.

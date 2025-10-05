@@ -1,1 +1,0 @@
-And if I by Beelzebub cast out devils, by whom do your sons cast them out? therefore shall they be your judges.

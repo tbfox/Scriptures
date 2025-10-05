@@ -1,1 +1,0 @@
-Then an herald cried aloud, To you it is commanded, O people, nations, and languages,

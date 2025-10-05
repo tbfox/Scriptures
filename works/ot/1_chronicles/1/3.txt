@@ -1,1 +1,0 @@
-Henoch, Methuselah, Lamech,

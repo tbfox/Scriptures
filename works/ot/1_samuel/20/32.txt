@@ -1,1 +1,0 @@
-And Jonathan answered Saul his father, and said unto him, Wherefore shall he be slain? what hath he done?

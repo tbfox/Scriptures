@@ -1,1 +1,0 @@
-But he knoweth the way that I take: when he hath tried me, I shall come forth as gold.

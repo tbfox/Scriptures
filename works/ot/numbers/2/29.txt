@@ -1,1 +1,0 @@
-Then the tribe of Naphtali: and the captain of the children of Naphtali shall be Ahira the son of Enan.

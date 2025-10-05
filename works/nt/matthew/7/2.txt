@@ -1,1 +1,0 @@
-For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.

@@ -1,1 +1,0 @@
-But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.

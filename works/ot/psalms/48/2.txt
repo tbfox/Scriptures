@@ -1,1 +1,0 @@
-Beautiful for situation, the joy of the whole earth, is mount Zion, on the sides of the north, the city of the great King.

@@ -1,1 +1,0 @@
-I prevented the dawning of the morning, and cried: I hoped in thy word.

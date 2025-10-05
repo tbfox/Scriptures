@@ -1,1 +1,0 @@
-Hear ye now what the LORD saith; Arise, contend thou before the mountains, and let the hills hear thy voice.

@@ -1,1 +1,0 @@
-Eliahba the Shaalbonite, of the sons of Jashen, Jonathan,

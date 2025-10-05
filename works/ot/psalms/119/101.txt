@@ -1,1 +1,0 @@
-I have refrained my feet from every evil way, that I might keep thy word.

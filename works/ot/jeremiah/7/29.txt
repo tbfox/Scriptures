@@ -1,1 +1,0 @@
-Cut off thine hair, O Jerusalem, and cast it away, and take up a lamentation on high places; for the LORD hath rejected and forsaken the generation of his wrath.

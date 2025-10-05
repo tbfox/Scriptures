@@ -1,1 +1,0 @@
-And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh.

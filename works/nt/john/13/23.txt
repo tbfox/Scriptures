@@ -1,1 +1,0 @@
-Now there was leaning on Jesus' bosom one of his disciples, whom Jesus loved.

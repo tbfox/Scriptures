@@ -1,1 +1,0 @@
-Ye shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles?

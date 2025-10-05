@@ -1,1 +1,0 @@
-For even in Thessalonica ye sent once and again unto my necessity.

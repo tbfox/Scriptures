@@ -1,1 +1,0 @@
-And I commanded you at that time all the things which ye should do.

@@ -1,1 +1,0 @@
-And Jesus answered and said unto them, For the hardness of your heart he wrote you this precept.

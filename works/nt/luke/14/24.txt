@@ -1,1 +1,0 @@
-For I say unto you, That none of those men which were bidden shall taste of my supper.

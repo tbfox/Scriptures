@@ -1,1 +1,0 @@
-Circumcision is nothing, and uncircumcision is nothing, but the keeping of the commandments of God.

@@ -1,1 +1,0 @@
-The song of songs, which is Solomon's.

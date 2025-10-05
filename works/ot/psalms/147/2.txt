@@ -1,1 +1,0 @@
-The LORD doth build up Jerusalem: he gathereth together the outcasts of Israel.

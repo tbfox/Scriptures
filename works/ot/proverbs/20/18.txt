@@ -1,1 +1,0 @@
-Every purpose is established by counsel: and with good advice make war.

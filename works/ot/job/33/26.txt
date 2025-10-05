@@ -1,1 +1,0 @@
-He shall pray unto God, and he will be favourable unto him: and he shall see his face with joy: for he will render unto man his righteousness.

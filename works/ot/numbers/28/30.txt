@@ -1,1 +1,0 @@
-And one kid of the goats, to make an atonement for you.

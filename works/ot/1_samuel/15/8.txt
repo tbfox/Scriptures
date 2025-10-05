@@ -1,1 +1,0 @@
-And he took Agag the king of the Amalekites alive, and utterly destroyed all the people with the edge of the sword.

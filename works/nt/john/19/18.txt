@@ -1,1 +1,0 @@
-Where they crucified him, and two other with him, on either side one, and Jesus in the midst.

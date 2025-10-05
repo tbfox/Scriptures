@@ -1,1 +1,0 @@
-And Judah did evil in the sight of the LORD, and they provoked him to jealousy with their sins which they had committed, above all that their fathers had done.

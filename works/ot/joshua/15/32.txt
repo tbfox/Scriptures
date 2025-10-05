@@ -1,1 +1,0 @@
-And Lebaoth, and Shilhim, and Ain, and Rimmon: all the cities are twenty and nine, with their villages:

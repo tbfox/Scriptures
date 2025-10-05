@@ -1,1 +1,0 @@
-And the sea arose by reason of a great wind that blew.

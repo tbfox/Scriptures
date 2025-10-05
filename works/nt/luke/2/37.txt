@@ -1,1 +1,0 @@
-And she was a widow of about fourscore and four years, which departed not from the temple, but served God with fastings and prayers night and day.

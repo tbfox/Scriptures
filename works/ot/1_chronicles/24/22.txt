@@ -1,1 +1,0 @@
-Of the Izharites; Shelomoth: of the sons of Shelomoth; Jahath.

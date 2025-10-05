@@ -1,1 +1,0 @@
-Let them be confounded and consumed that are adversaries to my soul; let them be covered with reproach and dishonour that seek my hurt.

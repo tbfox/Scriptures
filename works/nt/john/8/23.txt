@@ -1,1 +1,0 @@
-And he said unto them, Ye are from beneath; I am from above: ye are of this world; I am not of this world.

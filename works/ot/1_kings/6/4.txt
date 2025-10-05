@@ -1,1 +1,0 @@
-And for the house he made windows of narrow lights.

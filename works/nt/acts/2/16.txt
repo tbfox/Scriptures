@@ -1,1 +1,0 @@
-But this is that which was spoken by the prophet Joel;

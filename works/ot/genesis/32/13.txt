@@ -1,1 +1,0 @@
-And he lodged there that same night; and took of that which came to his hand a present for Esau his brother;

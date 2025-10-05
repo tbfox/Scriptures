@@ -1,1 +1,0 @@
-Help me, O LORD my God: O save me according to thy mercy:

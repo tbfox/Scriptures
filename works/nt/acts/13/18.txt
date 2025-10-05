@@ -1,1 +1,0 @@
-And about the time of forty years suffered he their manners in the wilderness.

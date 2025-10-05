@@ -1,1 +1,0 @@
-God hath spoken once; twice have I heard this; that power belongeth unto God.

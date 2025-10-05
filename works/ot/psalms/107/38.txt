@@ -1,1 +1,0 @@
-He blesseth them also, so that they are multiplied greatly; and suffereth not their cattle to decrease.

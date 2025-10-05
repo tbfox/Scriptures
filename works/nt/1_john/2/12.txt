@@ -1,1 +1,0 @@
-I write unto you, little children, because your sins are forgiven you for his name's sake.

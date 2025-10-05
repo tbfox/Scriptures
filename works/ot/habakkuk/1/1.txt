@@ -1,1 +1,0 @@
-The burden which Habakkuk the prophet did see.

@@ -1,1 +1,0 @@
-To him which led his people through the wilderness: for his mercy endureth for ever.

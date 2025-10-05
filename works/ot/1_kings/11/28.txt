@@ -1,1 +1,0 @@
-And the man Jeroboam was a mighty man of valour: and Solomon seeing the young man that he was industrious, he made him ruler over all the charge of the house of Joseph.

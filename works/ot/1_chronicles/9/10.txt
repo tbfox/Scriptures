@@ -1,1 +1,0 @@
-And of the priests; Jedaiah, and Jehoiarib, and Jachin,

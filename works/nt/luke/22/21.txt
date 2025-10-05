@@ -1,1 +1,0 @@
-But, behold, the hand of him that betrayeth me is with me on the table.

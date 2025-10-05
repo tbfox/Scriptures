@@ -1,1 +1,0 @@
-Is there iniquity in my tongue? cannot my taste discern perverse things?

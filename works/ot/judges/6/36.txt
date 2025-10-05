@@ -1,1 +1,0 @@
-And Gideon said unto God, If thou wilt save Israel by mine hand, as thou hast said,

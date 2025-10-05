@@ -1,1 +1,0 @@
-The highway of the upright is to depart from evil: he that keepeth his way preserveth his soul.

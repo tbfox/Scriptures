@@ -1,1 +1,0 @@
-And to knowledge temperance; and to temperance patience; and to patience godliness;

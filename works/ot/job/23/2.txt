@@ -1,1 +1,0 @@
-Even to day is my complaint bitter: my stroke is heavier than my groaning.

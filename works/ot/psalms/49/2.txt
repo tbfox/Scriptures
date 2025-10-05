@@ -1,1 +1,0 @@
-Both low and high, rich and poor, together.

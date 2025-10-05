@@ -1,1 +1,0 @@
-And Hamor the father of Shechem went out unto Jacob to commune with him.

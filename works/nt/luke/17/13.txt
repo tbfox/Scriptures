@@ -1,1 +1,0 @@
-And they lifted up their voices, and said, Jesus, Master, have mercy on us.

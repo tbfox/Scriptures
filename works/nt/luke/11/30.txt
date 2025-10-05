@@ -1,1 +1,0 @@
-For as Jonas was a sign unto the Ninevites, so shall also the Son of man be to this generation.

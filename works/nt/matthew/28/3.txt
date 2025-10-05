@@ -1,1 +1,0 @@
-His countenance was like lightning, and his raiment white as snow:

@@ -1,1 +1,0 @@
-Surely thou hast spoken in mine hearing, and I have heard the voice of thy words, saying,

@@ -1,1 +1,0 @@
-Yet let no man strive, nor reprove another: for thy people are as they that strive with the priest.

@@ -1,1 +1,0 @@
-And there was a man of mount Ephraim, whose name was Micah.

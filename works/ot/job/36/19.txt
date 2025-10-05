@@ -1,1 +1,0 @@
-Will he esteem thy riches? no, not gold, nor all the forces of strength.

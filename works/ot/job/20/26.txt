@@ -1,1 +1,0 @@
-All darkness shall be hid in his secret places: a fire not blown shall consume him; it shall go ill with him that is left in his tabernacle.

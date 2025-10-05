@@ -1,1 +1,0 @@
-Because that by reason of him many of the Jews went away, and believed on Jesus.

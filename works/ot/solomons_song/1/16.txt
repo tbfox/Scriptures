@@ -1,1 +1,0 @@
-Behold, thou art fair, my beloved, yea, pleasant: also our bed is green.

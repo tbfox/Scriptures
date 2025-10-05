@@ -1,1 +1,0 @@
-But every man in his own order: Christ the firstfruits; afterward they that are Christ's at his coming.

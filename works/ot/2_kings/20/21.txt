@@ -1,1 +1,0 @@
-And Hezekiah slept with his fathers: and Manasseh his son reigned in his stead.

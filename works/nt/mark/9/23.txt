@@ -1,1 +1,0 @@
-Jesus said unto him, If thou canst believe, all things are possible to him that believeth.

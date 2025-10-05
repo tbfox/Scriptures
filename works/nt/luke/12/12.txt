@@ -1,1 +1,0 @@
-For the Holy Ghost shall teach you in the same hour what ye ought to say.

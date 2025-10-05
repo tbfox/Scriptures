@@ -1,1 +1,0 @@
-Thou shalt part it in pieces, and pour oil thereon: it is a meat offering.

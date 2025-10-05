@@ -1,1 +1,0 @@
-As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep.

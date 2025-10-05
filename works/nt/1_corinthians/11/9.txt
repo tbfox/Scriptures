@@ -1,1 +1,0 @@
-Neither was the man created for the woman; but the woman for the man.

@@ -1,1 +1,0 @@
-But this I say, brethren, the time is short: it remaineth, that both they that have wives be as though they had none;

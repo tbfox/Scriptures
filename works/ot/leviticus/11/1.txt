@@ -1,1 +1,0 @@
-And the LORD spake unto Moses and to Aaron, saying unto them,

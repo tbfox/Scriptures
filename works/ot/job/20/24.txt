@@ -1,1 +1,0 @@
-He shall flee from the iron weapon, and the bow of steel shall strike him through.

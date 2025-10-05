@@ -1,1 +1,0 @@
-And now, O God of Israel, let thy word, I pray thee, be verified, which thou spakest unto thy servant David my father.

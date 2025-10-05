@@ -1,1 +1,0 @@
-Deliver me from the oppression of man: so will I keep thy precepts.

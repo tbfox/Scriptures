@@ -1,1 +1,0 @@
-And their villages were, Etam, and Ain, Rimmon, and Tochen, and Ashan, five cities:

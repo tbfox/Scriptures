@@ -1,1 +1,0 @@
-And these are their names: The son of Hur, in mount Ephraim:

@@ -1,1 +1,0 @@
-That thou mightest know the certainty of those things, wherein thou hast been instructed.

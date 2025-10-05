@@ -1,1 +1,0 @@
-So, as much as in me is, I am ready to preach the gospel to you that are at Rome also.

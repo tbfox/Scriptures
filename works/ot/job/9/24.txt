@@ -1,1 +1,0 @@
-The earth is given into the hand of the wicked: he covereth the faces of the judges thereof; if not, where, and who is he?

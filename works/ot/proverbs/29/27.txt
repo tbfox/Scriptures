@@ -1,1 +1,0 @@
-An unjust man is an abomination to the just: and he that is upright in the way is abomination to the wicked.

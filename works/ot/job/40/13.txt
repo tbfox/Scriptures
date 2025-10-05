@@ -1,1 +1,0 @@
-Hide them in the dust together; and bind their faces in secret.

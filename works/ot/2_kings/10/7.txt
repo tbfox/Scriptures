@@ -1,1 +1,0 @@
-And it came to pass, when the letter came to them, that they took the king's sons, and slew seventy persons, and put their heads in baskets, and sent him them to Jezreel.

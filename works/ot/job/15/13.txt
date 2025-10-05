@@ -1,1 +1,0 @@
-That thou turnest thy spirit against God, and lettest such words go out of thy mouth?

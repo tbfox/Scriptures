@@ -1,1 +1,0 @@
-We certify the king that, if this city be builded again, and the walls thereof set up, by this means thou shalt have no portion on this side the river.

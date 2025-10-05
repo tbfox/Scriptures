@@ -1,1 +1,0 @@
-For Israel slideth back as a backsliding heifer: now the LORD will feed them as a lamb in a large place.

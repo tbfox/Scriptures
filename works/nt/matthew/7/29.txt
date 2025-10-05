@@ -1,1 +1,0 @@
-For he taught them as one having authority, and not as the scribes.

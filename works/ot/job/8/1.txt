@@ -1,1 +1,0 @@
-Then answered Bildad the Shuhite, and said,

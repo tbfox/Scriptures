@@ -1,1 +1,0 @@
-Dan, Joseph, and Benjamin, Naphtali, Gad, and Asher.

@@ -1,1 +1,0 @@
-Sorrowing most of all for the words which he spake, that they should see his face no more. And they accompanied him unto the ship.

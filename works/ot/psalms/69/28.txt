@@ -1,1 +1,0 @@
-Let them be blotted out of the book of the living, and not be written with the righteous.

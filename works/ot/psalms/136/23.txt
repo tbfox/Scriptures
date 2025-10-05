@@ -1,1 +1,0 @@
-Who remembered us in our low estate: for his mercy endureth for ever:

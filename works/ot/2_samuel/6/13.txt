@@ -1,1 +1,0 @@
-And it was so, that when they that bare the ark of the LORD had gone six paces, he sacrificed oxen and fatlings.

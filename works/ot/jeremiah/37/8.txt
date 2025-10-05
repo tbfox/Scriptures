@@ -1,1 +1,0 @@
-And the Chaldeans shall come again, and fight against this city, and take it, and burn it with fire.

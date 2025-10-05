@@ -1,1 +1,0 @@
-Persecute and destroy them in anger from under the heavens of the LORD.

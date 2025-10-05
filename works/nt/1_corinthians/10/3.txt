@@ -1,1 +1,0 @@
-And did all eat the same spiritual meat;

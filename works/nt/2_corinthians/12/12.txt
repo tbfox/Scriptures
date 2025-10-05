@@ -1,1 +1,0 @@
-Truly the signs of an apostle were wrought among you in all patience, in signs, and wonders, and mighty deeds.

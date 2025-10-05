@@ -1,1 +1,0 @@
-For all these things do the nations of the world seek after: and your Father knoweth that ye have need of these things.

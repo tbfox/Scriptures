@@ -1,1 +1,0 @@
-Among the gods there is none like unto thee, O Lord; neither are there any works like unto thy works.

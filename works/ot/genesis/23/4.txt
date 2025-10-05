@@ -1,1 +1,0 @@
-I am a stranger and a sojourner with you: give me a possession of a buryingplace with you, that I may bury my dead out of my sight.

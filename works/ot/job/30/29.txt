@@ -1,1 +1,0 @@
-I am a brother to dragons, and a companion to owls.

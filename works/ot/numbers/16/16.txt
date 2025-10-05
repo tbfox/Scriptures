@@ -1,1 +1,0 @@
-And Moses said unto Korah, Be thou and all thy company before the LORD, thou, and they, and Aaron, to morrow:

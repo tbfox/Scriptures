@@ -1,1 +1,0 @@
-And he rode upon a cherub, and did fly: and he was seen upon the wings of the wind.

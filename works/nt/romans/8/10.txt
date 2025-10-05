@@ -1,1 +1,0 @@
-And if Christ be in you, the body is dead because of sin; but the Spirit is life because of righteousness.

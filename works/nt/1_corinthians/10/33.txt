@@ -1,1 +1,0 @@
-Even as I please all men in all things, not seeking mine own profit, but the profit of many, that they may be saved.

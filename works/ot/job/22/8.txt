@@ -1,1 +1,0 @@
-But as for the mighty man, he had the earth; and the honourable man dwelt in it.

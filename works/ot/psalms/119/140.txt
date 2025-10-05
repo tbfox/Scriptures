@@ -1,1 +1,0 @@
-Thy word is very pure: therefore thy servant loveth it.

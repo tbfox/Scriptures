@@ -1,1 +1,0 @@
-And gave their land for an heritage: for his mercy endureth for ever:

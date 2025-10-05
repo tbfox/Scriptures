@@ -1,1 +1,0 @@
-And the covert for the sabbath that they had built in the house, and the king's entry without, turned he from the house of the LORD for the king of Assyria.

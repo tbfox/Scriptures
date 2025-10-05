@@ -1,1 +1,0 @@
-Behold, I am according to thy wish in God's stead: I also am formed out of the clay.

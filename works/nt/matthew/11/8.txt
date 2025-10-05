@@ -1,1 +1,0 @@
-But what went ye out for to see? A man clothed in soft raiment? behold, they that wear soft clothing are in kings' houses.

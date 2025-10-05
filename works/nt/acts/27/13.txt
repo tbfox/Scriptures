@@ -1,1 +1,0 @@
-And when the south wind blew softly, supposing that they had obtained their purpose, loosing thence, they sailed close by Crete.

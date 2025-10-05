@@ -1,1 +1,0 @@
-Blessed is he that considereth the poor: the LORD will deliver him in time of trouble.

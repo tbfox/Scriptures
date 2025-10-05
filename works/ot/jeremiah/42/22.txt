@@ -1,1 +1,0 @@
-Now therefore know certainly that ye shall die by the sword, by the famine, and by the pestilence, in the place whither ye desire to go and to sojourn.

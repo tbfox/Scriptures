@@ -1,1 +1,0 @@
-And Ahab the son of Omri did evil in the sight of the LORD above all that were before him.

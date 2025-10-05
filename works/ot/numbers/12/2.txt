@@ -1,1 +1,0 @@
-And they said, Hath the LORD indeed spoken only by Moses? hath he not spoken also by us? And the LORD heard it.

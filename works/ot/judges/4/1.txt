@@ -1,1 +1,0 @@
-And the children of Israel again did evil in the sight of the LORD, when Ehud was dead.

@@ -1,1 +1,0 @@
-As I was in the days of my youth, when the secret of God was upon my tabernacle;

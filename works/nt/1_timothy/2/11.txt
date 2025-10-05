@@ -1,1 +1,0 @@
-Let the woman learn in silence with all subjection.

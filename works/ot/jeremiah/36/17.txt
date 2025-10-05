@@ -1,1 +1,0 @@
-And they asked Baruch, saying, Tell us now, How didst thou write all these words at his mouth?

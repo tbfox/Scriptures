@@ -1,1 +1,0 @@
-But Jesus said unto him, Judas, betrayest thou the Son of man with a kiss?

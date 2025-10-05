@@ -1,1 +1,0 @@
-Of the sons of Uzziel; Michah: of the sons of Michah; Shamir.

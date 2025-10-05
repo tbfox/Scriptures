@@ -1,1 +1,0 @@
-Stablish thy word unto thy servant, who is devoted to thy fear.

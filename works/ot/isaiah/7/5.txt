@@ -1,1 +1,0 @@
-Because Syria, Ephraim, and the son of Remaliah, have taken evil counsel against thee, saying,

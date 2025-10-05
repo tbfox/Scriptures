@@ -1,1 +1,0 @@
-Unto whom alone the earth was given, and no stranger passed among them.

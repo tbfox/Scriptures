@@ -1,1 +1,0 @@
-Make ye him drunken: for he magnified himself against the LORD: Moab also shall wallow in his vomit, and he also shall be in derision.

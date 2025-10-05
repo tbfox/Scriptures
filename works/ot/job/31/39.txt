@@ -1,1 +1,0 @@
-If I have eaten the fruits thereof without money, or have caused the owners thereof to lose their life:

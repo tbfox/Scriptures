@@ -1,1 +1,0 @@
-When he was removed out of the highway, all the people went on after Joab, to pursue after Sheba the son of Bichri.

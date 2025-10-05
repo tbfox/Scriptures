@@ -1,1 +1,0 @@
-Let men of understanding tell me, and let a wise man hearken unto me.

@@ -1,1 +1,0 @@
-If I must needs glory, I will glory of the things which concern mine infirmities.

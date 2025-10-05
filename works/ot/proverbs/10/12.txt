@@ -1,1 +1,0 @@
-Hatred stirreth up strifes: but love covereth all sins.

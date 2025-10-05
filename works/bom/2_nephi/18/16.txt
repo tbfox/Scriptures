@@ -1,1 +1,0 @@
-Bind up the testimony, seal the law among my disciples.

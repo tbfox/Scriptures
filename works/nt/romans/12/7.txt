@@ -1,1 +1,0 @@
-Or ministry, let us wait on our ministering: or he that teacheth, on teaching;

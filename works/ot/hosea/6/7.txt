@@ -1,1 +1,0 @@
-But they like men have transgressed the covenant: there have they dealt treacherously against me.

@@ -1,1 +1,0 @@
-And of his fulness have all we received, and grace for grace.

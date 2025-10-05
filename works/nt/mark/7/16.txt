@@ -1,1 +1,0 @@
-If any man have ears to hear, let him hear.

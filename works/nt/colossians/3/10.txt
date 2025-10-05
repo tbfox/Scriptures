@@ -1,1 +1,0 @@
-And have put on the new man, which is renewed in knowledge after the image of him that created him:

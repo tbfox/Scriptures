@@ -1,1 +1,0 @@
-He shall be driven from light into darkness, and chased out of the world.

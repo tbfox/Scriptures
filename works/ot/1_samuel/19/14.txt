@@ -1,1 +1,0 @@
-And when Saul sent messengers to take David, she said, He is sick.

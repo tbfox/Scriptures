@@ -1,1 +1,0 @@
-He sitteth alone and keepeth silence, because he hath borne it upon him.

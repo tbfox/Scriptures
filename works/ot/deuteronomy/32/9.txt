@@ -1,1 +1,0 @@
-For the LORD's portion is his people; Jacob is the lot of his inheritance.

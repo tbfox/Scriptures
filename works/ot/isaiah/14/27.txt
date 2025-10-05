@@ -1,1 +1,0 @@
-For the LORD of hosts hath purposed, and who shall disannul it? and his hand is stretched out, and who shall turn it back?

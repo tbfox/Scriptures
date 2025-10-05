@@ -1,1 +1,0 @@
-Blessed is he whose transgression is forgiven, whose sin is covered.

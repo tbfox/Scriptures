@@ -1,1 +1,0 @@
-I became also a reproach unto them: when they looked upon me they shaked their heads.

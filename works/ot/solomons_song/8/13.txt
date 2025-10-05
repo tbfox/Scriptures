@@ -1,1 +1,0 @@
-Thou that dwellest in the gardens, the companions hearken to thy voice: cause me to hear it.

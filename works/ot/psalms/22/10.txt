@@ -1,1 +1,0 @@
-I was cast upon thee from the womb: thou art my God from my mother's belly.

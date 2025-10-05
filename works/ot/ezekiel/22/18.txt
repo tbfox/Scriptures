@@ -1,1 +1,0 @@
-Son of man, the house of Israel is to me become dross: all they are brass, and tin, and iron, and lead, in the midst of the furnace; they are even the dross of silver.

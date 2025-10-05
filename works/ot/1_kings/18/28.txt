@@ -1,1 +1,0 @@
-And they cried aloud, and cut themselves after their manner with knives and lancets, till the blood gushed out upon them.

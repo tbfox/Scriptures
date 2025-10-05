@@ -1,1 +1,0 @@
-Then the angel that talked with me went forth, and said unto me, Lift up now thine eyes, and see what is this that goeth forth.

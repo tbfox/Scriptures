@@ -1,1 +1,0 @@
-Nor yet that he should offer himself often, as the high priest entereth into the holy place every year with blood of others;

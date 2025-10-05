@@ -1,1 +1,0 @@
-Upon this I awaked, and beheld; and my sleep was sweet unto me.

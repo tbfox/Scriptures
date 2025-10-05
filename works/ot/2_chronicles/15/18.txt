@@ -1,1 +1,0 @@
-And he brought into the house of God the things that his father had dedicated, and that he himself had dedicated, silver, and gold, and vessels.

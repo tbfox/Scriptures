@@ -1,1 +1,0 @@
-I tell thee, thou shalt not depart thence, till thou hast paid the very last mite.

@@ -1,1 +1,0 @@
-Because he hath loosed my cord, and afflicted me, they have also let loose the bridle before me.

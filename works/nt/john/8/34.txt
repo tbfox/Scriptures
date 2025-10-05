@@ -1,1 +1,0 @@
-Jesus answered them, Verily, verily, I say unto you, Whosoever committeth sin is the servant of sin.

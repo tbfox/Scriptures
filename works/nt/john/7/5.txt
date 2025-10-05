@@ -1,1 +1,0 @@
-For neither did his brethren believe in him.

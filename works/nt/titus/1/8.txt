@@ -1,1 +1,0 @@
-But a lover of hospitality, a lover of good men, sober, just, holy, temperate;

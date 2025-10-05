@@ -1,1 +1,0 @@
-And the people chode with Moses, and spake, saying, Would God that we had died when our brethren died before the LORD!

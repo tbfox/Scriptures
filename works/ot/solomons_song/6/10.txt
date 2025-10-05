@@ -1,1 +1,0 @@
-Who is she that looketh forth as the morning, fair as the moon, clear as the sun, and terrible as an army with banners?

@@ -1,1 +1,0 @@
-Of Benjamin; Abidan the son of Gideoni.

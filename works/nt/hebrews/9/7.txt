@@ -1,1 +1,0 @@
-But into the second went the high priest alone once every year, not without blood, which he offered for himself, and for the errors of the people:

@@ -1,1 +1,0 @@
-And he took away the sodomites out of the land, and removed all the idols that his fathers had made.

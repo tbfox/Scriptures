@@ -1,1 +1,0 @@
-Then Joseph being raised from sleep did as the angel of the Lord had bidden him, and took unto him his wife:

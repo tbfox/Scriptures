@@ -1,1 +1,0 @@
-And I set my face unto the Lord God, to seek by prayer and supplications, with fasting, and sackcloth, and ashes:

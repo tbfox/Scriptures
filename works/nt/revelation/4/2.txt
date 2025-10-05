@@ -1,1 +1,0 @@
-And immediately I was in the spirit: and, behold, a throne was set in heaven, and one sat on the throne.

@@ -1,1 +1,0 @@
-Moreover the LORD spake unto Moses, saying,

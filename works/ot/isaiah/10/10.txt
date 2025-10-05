@@ -1,1 +1,0 @@
-As my hand hath found the kingdoms of the idols, and whose graven images did excel them of Jerusalem and of Samaria;

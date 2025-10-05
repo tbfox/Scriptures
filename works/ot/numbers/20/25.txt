@@ -1,1 +1,0 @@
-Take Aaron and Eleazar his son, and bring them up unto mount Hor:

@@ -1,1 +1,0 @@
-Fear came upon me, and trembling, which made all my bones to shake.

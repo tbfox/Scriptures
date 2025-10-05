@@ -1,1 +1,0 @@
-And when they had eaten them up, it could not be known that they had eaten them; but they were still ill favoured, as at the beginning. So I awoke.

@@ -1,1 +1,0 @@
-We be twelve brethren, sons of our father; one is not, and the youngest is this day with our father in the land of Canaan.

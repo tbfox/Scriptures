@@ -1,1 +1,0 @@
-Break their teeth, O God, in their mouth: break out the great teeth of the young lions, O LORD.

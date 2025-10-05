@@ -1,1 +1,0 @@
-Of righteousness, because I go to my Father, and ye see me no more;

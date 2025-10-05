@@ -1,1 +1,0 @@
-And Moses made haste, and bowed his head toward the earth, and worshipped.

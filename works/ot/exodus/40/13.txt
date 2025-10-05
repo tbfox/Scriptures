@@ -1,1 +1,0 @@
-And thou shalt put upon Aaron the holy garments, and anoint him, and sanctify him; that he may minister unto me in the priest's office.

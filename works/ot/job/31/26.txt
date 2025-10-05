@@ -1,1 +1,0 @@
-If I beheld the sun when it shined, or the moon walking in brightness;

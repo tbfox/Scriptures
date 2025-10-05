@@ -1,1 +1,0 @@
-A voice of noise from the city, a voice from the temple, a voice of the LORD that rendereth recompence to his enemies.

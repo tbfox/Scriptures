@@ -1,1 +1,0 @@
-And Elisha died, and they buried him. And the bands of the Moabites invaded the land at the coming in of the year.

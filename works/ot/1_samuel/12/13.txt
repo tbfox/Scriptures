@@ -1,1 +1,0 @@
-Now therefore behold the king whom ye have chosen, and whom ye have desired! and, behold, the LORD hath set a king over you.

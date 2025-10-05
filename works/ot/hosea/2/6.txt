@@ -1,1 +1,0 @@
-Therefore, behold, I will hedge up thy way with thorns, and make a wall, that she shall not find her paths.

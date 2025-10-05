@@ -1,1 +1,0 @@
-Judge not according to the appearance, but judge righteous judgment.

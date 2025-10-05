@@ -1,1 +1,0 @@
-He had also seven sons and three daughters.

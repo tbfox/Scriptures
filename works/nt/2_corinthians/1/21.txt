@@ -1,1 +1,0 @@
-Now he which stablisheth us with you in Christ, and hath anointed us, is God;

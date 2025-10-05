@@ -1,1 +1,0 @@
-The children of Zaccai, seven hundred and threescore.

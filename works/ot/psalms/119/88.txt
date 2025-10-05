@@ -1,1 +1,0 @@
-Quicken me after thy lovingkindness; so shall I keep the testimony of thy mouth.

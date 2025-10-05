@@ -1,1 +1,0 @@
-And Peleg lived thirty years, and begat Reu:

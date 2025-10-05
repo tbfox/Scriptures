@@ -1,1 +1,0 @@
-Let him take his rod away from me, and let not his fear terrify me:

@@ -1,1 +1,0 @@
-Canst thou by searching find out God? canst thou find out the Almighty unto perfection?

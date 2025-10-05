@@ -1,1 +1,0 @@
-Then call thou, and I will answer: or let me speak, and answer thou me.

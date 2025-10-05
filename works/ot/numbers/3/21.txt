@@ -1,1 +1,0 @@
-Of Gershon was the family of the Libnites, and the family of the Shimites: these are the families of the Gershonites.

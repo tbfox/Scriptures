@@ -1,1 +1,0 @@
-And after them out of all the tribes of Israel such as set their hearts to seek the LORD God of Israel came to Jerusalem, to sacrifice unto the LORD God of their fathers.

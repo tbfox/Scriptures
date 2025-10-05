@@ -1,1 +1,0 @@
-If thou shalt say in thine heart, These nations are more than I; how can I dispossess them?

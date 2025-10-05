@@ -1,1 +1,0 @@
-Be ye therefore perfect, even as your Father which is in heaven is perfect.

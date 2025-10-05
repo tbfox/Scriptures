@@ -1,1 +1,0 @@
-Know now that God hath overthrown me, and hath compassed me with his net.

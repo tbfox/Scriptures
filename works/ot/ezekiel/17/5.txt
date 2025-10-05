@@ -1,1 +1,0 @@
-He took also of the seed of the land, and planted it in a fruitful field; he placed it by great waters, and set it as a willow tree.

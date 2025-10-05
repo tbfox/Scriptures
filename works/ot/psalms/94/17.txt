@@ -1,1 +1,0 @@
-Unless the LORD had been my help, my soul had almost dwelt in silence.

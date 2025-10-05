@@ -1,1 +1,0 @@
-Furthermore the LORD spake unto me, saying, I have seen this people, and, behold, it is a stiffnecked people:

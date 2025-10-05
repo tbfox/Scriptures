@@ -1,1 +1,0 @@
-And as the king of Israel was passing by upon the wall, there cried a woman unto him, saying, Help, my lord, O king.

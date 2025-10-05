@@ -1,1 +1,0 @@
-And he said, Therefore said I unto you, that no man can come unto me, except it were given unto him of my Father.

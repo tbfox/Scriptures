@@ -1,1 +1,0 @@
-Rise up, let us go; lo, he that betrayeth me is at hand.

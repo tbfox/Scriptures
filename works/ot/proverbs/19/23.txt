@@ -1,1 +1,0 @@
-The fear of the LORD tendeth to life: and he that hath it shall abide satisfied; he shall not be visited with evil.

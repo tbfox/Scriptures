@@ -1,1 +1,0 @@
-And God opened her eyes, and she saw a well of water; and she went, and filled the bottle with water, and gave the lad drink.

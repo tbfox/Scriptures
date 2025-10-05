@@ -1,1 +1,0 @@
-Then Joshua commanded the officers of the people, saying,

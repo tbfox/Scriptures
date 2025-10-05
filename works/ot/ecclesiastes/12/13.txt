@@ -1,1 +1,0 @@
-Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.

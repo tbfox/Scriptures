@@ -1,1 +1,0 @@
-There is treasure to be desired and oil in the dwelling of the wise; but a foolish man spendeth it up.

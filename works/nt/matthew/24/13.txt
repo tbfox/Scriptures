@@ -1,1 +1,0 @@
-But he that shall endure unto the end, the same shall be saved.

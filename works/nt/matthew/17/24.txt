@@ -1,1 +1,0 @@
-And when they were come to Capernaum, they that received tribute money came to Peter, and said, Doth not your master pay tribute?

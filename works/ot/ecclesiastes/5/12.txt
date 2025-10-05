@@ -1,1 +1,0 @@
-The sleep of a labouring man is sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep.

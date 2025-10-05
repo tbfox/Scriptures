@@ -1,1 +1,0 @@
-And he went in unto Hagar, and she conceived: and when she saw that she had conceived, her mistress was despised in her eyes.

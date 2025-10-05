@@ -1,1 +1,0 @@
-My knees are weak through fasting; and my flesh faileth of fatness.

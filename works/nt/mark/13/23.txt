@@ -1,1 +1,0 @@
-But take ye heed: behold, I have foretold you all things.

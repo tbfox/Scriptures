@@ -1,1 +1,0 @@
-Glorious things are spoken of thee, O city of God. Selah.

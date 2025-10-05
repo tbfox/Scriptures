@@ -1,1 +1,0 @@
-And if a kingdom be divided against itself, that kingdom cannot stand.

@@ -1,1 +1,0 @@
-And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen?

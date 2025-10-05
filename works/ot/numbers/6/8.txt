@@ -1,1 +1,0 @@
-All the days of his separation he is holy unto the LORD.

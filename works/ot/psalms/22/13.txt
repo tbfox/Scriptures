@@ -1,1 +1,0 @@
-They gaped upon me with their mouths, as a ravening and a roaring lion.

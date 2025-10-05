@@ -1,1 +1,0 @@
-And he did that which was evil in the sight of the LORD his God, and humbled not himself before Jeremiah the prophet speaking from the mouth of the LORD.

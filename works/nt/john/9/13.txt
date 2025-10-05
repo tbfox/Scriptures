@@ -1,1 +1,0 @@
-They brought to the Pharisees him that aforetime was blind.

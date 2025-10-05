@@ -1,1 +1,0 @@
-Of Mahli came Eleazar, who had no sons.

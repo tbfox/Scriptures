@@ -1,1 +1,0 @@
-And there came against Gibeah ten thousand chosen men out of all Israel, and the battle was sore: but they knew not that evil was near them.

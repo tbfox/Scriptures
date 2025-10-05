@@ -1,1 +1,0 @@
-And from thence to Philippi, which is the chief city of that part of Macedonia, and a colony: and we were in that city abiding certain days.

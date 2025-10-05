@@ -1,1 +1,0 @@
-These going before tarried for us at Troas.

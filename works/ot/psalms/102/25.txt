@@ -1,1 +1,0 @@
-Of old hast thou laid the foundation of the earth: and the heavens are the work of thy hands.

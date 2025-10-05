@@ -1,1 +1,0 @@
-Then hear thou their prayer and their supplication in heaven thy dwelling place, and maintain their cause,

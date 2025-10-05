@@ -1,1 +1,0 @@
-Then all those virgins arose, and trimmed their lamps.

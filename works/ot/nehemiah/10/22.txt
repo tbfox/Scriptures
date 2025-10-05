@@ -1,1 +1,0 @@
-Pelatiah, Hanan, Anaiah,

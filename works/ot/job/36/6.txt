@@ -1,1 +1,0 @@
-He preserveth not the life of the wicked: but giveth right to the poor.

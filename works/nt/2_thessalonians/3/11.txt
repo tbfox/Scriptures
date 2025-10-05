@@ -1,1 +1,0 @@
-For we hear that there are some which walk among you disorderly, working not at all, but are busybodies.

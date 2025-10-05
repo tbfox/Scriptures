@@ -1,1 +1,0 @@
-They kept not the covenant of God, and refused to walk in his law;

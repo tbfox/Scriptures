@@ -1,1 +1,0 @@
-Their land brought forth frogs in abundance, in the chambers of their kings.

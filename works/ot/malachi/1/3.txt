@@ -1,1 +1,0 @@
-And I hated Esau, and laid his mountains and his heritage waste for the dragons of the wilderness.

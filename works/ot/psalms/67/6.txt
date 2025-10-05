@@ -1,1 +1,0 @@
-Then shall the earth yield her increase; and God, even our own God, shall bless us.

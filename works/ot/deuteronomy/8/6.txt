@@ -1,1 +1,0 @@
-Therefore thou shalt keep the commandments of the LORD thy God, to walk in his ways, and to fear him.

@@ -1,1 +1,0 @@
-And they waited for me as for the rain; and they opened their mouth wide as for the latter rain.

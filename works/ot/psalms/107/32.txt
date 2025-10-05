@@ -1,1 +1,0 @@
-Let them exalt him also in the congregation of the people, and praise him in the assembly of the elders.

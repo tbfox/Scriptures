@@ -1,1 +1,0 @@
-And he said unto them, Know ye Laban the son of Nahor? And they said, We know him.

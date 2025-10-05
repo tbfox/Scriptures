@@ -1,1 +1,0 @@
-Whatsoever is sold in the shambles, that eat, asking no question for conscience sake:

@@ -1,1 +1,0 @@
-Thou openest thine hand, and satisfiest the desire of every living thing.

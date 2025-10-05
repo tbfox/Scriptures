@@ -1,1 +1,0 @@
-And after the sop Satan entered into him. Then said Jesus unto him, That thou doest, do quickly.

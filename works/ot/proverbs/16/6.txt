@@ -1,1 +1,0 @@
-By mercy and truth iniquity is purged: and by the fear of the LORD men depart from evil.

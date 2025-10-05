@@ -1,1 +1,0 @@
-Therefore they say unto God, Depart from us; for we desire not the knowledge of thy ways.

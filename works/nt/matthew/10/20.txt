@@ -1,1 +1,0 @@
-For it is not ye that speak, but the Spirit of your Father which speaketh in you.

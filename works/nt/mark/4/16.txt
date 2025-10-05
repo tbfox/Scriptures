@@ -1,1 +1,0 @@
-And these are they likewise which are sown on stony ground; who, when they have heard the word, immediately receive it with gladness;

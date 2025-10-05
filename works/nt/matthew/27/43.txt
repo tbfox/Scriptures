@@ -1,1 +1,0 @@
-He trusted in God; let him deliver him now, if he will have him: for he said, I am the Son of God.

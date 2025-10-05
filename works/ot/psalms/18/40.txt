@@ -1,1 +1,0 @@
-Thou hast also given me the necks of mine enemies; that I might destroy them that hate me.

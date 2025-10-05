@@ -1,1 +1,0 @@
-Now the cherubims stood on the right side of the house, when the man went in; and the cloud filled the inner court.

@@ -1,1 +1,0 @@
-Be not deceived: evil communications corrupt good manners.

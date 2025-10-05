@@ -1,1 +1,0 @@
-I hate them with perfect hatred: I count them mine enemies.

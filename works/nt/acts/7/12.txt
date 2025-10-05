@@ -1,1 +1,0 @@
-But when Jacob heard that there was corn in Egypt, he sent out our fathers first.

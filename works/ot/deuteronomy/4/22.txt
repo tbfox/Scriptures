@@ -1,1 +1,0 @@
-But I must die in this land, I must not go over Jordan: but ye shall go over, and possess that good land.

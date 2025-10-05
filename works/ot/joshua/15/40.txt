@@ -1,1 +1,0 @@
-And Cabbon, and Lahmam, and Kithlish,

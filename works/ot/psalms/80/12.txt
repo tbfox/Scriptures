@@ -1,1 +1,0 @@
-Why hast thou then broken down her hedges, so that all they which pass by the way do pluck her?

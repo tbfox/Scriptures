@@ -1,1 +1,0 @@
-And Hiram sent to the king sixscore talents of gold.

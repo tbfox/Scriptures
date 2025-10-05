@@ -1,1 +1,0 @@
-Therefore I will give thanks unto thee, O LORD, among the heathen, and I will sing praises unto thy name.

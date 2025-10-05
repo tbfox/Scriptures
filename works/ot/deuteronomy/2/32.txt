@@ -1,1 +1,0 @@
-Then Sihon came out against us, he and all his people, to fight at Jahaz.

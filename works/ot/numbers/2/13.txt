@@ -1,1 +1,0 @@
-And his host, and those that were numbered of them, were fifty and nine thousand and three hundred.

@@ -1,1 +1,0 @@
-Shem, Arphaxad, Shelah,

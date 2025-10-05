@@ -1,1 +1,0 @@
-And he was teaching in one of the synagogues on the sabbath.

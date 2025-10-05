@@ -1,1 +1,0 @@
-For yet a very little while, and the indignation shall cease, and mine anger in their destruction.

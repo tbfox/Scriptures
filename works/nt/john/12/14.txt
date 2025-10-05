@@ -1,1 +1,0 @@
-And Jesus, when he had found a young ass, sat thereon; as it is written,

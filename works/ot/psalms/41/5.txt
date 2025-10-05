@@ -1,1 +1,0 @@
-Mine enemies speak evil of me, When shall he die, and his name perish?

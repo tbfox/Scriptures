@@ -1,1 +1,0 @@
-And after three months we departed in a ship of Alexandria, which had wintered in the isle, whose sign was Castor and Pollux.

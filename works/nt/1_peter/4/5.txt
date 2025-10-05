@@ -1,1 +1,0 @@
-Who shall give account to him that is ready to judge the quick and the dead.

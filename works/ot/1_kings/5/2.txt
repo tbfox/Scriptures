@@ -1,1 +1,0 @@
-And Solomon sent to Hiram, saying,

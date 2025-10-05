@@ -1,1 +1,0 @@
-A wise king scattereth the wicked, and bringeth the wheel over them.

@@ -1,1 +1,0 @@
-Let God arise, let his enemies be scattered: let them also that hate him flee before him.

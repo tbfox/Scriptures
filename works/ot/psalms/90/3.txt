@@ -1,1 +1,0 @@
-Thou turnest man to destruction; and sayest, Return, ye children of men.

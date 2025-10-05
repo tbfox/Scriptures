@@ -1,1 +1,0 @@
-Behold, that thus shall the man be blessed that feareth the LORD.

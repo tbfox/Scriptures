@@ -1,1 +1,0 @@
-And they brought young children to him, that he should touch them: and his disciples rebuked those that brought them.

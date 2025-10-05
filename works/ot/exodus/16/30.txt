@@ -1,1 +1,0 @@
-So the people rested on the seventh day.

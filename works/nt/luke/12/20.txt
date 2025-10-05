@@ -1,1 +1,0 @@
-But God said unto him, Thou fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?

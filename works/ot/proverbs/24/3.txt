@@ -1,1 +1,0 @@
-Through wisdom is an house builded; and by understanding it is established:

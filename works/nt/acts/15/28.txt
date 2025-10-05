@@ -1,1 +1,0 @@
-For it seemed good to the Holy Ghost, and to us, to lay upon you no greater burden than these necessary things;

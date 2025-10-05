@@ -1,1 +1,0 @@
-The lips of the righteous feed many: but fools die for want of wisdom.

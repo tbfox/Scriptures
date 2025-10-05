@@ -1,1 +1,0 @@
-Thou makest us a strife unto our neighbours: and our enemies laugh among themselves.

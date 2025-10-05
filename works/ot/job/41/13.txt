@@ -1,1 +1,0 @@
-Who can discover the face of his garment? or who can come to him with his double bridle?

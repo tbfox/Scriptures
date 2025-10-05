@@ -1,1 +1,0 @@
-I have declared my ways, and thou heardest me: teach me thy statutes.

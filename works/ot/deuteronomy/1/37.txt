@@ -1,1 +1,0 @@
-Also the LORD was angry with me for your sakes, saying, Thou also shalt not go in thither.

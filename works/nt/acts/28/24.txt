@@ -1,1 +1,0 @@
-And some believed the things which were spoken, and some believed not.

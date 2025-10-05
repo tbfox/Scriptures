@@ -1,1 +1,0 @@
-And after him Abdon the son of Hillel, a Pirathonite, judged Israel.

@@ -1,1 +1,0 @@
-And Joshua discomfited Amalek and his people with the edge of the sword.

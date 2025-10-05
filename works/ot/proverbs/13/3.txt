@@ -1,1 +1,0 @@
-He that keepeth his mouth keepeth his life: but he that openeth wide his lips shall have destruction.

@@ -1,1 +1,0 @@
-But if I with the finger of God cast out devils, no doubt the kingdom of God is come upon you.

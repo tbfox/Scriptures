@@ -1,1 +1,0 @@
-For the congregation of hypocrites shall be desolate, and fire shall consume the tabernacles of bribery.

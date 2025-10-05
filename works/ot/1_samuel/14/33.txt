@@ -1,1 +1,0 @@
-Then they told Saul, saying, Behold, the people sin against the LORD, in that they eat with the blood. And he said, Ye have transgressed: roll a great stone unto me this day.

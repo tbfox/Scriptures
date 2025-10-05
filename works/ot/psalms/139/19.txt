@@ -1,1 +1,0 @@
-Surely thou wilt slay the wicked, O God: depart from me therefore, ye bloody men.

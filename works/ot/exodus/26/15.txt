@@ -1,1 +1,0 @@
-And thou shalt make boards for the tabernacle of shittim wood standing up.

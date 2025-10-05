@@ -1,1 +1,0 @@
-But whoso keepeth his word, in him verily is the love of God perfected: hereby know we that we are in him.

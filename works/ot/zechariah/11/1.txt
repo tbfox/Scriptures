@@ -1,1 +1,0 @@
-Open thy doors, O Lebanon, that the fire may devour thy cedars.

@@ -1,1 +1,0 @@
-He maketh the deep to boil like a pot: he maketh the sea like a pot of ointment.

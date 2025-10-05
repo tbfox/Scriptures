@@ -1,1 +1,0 @@
-Grace unto you, and peace, from God our Father and the Lord Jesus Christ.

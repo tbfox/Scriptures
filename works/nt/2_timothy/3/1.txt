@@ -1,1 +1,0 @@
-This know also, that in the last days perilous times shall come.

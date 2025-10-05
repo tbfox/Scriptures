@@ -1,1 +1,0 @@
-If I covered my transgressions as Adam, by hiding mine iniquity in my bosom:

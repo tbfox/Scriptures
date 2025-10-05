@@ -1,1 +1,0 @@
-Hear, O LORD, when I cry with my voice: have mercy also upon me, and answer me.

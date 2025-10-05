@@ -1,1 +1,0 @@
-Ye shall not go after other gods, of the gods of the people which are round about you;

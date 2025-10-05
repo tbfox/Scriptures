@@ -1,1 +1,0 @@
-My righteousness I hold fast, and will not let it go: my heart shall not reproach me so long as I live.

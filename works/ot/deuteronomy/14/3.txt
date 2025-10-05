@@ -1,1 +1,0 @@
-Thou shalt not eat any abominable thing.

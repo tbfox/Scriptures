@@ -1,1 +1,0 @@
-A just weight and balance are the LORD's: all the weights of the bag are his work.

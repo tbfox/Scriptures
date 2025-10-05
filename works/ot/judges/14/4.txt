@@ -1,1 +1,0 @@
-But his father and his mother knew not that it was of the LORD, that he sought an occasion against the Philistines: for at that time the Philistines had dominion over Israel.

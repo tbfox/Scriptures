@@ -1,1 +1,0 @@
-Then came the day of unleavened bread, when the passover must be killed.

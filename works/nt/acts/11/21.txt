@@ -1,1 +1,0 @@
-And the hand of the Lord was with them: and a great number believed, and turned unto the Lord.

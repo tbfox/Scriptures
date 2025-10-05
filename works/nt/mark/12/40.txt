@@ -1,1 +1,0 @@
-Which devour widows' houses, and for a pretence make long prayers: these shall receive greater damnation.

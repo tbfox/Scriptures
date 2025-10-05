@@ -1,1 +1,0 @@
-For as many of you as have been baptized into Christ have put on Christ.

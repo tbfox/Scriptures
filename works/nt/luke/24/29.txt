@@ -1,1 +1,0 @@
-But they constrained him, saying, Abide with us: for it is toward evening, and the day is far spent. And he went in to tarry with them.

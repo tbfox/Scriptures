@@ -1,1 +1,0 @@
-I remembered thy judgments of old, O LORD; and have comforted myself.

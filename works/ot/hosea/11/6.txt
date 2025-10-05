@@ -1,1 +1,0 @@
-And the sword shall abide on his cities, and shall consume his branches, and devour them, because of their own counsels.

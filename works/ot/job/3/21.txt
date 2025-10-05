@@ -1,1 +1,0 @@
-Which long for death, but it cometh not; and dig for it more than for hid treasures;

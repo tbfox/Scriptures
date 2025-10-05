@@ -1,1 +1,0 @@
-Commit thy works unto the LORD, and thy thoughts shall be established.

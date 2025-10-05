@@ -1,1 +1,0 @@
-Then they that gladly received his word were baptized: and the same day there were added unto them about three thousand souls.

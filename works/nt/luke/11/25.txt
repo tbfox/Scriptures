@@ -1,1 +1,0 @@
-And when he cometh, he findeth it swept and garnished.

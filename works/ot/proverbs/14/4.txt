@@ -1,1 +1,0 @@
-Where no oxen are, the crib is clean: but much increase is by the strength of the ox.

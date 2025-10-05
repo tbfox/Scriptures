@@ -1,1 +1,0 @@
-He is the chief of the ways of God: he that made him can make his sword to approach unto him.

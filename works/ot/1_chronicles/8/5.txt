@@ -1,1 +1,0 @@
-And Gera, and Shephuphan, and Huram.

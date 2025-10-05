@@ -1,1 +1,0 @@
-At this also my heart trembleth, and is moved out of his place.

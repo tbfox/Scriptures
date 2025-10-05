@@ -1,1 +1,0 @@
-These are the dukes that came of the Horites; duke Lotan, duke Shobal, duke Zibeon, duke Anah,

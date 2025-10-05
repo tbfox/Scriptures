@@ -1,1 +1,0 @@
-And his return was to Ramah; for there was his house; and there he judged Israel; and there he built an altar unto the LORD.

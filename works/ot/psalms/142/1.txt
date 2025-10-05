@@ -1,1 +1,0 @@
-I cried unto the LORD with my voice; with my voice unto the LORD did I make my supplication.

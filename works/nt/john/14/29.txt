@@ -1,1 +1,0 @@
-And now I have told you before it come to pass, that, when it is come to pass, ye might believe.

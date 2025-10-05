@@ -1,1 +1,0 @@
-We will rejoice in thy salvation, and in the name of our God we will set up our banners: the LORD fulfil all thy petitions.

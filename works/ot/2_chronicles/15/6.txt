@@ -1,1 +1,0 @@
-And nation was destroyed of nation, and city of city: for God did vex them with all adversity.

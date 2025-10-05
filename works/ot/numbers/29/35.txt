@@ -1,1 +1,0 @@
-On the eighth day ye shall have a solemn assembly: ye shall do no servile work therein:

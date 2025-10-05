@@ -1,1 +1,0 @@
-Out of Asher his bread shall be fat, and he shall yield royal dainties.

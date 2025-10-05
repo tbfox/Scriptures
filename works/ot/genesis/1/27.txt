@@ -1,1 +1,0 @@
-So God created man in his own image, in the image of God created he him; male and female created he them.

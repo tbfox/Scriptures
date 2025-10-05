@@ -1,1 +1,0 @@
-Let Christ the King of Israel descend now from the cross, that we may see and believe. And they that were crucified with him reviled him.

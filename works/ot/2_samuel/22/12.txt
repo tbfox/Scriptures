@@ -1,1 +1,0 @@
-And he made darkness pavilions round about him, dark waters, and thick clouds of the skies.

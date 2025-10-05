@@ -1,1 +1,0 @@
-And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him.

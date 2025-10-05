@@ -1,1 +1,0 @@
-And Eltolad, and Chesil, and Hormah,

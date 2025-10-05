@@ -1,1 +1,0 @@
-Canst thou draw out leviathan with an hook? or his tongue with a cord which thou lettest down?

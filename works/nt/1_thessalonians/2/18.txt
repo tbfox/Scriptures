@@ -1,1 +1,0 @@
-Wherefore we would have come unto you, even I Paul, once and again; but Satan hindered us.

@@ -1,1 +1,0 @@
-I cry unto thee, and thou dost not hear me: I stand up, and thou regardest me not.

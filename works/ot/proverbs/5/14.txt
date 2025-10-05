@@ -1,1 +1,0 @@
-I was almost in all evil in the midst of the congregation and assembly.

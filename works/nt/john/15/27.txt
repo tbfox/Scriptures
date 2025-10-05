@@ -1,1 +1,0 @@
-And ye also shall bear witness, because ye have been with me from the beginning.

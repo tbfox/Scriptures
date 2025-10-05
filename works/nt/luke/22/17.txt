@@ -1,1 +1,0 @@
-And he took the cup, and gave thanks, and said, Take this, and divide it among yourselves:

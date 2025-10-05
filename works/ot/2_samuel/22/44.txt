@@ -1,1 +1,0 @@
-Thou also hast delivered me from the strivings of my people, thou hast kept me to be head of the heathen: a people which I knew not shall serve me.

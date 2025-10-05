@@ -1,1 +1,0 @@
-And many believed on him there.

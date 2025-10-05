@@ -1,1 +1,0 @@
-I cried unto the LORD with my voice, and he heard me out of his holy hill. Selah.

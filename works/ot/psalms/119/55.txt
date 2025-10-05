@@ -1,1 +1,0 @@
-I have remembered thy name, O LORD, in the night, and have kept thy law.

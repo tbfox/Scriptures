@@ -1,1 +1,0 @@
-God is our refuge and strength, a very present help in trouble.

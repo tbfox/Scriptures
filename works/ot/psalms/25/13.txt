@@ -1,1 +1,0 @@
-His soul shall dwell at ease; and his seed shall inherit the earth.

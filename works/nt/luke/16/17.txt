@@ -1,1 +1,0 @@
-And it is easier for heaven and earth to pass, than one tittle of the law to fail.

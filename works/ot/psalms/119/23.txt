@@ -1,1 +1,0 @@
-Princes also did sit and speak against me: but thy servant did meditate in thy statutes.

@@ -1,1 +1,0 @@
-Lo, he goeth by me, and I see him not: he passeth on also, but I perceive him not.

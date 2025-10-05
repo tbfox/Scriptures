@@ -1,1 +1,0 @@
-These things have I written unto you concerning them that seduce you.

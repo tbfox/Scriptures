@@ -1,1 +1,0 @@
-With three rows of great stones, and a row of new timber: and let the expenses be given out of the king's house:

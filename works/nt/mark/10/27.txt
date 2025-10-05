@@ -1,1 +1,0 @@
-And Jesus looking upon them saith, With men it is impossible, but not with God: for with God all things are possible.

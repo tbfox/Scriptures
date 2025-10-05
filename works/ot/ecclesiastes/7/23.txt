@@ -1,1 +1,0 @@
-All this have I proved by wisdom: I said, I will be wise; but it was far from me.

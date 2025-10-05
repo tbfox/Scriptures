@@ -1,1 +1,0 @@
-Whose house I have made the wilderness, and the barren land his dwellings.

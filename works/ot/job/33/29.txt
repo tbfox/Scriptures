@@ -1,1 +1,0 @@
-Lo, all these things worketh God oftentimes with man,

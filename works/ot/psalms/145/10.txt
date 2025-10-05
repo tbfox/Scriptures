@@ -1,1 +1,0 @@
-All thy works shall praise thee, O LORD; and thy saints shall bless thee.

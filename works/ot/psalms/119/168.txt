@@ -1,1 +1,0 @@
-I have kept thy precepts and thy testimonies: for all my ways are before thee.

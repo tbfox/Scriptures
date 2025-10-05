@@ -1,1 +1,0 @@
-And this commandment have we from him, That he who loveth God love his brother also.

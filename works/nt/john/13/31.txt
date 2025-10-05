@@ -1,1 +1,0 @@
-Therefore, when he was gone out, Jesus said, Now is the Son of man glorified, and God is glorified in him.

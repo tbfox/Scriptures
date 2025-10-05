@@ -1,1 +1,0 @@
-Now also many nations are gathered against thee, that say, Let her be defiled, and let our eye look upon Zion.

@@ -1,1 +1,0 @@
-And the children of Israel did evil again in the sight of the LORD; and the LORD delivered them into the hand of the Philistines forty years.

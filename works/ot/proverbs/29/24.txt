@@ -1,1 +1,0 @@
-Whoso is partner with a thief hateth his own soul: he heareth cursing, and bewrayeth it not.

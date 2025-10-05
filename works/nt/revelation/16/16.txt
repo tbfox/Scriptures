@@ -1,1 +1,0 @@
-And he gathered them together into a place called in the Hebrew tongue Armageddon.

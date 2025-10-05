@@ -1,1 +1,0 @@
-For if a man think himself to be something, when he is nothing, he deceiveth himself.

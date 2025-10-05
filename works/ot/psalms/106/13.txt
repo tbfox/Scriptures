@@ -1,1 +1,0 @@
-They soon forgat his works; they waited not for his counsel:

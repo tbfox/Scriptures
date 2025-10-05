@@ -1,1 +1,0 @@
-A man that doeth violence to the blood of any person shall flee to the pit; let no man stay him.

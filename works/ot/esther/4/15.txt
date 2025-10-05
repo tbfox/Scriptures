@@ -1,1 +1,0 @@
-Then Esther bade them return Mordecai this answer,

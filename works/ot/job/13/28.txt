@@ -1,1 +1,0 @@
-And he, as a rotten thing, consumeth, as a garment that is moth eaten.

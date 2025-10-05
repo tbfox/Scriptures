@@ -1,1 +1,0 @@
-And there assembled at Jerusalem much people to keep the feast of unleavened bread in the second month, a very great congregation.

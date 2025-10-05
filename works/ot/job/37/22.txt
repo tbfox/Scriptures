@@ -1,1 +1,0 @@
-Fair weather cometh out of the north: with God is terrible majesty.

@@ -1,1 +1,0 @@
-And Zadok, a young man mighty of valour, and of his father's house twenty and two captains.

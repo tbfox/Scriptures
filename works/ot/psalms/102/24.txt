@@ -1,1 +1,0 @@
-I said, O my God, take me not away in the midst of my days: thy years are throughout all generations.

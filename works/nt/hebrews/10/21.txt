@@ -1,1 +1,0 @@
-And having an high priest over the house of God;

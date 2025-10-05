@@ -1,1 +1,0 @@
-For God hath not called us unto uncleanness, but unto holiness.

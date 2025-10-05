@@ -1,1 +1,0 @@
-Which when the apostles, Barnabas and Paul, heard of, they rent their clothes, and ran in among the people, crying out,

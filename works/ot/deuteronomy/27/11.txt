@@ -1,1 +1,0 @@
-And Moses charged the people the same day, saying,

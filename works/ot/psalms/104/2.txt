@@ -1,1 +1,0 @@
-Who coverest thyself with light as with a garment: who stretchest out the heavens like a curtain:

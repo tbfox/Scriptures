@@ -1,1 +1,0 @@
-I wait for the LORD, my soul doth wait, and in his word do I hope.

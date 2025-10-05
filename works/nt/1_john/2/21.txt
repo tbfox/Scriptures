@@ -1,1 +1,0 @@
-I have not written unto you because ye know not the truth, but because ye know it, and that no lie is of the truth.

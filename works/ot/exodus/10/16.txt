@@ -1,1 +1,0 @@
-Then Pharaoh called for Moses and Aaron in haste; and he said, I have sinned against the LORD your God, and against you.

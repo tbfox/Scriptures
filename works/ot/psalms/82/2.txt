@@ -1,1 +1,0 @@
-How long will ye judge unjustly, and accept the persons of the wicked? Selah.

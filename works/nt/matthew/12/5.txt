@@ -1,1 +1,0 @@
-Or have ye not read in the law, how that on the sabbath days the priests in the temple profane the sabbath, and are blameless?

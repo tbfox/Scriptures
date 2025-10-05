@@ -1,1 +1,0 @@
-And he said, The LORD is my rock, and my fortress, and my deliverer;

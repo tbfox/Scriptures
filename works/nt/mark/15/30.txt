@@ -1,1 +1,0 @@
-Save thyself, and come down from the cross.

@@ -1,1 +1,0 @@
-But woe unto you that are rich! for ye have received your consolation.

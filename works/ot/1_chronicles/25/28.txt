@@ -1,1 +1,0 @@
-The one and twentieth to Hothir, he, his sons, and his brethren, were twelve:

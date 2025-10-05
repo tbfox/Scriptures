@@ -1,1 +1,0 @@
-For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ.

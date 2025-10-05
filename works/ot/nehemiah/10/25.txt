@@ -1,1 +1,0 @@
-Rehum, Hashabnah, Maaseiah,

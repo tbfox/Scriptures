@@ -1,1 +1,0 @@
-And Hazael said, But what, is thy servant a dog, that he should do this great thing? And Elisha answered, The LORD hath shewed me that thou shalt be king over Syria.

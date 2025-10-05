@@ -1,1 +1,0 @@
-And I know that his commandment is life everlasting: whatsoever I speak therefore, even as the Father said unto me, so I speak.

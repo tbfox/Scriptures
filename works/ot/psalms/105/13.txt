@@ -1,1 +1,0 @@
-When they went from one nation to another, from one kingdom to another people;

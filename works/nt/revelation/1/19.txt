@@ -1,1 +1,0 @@
-Write the things which thou hast seen, and the things which are, and the things which shall be hereafter;

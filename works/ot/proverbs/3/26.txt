@@ -1,1 +1,0 @@
-For the LORD shall be thy confidence, and shall keep thy foot from being taken.

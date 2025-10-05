@@ -1,1 +1,0 @@
-And Abraham begat Isaac. The sons of Isaac; Esau and Israel.

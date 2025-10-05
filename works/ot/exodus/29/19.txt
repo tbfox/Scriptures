@@ -1,1 +1,0 @@
-And thou shalt take the other ram; and Aaron and his sons shall put their hands upon the head of the ram.

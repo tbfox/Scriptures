@@ -1,1 +1,0 @@
-The earth also was corrupt before God, and the earth was filled with violence.

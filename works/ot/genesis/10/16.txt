@@ -1,1 +1,0 @@
-And the Jebusite, and the Amorite, and the Girgasite,

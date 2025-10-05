@@ -1,1 +1,0 @@
-And she, being before instructed of her mother, said, Give me here John Baptist's head in a charger.

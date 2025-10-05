@@ -1,1 +1,0 @@
-Two men shall be in the field; the one shall be taken, and the other left.

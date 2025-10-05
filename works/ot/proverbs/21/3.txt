@@ -1,1 +1,0 @@
-To do justice and judgment is more acceptable to the LORD than sacrifice.

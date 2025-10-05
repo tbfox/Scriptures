@@ -1,1 +1,0 @@
-Woe unto them that rise up early in the morning, that they may follow strong drink; that continue until night, till wine inflame them!

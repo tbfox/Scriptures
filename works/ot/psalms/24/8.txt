@@ -1,1 +1,0 @@
-Who is this King of glory? The LORD strong and mighty, the LORD mighty in battle.

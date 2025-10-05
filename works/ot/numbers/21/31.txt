@@ -1,1 +1,0 @@
-Thus Israel dwelt in the land of the Amorites.

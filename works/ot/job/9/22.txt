@@ -1,1 +1,0 @@
-This is one thing, therefore I said it, He destroyeth the perfect and the wicked.

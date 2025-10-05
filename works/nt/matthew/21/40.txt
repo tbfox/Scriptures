@@ -1,1 +1,0 @@
-When the lord therefore of the vineyard cometh, what will he do unto those husbandmen?

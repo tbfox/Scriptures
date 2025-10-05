@@ -1,1 +1,0 @@
-And these all, having obtained a good report through faith, received not the promise:

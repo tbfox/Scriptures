@@ -1,1 +1,0 @@
-Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ.

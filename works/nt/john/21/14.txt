@@ -1,1 +1,0 @@
-This is now the third time that Jesus shewed himself to his disciples, after that he was risen from the dead.

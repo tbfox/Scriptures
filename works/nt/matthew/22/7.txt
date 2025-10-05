@@ -1,1 +1,0 @@
-But when the king heard thereof, he was wroth: and he sent forth his armies, and destroyed those murderers, and burned up their city.

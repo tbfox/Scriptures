@@ -1,1 +1,0 @@
-And he said unto him, Man, who made me a judge or a divider over you?

@@ -1,1 +1,0 @@
-Truly ye bear witness that ye allow the deeds of your fathers: for they indeed killed them, and ye build their sepulchres.

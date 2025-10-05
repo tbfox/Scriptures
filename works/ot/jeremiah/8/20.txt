@@ -1,1 +1,0 @@
-The harvest is past, the summer is ended, and we are not saved.

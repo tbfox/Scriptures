@@ -1,1 +1,0 @@
-The son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai,

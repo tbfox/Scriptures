@@ -1,1 +1,0 @@
-And Joseph said unto them, What deed is this that ye have done? wot ye not that such a man as I can certainly divine?

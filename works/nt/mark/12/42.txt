@@ -1,1 +1,0 @@
-And there came a certain poor widow, and she threw in two mites, which make a farthing.

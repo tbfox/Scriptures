@@ -1,1 +1,0 @@
-If it had not been the LORD who was on our side, now may Israel say;

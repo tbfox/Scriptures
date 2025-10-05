@@ -1,1 +1,0 @@
-Hast thou heard the secret of God? and dost thou restrain wisdom to thyself?

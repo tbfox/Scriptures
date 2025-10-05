@@ -1,1 +1,0 @@
-Then said his wife unto him, Dost thou still retain thine integrity? curse God, and die.

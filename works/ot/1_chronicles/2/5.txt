@@ -1,1 +1,0 @@
-The sons of Pharez; Hezron, and Hamul.

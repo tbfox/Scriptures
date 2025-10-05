@@ -1,1 +1,0 @@
-Hereby perceive we the love of God, because he laid down his life for us: and we ought to lay down our lives for the brethren.

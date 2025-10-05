@@ -1,1 +1,0 @@
-And he laid his carcase in his own grave; and they mourned over him, saying, Alas, my brother!

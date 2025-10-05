@@ -1,1 +1,0 @@
-For he satisfieth the longing soul, and filleth the hungry soul with goodness.

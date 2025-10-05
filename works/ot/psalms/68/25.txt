@@ -1,1 +1,0 @@
-The singers went before, the players on instruments followed after; among them were the damsels playing with timbrels.

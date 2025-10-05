@@ -1,1 +1,0 @@
-And Solomon's wisdom excelled the wisdom of all the children of the east country, and all the wisdom of Egypt.

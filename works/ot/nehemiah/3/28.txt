@@ -1,1 +1,0 @@
-From above the horse gate repaired the priests, every one over against his house.

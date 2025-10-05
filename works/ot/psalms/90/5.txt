@@ -1,1 +1,0 @@
-Thou carriest them away as with a flood; they are as a sleep: in the morning they are like grass which groweth up.

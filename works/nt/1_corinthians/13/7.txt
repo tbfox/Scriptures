@@ -1,1 +1,0 @@
-Beareth all things, believeth all things, hopeth all things, endureth all things.

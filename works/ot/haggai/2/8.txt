@@ -1,1 +1,0 @@
-The silver is mine, and the gold is mine, saith the LORD of hosts.

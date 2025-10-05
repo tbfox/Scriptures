@@ -1,1 +1,0 @@
-And the king said unto him, Why speakest thou any more of thy matters? I have said, Thou and Ziba divide the land.

@@ -1,1 +1,0 @@
-And Jeroboam the son of Nebat, an Ephrathite of Zereda, Solomon's servant, whose mother's name was Zeruah, a widow woman, even he lifted up his hand against the king.

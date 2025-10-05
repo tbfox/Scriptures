@@ -1,1 +1,0 @@
-And Moses brought forth the people out of the camp to meet with God; and they stood at the nether part of the mount.

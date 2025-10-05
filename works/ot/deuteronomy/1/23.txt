@@ -1,1 +1,0 @@
-And the saying pleased me well: and I took twelve men of you, one of a tribe:

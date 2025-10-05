@@ -1,1 +1,0 @@
-Therefore also said the wisdom of God, I will send them prophets and apostles, and some of them they shall slay and persecute:

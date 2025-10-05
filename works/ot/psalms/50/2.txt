@@ -1,1 +1,0 @@
-Out of Zion, the perfection of beauty, God hath shined.

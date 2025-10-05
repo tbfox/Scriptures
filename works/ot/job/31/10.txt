@@ -1,1 +1,0 @@
-Then let my wife grind unto another, and let others bow down upon her.

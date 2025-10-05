@@ -1,1 +1,0 @@
-And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals.

@@ -1,1 +1,0 @@
-And I will dash them one against another, even the fathers and the sons together, saith the LORD: I will not pity, nor spare, nor have mercy, but destroy them.

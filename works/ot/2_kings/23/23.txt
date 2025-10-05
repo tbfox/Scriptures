@@ -1,1 +1,0 @@
-But in the eighteenth year of king Josiah, wherein this passover was holden to the LORD in Jerusalem.

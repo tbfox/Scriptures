@@ -1,1 +1,0 @@
-Wise men lay up knowledge: but the mouth of the foolish is near destruction.

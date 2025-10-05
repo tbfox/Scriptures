@@ -1,1 +1,0 @@
-All things are full of labour; man cannot utter it: the eye is not satisfied with seeing, nor the ear filled with hearing.

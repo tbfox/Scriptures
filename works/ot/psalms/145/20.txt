@@ -1,1 +1,0 @@
-The LORD preserveth all them that love him: but all the wicked will he destroy.

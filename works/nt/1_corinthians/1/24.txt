@@ -1,1 +1,0 @@
-But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God.

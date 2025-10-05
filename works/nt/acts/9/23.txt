@@ -1,1 +1,0 @@
-And after that many days were fulfilled, the Jews took counsel to kill him:

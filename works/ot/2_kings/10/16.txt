@@ -1,1 +1,0 @@
-And he said, Come with me, and see my zeal for the LORD. So they made him ride in his chariot.

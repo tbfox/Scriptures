@@ -1,1 +1,0 @@
-And he saith unto them, Whosoever shall put away his wife, and marry another, committeth adultery against her.

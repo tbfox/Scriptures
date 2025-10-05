@@ -1,1 +1,0 @@
-He hath compassed the waters with bounds, until the day and night come to an end.

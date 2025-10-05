@@ -1,1 +1,0 @@
-Art thou greater than our father Abraham, which is dead? and the prophets are dead: whom makest thou thyself?

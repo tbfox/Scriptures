@@ -1,1 +1,0 @@
-For there is no respect of persons with God.

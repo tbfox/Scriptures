@@ -1,1 +1,0 @@
-Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety.

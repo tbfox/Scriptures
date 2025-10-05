@@ -1,1 +1,0 @@
-I am afraid of all my sorrows, I know that thou wilt not hold me innocent.

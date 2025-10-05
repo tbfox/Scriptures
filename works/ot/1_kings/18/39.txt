@@ -1,1 +1,0 @@
-And when all the people saw it, they fell on their faces: and they said, The LORD, he is the God; the LORD, he is the God.

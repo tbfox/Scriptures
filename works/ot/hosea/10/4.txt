@@ -1,1 +1,0 @@
-They have spoken words, swearing falsely in making a covenant: thus judgment springeth up as hemlock in the furrows of the field.

@@ -1,1 +1,0 @@
-They mar my path, they set forward my calamity, they have no helper.

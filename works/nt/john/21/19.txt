@@ -1,1 +1,0 @@
-This spake he, signifying by what death he should glorify God. And when he had spoken this, he saith unto him, Follow me.

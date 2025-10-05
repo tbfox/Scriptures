@@ -1,1 +1,0 @@
-Sibbecai the Hushathite, Ilai the Ahohite,

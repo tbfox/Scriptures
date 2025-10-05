@@ -1,1 +1,0 @@
-If this people go up to do sacrifice in the house of the LORD at Jerusalem, then shall the heart of this people turn again unto their lord, even unto Rehoboam king of Judah, and they shall kill me, and go again to Rehoboam king of Judah.

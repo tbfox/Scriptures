@@ -1,1 +1,0 @@
-Her feet go down to death; her steps take hold on hell.

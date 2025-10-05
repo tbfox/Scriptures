@@ -1,1 +1,0 @@
-And we know that all things work together for good to them that love God, to them who are the called according to his purpose.

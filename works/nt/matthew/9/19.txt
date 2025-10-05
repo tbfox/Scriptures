@@ -1,1 +1,0 @@
-And Jesus arose, and followed him, and so did his disciples.

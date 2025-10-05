@@ -1,1 +1,0 @@
-And they called Barnabas, Jupiter; and Paul, Mercurius, because he was the chief speaker.

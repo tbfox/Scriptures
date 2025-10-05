@@ -1,1 +1,0 @@
-Thou hast forgiven the iniquity of thy people, thou hast covered all their sin. Selah.

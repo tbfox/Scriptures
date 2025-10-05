@@ -1,1 +1,0 @@
-And he brake in pieces the images, and cut down the groves, and filled their places with the bones of men.

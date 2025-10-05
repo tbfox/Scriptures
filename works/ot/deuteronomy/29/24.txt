@@ -1,1 +1,0 @@
-Even all nations shall say, Wherefore hath the LORD done thus unto this land? what meaneth the heat of this great anger?

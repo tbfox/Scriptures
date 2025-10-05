@@ -1,1 +1,0 @@
-And the sons of Hebron; Jeriah the first, Amariah the second, Jahaziel the third, Jekameam the fourth.

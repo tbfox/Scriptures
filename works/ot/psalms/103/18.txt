@@ -1,1 +1,0 @@
-To such as keep his covenant, and to those that remember his commandments to do them.

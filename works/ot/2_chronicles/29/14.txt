@@ -1,1 +1,0 @@
-And of the sons of Heman; Jehiel, and Shimei: and of the sons of Jeduthun; Shemaiah, and Uzziel.

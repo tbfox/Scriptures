@@ -1,1 +1,0 @@
-And he was seen many days of them which came up with him from Galilee to Jerusalem, who are his witnesses unto the people.

@@ -1,1 +1,0 @@
-Thy way is in the sea, and thy path in the great waters, and thy footsteps are not known.

@@ -1,1 +1,0 @@
-But he, whom God raised again, saw no corruption.

@@ -1,1 +1,0 @@
-Yet Jeroboam the son of Nebat, the servant of Solomon the son of David, is risen up, and hath rebelled against his lord.

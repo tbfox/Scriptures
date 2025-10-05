@@ -1,1 +1,0 @@
-We have sent therefore Judas and Silas, who shall also tell you the same things by mouth.

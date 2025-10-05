@@ -1,1 +1,0 @@
-Labour not to be rich: cease from thine own wisdom.

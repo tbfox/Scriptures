@@ -1,1 +1,0 @@
-Wherefore is light given to him that is in misery, and life unto the bitter in soul;

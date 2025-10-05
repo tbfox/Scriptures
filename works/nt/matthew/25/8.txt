@@ -1,1 +1,0 @@
-And the foolish said unto the wise, Give us of your oil; for our lamps are gone out.

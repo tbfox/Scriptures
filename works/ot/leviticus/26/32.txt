@@ -1,1 +1,0 @@
-And I will bring the land into desolation: and your enemies which dwell therein shall be astonished at it.

@@ -1,1 +1,0 @@
-And when even was come, he went out of the city.

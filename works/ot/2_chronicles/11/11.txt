@@ -1,1 +1,0 @@
-And he fortified the strong holds, and put captains in them, and store of victual, and of oil and wine.

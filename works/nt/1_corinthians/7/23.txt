@@ -1,1 +1,0 @@
-Ye are bought with a price; be not ye the servants of men.

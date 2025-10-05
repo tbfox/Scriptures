@@ -1,1 +1,0 @@
-He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap.

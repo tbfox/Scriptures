@@ -1,1 +1,0 @@
-The name of the LORD is a strong tower: the righteous runneth into it, and is safe.

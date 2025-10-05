@@ -1,1 +1,0 @@
-The mouth of strange women is a deep pit: he that is abhorred of the LORD shall fall therein.

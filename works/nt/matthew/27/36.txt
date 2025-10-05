@@ -1,1 +1,0 @@
-And sitting down they watched him there;

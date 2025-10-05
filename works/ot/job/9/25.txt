@@ -1,1 +1,0 @@
-Now my days are swifter than a post: they flee away, they see no good.

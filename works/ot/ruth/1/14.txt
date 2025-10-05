@@ -1,1 +1,0 @@
-And they lifted up their voice, and wept again: and Orpah kissed her mother in law; but Ruth clave unto her.

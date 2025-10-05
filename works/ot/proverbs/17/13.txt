@@ -1,1 +1,0 @@
-Whoso rewardeth evil for good, evil shall not depart from his house.

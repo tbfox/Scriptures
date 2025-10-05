@@ -1,1 +1,0 @@
-And the sons of Izhar; Korah, and Nepheg, and Zichri.

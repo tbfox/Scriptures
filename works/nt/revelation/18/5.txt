@@ -1,1 +1,0 @@
-For her sins have reached unto heaven, and God hath remembered her iniquities.

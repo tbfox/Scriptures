@@ -1,1 +1,0 @@
-The hill of God is as the hill of Bashan; an high hill as the hill of Bashan.

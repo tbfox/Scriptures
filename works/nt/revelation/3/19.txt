@@ -1,1 +1,0 @@
-As many as I love, I rebuke and chasten: be zealous therefore, and repent.

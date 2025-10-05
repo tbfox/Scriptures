@@ -1,1 +1,0 @@
-In thoughts from the visions of the night, when deep sleep falleth on men,

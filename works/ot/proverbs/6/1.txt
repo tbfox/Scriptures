@@ -1,1 +1,0 @@
-My son, if thou be surety for thy friend, if thou hast stricken thy hand with a stranger,

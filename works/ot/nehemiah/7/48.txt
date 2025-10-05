@@ -1,1 +1,0 @@
-The children of Lebana, the children of Hagaba, the children of Shalmai,

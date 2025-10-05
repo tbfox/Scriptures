@@ -1,1 +1,0 @@
-And Abraham gave all that he had unto Isaac.

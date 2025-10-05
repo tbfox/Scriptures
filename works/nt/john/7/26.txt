@@ -1,1 +1,0 @@
-But, lo, he speaketh boldly, and they say nothing unto him. Do the rulers know indeed that this is the very Christ?

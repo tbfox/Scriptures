@@ -1,1 +1,0 @@
-Only by pride cometh contention: but with the well advised is wisdom.

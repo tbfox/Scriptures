@@ -1,1 +1,0 @@
-Therefore the LORD God sent him forth from the garden of Eden, to till the ground from whence he was taken.

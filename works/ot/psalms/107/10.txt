@@ -1,1 +1,0 @@
-Such as sit in darkness and in the shadow of death, being bound in affliction and iron;

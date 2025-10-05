@@ -1,1 +1,0 @@
-Lachish, and Bozkath, and Eglon,

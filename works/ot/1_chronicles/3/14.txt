@@ -1,1 +1,0 @@
-Amon his son, Josiah his son.

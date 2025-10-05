@@ -1,1 +1,0 @@
-Gird thy sword upon thy thigh, O most mighty, with thy glory and thy majesty.

@@ -1,1 +1,0 @@
-For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself.

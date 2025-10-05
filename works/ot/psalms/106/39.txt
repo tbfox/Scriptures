@@ -1,1 +1,0 @@
-Thus were they defiled with their own works, and went a whoring with their own inventions.

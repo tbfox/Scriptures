@@ -1,1 +1,0 @@
-And Jehoshaphat made peace with the king of Israel.

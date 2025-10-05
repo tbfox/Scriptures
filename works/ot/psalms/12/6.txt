@@ -1,1 +1,0 @@
-The words of the LORD are pure words: as silver tried in a furnace of earth, purified seven times.

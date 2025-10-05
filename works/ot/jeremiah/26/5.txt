@@ -1,1 +1,0 @@
-To hearken to the words of my servants the prophets, whom I sent unto you, both rising up early, and sending them, but ye have not hearkened;

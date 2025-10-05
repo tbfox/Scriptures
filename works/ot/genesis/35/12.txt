@@ -1,1 +1,0 @@
-And the land which I gave Abraham and Isaac, to thee I will give it, and to thy seed after thee will I give the land.

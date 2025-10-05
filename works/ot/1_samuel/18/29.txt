@@ -1,1 +1,0 @@
-And Saul was yet the more afraid of David; and Saul became David's enemy continually.

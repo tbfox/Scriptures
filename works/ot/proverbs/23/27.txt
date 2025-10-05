@@ -1,1 +1,0 @@
-For a whore is a deep ditch; and a strange woman is a narrow pit.

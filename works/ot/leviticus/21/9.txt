@@ -1,1 +1,0 @@
-And the daughter of any priest, if she profane herself by playing the whore, she profaneth her father: she shall be burnt with fire.

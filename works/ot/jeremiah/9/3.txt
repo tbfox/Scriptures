@@ -1,1 +1,0 @@
-And they bend their tongues like their bow for lies: but they are not valiant for the truth upon the earth; for they proceed from evil to evil, and they know not me, saith the LORD.

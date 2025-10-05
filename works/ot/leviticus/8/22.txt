@@ -1,1 +1,0 @@
-And he brought the other ram, the ram of consecration: and Aaron and his sons laid their hands upon the head of the ram.

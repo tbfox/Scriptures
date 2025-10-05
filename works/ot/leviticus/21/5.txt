@@ -1,1 +1,0 @@
-They shall not make baldness upon their head, neither shall they shave off the corner of their beard, nor make any cuttings in their flesh.

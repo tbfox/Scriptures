@@ -1,1 +1,0 @@
-Who appeared in glory, and spake of his decease which he should accomplish at Jerusalem.

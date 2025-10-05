@@ -1,1 +1,0 @@
-A froward man soweth strife: and a whisperer separateth chief friends.

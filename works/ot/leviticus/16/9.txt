@@ -1,1 +1,0 @@
-And Aaron shall bring the goat upon which the LORD's lot fell, and offer him for a sin offering.

@@ -1,1 +1,0 @@
-And he discovered the covering of Judah, and thou didst look in that day to the armour of the house of the forest.

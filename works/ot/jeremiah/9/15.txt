@@ -1,1 +1,0 @@
-Therefore thus saith the LORD of hosts, the God of Israel; Behold, I will feed them, even this people, with wormwood, and give them water of gall to drink.

@@ -1,1 +1,0 @@
-And Jair died, and was buried in Camon.

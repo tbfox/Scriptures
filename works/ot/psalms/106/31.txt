@@ -1,1 +1,0 @@
-And that was counted unto him for righteousness unto all generations for evermore.

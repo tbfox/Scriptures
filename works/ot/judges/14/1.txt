@@ -1,1 +1,0 @@
-And Samson went down to Timnath, and saw a woman in Timnath of the daughters of the Philistines.

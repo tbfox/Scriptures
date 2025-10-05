@@ -1,1 +1,0 @@
-Let me not be ashamed, O LORD; for I have called upon thee: let the wicked be ashamed, and let them be silent in the grave.

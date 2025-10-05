@@ -1,1 +1,0 @@
-When the wicked spring as the grass, and when all the workers of iniquity do flourish; it is that they shall be destroyed for ever:

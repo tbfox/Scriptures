@@ -1,1 +1,0 @@
-Jesus answered them, Is it not written in your law, I said, Ye are gods?

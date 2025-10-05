@@ -1,1 +1,0 @@
-If he offer a lamb for his offering, then shall he offer it before the LORD.

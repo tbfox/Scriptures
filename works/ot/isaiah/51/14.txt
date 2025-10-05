@@ -1,1 +1,0 @@
-The captive exile hasteneth that he may be loosed, and that he should not die in the pit, nor that his bread should fail.

@@ -1,1 +1,0 @@
-The LORD is righteous: he hath cut asunder the cords of the wicked.

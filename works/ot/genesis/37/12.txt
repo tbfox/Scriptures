@@ -1,1 +1,0 @@
-And his brethren went to feed their father's flock in Shechem.

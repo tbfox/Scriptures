@@ -1,1 +1,0 @@
-Every one that is found shall be thrust through; and every one that is joined unto them shall fall by the sword.

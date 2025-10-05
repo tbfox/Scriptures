@@ -1,1 +1,0 @@
-The word that came to Jeremiah from the LORD, saying,

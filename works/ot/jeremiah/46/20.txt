@@ -1,1 +1,0 @@
-Egypt is like a very fair heifer, but destruction cometh; it cometh out of the north.

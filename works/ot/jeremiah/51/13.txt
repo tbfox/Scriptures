@@ -1,1 +1,0 @@
-O thou that dwellest upon many waters, abundant in treasures, thine end is come, and the measure of thy covetousness.

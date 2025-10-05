@@ -1,1 +1,0 @@
-He is chastened also with pain upon his bed, and the multitude of his bones with strong pain:

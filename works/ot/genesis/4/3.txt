@@ -1,1 +1,0 @@
-And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the LORD.

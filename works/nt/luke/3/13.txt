@@ -1,1 +1,0 @@
-And he said unto them, Exact no more than that which is appointed you.

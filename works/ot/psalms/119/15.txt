@@ -1,1 +1,0 @@
-I will meditate in thy precepts, and have respect unto thy ways.

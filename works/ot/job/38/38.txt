@@ -1,1 +1,0 @@
-When the dust groweth into hardness, and the clods cleave fast together?

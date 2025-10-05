@@ -1,1 +1,0 @@
-Whosoever shall seek to save his life shall lose it; and whosoever shall lose his life shall preserve it.

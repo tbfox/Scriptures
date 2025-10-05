@@ -1,1 +1,0 @@
-Let all things be done decently and in order.

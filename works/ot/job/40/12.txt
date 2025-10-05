@@ -1,1 +1,0 @@
-Look on every one that is proud, and bring him low; and tread down the wicked in their place.

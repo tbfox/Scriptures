@@ -1,1 +1,0 @@
-Consider what I say; and the Lord give thee understanding in all things.

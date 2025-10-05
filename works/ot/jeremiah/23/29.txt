@@ -1,1 +1,0 @@
-Is not my word like as a fire? saith the LORD; and like a hammer that breaketh the rock in pieces?

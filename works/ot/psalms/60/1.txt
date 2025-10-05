@@ -1,1 +1,0 @@
-O God, thou hast cast us off, thou hast scattered us, thou hast been displeased; O turn thyself to us again.

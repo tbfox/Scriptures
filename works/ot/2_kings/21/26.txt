@@ -1,1 +1,0 @@
-And he was buried in his sepulchre in the garden of Uzza: and Josiah his son reigned in his stead.

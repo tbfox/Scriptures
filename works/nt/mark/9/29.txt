@@ -1,1 +1,0 @@
-And he said unto them, This kind can come forth by nothing, but by prayer and fasting.

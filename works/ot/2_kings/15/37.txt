@@ -1,1 +1,0 @@
-In those days the LORD began to send against Judah Rezin the king of Syria, and Pekah the son of Remaliah.

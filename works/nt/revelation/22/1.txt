@@ -1,1 +1,0 @@
-And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.

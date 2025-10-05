@@ -1,1 +1,0 @@
-The Jews had light, and gladness, and joy, and honour.

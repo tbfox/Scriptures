@@ -1,1 +1,0 @@
-And the gospel must first be published among all nations.

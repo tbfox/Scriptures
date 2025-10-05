@@ -1,1 +1,0 @@
-So that my soul chooseth strangling, and death rather than my life.

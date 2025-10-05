@@ -1,1 +1,0 @@
-And when ye come into an house, salute it.

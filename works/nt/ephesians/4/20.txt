@@ -1,1 +1,0 @@
-But ye have not so learned Christ;

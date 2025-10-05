@@ -1,1 +1,0 @@
-Deal bountifully with thy servant, that I may live, and keep thy word.

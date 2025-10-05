@@ -1,1 +1,0 @@
-And through thy knowledge shall the weak brother perish, for whom Christ died?

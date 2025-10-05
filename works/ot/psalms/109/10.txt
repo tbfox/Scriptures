@@ -1,1 +1,0 @@
-Let his children be continually vagabonds, and beg: let them seek their bread also out of their desolate places.

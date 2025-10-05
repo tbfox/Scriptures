@@ -1,1 +1,0 @@
-The word of the LORD came again to me, saying,

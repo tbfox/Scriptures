@@ -1,1 +1,0 @@
-Son of man, say unto her, Thou art the land that is not cleansed, nor rained upon in the day of indignation.

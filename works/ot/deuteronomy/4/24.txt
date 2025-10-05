@@ -1,1 +1,0 @@
-For the LORD thy God is a consuming fire, even a jealous God.

@@ -1,1 +1,0 @@
-I have said to corruption, Thou art my father: to the worm, Thou art my mother, and my sister.

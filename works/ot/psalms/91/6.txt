@@ -1,1 +1,0 @@
-Nor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noonday.

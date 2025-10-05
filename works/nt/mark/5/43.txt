@@ -1,1 +1,0 @@
-And he charged them straitly that no man should know it; and commanded that something should be given her to eat.

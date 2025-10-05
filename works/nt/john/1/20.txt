@@ -1,1 +1,0 @@
-And he confessed, and denied not; but confessed, I am not the Christ.

@@ -1,1 +1,0 @@
-Not for any injustice in mine hands: also my prayer is pure.

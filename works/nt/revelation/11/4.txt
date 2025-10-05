@@ -1,1 +1,0 @@
-These are the two olive trees, and the two candlesticks standing before the God of the earth.

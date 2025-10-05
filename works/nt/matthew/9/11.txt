@@ -1,1 +1,0 @@
-And when the Pharisees saw it, they said unto his disciples, Why eateth your Master with publicans and sinners?

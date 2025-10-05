@@ -1,1 +1,0 @@
-Behold, I have given him for a witness to the people, a leader and commander to the people.

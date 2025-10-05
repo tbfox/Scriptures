@@ -1,1 +1,0 @@
-And David dwelt with Achish at Gath, he and his men, every man with his household, even David with his two wives, Ahinoam the Jezreelitess, and Abigail the Carmelitess, Nabal's wife.

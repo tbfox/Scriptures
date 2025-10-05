@@ -1,1 +1,0 @@
-And he said unto them, Is he well? And they said, He is well: and, behold, Rachel his daughter cometh with the sheep.

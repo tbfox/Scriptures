@@ -1,1 +1,0 @@
-For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures;

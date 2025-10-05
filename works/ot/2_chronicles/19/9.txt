@@ -1,1 +1,0 @@
-And he charged them, saying, Thus shall ye do in the fear of the LORD, faithfully, and with a perfect heart.

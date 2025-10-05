@@ -1,1 +1,0 @@
-Thy kingdom is an everlasting kingdom, and thy dominion endureth throughout all generations.

@@ -1,1 +1,0 @@
-He delivereth the poor in his affliction, and openeth their ears in oppression.

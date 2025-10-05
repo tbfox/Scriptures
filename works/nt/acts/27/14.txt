@@ -1,1 +1,0 @@
-But not long after there arose against it a tempestuous wind, called Euroclydon.

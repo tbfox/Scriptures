@@ -1,1 +1,0 @@
-And he led them out as far as to Bethany, and he lifted up his hands, and blessed them.

@@ -1,1 +1,0 @@
-So David and all the house of Israel brought up the ark of the LORD with shouting, and with the sound of the trumpet.

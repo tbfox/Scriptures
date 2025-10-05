@@ -1,1 +1,0 @@
-Now is she without, now in the streets, and lieth in wait at every corner.)

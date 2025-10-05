@@ -1,1 +1,0 @@
-To him that is afflicted pity should be shewed from his friend; but he forsaketh the fear of the Almighty.

@@ -1,1 +1,0 @@
-I will answer thee, and thy companions with thee.

@@ -1,1 +1,0 @@
-And they answered Jesus, and said, We cannot tell. And he said unto them, Neither tell I you by what authority I do these things.

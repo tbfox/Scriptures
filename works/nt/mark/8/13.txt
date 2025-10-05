@@ -1,1 +1,0 @@
-And he left them, and entering into the ship again departed to the other side.

@@ -1,1 +1,0 @@
-Therefore hear, ye nations, and know, O congregation, what is among them.

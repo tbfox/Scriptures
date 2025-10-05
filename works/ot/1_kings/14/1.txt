@@ -1,1 +1,0 @@
-At that time Abijah the son of Jeroboam fell sick.

@@ -1,1 +1,0 @@
-For all they did cast in of their abundance; but she of her want did cast in all that she had, even all her living.

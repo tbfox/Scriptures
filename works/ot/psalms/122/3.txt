@@ -1,1 +1,0 @@
-Jerusalem is builded as a city that is compact together:

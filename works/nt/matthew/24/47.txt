@@ -1,1 +1,0 @@
-Verily I say unto you, That he shall make him ruler over all his goods.

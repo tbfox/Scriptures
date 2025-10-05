@@ -1,1 +1,0 @@
-For Adam was first formed, then Eve.

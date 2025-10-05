@@ -1,1 +1,0 @@
-And they were scattered, because there is no shepherd: and they became meat to all the beasts of the field, when they were scattered.

@@ -1,1 +1,0 @@
-The words of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin:

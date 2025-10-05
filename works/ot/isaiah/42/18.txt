@@ -1,1 +1,0 @@
-Hear, ye deaf; and look, ye blind, that ye may see.

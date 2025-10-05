@@ -1,1 +1,0 @@
-Jesus went unto the mount of Olives.

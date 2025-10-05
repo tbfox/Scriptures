@@ -1,1 +1,0 @@
-And I will shoot three arrows on the side thereof, as though I shot at a mark.

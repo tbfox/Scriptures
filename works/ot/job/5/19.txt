@@ -1,1 +1,0 @@
-He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee.

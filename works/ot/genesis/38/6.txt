@@ -1,1 +1,0 @@
-And Judah took a wife for Er his firstborn, whose name was Tamar.

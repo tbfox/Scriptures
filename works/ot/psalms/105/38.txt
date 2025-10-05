@@ -1,1 +1,0 @@
-Egypt was glad when they departed: for the fear of them fell upon them.

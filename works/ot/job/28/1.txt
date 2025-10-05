@@ -1,1 +1,0 @@
-Surely there is a vein for the silver, and a place for gold where they fine it.

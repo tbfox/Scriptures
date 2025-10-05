@@ -1,1 +1,0 @@
-And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea.

@@ -1,1 +1,0 @@
-But overthrew Pharaoh and his host in the Red sea: for his mercy endureth for ever.

@@ -1,1 +1,0 @@
-But his flesh upon him shall have pain, and his soul within him shall mourn.

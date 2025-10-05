@@ -1,1 +1,0 @@
-Let not thine heart envy sinners: but be thou in the fear of the LORD all the day long.

@@ -1,1 +1,0 @@
-He sent darkness, and made it dark; and they rebelled not against his word.

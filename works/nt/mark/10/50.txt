@@ -1,1 +1,0 @@
-And he, casting away his garment, rose, and came to Jesus.

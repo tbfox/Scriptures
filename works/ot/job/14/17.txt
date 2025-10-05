@@ -1,1 +1,0 @@
-My transgression is sealed up in a bag, and thou sewest up mine iniquity.

@@ -1,1 +1,0 @@
-And Mahalaleel lived sixty and five years, and begat Jared:

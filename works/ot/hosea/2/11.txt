@@ -1,1 +1,0 @@
-I will also cause all her mirth to cease, her feast days, her new moons, and her sabbaths, and all her solemn feasts.

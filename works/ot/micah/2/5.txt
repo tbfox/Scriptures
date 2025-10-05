@@ -1,1 +1,0 @@
-Therefore thou shalt have none that shall cast a cord by lot in the congregation of the LORD.

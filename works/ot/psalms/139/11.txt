@@ -1,1 +1,0 @@
-If I say, Surely the darkness shall cover me; even the night shall be light about me.

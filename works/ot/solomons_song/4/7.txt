@@ -1,1 +1,0 @@
-Thou art all fair, my love; there is no spot in thee.

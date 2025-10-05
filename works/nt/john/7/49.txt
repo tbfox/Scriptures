@@ -1,1 +1,0 @@
-But this people who knoweth not the law are cursed.

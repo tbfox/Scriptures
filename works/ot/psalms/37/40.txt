@@ -1,1 +1,0 @@
-And the LORD shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him.

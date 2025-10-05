@@ -1,1 +1,0 @@
-Again in the ninth year, in the tenth month, in the tenth day of the month, the word of the LORD came unto me, saying,

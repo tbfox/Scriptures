@@ -1,1 +1,0 @@
-If I wash myself with snow water, and make my hands never so clean;

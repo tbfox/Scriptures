@@ -1,1 +1,0 @@
-As for man, his days are as grass: as a flower of the field, so he flourisheth.

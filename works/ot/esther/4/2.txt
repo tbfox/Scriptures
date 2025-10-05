@@ -1,1 +1,0 @@
-And came even before the king's gate: for none might enter into the king's gate clothed with sackcloth.

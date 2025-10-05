@@ -1,1 +1,0 @@
-And the same John had his raiment of camel's hair, and a leathern girdle about his loins; and his meat was locusts and wild honey.

@@ -1,1 +1,0 @@
-The LORD is in his holy temple, the LORD's throne is in heaven: his eyes behold, his eyelids try, the children of men.

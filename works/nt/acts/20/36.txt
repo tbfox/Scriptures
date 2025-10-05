@@ -1,1 +1,0 @@
-And when he had thus spoken, he kneeled down, and prayed with them all.

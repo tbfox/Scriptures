@@ -1,1 +1,0 @@
-I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love.

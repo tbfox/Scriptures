@@ -1,1 +1,0 @@
-But if ye will not do so, behold, ye have sinned against the LORD: and be sure your sin will find you out.

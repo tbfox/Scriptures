@@ -1,1 +1,0 @@
-And king Jehoram went out of Samaria the same time, and numbered all Israel.

@@ -1,1 +1,0 @@
-When their judges are overthrown in stony places, they shall hear my words; for they are sweet.

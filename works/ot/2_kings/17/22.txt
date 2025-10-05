@@ -1,1 +1,0 @@
-For the children of Israel walked in all the sins of Jeroboam which he did; they departed not from them;

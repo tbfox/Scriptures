@@ -1,1 +1,0 @@
-For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh.

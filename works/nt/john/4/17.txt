@@ -1,1 +1,0 @@
-The woman answered and said, I have no husband. Jesus said unto her, Thou hast well said, I have no husband:

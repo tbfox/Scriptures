@@ -1,1 +1,0 @@
-And the priest shall look upon the plague, and shut up it that hath the plague seven days:

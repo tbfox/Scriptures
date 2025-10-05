@@ -1,1 +1,0 @@
-And the LORD shall inherit Judah his portion in the holy land, and shall choose Jerusalem again.

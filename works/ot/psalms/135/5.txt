@@ -1,1 +1,0 @@
-For I know that the LORD is great, and that our Lord is above all gods.

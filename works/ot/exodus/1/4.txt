@@ -1,1 +1,0 @@
-Dan, and Naphtali, Gad, and Asher.

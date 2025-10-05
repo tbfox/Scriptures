@@ -1,1 +1,0 @@
-And the land of Egypt shall be desolate and waste; and they shall know that I am the LORD: because he hath said, The river is mine, and I have made it.

@@ -1,1 +1,0 @@
-I am small and despised: yet do not I forget thy precepts.

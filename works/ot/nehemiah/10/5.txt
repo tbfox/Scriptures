@@ -1,1 +1,0 @@
-Harim, Meremoth, Obadiah,

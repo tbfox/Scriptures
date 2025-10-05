@@ -1,1 +1,0 @@
-And the decree went forth that the wise men should be slain; and they sought Daniel and his fellows to be slain.

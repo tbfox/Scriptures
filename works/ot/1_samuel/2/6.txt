@@ -1,1 +1,0 @@
-The LORD killeth, and maketh alive: he bringeth down to the grave, and bringeth up.

@@ -1,1 +1,0 @@
-Iddo, Ginnetho, Abijah,

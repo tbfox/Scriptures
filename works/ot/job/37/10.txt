@@ -1,1 +1,0 @@
-By the breath of God frost is given: and the breadth of the waters is straitened.

@@ -1,1 +1,0 @@
-She girdeth her loins with strength, and strengtheneth her arms.

@@ -1,1 +1,0 @@
-And Jesus said unto him, No man, having put his hand to the plough, and looking back, is fit for the kingdom of God.

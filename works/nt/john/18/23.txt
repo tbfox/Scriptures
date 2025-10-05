@@ -1,1 +1,0 @@
-Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?

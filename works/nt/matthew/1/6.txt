@@ -1,1 +1,0 @@
-And Jesse begat David the king; and David the king begat Solomon of her that had been the wife of Urias;

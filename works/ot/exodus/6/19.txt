@@ -1,1 +1,0 @@
-And the sons of Merari; Mahali and Mushi: these are the families of Levi according to their generations.

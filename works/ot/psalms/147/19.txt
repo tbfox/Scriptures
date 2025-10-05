@@ -1,1 +1,0 @@
-He sheweth his word unto Jacob, his statutes and his judgments unto Israel.

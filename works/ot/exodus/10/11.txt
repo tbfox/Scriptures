@@ -1,1 +1,0 @@
-Not so: go now ye that are men, and serve the LORD; for that ye did desire. And they were driven out from Pharaoh's presence.

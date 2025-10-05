@@ -1,1 +1,0 @@
-And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;

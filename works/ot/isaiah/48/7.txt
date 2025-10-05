@@ -1,1 +1,0 @@
-They are created now, and not from the beginning; even before the day when thou heardest them not; lest thou shouldest say, Behold, I knew them.

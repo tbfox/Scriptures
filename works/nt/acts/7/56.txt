@@ -1,1 +1,0 @@
-And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God.

@@ -1,1 +1,0 @@
-Then came the officers to the chief priests and Pharisees; and they said unto them, Why have ye not brought him?

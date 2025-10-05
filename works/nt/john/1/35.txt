@@ -1,1 +1,0 @@
-Again the next day after John stood, and two of his disciples;

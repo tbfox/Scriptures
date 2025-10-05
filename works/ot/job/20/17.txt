@@ -1,1 +1,0 @@
-He shall not see the rivers, the floods, the brooks of honey and butter.

@@ -1,1 +1,0 @@
-Because thou shalt forget thy misery, and remember it as waters that pass away:

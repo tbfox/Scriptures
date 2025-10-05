@@ -1,1 +1,0 @@
-And the light shineth in darkness; and the darkness comprehended it not.

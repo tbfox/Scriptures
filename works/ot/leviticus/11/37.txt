@@ -1,1 +1,0 @@
-And if any part of their carcase fall upon any sowing seed which is to be sown, it shall be clean.

@@ -1,1 +1,0 @@
-Issachar, Zebulun, and Benjamin,

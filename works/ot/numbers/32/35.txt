@@ -1,1 +1,0 @@
-And Atroth, Shophan, and Jaazer, and Jogbehah,

@@ -1,1 +1,0 @@
-I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.

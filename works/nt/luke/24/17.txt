@@ -1,1 +1,0 @@
-And he said unto them, What manner of communications are these that ye have one to another, as ye walk, and are sad?

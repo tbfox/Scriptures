@@ -1,1 +1,0 @@
-For I will rise up against them, saith the LORD of hosts, and cut off from Babylon the name, and remnant, and son, and nephew, saith the LORD.

@@ -1,1 +1,0 @@
-Then Pilate entered into the judgment hall again, and called Jesus, and said unto him, Art thou the King of the Jews?

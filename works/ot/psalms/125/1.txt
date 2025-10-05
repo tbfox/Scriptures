@@ -1,1 +1,0 @@
-They that trust in the LORD shall be as mount Zion, which cannot be removed, but abideth for ever.

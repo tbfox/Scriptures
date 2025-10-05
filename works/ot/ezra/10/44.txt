@@ -1,1 +1,0 @@
-All these had taken strange wives: and some of them had wives by whom they had children.

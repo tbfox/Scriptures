@@ -1,1 +1,0 @@
-And Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa;

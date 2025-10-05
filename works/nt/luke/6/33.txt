@@ -1,1 +1,0 @@
-And if ye do good to them which do good to you, what thank have ye? for sinners also do even the same.

@@ -1,1 +1,0 @@
-And when David heard of it, he sent Joab, and all the host of the mighty men.

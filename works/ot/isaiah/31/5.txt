@@ -1,1 +1,0 @@
-As birds flying, so will the LORD of hosts defend Jerusalem; defending also he will deliver it; and passing over he will preserve it.

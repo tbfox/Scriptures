@@ -1,1 +1,0 @@
-But he began to curse and to swear, saying, I know not this man of whom ye speak.

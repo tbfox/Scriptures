@@ -1,1 +1,0 @@
-The captain of fifty, and the honourable man, and the counsellor, and the cunning artificer, and the eloquent orator.

@@ -1,1 +1,0 @@
-So Joshua let the people depart, every man unto his inheritance.

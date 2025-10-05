@@ -1,1 +1,0 @@
-A gift in secret pacifieth anger: and a reward in the bosom strong wrath.

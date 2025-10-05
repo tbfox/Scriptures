@@ -1,1 +1,0 @@
-Then Jesus said unto them, My time is not yet come: but your time is alway ready.

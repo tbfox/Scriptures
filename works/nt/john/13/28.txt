@@ -1,1 +1,0 @@
-Now no man at the table knew for what intent he spake this unto him.

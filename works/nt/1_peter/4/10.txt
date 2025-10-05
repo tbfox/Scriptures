@@ -1,1 +1,0 @@
-As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God.

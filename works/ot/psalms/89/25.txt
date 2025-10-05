@@ -1,1 +1,0 @@
-I will set his hand also in the sea, and his right hand in the rivers.

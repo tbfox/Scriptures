@@ -1,1 +1,0 @@
-And Jeroboam said in his heart, Now shall the kingdom return to the house of David:

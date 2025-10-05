@@ -1,1 +1,0 @@
-Yet in this thing ye did not believe the LORD your God,

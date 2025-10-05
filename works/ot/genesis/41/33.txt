@@ -1,1 +1,0 @@
-Now therefore let Pharaoh look out a man discreet and wise, and set him over the land of Egypt.

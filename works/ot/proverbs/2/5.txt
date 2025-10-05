@@ -1,1 +1,0 @@
-Then shalt thou understand the fear of the LORD, and find the knowledge of God.

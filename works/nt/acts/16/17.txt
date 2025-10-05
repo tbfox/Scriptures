@@ -1,1 +1,0 @@
-The same followed Paul and us, and cried, saying, These men are the servants of the most high God, which shew unto us the way of salvation.

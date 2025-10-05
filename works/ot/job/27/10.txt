@@ -1,1 +1,0 @@
-Will he delight himself in the Almighty? will he always call upon God?

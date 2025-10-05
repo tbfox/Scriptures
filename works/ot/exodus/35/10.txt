@@ -1,1 +1,0 @@
-And every wise hearted among you shall come, and make all that the LORD hath commanded;

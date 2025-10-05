@@ -1,1 +1,0 @@
-And no man hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven.

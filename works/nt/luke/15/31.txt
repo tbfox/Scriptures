@@ -1,1 +1,0 @@
-And he said unto him, Son, thou art ever with me, and all that I have is thine.

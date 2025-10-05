@@ -1,1 +1,0 @@
-And there came forth a spirit, and stood before the LORD, and said, I will persuade him.

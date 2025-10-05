@@ -1,1 +1,0 @@
-And what he did unto you in the wilderness, until ye came into this place;

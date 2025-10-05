@@ -1,1 +1,0 @@
-By them shall the fowls of the heaven have their habitation, which sing among the branches.

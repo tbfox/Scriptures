@@ -1,1 +1,0 @@
-And Mary Magdalene and Mary the mother of Joses beheld where he was laid.

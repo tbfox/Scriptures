@@ -1,1 +1,0 @@
-Then Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life.

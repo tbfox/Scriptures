@@ -1,1 +1,0 @@
-And he beat down the tower of Penuel, and slew the men of the city.

@@ -1,1 +1,0 @@
-Declare his glory among the heathen; his marvellous works among all nations.

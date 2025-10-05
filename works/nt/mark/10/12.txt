@@ -1,1 +1,0 @@
-And if a woman shall put away her husband, and be married to another, she committeth adultery.

@@ -1,1 +1,0 @@
-And as she was going to fetch it, he called to her, and said, Bring me, I pray thee, a morsel of bread in thine hand.

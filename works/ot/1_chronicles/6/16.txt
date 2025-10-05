@@ -1,1 +1,0 @@
-The sons of Levi; Gershom, Kohath, and Merari.

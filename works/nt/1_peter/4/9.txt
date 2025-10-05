@@ -1,1 +1,0 @@
-Use hospitality one to another without grudging.

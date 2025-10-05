@@ -1,1 +1,0 @@
-And the LORD said, I have pardoned according to thy word:

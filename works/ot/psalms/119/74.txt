@@ -1,1 +1,0 @@
-They that fear thee will be glad when they see me; because I have hoped in thy word.

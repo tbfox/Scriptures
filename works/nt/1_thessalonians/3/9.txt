@@ -1,1 +1,0 @@
-For what thanks can we render to God again for you, for all the joy wherewith we joy for your sakes before our God;

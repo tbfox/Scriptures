@@ -1,1 +1,0 @@
-He shall cry unto me, Thou art my father, my God, and the rock of my salvation.

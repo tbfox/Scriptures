@@ -1,1 +1,0 @@
-God be merciful unto us, and bless us; and cause his face to shine upon us; Selah.

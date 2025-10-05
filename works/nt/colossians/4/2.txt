@@ -1,1 +1,0 @@
-Continue in prayer, and watch in the same with thanksgiving;

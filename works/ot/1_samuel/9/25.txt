@@ -1,1 +1,0 @@
-And when they were come down from the high place into the city, Samuel communed with Saul upon the top of the house.

@@ -1,1 +1,0 @@
-Thus saith the LORD unto me, Go and get thee a linen girdle, and put it upon thy loins, and put it not in water.

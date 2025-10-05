@@ -1,1 +1,0 @@
-Who teacheth us more than the beasts of the earth, and maketh us wiser than the fowls of heaven?

@@ -1,1 +1,0 @@
-And Samuel said, Gather all Israel to Mizpeh, and I will pray for you unto the LORD.

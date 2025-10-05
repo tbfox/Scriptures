@@ -1,1 +1,0 @@
-And he said unto him, If now I have found grace in thy sight, then shew me a sign that thou talkest with me.

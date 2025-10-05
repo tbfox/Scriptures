@@ -1,1 +1,0 @@
-I wrote unto you in an epistle not to company with fornicators:

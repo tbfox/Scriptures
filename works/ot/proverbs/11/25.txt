@@ -1,1 +1,0 @@
-The liberal soul shall be made fat: and he that watereth shall be watered also himself.

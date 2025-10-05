@@ -1,1 +1,0 @@
-But I speak this by permission, and not of commandment.

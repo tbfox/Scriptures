@@ -1,1 +1,0 @@
-And Mahlon and Chilion died also both of them; and the woman was left of her two sons and her husband.

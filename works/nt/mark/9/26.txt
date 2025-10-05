@@ -1,1 +1,0 @@
-And the spirit cried, and rent him sore, and came out of him: and he was as one dead; insomuch that many said, He is dead.

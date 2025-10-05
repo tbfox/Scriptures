@@ -1,1 +1,0 @@
-And God spake unto Noah, saying,

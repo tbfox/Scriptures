@@ -1,1 +1,0 @@
-Wherefore I put thee in remembrance that thou stir up the gift of God, which is in thee by the putting on of my hands.

@@ -1,1 +1,0 @@
-But those mine enemies, which would not that I should reign over them, bring hither, and slay them before me.

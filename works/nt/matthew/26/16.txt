@@ -1,1 +1,0 @@
-And from that time he sought opportunity to betray him.

@@ -1,1 +1,0 @@
-Then shall ye do unto him, as he had thought to have done unto his brother: so shalt thou put the evil away from among you.

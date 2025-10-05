@@ -1,1 +1,0 @@
-Arab, and Dumah, and Eshean,

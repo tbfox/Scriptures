@@ -1,1 +1,0 @@
-Behold now, I have ordered my cause; I know that I shall be justified.

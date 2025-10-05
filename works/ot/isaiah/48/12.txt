@@ -1,1 +1,0 @@
-Hearken unto me, O Jacob and Israel, my called; I am he; I am the first, I also am the last.

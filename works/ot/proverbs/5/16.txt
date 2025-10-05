@@ -1,1 +1,0 @@
-Let thy fountains be dispersed abroad, and rivers of waters in the streets.

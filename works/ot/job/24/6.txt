@@ -1,1 +1,0 @@
-They reap every one his corn in the field: and they gather the vintage of the wicked.

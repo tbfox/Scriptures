@@ -1,1 +1,0 @@
-For nothing is secret, that shall not be made manifest; neither any thing hid, that shall not be known and come abroad.

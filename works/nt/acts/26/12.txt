@@ -1,1 +1,0 @@
-Whereupon as I went to Damascus with authority and commission from the chief priests,

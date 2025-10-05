@@ -1,1 +1,0 @@
-By reason of the multitude of oppressions they make the oppressed to cry: they cry out by reason of the arm of the mighty.

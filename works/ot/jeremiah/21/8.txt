@@ -1,1 +1,0 @@
-And unto this people thou shalt say, Thus saith the LORD; Behold, I set before you the way of life, and the way of death.

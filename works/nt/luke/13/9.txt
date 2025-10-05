@@ -1,1 +1,0 @@
-And if it bear fruit, well: and if not, then after that thou shalt cut it down.

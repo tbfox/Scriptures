@@ -1,1 +1,0 @@
-When the LORD shall build up Zion, he shall appear in his glory.

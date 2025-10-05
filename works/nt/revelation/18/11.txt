@@ -1,1 +1,0 @@
-And the merchants of the earth shall weep and mourn over her; for no man buyeth their merchandise any more:

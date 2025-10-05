@@ -1,1 +1,0 @@
-Then sat Solomon upon the throne of David his father; and his kingdom was established greatly.

@@ -1,1 +1,0 @@
-Luke, the beloved physician, and Demas, greet you.

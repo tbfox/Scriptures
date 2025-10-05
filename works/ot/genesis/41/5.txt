@@ -1,1 +1,0 @@
-And he slept and dreamed the second time: and, behold, seven ears of corn came up upon one stalk, rank and good.

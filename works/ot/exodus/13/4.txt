@@ -1,1 +1,0 @@
-This day came ye out in the month Abib.

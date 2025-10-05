@@ -1,1 +1,0 @@
-And the sons of Gomer; Ashchenaz, and Riphath, and Togarmah.

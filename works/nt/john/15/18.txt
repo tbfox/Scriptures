@@ -1,1 +1,0 @@
-If the world hate you, ye know that it hated me before it hated you.

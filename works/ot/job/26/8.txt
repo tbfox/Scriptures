@@ -1,1 +1,0 @@
-He bindeth up the waters in his thick clouds; and the cloud is not rent under them.

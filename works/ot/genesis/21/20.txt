@@ -1,1 +1,0 @@
-And God was with the lad; and he grew, and dwelt in the wilderness, and became an archer.

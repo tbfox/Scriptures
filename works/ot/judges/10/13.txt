@@ -1,1 +1,0 @@
-Yet ye have forsaken me, and served other gods: wherefore I will deliver you no more.

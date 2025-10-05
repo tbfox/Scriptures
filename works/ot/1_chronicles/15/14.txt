@@ -1,1 +1,0 @@
-So the priests and the Levites sanctified themselves to bring up the ark of the LORD God of Israel.

@@ -1,1 +1,0 @@
-And the sons of Pallu; Eliab.

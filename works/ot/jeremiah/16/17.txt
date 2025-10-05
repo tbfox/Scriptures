@@ -1,1 +1,0 @@
-For mine eyes are upon all their ways: they are not hid from my face, neither is their iniquity hid from mine eyes.

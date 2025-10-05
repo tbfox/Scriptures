@@ -1,1 +1,0 @@
-If we suffer, we shall also reign with him: if we deny him, he also will deny us:

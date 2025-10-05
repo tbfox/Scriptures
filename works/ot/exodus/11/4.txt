@@ -1,1 +1,0 @@
-And Moses said, Thus saith the LORD, About midnight will I go out into the midst of Egypt:

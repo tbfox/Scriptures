@@ -1,1 +1,0 @@
-He shall redeem their soul from deceit and violence: and precious shall their blood be in his sight.

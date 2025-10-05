@@ -1,1 +1,0 @@
-I will heap mischiefs upon them; I will spend mine arrows upon them.

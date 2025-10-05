@@ -1,1 +1,0 @@
-Whose ways are crooked, and they froward in their paths:

@@ -1,1 +1,0 @@
-The stranger that is within thee shall get up above thee very high; and thou shalt come down very low.

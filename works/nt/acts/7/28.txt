@@ -1,1 +1,0 @@
-Wilt thou kill me, as thou diddest the Egyptian yesterday?

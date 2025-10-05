@@ -1,1 +1,0 @@
-Then I returned, and I saw vanity under the sun.

@@ -1,1 +1,0 @@
-And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever.

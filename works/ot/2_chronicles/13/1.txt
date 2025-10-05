@@ -1,1 +1,0 @@
-Now in the eighteenth year of king Jeroboam began Abijah to reign over Judah.

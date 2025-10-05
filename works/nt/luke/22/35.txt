@@ -1,1 +1,0 @@
-And he said unto them, When I sent you without purse, and scrip, and shoes, lacked ye any thing? And they said, Nothing.

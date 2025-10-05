@@ -1,1 +1,0 @@
-Thy throne is established of old: thou art from everlasting.

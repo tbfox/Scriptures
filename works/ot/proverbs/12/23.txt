@@ -1,1 +1,0 @@
-A prudent man concealeth knowledge: but the heart of fools proclaimeth foolishness.

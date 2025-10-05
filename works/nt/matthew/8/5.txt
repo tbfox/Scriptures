@@ -1,1 +1,0 @@
-And when Jesus was entered into Capernaum, there came unto him a centurion, beseeching him,

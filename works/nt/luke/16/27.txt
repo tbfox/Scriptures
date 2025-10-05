@@ -1,1 +1,0 @@
-Then he said, I pray thee therefore, father, that thou wouldest send him to my father's house:

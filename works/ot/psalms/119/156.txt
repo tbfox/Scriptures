@@ -1,1 +1,0 @@
-Great are thy tender mercies, O LORD: quicken me according to thy judgments.

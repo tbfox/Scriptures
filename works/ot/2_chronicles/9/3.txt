@@ -1,1 +1,0 @@
-And when the queen of Sheba had seen the wisdom of Solomon, and the house that he had built,

@@ -1,1 +1,0 @@
-Whereupon are the foundations thereof fastened? or who laid the corner stone thereof;

@@ -1,1 +1,0 @@
-I hate and abhor lying: but thy law do I love.

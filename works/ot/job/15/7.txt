@@ -1,1 +1,0 @@
-Art thou the first man that was born? or wast thou made before the hills?

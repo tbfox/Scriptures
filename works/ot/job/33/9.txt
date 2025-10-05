@@ -1,1 +1,0 @@
-I am clean without transgression, I am innocent; neither is there iniquity in me.

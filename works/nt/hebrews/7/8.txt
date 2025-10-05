@@ -1,1 +1,0 @@
-And here men that die receive tithes; but there he receiveth them, of whom it is witnessed that he liveth.

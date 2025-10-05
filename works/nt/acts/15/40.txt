@@ -1,1 +1,0 @@
-And Paul chose Silas, and departed, being recommended by the brethren unto the grace of God.

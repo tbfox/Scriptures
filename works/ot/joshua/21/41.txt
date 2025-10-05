@@ -1,1 +1,0 @@
-All the cities of the Levites within the possession of the children of Israel were forty and eight cities with their suburbs.

@@ -1,1 +1,0 @@
-And he said, Bring me a new cruse, and put salt therein. And they brought it to him.

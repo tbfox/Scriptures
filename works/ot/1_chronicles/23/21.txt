@@ -1,1 +1,0 @@
-The sons of Merari; Mahli, and Mushi. The sons of Mahli; Eleazar, and Kish.

@@ -1,1 +1,0 @@
-LORD, I have hoped for thy salvation, and done thy commandments.

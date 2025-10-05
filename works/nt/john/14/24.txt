@@ -1,1 +1,0 @@
-He that loveth me not keepeth not my sayings: and the word which ye hear is not mine, but the Father's which sent me.

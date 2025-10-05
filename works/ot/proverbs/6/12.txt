@@ -1,1 +1,0 @@
-A naughty person, a wicked man, walketh with a froward mouth.

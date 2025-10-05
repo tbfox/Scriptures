@@ -1,1 +1,0 @@
-And whosoever of you will be the chiefest, shall be servant of all.

@@ -1,1 +1,0 @@
-And Peter followed him afar off, even into the palace of the high priest: and he sat with the servants, and warmed himself at the fire.

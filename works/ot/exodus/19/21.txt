@@ -1,1 +1,0 @@
-And the LORD said unto Moses, Go down, charge the people, lest they break through unto the LORD to gaze, and many of them perish.

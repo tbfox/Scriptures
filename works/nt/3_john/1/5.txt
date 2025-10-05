@@ -1,1 +1,0 @@
-Beloved, thou doest faithfully whatsoever thou doest to the brethren, and to strangers;

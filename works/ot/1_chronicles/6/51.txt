@@ -1,1 +1,0 @@
-Bukki his son, Uzzi his son, Zerahiah his son,

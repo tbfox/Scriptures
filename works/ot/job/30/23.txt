@@ -1,1 +1,0 @@
-For I know that thou wilt bring me to death, and to the house appointed for all living.

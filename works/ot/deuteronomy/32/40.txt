@@ -1,1 +1,0 @@
-For I lift up my hand to heaven, and say, I live for ever.

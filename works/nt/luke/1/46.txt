@@ -1,1 +1,0 @@
-And Mary said, My soul doth magnify the Lord,

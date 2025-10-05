@@ -1,1 +1,0 @@
-And they said, Lord, behold, here are two swords. And he said unto them, It is enough.

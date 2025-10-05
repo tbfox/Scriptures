@@ -1,1 +1,0 @@
-Then said Thomas, which is called Didymus, unto his fellowdisciples, Let us also go, that we may die with him.

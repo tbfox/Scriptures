@@ -1,1 +1,0 @@
-So is he that layeth up treasure for himself, and is not rich toward God.

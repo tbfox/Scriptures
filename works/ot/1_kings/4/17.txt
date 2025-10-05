@@ -1,1 +1,0 @@
-Jehoshaphat the son of Paruah, in Issachar:

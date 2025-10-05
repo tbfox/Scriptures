@@ -1,1 +1,0 @@
-If he destroy him from his place, then it shall deny him, saying, I have not seen thee.

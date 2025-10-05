@@ -1,1 +1,0 @@
-And the remnant that is escaped of the house of Judah shall yet again take root downward, and bear fruit upward.

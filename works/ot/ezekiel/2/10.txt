@@ -1,1 +1,0 @@
-And he spread it before me; and it was written within and without: and there was written therein lamentations, and mourning, and woe.

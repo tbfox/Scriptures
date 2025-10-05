@@ -1,1 +1,0 @@
-Therefore thus saith the LORD of hosts; Because ye have not heard my words,

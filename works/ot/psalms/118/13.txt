@@ -1,1 +1,0 @@
-Thou hast thrust sore at me that I might fall: but the LORD helped me.

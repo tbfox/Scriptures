@@ -1,1 +1,0 @@
-And Shallum the son of Jabesh conspired against him, and smote him before the people, and slew him, and reigned in his stead.

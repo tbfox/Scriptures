@@ -1,1 +1,0 @@
-And the standard of the camp of the children of Ephraim set forward according to their armies: and over his host was Elishama the son of Ammihud.

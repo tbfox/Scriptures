@@ -1,1 +1,0 @@
-And in the most holy house he made two cherubims of image work, and overlaid them with gold.

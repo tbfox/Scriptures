@@ -1,1 +1,0 @@
-And why call ye me, Lord, Lord, and do not the things which I say?

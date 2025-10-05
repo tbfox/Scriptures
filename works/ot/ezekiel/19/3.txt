@@ -1,1 +1,0 @@
-And she brought up one of her whelps: it became a young lion, and it learned to catch the prey; it devoured men.

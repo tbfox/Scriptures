@@ -1,1 +1,0 @@
-Thou lovest all devouring words, O thou deceitful tongue.

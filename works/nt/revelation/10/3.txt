@@ -1,1 +1,0 @@
-And cried with a loud voice, as when a lion roareth: and when he had cried, seven thunders uttered their voices.

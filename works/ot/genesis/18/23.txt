@@ -1,1 +1,0 @@
-And Abraham drew near, and said, Wilt thou also destroy the righteous with the wicked?

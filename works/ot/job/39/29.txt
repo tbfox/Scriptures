@@ -1,1 +1,0 @@
-From thence she seeketh the prey, and her eyes behold afar off.

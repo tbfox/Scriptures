@@ -1,1 +1,0 @@
-And Joshua made him sharp knives, and circumcised the children of Israel at the hill of the foreskins.

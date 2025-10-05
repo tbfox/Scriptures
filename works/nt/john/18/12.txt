@@ -1,1 +1,0 @@
-Then the band and the captain and officers of the Jews took Jesus, and bound him,

@@ -1,1 +1,0 @@
-Neither shalt thou countenance a poor man in his cause.

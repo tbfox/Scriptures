@@ -1,1 +1,0 @@
-But ye shall be named the Priests of the LORD: men shall call you the Ministers of our God: ye shall eat the riches of the Gentiles, and in their glory shall ye boast yourselves.

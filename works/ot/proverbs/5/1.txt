@@ -1,1 +1,0 @@
-My son, attend unto my wisdom, and bow thine ear to my understanding:

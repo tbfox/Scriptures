@@ -1,1 +1,0 @@
-And he made the ephod of gold, blue, and purple, and scarlet, and fine twined linen.

@@ -1,1 +1,0 @@
-Who verily was foreordained before the foundation of the world, but was manifest in these last times for you,

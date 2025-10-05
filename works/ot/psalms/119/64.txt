@@ -1,1 +1,0 @@
-The earth, O LORD, is full of thy mercy: teach me thy statutes.

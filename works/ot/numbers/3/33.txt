@@ -1,1 +1,0 @@
-Of Merari was the family of the Mahlites, and the family of the Mushites: these are the families of Merari.

@@ -1,1 +1,0 @@
-And they which were sent were of the Pharisees.

@@ -1,1 +1,0 @@
-Simon the Canaanite, and Judas Iscariot, who also betrayed him.

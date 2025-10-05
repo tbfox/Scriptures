@@ -1,1 +1,0 @@
-Whatsoever soul it be that eateth any manner of blood, even that soul shall be cut off from his people.

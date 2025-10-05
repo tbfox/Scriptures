@@ -1,1 +1,0 @@
-And I said, Who art thou, Lord? And he said, I am Jesus whom thou persecutest.

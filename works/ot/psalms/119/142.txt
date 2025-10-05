@@ -1,1 +1,0 @@
-Thy righteousness is an everlasting righteousness, and thy law is the truth.

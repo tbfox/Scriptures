@@ -1,1 +1,0 @@
-Therefore will I cause you to go into captivity beyond Damascus, saith the LORD, whose name is The God of hosts.

@@ -1,1 +1,0 @@
-I have inclined mine heart to perform thy statutes alway, even unto the end.

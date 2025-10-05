@@ -1,1 +1,0 @@
-Then said Solomon, The LORD hath said that he would dwell in the thick darkness.

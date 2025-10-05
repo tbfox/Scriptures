@@ -1,1 +1,0 @@
-Pull me out of the net that they have laid privily for me: for thou art my strength.

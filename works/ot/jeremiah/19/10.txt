@@ -1,1 +1,0 @@
-Then shalt thou break the bottle in the sight of the men that go with thee,

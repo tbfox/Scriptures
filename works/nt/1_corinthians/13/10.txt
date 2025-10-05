@@ -1,1 +1,0 @@
-But when that which is perfect is come, then that which is in part shall be done away.

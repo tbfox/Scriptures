@@ -1,1 +1,0 @@
-And let him that is on the housetop not go down into the house, neither enter therein, to take any thing out of his house:

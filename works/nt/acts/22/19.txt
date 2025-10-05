@@ -1,1 +1,0 @@
-And I said, Lord, they know that I imprisoned and beat in every synagogue them that believed on thee:

@@ -1,1 +1,0 @@
-He appointed the moon for seasons: the sun knoweth his going down.

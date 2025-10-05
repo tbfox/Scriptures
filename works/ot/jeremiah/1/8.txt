@@ -1,1 +1,0 @@
-Be not afraid of their faces: for I am with thee to deliver thee, saith the LORD.

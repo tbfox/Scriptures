@@ -1,1 +1,0 @@
-Thou art become cruel to me: with thy strong hand thou opposest thyself against me.

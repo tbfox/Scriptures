@@ -1,1 +1,0 @@
-And Moses said, Hereby ye shall know that the LORD hath sent me to do all these works; for I have not done them of mine own mind.

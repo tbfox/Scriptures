@@ -1,1 +1,0 @@
-Take ye heed, watch and pray: for ye know not when the time is.

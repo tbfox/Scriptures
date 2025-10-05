@@ -1,1 +1,0 @@
-Therefore loosing from Troas, we came with a straight course to Samothracia, and the next day to Neapolis;

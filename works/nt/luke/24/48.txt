@@ -1,1 +1,0 @@
-And ye are witnesses of these things.

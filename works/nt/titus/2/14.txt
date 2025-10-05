@@ -1,1 +1,0 @@
-Who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, zealous of good works.

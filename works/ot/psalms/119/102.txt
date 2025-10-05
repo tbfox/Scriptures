@@ -1,1 +1,0 @@
-I have not departed from thy judgments: for thou hast taught me.

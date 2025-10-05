@@ -1,1 +1,0 @@
-And when he was departed thence, he went into their synagogue:

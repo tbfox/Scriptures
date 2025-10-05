@@ -1,1 +1,0 @@
-And he said unto them, Why are ye troubled? and why do thoughts arise in your hearts?

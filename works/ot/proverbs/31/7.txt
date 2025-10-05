@@ -1,1 +1,0 @@
-Let him drink, and forget his poverty, and remember his misery no more.

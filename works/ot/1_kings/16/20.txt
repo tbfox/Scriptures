@@ -1,1 +1,0 @@
-Now the rest of the acts of Zimri, and his treason that he wrought, are they not written in the book of the chronicles of the kings of Israel?

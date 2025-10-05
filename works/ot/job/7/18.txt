@@ -1,1 +1,0 @@
-And that thou shouldest visit him every morning, and try him every moment?

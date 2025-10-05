@@ -1,1 +1,0 @@
-Professing themselves to be wise, they became fools,

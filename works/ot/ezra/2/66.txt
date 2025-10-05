@@ -1,1 +1,0 @@
-Their horses were seven hundred thirty and six; their mules, two hundred forty and five;

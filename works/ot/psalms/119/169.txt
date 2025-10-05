@@ -1,1 +1,0 @@
-Let my cry come near before thee, O LORD: give me understanding according to thy word.

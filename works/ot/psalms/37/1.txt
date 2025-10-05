@@ -1,1 +1,0 @@
-Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity.

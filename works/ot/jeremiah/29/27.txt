@@ -1,1 +1,0 @@
-Now therefore why hast thou not reproved Jeremiah of Anathoth, which maketh himself a prophet to you?

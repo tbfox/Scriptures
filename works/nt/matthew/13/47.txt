@@ -1,1 +1,0 @@
-Again, the kingdom of heaven is like unto a net, that was cast into the sea, and gathered of every kind:

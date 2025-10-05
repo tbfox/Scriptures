@@ -1,1 +1,0 @@
-Because God hath deprived her of wisdom, neither hath he imparted to her understanding.

@@ -1,1 +1,0 @@
-And they said, Some say that thou art John the Baptist: some, Elias; and others, Jeremias, or one of the prophets.

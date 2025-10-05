@@ -1,1 +1,0 @@
-He hath also prepared for him the instruments of death; he ordaineth his arrows against the persecutors.

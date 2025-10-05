@@ -1,1 +1,0 @@
-I form the light, and create darkness: I make peace, and create evil: I the LORD do all these things.

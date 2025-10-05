@@ -1,1 +1,0 @@
-The king's heart is in the hand of the LORD, as the rivers of water: he turneth it whithersoever he will.

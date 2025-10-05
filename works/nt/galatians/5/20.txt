@@ -1,1 +1,0 @@
-Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,

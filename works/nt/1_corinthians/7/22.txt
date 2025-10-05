@@ -1,1 +1,0 @@
-For he that is called in the Lord, being a servant, is the Lord's freeman: likewise also he that is called, being free, is Christ's servant.

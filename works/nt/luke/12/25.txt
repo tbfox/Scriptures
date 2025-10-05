@@ -1,1 +1,0 @@
-And which of you with taking thought can add to his stature one cubit?

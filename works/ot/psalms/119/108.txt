@@ -1,1 +1,0 @@
-Accept, I beseech thee, the freewill offerings of my mouth, O LORD, and teach me thy judgments.

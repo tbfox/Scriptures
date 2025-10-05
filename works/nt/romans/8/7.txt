@@ -1,1 +1,0 @@
-Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be.

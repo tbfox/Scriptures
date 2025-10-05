@@ -1,1 +1,0 @@
-Howbeit I will not rend away all the kingdom; but will give one tribe to thy son for David my servant's sake, and for Jerusalem's sake which I have chosen.

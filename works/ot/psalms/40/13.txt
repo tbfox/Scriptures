@@ -1,1 +1,0 @@
-Be pleased, O LORD, to deliver me: O LORD, make haste to help me.

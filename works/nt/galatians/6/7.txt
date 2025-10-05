@@ -1,1 +1,0 @@
-Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.

@@ -1,1 +1,0 @@
-And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me.

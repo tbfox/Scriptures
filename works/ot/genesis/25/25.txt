@@ -1,1 +1,0 @@
-And the first came out red, all over like an hairy garment; and they called his name Esau.

@@ -1,1 +1,0 @@
-Lest coming suddenly he find you sleeping.

@@ -1,1 +1,0 @@
-And their border was Helkath, and Hali, and Beten, and Achshaph,

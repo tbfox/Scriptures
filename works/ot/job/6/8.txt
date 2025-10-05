@@ -1,1 +1,0 @@
-Oh that I might have my request; and that God would grant me the thing that I long for!

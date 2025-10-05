@@ -1,1 +1,0 @@
-When Jesus understood it, he said unto them, Why trouble ye the woman? for she hath wrought a good work upon me.

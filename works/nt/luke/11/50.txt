@@ -1,1 +1,0 @@
-That the blood of all the prophets, which was shed from the foundation of the world, may be required of this generation;

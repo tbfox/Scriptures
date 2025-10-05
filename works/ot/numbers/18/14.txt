@@ -1,1 +1,0 @@
-Every thing devoted in Israel shall be thine.

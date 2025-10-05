@@ -1,1 +1,0 @@
-And they said, What need we any further witness? for we ourselves have heard of his own mouth.

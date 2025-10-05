@@ -1,1 +1,0 @@
-Which were a grief of mind unto Isaac and to Rebekah.

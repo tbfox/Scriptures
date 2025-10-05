@@ -1,1 +1,0 @@
-And fell down on his face at his feet, giving him thanks: and he was a Samaritan.

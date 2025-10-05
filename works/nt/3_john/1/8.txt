@@ -1,1 +1,0 @@
-We therefore ought to receive such, that we might be fellowhelpers to the truth.

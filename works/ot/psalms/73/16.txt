@@ -1,1 +1,0 @@
-When I thought to know this, it was too painful for me;

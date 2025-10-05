@@ -1,1 +1,0 @@
-And there came out against them Zerah the Ethiopian with an host of a thousand thousand, and three hundred chariots; and came unto Mareshah.

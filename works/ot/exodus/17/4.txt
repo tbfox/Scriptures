@@ -1,1 +1,0 @@
-And Moses cried unto the LORD, saying, What shall I do unto this people? they be almost ready to stone me.

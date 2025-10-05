@@ -1,1 +1,0 @@
-Order my steps in thy word: and let not any iniquity have dominion over me.

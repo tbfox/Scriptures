@@ -1,1 +1,0 @@
-And if ye be Christ's, then are ye Abraham's seed, and heirs according to the promise.

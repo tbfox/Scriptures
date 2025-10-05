@@ -1,1 +1,0 @@
-Azmaveth the Baharumite, Eliahba the Shaalbonite,

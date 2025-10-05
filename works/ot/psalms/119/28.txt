@@ -1,1 +1,0 @@
-My soul melteth for heaviness: strengthen thou me according unto thy word.

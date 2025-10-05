@@ -1,1 +1,0 @@
-And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you in the last days.

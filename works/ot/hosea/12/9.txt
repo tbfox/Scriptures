@@ -1,1 +1,0 @@
-And I that am the LORD thy God from the land of Egypt will yet make thee to dwell in tabernacles, as in the days of the solemn feast.

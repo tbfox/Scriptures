@@ -1,1 +1,0 @@
-If I have withheld the poor from their desire, or have caused the eyes of the widow to fail;

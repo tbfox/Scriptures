@@ -1,1 +1,0 @@
-And consulted that they might take Jesus by subtilty, and kill him.

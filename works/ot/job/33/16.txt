@@ -1,1 +1,0 @@
-Then he openeth the ears of men, and sealeth their instruction,

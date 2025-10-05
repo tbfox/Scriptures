@@ -1,1 +1,0 @@
-And they returned from searching of the land after forty days.

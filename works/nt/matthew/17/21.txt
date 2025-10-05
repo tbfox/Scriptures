@@ -1,1 +1,0 @@
-Howbeit this kind goeth not out but by prayer and fasting.

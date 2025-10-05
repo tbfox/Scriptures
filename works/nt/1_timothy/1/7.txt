@@ -1,1 +1,0 @@
-Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm.

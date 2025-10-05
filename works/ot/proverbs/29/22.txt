@@ -1,1 +1,0 @@
-An angry man stirreth up strife, and a furious man aboundeth in transgression.

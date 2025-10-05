@@ -1,1 +1,0 @@
-And the priests, Aaron's sons, shall lay the parts, the head, and the fat, in order upon the wood that is on the fire which is upon the altar:

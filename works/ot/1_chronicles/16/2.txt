@@ -1,1 +1,0 @@
-And when David had made an end of offering the burnt offerings and the peace offerings, he blessed the people in the name of the LORD.

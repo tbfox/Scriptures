@@ -1,1 +1,0 @@
-Wherefore? because I love you not? God knoweth.

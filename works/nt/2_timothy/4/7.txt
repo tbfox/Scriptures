@@ -1,1 +1,0 @@
-I have fought a good fight, I have finished my course, I have kept the faith:

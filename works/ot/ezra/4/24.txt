@@ -1,1 +1,0 @@
-Then ceased the work of the house of God which is at Jerusalem. So it ceased unto the second year of the reign of Darius king of Persia.

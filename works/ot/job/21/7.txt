@@ -1,1 +1,0 @@
-Wherefore do the wicked live, become old, yea, are mighty in power?

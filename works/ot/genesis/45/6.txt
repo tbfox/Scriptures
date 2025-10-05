@@ -1,1 +1,0 @@
-For these two years hath the famine been in the land: and yet there are five years, in the which there shall neither be earing nor harvest.

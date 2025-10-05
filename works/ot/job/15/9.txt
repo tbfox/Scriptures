@@ -1,1 +1,0 @@
-What knowest thou, that we know not? what understandest thou, which is not in us?

@@ -1,1 +1,0 @@
-And it came to pass at that time, when Eli was laid down in his place, and his eyes began to wax dim, that he could not see;

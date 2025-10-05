@@ -1,1 +1,0 @@
-One law and one manner shall be for you, and for the stranger that sojourneth with you.

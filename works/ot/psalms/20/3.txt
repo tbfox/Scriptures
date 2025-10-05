@@ -1,1 +1,0 @@
-Remember all thy offerings, and accept thy burnt sacrifice; Selah.

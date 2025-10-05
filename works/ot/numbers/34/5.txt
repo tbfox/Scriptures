@@ -1,1 +1,0 @@
-And the border shall fetch a compass from Azmon unto the river of Egypt, and the goings out of it shall be at the sea.

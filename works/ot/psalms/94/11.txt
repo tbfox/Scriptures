@@ -1,1 +1,0 @@
-The LORD knoweth the thoughts of man, that they are vanity.

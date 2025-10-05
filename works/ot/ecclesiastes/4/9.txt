@@ -1,1 +1,0 @@
-Two are better than one; because they have a good reward for their labour.

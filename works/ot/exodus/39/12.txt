@@ -1,1 +1,0 @@
-And the third row, a ligure, an agate, and an amethyst.

@@ -1,1 +1,0 @@
-And we declare unto you glad tidings, how that the promise which was made unto the fathers,

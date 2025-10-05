@@ -1,1 +1,0 @@
-To preach the acceptable year of the Lord.

@@ -1,1 +1,0 @@
-Deliver me, O my God, out of the hand of the wicked, out of the hand of the unrighteous and cruel man.

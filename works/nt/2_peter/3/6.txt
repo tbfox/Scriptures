@@ -1,1 +1,0 @@
-Whereby the world that then was, being overflowed with water, perished:

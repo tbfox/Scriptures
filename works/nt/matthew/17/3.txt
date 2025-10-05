@@ -1,1 +1,0 @@
-And, behold, there appeared unto them Moses and Elias talking with him.

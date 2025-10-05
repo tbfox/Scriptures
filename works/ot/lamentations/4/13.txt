@@ -1,1 +1,0 @@
-For the sins of her prophets, and the iniquities of her priests, that have shed the blood of the just in the midst of her,

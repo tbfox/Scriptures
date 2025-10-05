@@ -1,1 +1,0 @@
-And the multitude said, This is Jesus the prophet of Nazareth of Galilee.

@@ -1,1 +1,0 @@
-Nevertheless I must walk to day, and to morrow, and the day following: for it cannot be that a prophet perish out of Jerusalem.

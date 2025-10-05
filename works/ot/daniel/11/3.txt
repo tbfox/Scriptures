@@ -1,1 +1,0 @@
-And a mighty king shall stand up, that shall rule with great dominion, and do according to his will.

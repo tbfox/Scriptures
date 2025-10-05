@@ -1,1 +1,0 @@
-Nevertheless he regarded their affliction, when he heard their cry:

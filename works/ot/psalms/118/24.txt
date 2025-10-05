@@ -1,1 +1,0 @@
-This is the day which the LORD hath made; we will rejoice and be glad in it.

@@ -1,1 +1,0 @@
-And when they saw him, they worshipped him: but some doubted.

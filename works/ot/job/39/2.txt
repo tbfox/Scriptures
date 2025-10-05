@@ -1,1 +1,0 @@
-Canst thou number the months that they fulfil? or knowest thou the time when they bring forth?

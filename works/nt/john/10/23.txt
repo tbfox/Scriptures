@@ -1,1 +1,0 @@
-And Jesus walked in the temple in Solomon's porch.

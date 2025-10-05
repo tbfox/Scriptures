@@ -1,1 +1,0 @@
-Then Martha, as soon as she heard that Jesus was coming, went and met him: but Mary sat still in the house.

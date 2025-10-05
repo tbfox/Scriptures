@@ -1,1 +1,0 @@
-Wherefore, my dearly beloved, flee from idolatry.

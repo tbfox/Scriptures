@@ -1,1 +1,0 @@
-But godliness with contentment is great gain.

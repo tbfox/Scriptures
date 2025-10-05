@@ -1,1 +1,0 @@
-If I laughed on them, they believed it not; and the light of my countenance they cast not down.

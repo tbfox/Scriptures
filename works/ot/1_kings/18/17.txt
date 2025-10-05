@@ -1,1 +1,0 @@
-And it came to pass, when Ahab saw Elijah, that Ahab said unto him, Art thou he that troubleth Israel?

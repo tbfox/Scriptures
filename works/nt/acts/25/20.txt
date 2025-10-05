@@ -1,1 +1,0 @@
-And because I doubted of such manner of questions, I asked him whether he would go to Jerusalem, and there be judged of these matters.

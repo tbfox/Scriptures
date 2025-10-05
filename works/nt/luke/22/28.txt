@@ -1,1 +1,0 @@
-Ye are they which have continued with me in my temptations.

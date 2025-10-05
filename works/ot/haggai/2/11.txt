@@ -1,1 +1,0 @@
-Thus saith the LORD of hosts; Ask now the priests concerning the law, saying,

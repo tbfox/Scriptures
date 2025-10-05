@@ -1,1 +1,0 @@
-Thus hath the Lord dealt with me in the days wherein he looked on me, to take away my reproach among men.

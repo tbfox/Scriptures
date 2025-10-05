@@ -1,1 +1,0 @@
-My people, go ye out of the midst of her, and deliver ye every man his soul from the fierce anger of the LORD.

@@ -1,1 +1,0 @@
-Zalmon the Ahohite, Maharai the Netophathite,

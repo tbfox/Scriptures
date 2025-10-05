@@ -1,1 +1,0 @@
-Delivering thee from the people, and from the Gentiles, unto whom now I send thee,

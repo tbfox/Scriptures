@@ -1,1 +1,0 @@
-I made me gardens and orchards, and I planted trees in them of all kind of fruits:

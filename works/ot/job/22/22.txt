@@ -1,1 +1,0 @@
-Receive, I pray thee, the law from his mouth, and lay up his words in thine heart.

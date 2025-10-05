@@ -1,1 +1,0 @@
-For they have devoured Jacob, and laid waste his dwelling place.

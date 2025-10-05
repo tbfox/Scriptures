@@ -1,1 +1,0 @@
-For ye suffer fools gladly, seeing ye yourselves are wise.

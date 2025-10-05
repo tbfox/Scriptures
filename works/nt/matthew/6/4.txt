@@ -1,1 +1,0 @@
-That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly.

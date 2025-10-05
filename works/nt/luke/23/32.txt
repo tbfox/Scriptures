@@ -1,1 +1,0 @@
-And there were also two other, malefactors, led with him to be put to death.

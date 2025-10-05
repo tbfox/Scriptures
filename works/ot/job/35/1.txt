@@ -1,1 +1,0 @@
-Elihu spake moreover, and said,

@@ -1,1 +1,0 @@
-I hate vain thoughts: but thy law do I love.

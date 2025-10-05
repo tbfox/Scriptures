@@ -1,1 +1,0 @@
-For thus saith the LORD of hosts; As I thought to punish you, when your fathers provoked me to wrath, saith the LORD of hosts, and I repented not:

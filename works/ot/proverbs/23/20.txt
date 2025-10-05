@@ -1,1 +1,0 @@
-Be not among winebibbers; among riotous eaters of flesh:

@@ -1,1 +1,0 @@
-Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken:

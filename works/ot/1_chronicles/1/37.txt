@@ -1,1 +1,0 @@
-The sons of Reuel; Nahath, Zerah, Shammah, and Mizzah.

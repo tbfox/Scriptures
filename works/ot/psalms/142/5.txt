@@ -1,1 +1,0 @@
-I cried unto thee, O LORD: I said, Thou art my refuge and my portion in the land of the living.

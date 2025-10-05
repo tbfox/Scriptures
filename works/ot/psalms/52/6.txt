@@ -1,1 +1,0 @@
-The righteous also shall see, and fear, and shall laugh at him:

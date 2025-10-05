@@ -1,1 +1,0 @@
-An inheritance may be gotten hastily at the beginning; but the end thereof shall not be blessed.

@@ -1,1 +1,0 @@
-A false witness shall perish: but the man that heareth speaketh constantly.

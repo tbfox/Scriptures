@@ -1,1 +1,0 @@
-I will abide in thy tabernacle for ever: I will trust in the covert of thy wings. Selah.

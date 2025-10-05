@@ -1,1 +1,0 @@
-Shammah the Hararite, Ahiam the son of Sharar the Hararite,

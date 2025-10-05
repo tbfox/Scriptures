@@ -1,1 +1,0 @@
-And they answered and said unto him, Where, Lord? And he said unto them, Wheresoever the body is, thither will the eagles be gathered together.

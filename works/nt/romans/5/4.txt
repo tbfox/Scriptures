@@ -1,1 +1,0 @@
-And patience, experience; and experience, hope:

@@ -1,1 +1,0 @@
-If I have made gold my hope, or have said to the fine gold, Thou art my confidence;

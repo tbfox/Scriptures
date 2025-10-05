@@ -1,1 +1,0 @@
-Doth not wisdom cry? and understanding put forth her voice?

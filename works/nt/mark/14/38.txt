@@ -1,1 +1,0 @@
-Watch ye and pray, lest ye enter into temptation. The spirit truly is ready, but the flesh is weak.

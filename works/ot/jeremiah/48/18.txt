@@ -1,1 +1,0 @@
-Thou daughter that dost inhabit Dibon, come down from thy glory, and sit in thirst; for the spoiler of Moab shall come upon thee, and he shall destroy thy strong holds.

@@ -1,1 +1,0 @@
-And thou shalt give the Levites unto Aaron and to his sons: they are wholly given unto him out of the children of Israel.

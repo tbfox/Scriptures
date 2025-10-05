@@ -1,1 +1,0 @@
-Then he said unto him, Come home with me, and eat bread.

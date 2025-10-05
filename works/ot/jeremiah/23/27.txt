@@ -1,1 +1,0 @@
-Which think to cause my people to forget my name by their dreams which they tell every man to his neighbour, as their fathers have forgotten my name for Baal.

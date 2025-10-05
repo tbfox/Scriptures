@@ -1,1 +1,0 @@
-And Cain said unto the LORD, My punishment is greater than I can bear.

@@ -1,1 +1,0 @@
-At the end of three years thou shalt bring forth all the tithe of thine increase the same year, and shalt lay it up within thy gates:

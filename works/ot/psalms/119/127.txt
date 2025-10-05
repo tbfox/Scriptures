@@ -1,1 +1,0 @@
-Therefore I love thy commandments above gold; yea, above fine gold.

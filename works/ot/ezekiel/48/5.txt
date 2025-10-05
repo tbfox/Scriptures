@@ -1,1 +1,0 @@
-And by the border of Manasseh, from the east side unto the west side, a portion for Ephraim.

@@ -1,1 +1,0 @@
-For our exhortation was not of deceit, nor of uncleanness, nor in guile:

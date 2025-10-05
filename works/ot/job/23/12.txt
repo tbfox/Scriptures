@@ -1,1 +1,0 @@
-Neither have I gone back from the commandment of his lips; I have esteemed the words of his mouth more than my necessary food.

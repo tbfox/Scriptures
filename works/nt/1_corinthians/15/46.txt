@@ -1,1 +1,0 @@
-Howbeit that was not first which is spiritual, but that which is natural; and afterward that which is spiritual.

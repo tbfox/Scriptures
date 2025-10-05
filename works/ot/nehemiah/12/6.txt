@@ -1,1 +1,0 @@
-Shemaiah, and Joiarib, Jedaiah,

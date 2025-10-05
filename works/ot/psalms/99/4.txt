@@ -1,1 +1,0 @@
-The king's strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob.

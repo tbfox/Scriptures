@@ -1,1 +1,0 @@
-For the kingdom is the LORD's: and he is the governor among the nations.

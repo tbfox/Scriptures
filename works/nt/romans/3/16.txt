@@ -1,1 +1,0 @@
-Destruction and misery are in their ways:

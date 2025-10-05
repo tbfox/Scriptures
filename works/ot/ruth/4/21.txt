@@ -1,1 +1,0 @@
-And Salmon begat Boaz, and Boaz begat Obed,

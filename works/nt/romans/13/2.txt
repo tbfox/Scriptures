@@ -1,1 +1,0 @@
-Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation.

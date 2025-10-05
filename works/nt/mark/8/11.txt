@@ -1,1 +1,0 @@
-And the Pharisees came forth, and began to question with him, seeking of him a sign from heaven, tempting him.

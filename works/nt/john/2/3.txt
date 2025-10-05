@@ -1,1 +1,0 @@
-And when they wanted wine, the mother of Jesus saith unto him, They have no wine.

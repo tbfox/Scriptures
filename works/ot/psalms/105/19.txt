@@ -1,1 +1,0 @@
-Until the time that his word came: the word of the LORD tried him.

@@ -1,1 +1,0 @@
-My soul is continually in my hand: yet do I not forget thy law.

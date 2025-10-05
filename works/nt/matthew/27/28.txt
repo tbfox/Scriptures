@@ -1,1 +1,0 @@
-And they stripped him, and put on him a scarlet robe.

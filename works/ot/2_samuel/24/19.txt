@@ -1,1 +1,0 @@
-And David, according to the saying of Gad, went up as the LORD commanded.

@@ -1,1 +1,0 @@
-He answered them, I have told you already, and ye did not hear: wherefore would ye hear it again? will ye also be his disciples?

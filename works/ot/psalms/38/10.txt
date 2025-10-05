@@ -1,1 +1,0 @@
-My heart panteth, my strength faileth me: as for the light of mine eyes, it also is gone from me.

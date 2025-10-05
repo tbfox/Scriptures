@@ -1,1 +1,0 @@
-The wind hath bound her up in her wings, and they shall be ashamed because of their sacrifices.

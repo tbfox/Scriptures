@@ -1,1 +1,0 @@
-For all the prophets and the law prophesied until John.

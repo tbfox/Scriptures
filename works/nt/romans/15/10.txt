@@ -1,1 +1,0 @@
-And again he saith, Rejoice, ye Gentiles, with his people.

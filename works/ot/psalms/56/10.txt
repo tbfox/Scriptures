@@ -1,1 +1,0 @@
-In God will I praise his word: in the LORD will I praise his word.

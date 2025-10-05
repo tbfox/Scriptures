@@ -1,1 +1,0 @@
-But as for me, I will come into thy house in the multitude of thy mercy: and in thy fear will I worship toward thy holy temple.

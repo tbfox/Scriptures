@@ -1,1 +1,0 @@
-Only in the land of Goshen, where the children of Israel were, was there no hail.

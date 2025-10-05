@@ -1,1 +1,0 @@
-Then Jeremiah the prophet spake all these words unto Zedekiah king of Judah in Jerusalem,

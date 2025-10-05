@@ -1,1 +1,0 @@
-Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves?

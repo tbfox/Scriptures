@@ -1,1 +1,0 @@
-I have done judgment and justice: leave me not to mine oppressors.

@@ -1,1 +1,0 @@
-Thou therefore endure hardness, as a good soldier of Jesus Christ.

@@ -1,1 +1,0 @@
-His breasts are full of milk, and his bones are moistened with marrow.

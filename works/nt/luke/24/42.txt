@@ -1,1 +1,0 @@
-And they gave him a piece of a broiled fish, and of an honeycomb.

@@ -1,1 +1,0 @@
-And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him.

@@ -1,1 +1,0 @@
-And the seventy returned again with joy, saying, Lord, even the devils are subject unto us through thy name.

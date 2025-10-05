@@ -1,1 +1,0 @@
-My son, if sinners entice thee, consent thou not.

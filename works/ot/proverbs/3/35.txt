@@ -1,1 +1,0 @@
-The wise shall inherit glory: but shame shall be the promotion of fools.

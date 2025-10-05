@@ -1,1 +1,0 @@
-Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy.

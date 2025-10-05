@@ -1,1 +1,0 @@
-Every man praying or prophesying, having his head covered, dishonoureth his head.

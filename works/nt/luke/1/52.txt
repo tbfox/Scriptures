@@ -1,1 +1,0 @@
-He hath put down the mighty from their seats, and exalted them of low degree.

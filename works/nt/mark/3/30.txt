@@ -1,1 +1,0 @@
-Because they said, He hath an unclean spirit.

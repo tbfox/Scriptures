@@ -1,1 +1,0 @@
-But if any man love God, the same is known of him.

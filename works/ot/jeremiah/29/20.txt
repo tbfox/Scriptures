@@ -1,1 +1,0 @@
-Hear ye therefore the word of the LORD, all ye of the captivity, whom I have sent from Jerusalem to Babylon:

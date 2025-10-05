@@ -1,1 +1,0 @@
-And let the priests also, which come near to the LORD, sanctify themselves, lest the LORD break forth upon them.

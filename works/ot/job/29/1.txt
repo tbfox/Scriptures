@@ -1,1 +1,0 @@
-Moreover Job continued his parable, and said,

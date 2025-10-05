@@ -1,1 +1,0 @@
-And Jesus answered and said unto her, Martha, Martha, thou art careful and troubled about many things:

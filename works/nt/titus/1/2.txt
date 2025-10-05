@@ -1,1 +1,0 @@
-In hope of eternal life, which God, that cannot lie, promised before the world began;

@@ -1,1 +1,0 @@
-And the thing was good in the eyes of Pharaoh, and in the eyes of all his servants.

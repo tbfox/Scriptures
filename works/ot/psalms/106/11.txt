@@ -1,1 +1,0 @@
-And the waters covered their enemies: there was not one of them left.

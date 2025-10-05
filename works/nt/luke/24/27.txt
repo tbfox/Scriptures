@@ -1,1 +1,0 @@
-And beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself.

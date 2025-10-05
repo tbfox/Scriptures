@@ -1,1 +1,0 @@
-So Hatach went forth to Mordecai unto the street of the city, which was before the king's gate.

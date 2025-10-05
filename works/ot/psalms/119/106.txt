@@ -1,1 +1,0 @@
-I have sworn, and I will perform it, that I will keep thy righteous judgments.

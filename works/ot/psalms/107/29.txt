@@ -1,1 +1,0 @@
-He maketh the storm a calm, so that the waves thereof are still.

@@ -1,1 +1,0 @@
-He shall return no more to his house, neither shall his place know him any more.

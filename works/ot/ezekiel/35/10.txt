@@ -1,1 +1,0 @@
-Because thou hast said, These two nations and these two countries shall be mine, and we will possess it; whereas the LORD was there:

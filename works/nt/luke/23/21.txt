@@ -1,1 +1,0 @@
-But they cried, saying, Crucify him, crucify him.

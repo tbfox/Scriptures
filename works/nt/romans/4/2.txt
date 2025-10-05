@@ -1,1 +1,0 @@
-For if Abraham were justified by works, he hath whereof to glory; but not before God.

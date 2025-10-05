@@ -1,1 +1,0 @@
-For if our heart condemn us, God is greater than our heart, and knoweth all things.

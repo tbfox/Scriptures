@@ -1,1 +1,0 @@
-Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Christ.

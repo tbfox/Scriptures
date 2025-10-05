@@ -1,1 +1,0 @@
-I have spread out my hands all the day unto a rebellious people, which walketh in a way that was not good, after their own thoughts;

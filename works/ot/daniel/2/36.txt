@@ -1,1 +1,0 @@
-This is the dream; and we will tell the interpretation thereof before the king.

@@ -1,1 +1,0 @@
-For this man was counted worthy of more glory than Moses, inasmuch as he who hath builded the house hath more honour than the house.

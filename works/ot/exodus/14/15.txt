@@ -1,1 +1,0 @@
-And the LORD said unto Moses, Wherefore criest thou unto me? speak unto the children of Israel, that they go forward:

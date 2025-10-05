@@ -1,1 +1,0 @@
-For a man indeed ought not to cover his head, forasmuch as he is the image and glory of God: but the woman is the glory of the man.

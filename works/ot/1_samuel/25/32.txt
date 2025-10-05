@@ -1,1 +1,0 @@
-And David said to Abigail, Blessed be the LORD God of Israel, which sent thee this day to meet me:

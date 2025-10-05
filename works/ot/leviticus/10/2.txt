@@ -1,1 +1,0 @@
-And there went out fire from the LORD, and devoured them, and they died before the LORD.

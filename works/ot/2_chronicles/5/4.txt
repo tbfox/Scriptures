@@ -1,1 +1,0 @@
-And all the elders of Israel came; and the Levites took up the ark.

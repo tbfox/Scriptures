@@ -1,1 +1,0 @@
-He putteth my feet in the stocks, he marketh all my paths.

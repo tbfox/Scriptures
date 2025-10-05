@@ -1,1 +1,0 @@
-They compassed me about; yea, they compassed me about: but in the name of the LORD I will destroy them.

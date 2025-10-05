@@ -1,1 +1,0 @@
-And he shall set the sheep on his right hand, but the goats on the left.

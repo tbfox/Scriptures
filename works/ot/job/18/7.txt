@@ -1,1 +1,0 @@
-The steps of his strength shall be straitened, and his own counsel shall cast him down.

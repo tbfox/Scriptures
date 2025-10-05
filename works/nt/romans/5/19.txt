@@ -1,1 +1,0 @@
-For as by one man's disobedience many were made sinners, so by the obedience of one shall many be made righteous.

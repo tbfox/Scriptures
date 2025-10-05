@@ -1,1 +1,0 @@
-The king shall joy in thy strength, O LORD; and in thy salvation how greatly shall he rejoice!

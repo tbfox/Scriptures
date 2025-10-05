@@ -1,1 +1,0 @@
-Because thou hast been my help, therefore in the shadow of thy wings will I rejoice.

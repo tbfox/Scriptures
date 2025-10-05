@@ -1,1 +1,0 @@
-As for the earth, out of it cometh bread: and under it is turned up as it were fire.

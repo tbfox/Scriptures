@@ -1,1 +1,0 @@
-And the covenant that I have made with you ye shall not forget; neither shall ye fear other gods.

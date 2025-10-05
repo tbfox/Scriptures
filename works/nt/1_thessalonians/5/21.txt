@@ -1,1 +1,0 @@
-Prove all things; hold fast that which is good.

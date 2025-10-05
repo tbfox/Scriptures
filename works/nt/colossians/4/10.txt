@@ -1,1 +1,0 @@
-Aristarchus my fellowprisoner saluteth you, and Marcus, sister's son to Barnabas, (touching whom ye received commandments: if he come unto you, receive him;)

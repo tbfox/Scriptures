@@ -1,1 +1,0 @@
-Marcus, Aristarchus, Demas, Lucas, my fellowlabourers.

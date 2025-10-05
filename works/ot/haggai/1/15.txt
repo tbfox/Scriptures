@@ -1,1 +1,0 @@
-In the four and twentieth day of the sixth month, in the second year of Darius the king.

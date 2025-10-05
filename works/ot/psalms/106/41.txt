@@ -1,1 +1,0 @@
-And he gave them into the hand of the heathen; and they that hated them ruled over them.

@@ -1,1 +1,0 @@
-And he said, So is the kingdom of God, as if a man should cast seed into the ground;

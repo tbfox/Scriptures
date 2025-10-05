@@ -1,1 +1,0 @@
-Bless ye the LORD, all ye his hosts; ye ministers of his, that do his pleasure.

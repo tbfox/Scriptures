@@ -1,1 +1,0 @@
-Thine own mouth condemneth thee, and not I: yea, thine own lips testify against thee.

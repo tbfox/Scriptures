@@ -1,1 +1,0 @@
-The field is the world; the good seed are the children of the kingdom; but the tares are the children of the wicked one;

@@ -1,1 +1,0 @@
-Ephraim, he hath mixed himself among the people; Ephraim is a cake not turned.

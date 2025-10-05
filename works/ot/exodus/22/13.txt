@@ -1,1 +1,0 @@
-If it be torn in pieces, then let him bring it for witness, and he shall not make good that which was torn.

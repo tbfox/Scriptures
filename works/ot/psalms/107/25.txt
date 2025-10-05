@@ -1,1 +1,0 @@
-For he commandeth, and raiseth the stormy wind, which lifteth up the waves thereof.

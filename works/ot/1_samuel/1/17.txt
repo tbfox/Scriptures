@@ -1,1 +1,0 @@
-Then Eli answered and said, Go in peace: and the God of Israel grant thee thy petition that thou hast asked of him.

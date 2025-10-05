@@ -1,1 +1,0 @@
-His remembrance shall perish from the earth, and he shall have no name in the street.

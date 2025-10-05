@@ -1,1 +1,0 @@
-There is no speech nor language, where their voice is not heard.

@@ -1,1 +1,0 @@
-Gavest thou the goodly wings unto the peacocks? or wings and feathers unto the ostrich?

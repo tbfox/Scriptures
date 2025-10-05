@@ -1,1 +1,0 @@
-And it was about the sixth hour, and there was a darkness over all the earth until the ninth hour.

@@ -1,1 +1,0 @@
-I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,

@@ -1,1 +1,0 @@
-Zaccur, Sherebiah, Shebaniah,

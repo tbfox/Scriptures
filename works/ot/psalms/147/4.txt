@@ -1,1 +1,0 @@
-He telleth the number of the stars; he calleth them all by their names.

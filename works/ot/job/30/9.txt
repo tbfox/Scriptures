@@ -1,1 +1,0 @@
-And now am I their song, yea, I am their byword.

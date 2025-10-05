@@ -1,1 +1,0 @@
-Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies;

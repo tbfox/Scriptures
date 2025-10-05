@@ -1,1 +1,0 @@
-He that getteth wisdom loveth his own soul: he that keepeth understanding shall find good.

@@ -1,1 +1,0 @@
-That was the true Light, which lighteth every man that cometh into the world.

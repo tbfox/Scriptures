@@ -1,1 +1,0 @@
-So the chief captain then let the young man depart, and charged him, See thou tell no man that thou hast shewed these things to me.

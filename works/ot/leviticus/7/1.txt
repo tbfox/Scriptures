@@ -1,1 +1,0 @@
-Likewise this is the law of the trespass offering: it is most holy.

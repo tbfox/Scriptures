@@ -1,1 +1,0 @@
-And they said among themselves, Who shall roll us away the stone from the door of the sepulchre?

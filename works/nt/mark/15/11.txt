@@ -1,1 +1,0 @@
-But the chief priests moved the people, that he should rather release Barabbas unto them.

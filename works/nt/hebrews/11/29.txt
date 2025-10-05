@@ -1,1 +1,0 @@
-By faith they passed through the Red sea as by dry land: which the Egyptians assaying to do were drowned.

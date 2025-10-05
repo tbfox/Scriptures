@@ -1,1 +1,0 @@
-And of Asher he said, Let Asher be blessed with children; let him be acceptable to his brethren, and let him dip his foot in oil.

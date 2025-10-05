@@ -1,1 +1,0 @@
-It is he that giveth salvation unto kings: who delivereth David his servant from the hurtful sword.

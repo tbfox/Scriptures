@@ -1,1 +1,0 @@
-Submitting yourselves one to another in the fear of God.

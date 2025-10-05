@@ -1,1 +1,0 @@
-He shall not cry, nor lift up, nor cause his voice to be heard in the street.

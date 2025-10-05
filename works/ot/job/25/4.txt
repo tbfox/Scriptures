@@ -1,1 +1,0 @@
-How then can man be justified with God? or how can he be clean that is born of a woman?

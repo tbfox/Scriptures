@@ -1,1 +1,0 @@
-And Jesus said, Are ye also yet without understanding?

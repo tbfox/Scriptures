@@ -1,1 +1,0 @@
-These see the works of the LORD, and his wonders in the deep.

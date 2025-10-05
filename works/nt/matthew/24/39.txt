@@ -1,1 +1,0 @@
-And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be.

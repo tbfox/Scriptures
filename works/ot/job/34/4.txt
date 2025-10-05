@@ -1,1 +1,0 @@
-Let us choose to us judgment: let us know among ourselves what is good.

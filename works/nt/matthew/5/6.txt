@@ -1,1 +1,0 @@
-Blessed are they which do hunger and thirst after righteousness: for they shall be filled.

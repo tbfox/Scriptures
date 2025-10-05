@@ -1,1 +1,0 @@
-Then Saul went up from following the Philistines: and the Philistines went to their own place.

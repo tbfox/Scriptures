@@ -1,1 +1,0 @@
-Thou hast dealt well with thy servant, O LORD, according unto thy word.

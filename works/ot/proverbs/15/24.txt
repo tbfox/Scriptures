@@ -1,1 +1,0 @@
-The way of life is above to the wise, that he may depart from hell beneath.

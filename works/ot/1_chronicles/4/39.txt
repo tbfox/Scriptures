@@ -1,1 +1,0 @@
-And they went to the entrance of Gedor, even unto the east side of the valley, to seek pasture for their flocks.

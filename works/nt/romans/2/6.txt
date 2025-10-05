@@ -1,1 +1,0 @@
-Who will render to every man according to his deeds:

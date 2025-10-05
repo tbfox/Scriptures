@@ -1,1 +1,0 @@
-He hath also kindled his wrath against me, and he counteth me unto him as one of his enemies.

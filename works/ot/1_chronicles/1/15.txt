@@ -1,1 +1,0 @@
-And the Hivite, and the Arkite, and the Sinite,

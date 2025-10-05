@@ -1,1 +1,0 @@
-Take thou no usury of him, or increase: but fear thy God; that thy brother may live with thee.

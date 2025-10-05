@@ -1,1 +1,0 @@
-And Abram journeyed, going on still toward the south.

@@ -1,1 +1,0 @@
-Whither the forerunner is for us entered, even Jesus, made an high priest for ever after the order of Melchisedec.

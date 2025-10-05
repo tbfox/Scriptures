@@ -1,1 +1,0 @@
-Yea, they spake against God; they said, Can God furnish a table in the wilderness?

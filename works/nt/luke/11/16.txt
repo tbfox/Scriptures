@@ -1,1 +1,0 @@
-And others, tempting him, sought of him a sign from heaven.

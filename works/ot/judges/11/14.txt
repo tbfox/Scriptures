@@ -1,1 +1,0 @@
-And Jephthah sent messengers again unto the king of the children of Ammon:

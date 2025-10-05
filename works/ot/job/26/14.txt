@@ -1,1 +1,0 @@
-Lo, these are parts of his ways: but how little a portion is heard of him? but the thunder of his power who can understand?

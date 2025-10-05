@@ -1,1 +1,0 @@
-Wherefore my sentence is, that we trouble not them, which from among the Gentiles are turned to God:

@@ -1,1 +1,0 @@
-And Job answered and said,

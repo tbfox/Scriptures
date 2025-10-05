@@ -1,1 +1,0 @@
-And they worshipped him, and returned to Jerusalem with great joy:

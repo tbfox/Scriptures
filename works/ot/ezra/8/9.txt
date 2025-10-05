@@ -1,1 +1,0 @@
-Of the sons of Joab; Obadiah the son of Jehiel, and with him two hundred and eighteen males.

@@ -1,1 +1,0 @@
-Then went Abimelech to Thebez, and encamped against Thebez, and took it.

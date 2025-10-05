@@ -1,1 +1,0 @@
-My lips shall not speak wickedness, nor my tongue utter deceit.

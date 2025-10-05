@@ -1,1 +1,0 @@
-All ye beasts of the field, come to devour, yea, all ye beasts in the forest.

@@ -1,1 +1,0 @@
-This is the first and great commandment.

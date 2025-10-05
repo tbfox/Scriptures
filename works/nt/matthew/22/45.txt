@@ -1,1 +1,0 @@
-If David then call him Lord, how is he his son?

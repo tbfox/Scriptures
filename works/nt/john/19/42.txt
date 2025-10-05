@@ -1,1 +1,0 @@
-There laid they Jesus therefore because of the Jews' preparation day; for the sepulchre was nigh at hand.

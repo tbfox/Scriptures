@@ -1,1 +1,0 @@
-He measured also the porch of the gate within, one reed.

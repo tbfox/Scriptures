@@ -1,1 +1,0 @@
-And the Pharisees went forth, and straightway took counsel with the Herodians against him, how they might destroy him.

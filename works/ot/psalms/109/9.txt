@@ -1,1 +1,0 @@
-Let his children be fatherless, and his wife a widow.

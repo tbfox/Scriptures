@@ -1,1 +1,0 @@
-They are of those that rebel against the light; they know not the ways thereof, nor abide in the paths thereof.

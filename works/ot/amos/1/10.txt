@@ -1,1 +1,0 @@
-But I will send a fire on the wall of Tyrus, which shall devour the palaces thereof.

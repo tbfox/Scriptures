@@ -1,1 +1,0 @@
-Turn from him, that he may rest, till he shall accomplish, as an hireling, his day.

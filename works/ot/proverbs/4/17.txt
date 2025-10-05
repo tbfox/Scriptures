@@ -1,1 +1,0 @@
-For they eat the bread of wickedness, and drink the wine of violence.

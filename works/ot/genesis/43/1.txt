@@ -1,1 +1,0 @@
-And the famine was sore in the land.

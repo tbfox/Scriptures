@@ -1,1 +1,0 @@
-The tabernacles of robbers prosper, and they that provoke God are secure; into whose hand God bringeth abundantly.

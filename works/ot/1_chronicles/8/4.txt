@@ -1,1 +1,0 @@
-And Abishua, and Naaman, and Ahoah,

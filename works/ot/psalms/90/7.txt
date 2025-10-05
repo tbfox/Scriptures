@@ -1,1 +1,0 @@
-For we are consumed by thine anger, and by thy wrath are we troubled.

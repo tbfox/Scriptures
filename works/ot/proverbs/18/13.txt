@@ -1,1 +1,0 @@
-He that answereth a matter before he heareth it, it is folly and shame unto him.

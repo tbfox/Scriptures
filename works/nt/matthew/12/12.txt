@@ -1,1 +1,0 @@
-How much then is a man better than a sheep? Wherefore it is lawful to do well on the sabbath days.

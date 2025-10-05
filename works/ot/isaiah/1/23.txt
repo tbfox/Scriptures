@@ -1,1 +1,0 @@
-Thy princes are rebellious, and companions of thieves: every one loveth gifts, and followeth after rewards: they judge not the fatherless, neither doth the cause of the widow come unto them.

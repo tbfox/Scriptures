@@ -1,1 +1,0 @@
-And the angel of the LORD appeared unto him, and said unto him, The LORD is with thee, thou mighty man of valour.

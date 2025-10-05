@@ -1,1 +1,0 @@
-He that is slow to wrath is of great understanding: but he that is hasty of spirit exalteth folly.

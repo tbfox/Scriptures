@@ -1,1 +1,0 @@
-And he spake kindly to him, and set his throne above the throne of the kings that were with him in Babylon;

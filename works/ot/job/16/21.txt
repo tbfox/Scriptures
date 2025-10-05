@@ -1,1 +1,0 @@
-O that one might plead for a man with God, as a man pleadeth for his neighbour!

@@ -1,1 +1,0 @@
-And one of them, when he saw that he was healed, turned back, and with a loud voice glorified God,

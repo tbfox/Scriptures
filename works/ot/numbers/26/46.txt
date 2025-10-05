@@ -1,1 +1,0 @@
-And the name of the daughter of Asher was Sarah.

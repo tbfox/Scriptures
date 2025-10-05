@@ -1,1 +1,0 @@
-And they spake unto him the word of the Lord, and to all that were in his house.

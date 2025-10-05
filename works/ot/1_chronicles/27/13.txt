@@ -1,1 +1,0 @@
-The tenth captain for the tenth month was Maharai the Netophathite, of the Zarhites: and in his course were twenty and four thousand.

@@ -1,1 +1,0 @@
-Know ye not what I and my fathers have done unto all the people of other lands? were the gods of the nations of those lands any ways able to deliver their lands out of mine hand?

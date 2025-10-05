@@ -1,1 +1,0 @@
-Thus Jehu destroyed Baal out of Israel.

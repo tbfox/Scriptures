@@ -1,1 +1,0 @@
-And it came to pass, that when Jesus had finished these parables, he departed thence.

@@ -1,1 +1,0 @@
-And have no fellowship with the unfruitful works of darkness, but rather reprove them.

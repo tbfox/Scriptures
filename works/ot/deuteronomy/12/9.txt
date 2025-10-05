@@ -1,1 +1,0 @@
-For ye are not as yet come to the rest and to the inheritance, which the LORD your God giveth you.

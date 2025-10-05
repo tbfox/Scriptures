@@ -1,1 +1,0 @@
-For if the dead rise not, then is not Christ raised:

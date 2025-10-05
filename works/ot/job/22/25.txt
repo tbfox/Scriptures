@@ -1,1 +1,0 @@
-Yea, the Almighty shall be thy defence, and thou shalt have plenty of silver.

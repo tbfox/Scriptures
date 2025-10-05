@@ -1,1 +1,0 @@
-Who hath taken this counsel against Tyre, the crowning city, whose merchants are princes, whose traffickers are the honourable of the earth?

@@ -1,1 +1,0 @@
-Bow down thine ear to me; deliver me speedily: be thou my strong rock, for an house of defence to save me.

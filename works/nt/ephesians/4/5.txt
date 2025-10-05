@@ -1,1 +1,0 @@
-One Lord, one faith, one baptism,

@@ -1,1 +1,0 @@
-By his knowledge the depths are broken up, and the clouds drop down the dew.

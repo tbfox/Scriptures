@@ -1,1 +1,0 @@
-And they were all amazed, and were in doubt, saying one to another, What meaneth this?

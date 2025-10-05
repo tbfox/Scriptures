@@ -1,1 +1,0 @@
-Now Jehoshaphat had riches and honour in abundance, and joined affinity with Ahab.

@@ -1,1 +1,0 @@
-I receive not honour from men.

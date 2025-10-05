@@ -1,1 +1,0 @@
-And all the city was gathered together at the door.

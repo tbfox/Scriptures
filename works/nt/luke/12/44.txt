@@ -1,1 +1,0 @@
-Of a truth I say unto you, that he will make him ruler over all that he hath.

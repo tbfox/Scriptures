@@ -1,1 +1,0 @@
-Whereof I was made a minister, according to the gift of the grace of God given unto me by the effectual working of his power.

@@ -1,1 +1,0 @@
-Whosoever lieth with a beast shall surely be put to death.

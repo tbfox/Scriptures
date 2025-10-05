@@ -1,1 +1,0 @@
-To him which divided the Red sea into parts: for his mercy endureth for ever:

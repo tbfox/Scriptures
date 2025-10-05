@@ -1,1 +1,0 @@
-Which wise men have told from their fathers, and have not hid it:

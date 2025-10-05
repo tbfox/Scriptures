@@ -1,1 +1,0 @@
-And, behold, there talked with him two men, which were Moses and Elias:

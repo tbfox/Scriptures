@@ -1,1 +1,0 @@
-And Balak sent yet again princes, more, and more honourable than they.

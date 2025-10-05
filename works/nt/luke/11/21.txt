@@ -1,1 +1,0 @@
-When a strong man armed keepeth his palace, his goods are in peace:

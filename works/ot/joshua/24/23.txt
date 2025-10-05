@@ -1,1 +1,0 @@
-Now therefore put away, said he, the strange gods which are among you, and incline your heart unto the LORD God of Israel.

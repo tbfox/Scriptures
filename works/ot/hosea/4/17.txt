@@ -1,1 +1,0 @@
-Ephraim is joined to idols: let him alone.

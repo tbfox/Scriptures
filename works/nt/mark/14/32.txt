@@ -1,1 +1,0 @@
-And they came to a place which was named Gethsemane: and he saith to his disciples, Sit ye here, while I shall pray.

@@ -1,1 +1,0 @@
-And they also, if they abide not still in unbelief, shall be grafted in: for God is able to graft them in again.

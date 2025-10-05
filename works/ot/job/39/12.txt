@@ -1,1 +1,0 @@
-Wilt thou believe him, that he will bring home thy seed, and gather it into thy barn?

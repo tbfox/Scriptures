@@ -1,1 +1,0 @@
-Then when Jesus came, he found that he had lain in the grave four days already.

@@ -1,1 +1,0 @@
-Lod, and Ono, the valley of craftsmen.

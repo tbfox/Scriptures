@@ -1,1 +1,0 @@
-And the tongs thereof, and the snuffdishes thereof, shall be of pure gold.

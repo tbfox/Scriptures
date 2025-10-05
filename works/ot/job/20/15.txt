@@ -1,1 +1,0 @@
-He hath swallowed down riches, and he shall vomit them up again: God shall cast them out of his belly.

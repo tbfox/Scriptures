@@ -1,1 +1,0 @@
-He holdeth back the face of his throne, and spreadeth his cloud upon it.

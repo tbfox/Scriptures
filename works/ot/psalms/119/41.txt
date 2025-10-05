@@ -1,1 +1,0 @@
-Let thy mercies come also unto me, O LORD, even thy salvation, according to thy word.

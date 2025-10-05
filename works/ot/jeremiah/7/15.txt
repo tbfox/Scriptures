@@ -1,1 +1,0 @@
-And I will cast you out of my sight, as I have cast out all your brethren, even the whole seed of Ephraim.

@@ -1,1 +1,0 @@
-And Saul also went home to Gibeah; and there went with him a band of men, whose hearts God had touched.

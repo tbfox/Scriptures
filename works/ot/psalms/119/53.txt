@@ -1,1 +1,0 @@
-Horror hath taken hold upon me because of the wicked that forsake thy law.

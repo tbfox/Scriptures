@@ -1,1 +1,0 @@
-To make known to the sons of men his mighty acts, and the glorious majesty of his kingdom.

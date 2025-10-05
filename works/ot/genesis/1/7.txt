@@ -1,1 +1,0 @@
-And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.

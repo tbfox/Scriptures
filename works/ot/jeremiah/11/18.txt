@@ -1,1 +1,0 @@
-And the LORD hath given me knowledge of it, and I know it: then thou shewedst me their doings.

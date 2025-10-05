@@ -1,1 +1,0 @@
-And there was a certain man of Zorah, of the family of the Danites, whose name was Manoah; and his wife was barren, and bare not.

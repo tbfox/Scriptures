@@ -1,1 +1,0 @@
-Praise ye the LORD. Praise the LORD, O my soul.

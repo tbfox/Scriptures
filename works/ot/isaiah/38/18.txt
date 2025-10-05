@@ -1,1 +1,0 @@
-For the grave cannot praise thee, death can not celebrate thee: they that go down into the pit cannot hope for thy truth.

@@ -1,1 +1,0 @@
-Likewise also the good works of some are manifest beforehand; and they that are otherwise cannot be hid.

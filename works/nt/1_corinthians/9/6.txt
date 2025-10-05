@@ -1,1 +1,0 @@
-Or I only and Barnabas, have not we power to forbear working?

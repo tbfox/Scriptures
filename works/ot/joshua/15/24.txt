@@ -1,1 +1,0 @@
-Ziph, and Telem, and Bealoth,

@@ -1,1 +1,0 @@
-And Gideon had threescore and ten sons of his body begotten: for he had many wives.

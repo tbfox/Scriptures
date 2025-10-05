@@ -1,1 +1,0 @@
-Peter said unto him, Lord, why cannot I follow thee now? I will lay down my life for thy sake.

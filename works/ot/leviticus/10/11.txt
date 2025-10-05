@@ -1,1 +1,0 @@
-And that ye may teach the children of Israel all the statutes which the LORD hath spoken unto them by the hand of Moses.

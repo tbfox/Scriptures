@@ -1,1 +1,0 @@
-I counsel thee to keep the king's commandment, and that in regard of the oath of God.

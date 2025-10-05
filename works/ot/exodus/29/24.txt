@@ -1,1 +1,0 @@
-And thou shalt put all in the hands of Aaron, and in the hands of his sons; and shalt wave them for a wave offering before the LORD.

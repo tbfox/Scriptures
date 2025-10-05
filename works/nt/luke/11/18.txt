@@ -1,1 +1,0 @@
-If Satan also be divided against himself, how shall his kingdom stand? because ye say that I cast out devils through Beelzebub.

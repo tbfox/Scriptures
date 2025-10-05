@@ -1,1 +1,0 @@
-Withhold not good from them to whom it is due, when it is in the power of thine hand to do it.

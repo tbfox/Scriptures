@@ -1,1 +1,0 @@
-He sent Moses his servant; and Aaron whom he had chosen.

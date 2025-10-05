@@ -1,1 +1,0 @@
-And he said, A certain man had two sons:

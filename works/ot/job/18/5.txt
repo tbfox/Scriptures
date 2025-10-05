@@ -1,1 +1,0 @@
-Yea, the light of the wicked shall be put out, and the spark of his fire shall not shine.

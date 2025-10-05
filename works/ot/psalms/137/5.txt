@@ -1,1 +1,0 @@
-If I forget thee, O Jerusalem, let my right hand forget her cunning.

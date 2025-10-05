@@ -1,1 +1,0 @@
-He stretcheth out the north over the empty place, and hangeth the earth upon nothing.

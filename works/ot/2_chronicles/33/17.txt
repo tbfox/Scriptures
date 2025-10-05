@@ -1,1 +1,0 @@
-Nevertheless the people did sacrifice still in the high places, yet unto the LORD their God only.

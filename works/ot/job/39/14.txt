@@ -1,1 +1,0 @@
-Which leaveth her eggs in the earth, and warmeth them in dust,

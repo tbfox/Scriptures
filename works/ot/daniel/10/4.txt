@@ -1,1 +1,0 @@
-And in the four and twentieth day of the first month, as I was by the side of the great river, which is Hiddekel;

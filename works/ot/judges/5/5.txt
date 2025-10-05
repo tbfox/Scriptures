@@ -1,1 +1,0 @@
-The mountains melted from before the LORD, even that Sinai from before the LORD God of Israel.

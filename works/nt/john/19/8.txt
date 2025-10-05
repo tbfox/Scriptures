@@ -1,1 +1,0 @@
-When Pilate therefore heard that saying, he was the more afraid;

@@ -1,1 +1,0 @@
-Thinkest thou this to be right, that thou saidst, My righteousness is more than God's?

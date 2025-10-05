@@ -1,1 +1,0 @@
-And, behold, there are last which shall be first, and there are first which shall be last.

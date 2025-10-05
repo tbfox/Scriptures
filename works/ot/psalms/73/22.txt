@@ -1,1 +1,0 @@
-So foolish was I, and ignorant: I was as a beast before thee.

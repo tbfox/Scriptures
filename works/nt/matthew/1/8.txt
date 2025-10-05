@@ -1,1 +1,0 @@
-And Asa begat Josaphat; and Josaphat begat Joram; and Joram begat Ozias;

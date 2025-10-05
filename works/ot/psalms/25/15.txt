@@ -1,1 +1,0 @@
-Mine eyes are ever toward the LORD; for he shall pluck my feet out of the net.

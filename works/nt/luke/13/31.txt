@@ -1,1 +1,0 @@
-The same day there came certain of the Pharisees, saying unto him, Get thee out, and depart hence: for Herod will kill thee.

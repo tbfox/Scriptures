@@ -1,1 +1,0 @@
-And began to salute him, Hail, King of the Jews!

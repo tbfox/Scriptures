@@ -1,1 +1,0 @@
-But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead;

@@ -1,1 +1,0 @@
-Give ear to my words, O LORD, consider my meditation.

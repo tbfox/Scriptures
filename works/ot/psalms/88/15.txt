@@ -1,1 +1,0 @@
-I am afflicted and ready to die from my youth up: while I suffer thy terrors I am distracted.

@@ -1,1 +1,0 @@
-Thus God hath taken away the cattle of your father, and given them to me.

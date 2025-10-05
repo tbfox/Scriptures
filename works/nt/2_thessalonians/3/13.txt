@@ -1,1 +1,0 @@
-But ye, brethren, be not weary in well doing.

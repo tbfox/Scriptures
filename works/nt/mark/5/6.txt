@@ -1,1 +1,0 @@
-But when he saw Jesus afar off, he ran and worshipped him,

@@ -1,1 +1,0 @@
-Great men are not always wise: neither do the aged understand judgment.

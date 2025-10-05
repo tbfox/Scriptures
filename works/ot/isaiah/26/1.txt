@@ -1,1 +1,0 @@
-In that day shall this song be sung in the land of Judah; We have a strong city; salvation will God appoint for walls and bulwarks.

@@ -1,1 +1,0 @@
-Hast thou marked the old way which wicked men have trodden?

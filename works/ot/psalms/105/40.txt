@@ -1,1 +1,0 @@
-The people asked, and he brought quails, and satisfied them with the bread of heaven.

@@ -1,1 +1,0 @@
-Then came the word of the LORD unto Jeremiah in Tahpanhes, saying,

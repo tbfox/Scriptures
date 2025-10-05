@@ -1,1 +1,0 @@
-Will God hear his cry when trouble cometh upon him?

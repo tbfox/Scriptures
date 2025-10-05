@@ -1,1 +1,0 @@
-And Jacob awaked out of his sleep, and he said, Surely the LORD is in this place; and I knew it not.

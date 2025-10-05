@@ -1,1 +1,0 @@
-And I said unto you, Ye are come unto the mountain of the Amorites, which the LORD our God doth give unto us.

@@ -1,1 +1,0 @@
-Then Peter said unto him, Lord, speakest thou this parable unto us, or even to all?

@@ -1,1 +1,0 @@
-Behold, I know your thoughts, and the devices which ye wrongfully imagine against me.

@@ -1,1 +1,0 @@
-All the earth shall worship thee, and shall sing unto thee; they shall sing to thy name. Selah.

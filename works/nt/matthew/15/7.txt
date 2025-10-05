@@ -1,1 +1,0 @@
-Ye hypocrites, well did Esaias prophesy of you, saying,

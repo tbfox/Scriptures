@@ -1,1 +1,0 @@
-The stones of it are the place of sapphires: and it hath dust of gold.

@@ -1,1 +1,0 @@
-They are joined one to another, they stick together, that they cannot be sundered.

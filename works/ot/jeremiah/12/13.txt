@@ -1,1 +1,0 @@
-They have sown wheat, but shall reap thorns: they have put themselves to pain, but shall not profit: and they shall be ashamed of your revenues because of the fierce anger of the LORD.

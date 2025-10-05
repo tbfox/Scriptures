@@ -1,1 +1,0 @@
-Thy silver and thy gold is mine; thy wives also and thy children, even the goodliest, are mine.

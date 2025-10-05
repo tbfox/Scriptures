@@ -1,1 +1,0 @@
-They came round about me daily like water; they compassed me about together.

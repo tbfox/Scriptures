@@ -1,1 +1,0 @@
-And the right shoulder shall ye give unto the priest for an heave offering of the sacrifices of your peace offerings.

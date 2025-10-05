@@ -1,1 +1,0 @@
-How fair is thy love, my sister, my spouse! how much better is thy love than wine! and the smell of thine ointments than all spices!

@@ -1,1 +1,0 @@
-Then hear thou from the heavens their prayer and their supplication, and maintain their cause.

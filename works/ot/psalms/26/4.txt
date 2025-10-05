@@ -1,1 +1,0 @@
-I have not sat with vain persons, neither will I go in with dissemblers.

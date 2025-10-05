@@ -1,1 +1,0 @@
-If I sin, then thou markest me, and thou wilt not acquit me from mine iniquity.

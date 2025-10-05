@@ -1,1 +1,0 @@
-Hear, O Israel: The LORD our God is one LORD:

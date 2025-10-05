@@ -1,1 +1,0 @@
-He took counsel with his princes and his mighty men to stop the waters of the fountains which were without the city: and they did help him.

@@ -1,1 +1,0 @@
-For the king had taken counsel, and his princes, and all the congregation in Jerusalem, to keep the passover in the second month.

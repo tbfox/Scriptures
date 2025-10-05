@@ -1,1 +1,0 @@
-Which I have reserved against the time of trouble, against the day of battle and war?

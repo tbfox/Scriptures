@@ -1,1 +1,0 @@
-Is my strength the strength of stones? or is my flesh of brass?

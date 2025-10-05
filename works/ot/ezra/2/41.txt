@@ -1,1 +1,0 @@
-The singers: the children of Asaph, an hundred twenty and eight.

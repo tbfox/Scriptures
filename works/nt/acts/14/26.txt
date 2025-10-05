@@ -1,1 +1,0 @@
-And thence sailed to Antioch, from whence they had been recommended to the grace of God for the work which they fulfilled.

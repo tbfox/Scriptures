@@ -1,1 +1,0 @@
-And he brought the present unto Eglon king of Moab: and Eglon was a very fat man.
