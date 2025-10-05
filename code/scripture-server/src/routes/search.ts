@@ -2,7 +2,11 @@ import { getSearchResults } from "../services/searchService";
 import { jsonResponse } from "../utils/jsonResponse";
 import { parsePath } from "../utils/parsePath";
 
-export async function search(req: Request, reverse: boolean) {
+type SearchOpts = {
+    reverse: boolean
+}
+
+export async function search(req: Request, {reverse}: SearchOpts) {
     const { searchParams } = parsePath(req);
     const contentIncludes = searchParams.get("match");
     const pageNumber = parseInt(searchParams.get("page") || "0");

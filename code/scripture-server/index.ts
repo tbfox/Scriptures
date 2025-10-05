@@ -24,8 +24,9 @@ Bun.serve({
     routes: {
         "/": () => new Response(help),
         "/health": health,
-        "/search": (req) => search(req, false),
-        "/r-search": (req) => search(req, true),
+        "/search": (req) => search(req, { reverse: false }),
+        "/r-search": (req) => search(req, { reverse: true }),
+        "/tg": (req) => new Response('Not implemented'),
     },
     fetch,
 });
