@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { type OnCommandSubmit } from "./CommandLine";
 import { useAppList } from "./ListContext";
-import type { ScriptureReference } from "./scriptureQuery";
+import { useApp } from "ink";
 
 const BASE_ROUTE = Bun.env.BASE_PATH || "http://localhost:3000";
 
@@ -40,9 +40,16 @@ type SearchResults = {
 
 export const useCommands = () => {
     const [listCount, setListCount] = useState<number>(0);
+    const { exit } = useApp();
     const { addList, rmList, addItem, selectList } = useAppList();
 
     const onRunCommand = (cmd: string) => {
+        defCmd(cmd, "q", () => {
+            exit();
+        });
+        defCmd(cmd, "exit", () => {
+            exit();
+        });
         defCmd(cmd, "list add _", (arg) => {
             addList(arg);
         });

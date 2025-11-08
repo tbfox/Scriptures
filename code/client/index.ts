@@ -1,3 +1,15 @@
-export function add(a: number, b: number) {
-    return a + b
+import { health } from "./src/health";
+
+export class ScriptureServerClient {
+    private base: string
+    constructor(base: string) {
+        this.base = base;
+    }
+    search() {
+        
+    }
+    reSearch() {}
+    ref() {}
+    async health() { return await health("bob") }
 }
+

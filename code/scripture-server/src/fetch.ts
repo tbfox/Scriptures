@@ -14,14 +14,38 @@ import { getErrorStatusCode } from "./utils/errors";
 import { jsonResponse } from "./utils/jsonResponse";
 import { parsePath } from "./utils/parsePath";
 
+const expandVerses = async (
+    path: string[],
+    count: number
+) => {
+    const arr = Array.from({length: count }, (_, i) => i + 1)
+    return Promise.all(arr.map(async (n) => {
+        const npath = [...path]
+        const newVerse = parseInt(npath[npath.length - 1]) + n
+        // const { isValid, reference, error } = resolveReference(path);
+        // if (isValid) {
+        //     try {
+        //         const [source] = validatePath(path);
+        //         const verse = await getVerseByReference(reference, source);
+        //     } catch(e: unknown) {
+        //
+        //     }
+        // }
+    }))
+    
+}
+
 export async function fetch(req: Request) {
-    const { path, pathname } = parsePath(req);
+    const { path, pathname, searchParams } = parsePath(req);
 
     const { isValid, reference, error } = resolveReference(path);
 
     if (isValid) {
         try {
             const [source] = validatePath(path);
+            const count = parseInt(searchParams.get("count") || "1")
+            console.log(await expandVerses(path, count))
+            
             const verse = await getVerseByReference(reference, source);
             return jsonResponse({
                 ...verse,
